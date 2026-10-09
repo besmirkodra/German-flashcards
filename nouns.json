@@ -1020,6 +1020,12 @@
     "gender": "das"
   },
   {
+    "word": "der Bikini",
+    "translation": "bikini",
+    "example": "Ich möchte einen neuen Bikini kaufen.",
+    "gender": "der"
+  },
+  {
     "word": "die Biologie (Sg.)",
     "translation": "biology",
     "example": "Meine Freundin studiert Biologie.",
