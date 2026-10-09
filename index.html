@@ -12,8 +12,12 @@
         }
         body { font-family: 'Segoe UI', sans-serif; background: var(--bg); color: white; display: flex; flex-direction: column; align-items: center; justify-content: center; min-height: 100vh; margin: 0; }
         
-        .selector { margin-bottom: 20px; }
-        select { padding: 10px; border-radius: 8px; border: none; background: #333; color: white; font-size: 1rem; cursor: pointer; }
+        .controls { display: flex; flex-direction: column; align-items: center; gap: 12px; margin-bottom: 20px; }
+        .search-box { display: flex; gap: 8px; }
+        
+        select, input { padding: 10px; border-radius: 8px; border: none; background: #333; color: white; font-size: 1rem; }
+        input { width: 200px; outline: none; }
+        input::placeholder { color: #aaa; }
         
         .card { width: 350px; height: 250px; background: var(--card-bg); color: var(--text); border-radius: 20px; display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; cursor: pointer; padding: 25px; box-shadow: 0 10px 30px rgba(0,0,0,0.5); transition: 0.2s; position: relative; }
         .card:active { transform: scale(0.97); }
@@ -29,17 +33,24 @@
         #example { font-style: italic; color: #666; margin-top: 10px; line-height: 1.4; }
         .translation { display: none; margin-top: 20px; font-weight: bold; font-size: 1.4rem; color: #c0392b; }
         
-        .btn { margin-top: 30px; padding: 15px 40px; background: #e94560; border: none; color: white; border-radius: 50px; font-weight: bold; cursor: pointer; box-shadow: 0 5px 15px rgba(233,69,96,0.3); transition: 0.3s; }
+        .btn { margin-top: 20px; padding: 12px 30px; background: #e94560; border: none; color: white; border-radius: 50px; font-weight: bold; cursor: pointer; box-shadow: 0 5px 15px rgba(233,69,96,0.3); transition: 0.3s; }
         .btn:hover { background: #ff4d6d; }
+        .btn-search { background: #3498db; box-shadow: 0 5px 15px rgba(52,152,219,0.3); padding: 10px 20px; border-radius: 8px; }
+        .btn-search:hover { background: #2980b9; }
     </style>
 </head>
 <body>
-    <div class="selector">
+    <div class="controls">
         <select id="mode" onchange="loadDatabase()">
             <option value="nouns.json">Nouns (Nomen)</option>
             <option value="verbs.json">Verbs (Verben)</option>
             <option value="others.json">Others (Andere)</option>
         </select>
+        
+        <div class="search-box">
+            <input type="text" id="searchInput" placeholder="Search a word..." onkeydown="if(event.key==='Enter') searchWord()">
+            <button class="btn btn-search" onclick="searchWord()">Search</button>
+        </div>
     </div>
     
     <div class="card" id="card" onclick="reveal()">
@@ -68,10 +79,10 @@
             if (!cards.length) return;
             const data = cards[currentIndex];
             document.getElementById('word').innerText = data.word;
-            document.getElementById('example').innerText = data.example;
-            document.getElementById('translation').innerText = data.translation;
+            document.getElementById('example').innerText = data.example || '';
+            document.getElementById('translation').innerText = data.translation || '';
             document.getElementById('translation').style.display = 'none';
-            document.getElementById('card').className = 'card ' + data.gender;
+            document.getElementById('card').className = 'card ' + (data.gender || '');
         }
 
         function reveal() { 
@@ -79,8 +90,46 @@
         }
 
         function nextCard() { 
+            if (!cards.length) return;
             currentIndex = (currentIndex + 1) % cards.length; 
             showCard(); 
+        }
+
+        async function searchWord() {
+            const query = document.getElementById('searchInput').value.trim().toLowerCase();
+            if (!query) return;
+
+            const files = ['nouns.json', 'verbs.json', 'others.json'];
+            let foundCard = null;
+
+            for (const file of files) {
+                try {
+                    const res = await fetch(file);
+                    const data = await res.json();
+                    
+                    foundCard = data.find(item => 
+                        item.word.toLowerCase().includes(query) || 
+                        (item.translation && item.translation.toLowerCase().includes(query))
+                    );
+
+                    if (foundCard) break;
+                } catch (e) {
+                    console.error('Error fetching file:', file, e);
+                }
+            }
+
+            if (foundCard) {
+                cards = [foundCard];
+                currentIndex = 0;
+                showCard();
+            } else {
+                document.getElementById('word').innerText = "Sorry";
+                document.getElementById('example').innerText = "This word is not in our database.";
+                document.getElementById('translation').innerText = "";
+                document.getElementById('translation').style.display = 'none';
+                document.getElementById('card').className = 'card other';
+                cards = [];
+            }
         }
         
         loadDatabase();
