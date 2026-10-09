@@ -1272,6 +1272,12 @@
     "gender": "der"
   },
   {
+    "word": "der Bürgermeister",
+    "translation": "mayor",
+    "example": "Der Bürgermeister hat eine wichtige Rolle in der Stadtverwaltung.",
+    "gender": "der"
+  },
+  {
     "word": "das Büro",
     "translation": "office",
     "example": "Unser Büro bleibt samstags geschlossen.",
@@ -1323,6 +1329,12 @@
     "word": "der Chef",
     "translation": "boss",
     "example": "Das kann ich nicht allein entscheiden, da muss ich erst die Chefin fragen.",
+    "gender": "der"
+  },
+    {
+    "word": "der Clown",
+    "translation": "clown",
+    "example": "Der Clown macht alle Kinder zum Lachen.",
     "gender": "der"
   },
   {
@@ -2244,6 +2256,12 @@
     "gender": "die"
   },
   {
+    "word": "die Feuerwehrfest",
+    "translation": "fire department festival",
+    "example": "Am Feuerwehrfest gibt es viele Speisen und Aktivitäten.",
+    "gender": "die"
+  },
+  {
     "word": "das Fieber",
     "translation": "fever",
     "example": "Plötzlich habe ich hohes Fieber bekommen.",
@@ -2531,6 +2549,12 @@
     "example": "Hast du einen Führerschein?",
     "gender": "der"
   },
+    {
+    "word": "die Führerscheinprüfung",
+    "translation": "driver's license exam",
+    "example": "Die Führerscheinprüfung findet am Freitag statt.",
+    "gender": "der"
+  },
   {
     "word": "die Führung",
     "translation": "guide, lead, management",
@@ -2554,6 +2578,12 @@
     "translation": "soccer",
     "example": "Spielt ihr gerne Fußball?",
     "gender": "der"
+  },
+    {
+    "word": "das Fußballspiel",
+    "translation": "soccer match",
+    "example": "Spielt ihr gerne ein Fußballspiel?",
+    "gender": "das"
   },
   {
     "word": "der Fußgänger",
@@ -3131,6 +3161,12 @@
     "example": "Mir tut der Hals weh.",
     "gender": "der"
   },
+    {
+    "word": "die Halskette",
+    "translation": "necklace",
+    "example": "Sie trägt eine schöne Halskette.",
+    "gender": "die"
+  },
   {
     "word": "der Halt",
     "translation": "stop",
@@ -3165,6 +3201,12 @@
     "word": "der Handel (Sg.)",
     "translation": "trade",
     "example": "Der Handel mit Computern ist ein gutes Geschäft.",
+    "gender": "der"
+  },
+  {
+    "word": "der Handschuh",
+    "translation": "glove",
+    "example": "Ich muss neue Handschuhe kaufen.",
     "gender": "der"
   },
   {
@@ -3352,6 +3394,12 @@
     "translation": "wedding",
     "example": "Claudia und Peter wollen ihre Hochzeit groß feiern.",
     "gender": "die"
+  },
+    {
+    "word": "das Hochzeitspaar",
+    "translation": "wedding couple",
+    "example": "Das Hochzeitspaar sieht sehr glücklich aus.",
+    "gender": "das"
   },
   {
     "word": "der Hof",
@@ -7595,6 +7643,12 @@
     "example": "Das Essen steht schon auf dem Tisch.",
     "gender": "der"
   },
+   {
+    "word": "die Tischlerin",
+    "translation": "carpenter (female)",
+    "example": "Die Tischlerin hat einen schönen Tisch gebaut.",
+    "gender": "die"
+  },
   {
     "word": "der Titel",
     "translation": "title",
@@ -7623,6 +7677,12 @@
     "word": "die Tomate",
     "translation": "tomato",
     "example": "Kauf bitte noch Tomaten auf dem Markt.",
+    "gender": "die"
+  },
+    {
+    "word": "die Tombola",
+    "translation": "lottery",
+    "example": "Wir haben an der Tombola teilgenommen.",
     "gender": "die"
   },
   {
@@ -8427,6 +8487,12 @@
     "word": "der Wein",
     "translation": "wine",
     "example": "In diesem Restaurant gibt es sehr guten Wein.",
+    "gender": "der"
+  },
+    {
+    "word": "der Weihnachtsbaum",
+    "translation": "Christmas tree",
+    "example": "Der Weihnachtsbaum steht im Wohnzimmer.",
     "gender": "der"
   },
   {
