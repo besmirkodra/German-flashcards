@@ -1,0 +1,4322 @@
+[
+  {
+    "word": "ab",
+    "translation": "from",
+    "example": "Die Fahrt kostet ab Hamburg 200 Euro.",
+    "gender": "other"
+  },
+  {
+    "word": "aber",
+    "translation": "but",
+    "example": "Heute kann ich nicht, aber morgen ganz bestimmt.",
+    "gender": "other"
+  },
+  {
+    "word": "abhängig",
+    "translation": "dependent",
+    "example": "Gregor ist finanziell von seinen Eltern abhängig.",
+    "gender": "other"
+  },
+  {
+    "word": "absolut",
+    "translation": "absolute",
+    "example": "Was Sie da sagen, ist absolut falsch.",
+    "gender": "other"
+  },
+  {
+    "word": "abwärts",
+    "translation": "downwards",
+    "example": "Von dort führt der Weg abwärts ins Tal.",
+    "gender": "other"
+  },
+  {
+    "word": "abwesend",
+    "translation": "absent",
+    "example": "Herr Huber ist bis zum 25. April abwesend.",
+    "gender": "other"
+  },
+  {
+    "word": "Achtung!",
+    "translation": "Attention!",
+    "example": "Achtung, hier endet die Straße!",
+    "gender": "other"
+  },
+  {
+    "word": "ähnlich",
+    "translation": "similar",
+    "example": "Emilia ist in einer ganz ähnlichen Situation wie ich.",
+    "gender": "other"
+  },
+  {
+    "word": "aktiv",
+    "translation": "active",
+    "example": "Ich bin sehr aktiv und mache viel Sport.",
+    "gender": "other"
+  },
+  {
+    "word": "aktuell",
+    "translation": "current, topical",
+    "example": "Umweltschutz ist ein aktuelles Thema.",
+    "gender": "other"
+  },
+  {
+    "word": "all-",
+    "translation": "all",
+    "example": "Sind alle Kinder da?",
+    "gender": "other"
+  },
+  {
+    "word": "allein",
+    "translation": "alone",
+    "example": "Ich gehe nicht gern allein spazieren.",
+    "gender": "other"
+  },
+  {
+    "word": "aller-",
+    "translation": "most (beautiful etc.)",
+    "example": "Am allerbesten ist es, wenn du dich ins Bett legst und lange schläfst. Dann wirst du schnell wieder gesund.",
+    "gender": "other"
+  },
+  {
+    "word": "allerdings",
+    "translation": "however, certainly",
+    "example": "Wir können uns morgen treffen, allerdings habe ich erst ab Mittag Zeit.",
+    "gender": "other"
+  },
+  {
+    "word": "allgemein",
+    "translation": "general",
+    "example": "Wir haben nur über allgemeine Probleme gesprochen.",
+    "gender": "other"
+  },
+  {
+    "word": "alltäglich",
+    "translation": "everyday",
+    "example": "Das alltägliche Leben ist manchmal langweilig.",
+    "gender": "other"
+  },
+  {
+    "word": "als",
+    "translation": "when, than",
+    "example": "Als mein Mann kam, war die Party schon zu Ende.",
+    "gender": "other"
+  },
+  {
+    "word": "als ob",
+    "translation": "as if",
+    "example": "Er tut so, als ob wir nie darüber gesprochen hätten.",
+    "gender": "other"
+  },
+  {
+    "word": "also",
+    "translation": "so, therefore",
+    "example": "Also, die Sache ist so: …",
+    "gender": "other"
+  },
+  {
+    "word": "alt",
+    "translation": "old",
+    "example": "Wie alt sind Sie?",
+    "gender": "other"
+  },
+  {
+    "word": "alternativ",
+    "translation": "alternative",
+    "example": "Wir brauchen alternative Energien.",
+    "gender": "other"
+  },
+  {
+    "word": "an",
+    "translation": "on, at",
+    "example": "Am Anfang war alles sehr schwierig.",
+    "gender": "other"
+  },
+  {
+    "word": "ander-",
+    "translation": "other",
+    "example": "Die anderen sind schon nach Hause gegangen.",
+    "gender": "other"
+  },
+  {
+    "word": "andererseits",
+    "translation": "on the other hand",
+    "example": "Tarek möchte zwar studieren, aber andererseits möchte er auch gleich Geld verdienen.",
+    "gender": "other"
+  },
+  {
+    "word": "anders",
+    "translation": "different(ly)",
+    "example": "Anders geht das leider nicht.",
+    "gender": "other"
+  },
+  {
+    "word": "anfangs",
+    "translation": "initially, at first",
+    "example": "Anfangs ging alles gut.",
+    "gender": "other"
+  },
+  {
+    "word": "angenehm",
+    "translation": "pleasant",
+    "example": "Wir wünschen Ihnen eine angenehme Reise.",
+    "gender": "other"
+  },
+  {
+    "word": "ängstlich",
+    "translation": "anxious, fearful",
+    "example": "Meine Mutter ist etwas ängstlich. Sie geht nicht gern allein auf die Straße.",
+    "gender": "other"
+  },
+  {
+    "word": "anstrengend",
+    "translation": "exhausting, strenuous",
+    "example": "Ich finde diese Arbeit sehr anstrengend.",
+    "gender": "other"
+  },
+  {
+    "word": "anwesend",
+    "translation": "present",
+    "example": "Bei dem Treffen waren alle Mitglieder anwesend.",
+    "gender": "other"
+  },
+  {
+    "word": "arbeitslos",
+    "translation": "unemployed",
+    "example": "Wie lange sind Sie schon arbeitslos?",
+    "gender": "other"
+  },
+  {
+    "word": "ärgerlich",
+    "translation": "annoying",
+    "example": "Der Zug hat schon wieder Verspätung. Das ist wirklich ärgerlich.",
+    "gender": "other"
+  },
+  {
+    "word": "arm",
+    "translation": "poor",
+    "example": "Die Regierung hilft armen Nachbarländern.",
+    "gender": "other"
+  },
+  {
+    "word": "auch",
+    "translation": "also",
+    "example": "Ich muss leider gehen. – Ich auch.",
+    "gender": "other"
+  },
+  {
+    "word": "auf",
+    "translation": "on, at, in, awake, open",
+    "example": "Deine Brille liegt auf dem Schreibtisch.",
+    "gender": "other"
+  },
+  {
+    "word": "aufmerksam",
+    "translation": "attentive",
+    "example": "Die Schülerin hörte aufmerksam zu.",
+    "gender": "other"
+  },
+  {
+    "word": "aufwärts",
+    "translation": "upwards",
+    "example": "Sie müssen gute Schuhe anziehen. Der Weg geht immer aufwärts.",
+    "gender": "other"
+  },
+  {
+    "word": "aus",
+    "translation": "from, made of, out of, off",
+    "example": "Frau Müller geht jeden Morgen um 8 Uhr aus dem Haus.",
+    "gender": "other"
+  },
+  {
+    "word": "ausgebildet",
+    "translation": "trained, educated",
+    "example": "Für diesen Beruf müssen Sie gut ausgebildet sein.",
+    "gender": "other"
+  },
+  {
+    "word": "auseinander",
+    "translation": "apart",
+    "example": "Wir wohnen nicht weit auseinander.",
+    "gender": "other"
+  },
+  {
+    "word": "ausgezeichnet",
+    "translation": "excellent",
+    "example": "Essen und Unterkunft waren ausgezeichnet.",
+    "gender": "other"
+  },
+  {
+    "word": "ausländisch",
+    "translation": "foreign",
+    "example": "Die ausländischen Studenten müssen zuerst einen Deutschkurs besuchen.",
+    "gender": "other"
+  },
+  {
+    "word": "ausreichend",
+    "translation": "sufficient",
+    "example": "Das Geld ist für die Reise ausreichend.",
+    "gender": "other"
+  },
+  {
+    "word": "ausschließlich",
+    "translation": "exclusively",
+    "example": "Tut mir leid. Wir haben ausschließlich Nichtraucherzimmer.",
+    "gender": "other"
+  },
+  {
+    "word": "außen",
+    "translation": "outside",
+    "example": "Wir haben das Schloss nur von außen gesehen.",
+    "gender": "other"
+  },
+  {
+    "word": "außerhalb",
+    "translation": "outside (of)",
+    "example": "Wir wohnen außerhalb von Berlin.",
+    "gender": "other"
+  },
+  {
+    "word": "äußerlich",
+    "translation": "external",
+    "example": "Das Medikament dürfen Sie nur äußerlich anwenden.",
+    "gender": "other"
+  },
+  {
+    "word": "außer",
+    "translation": "except",
+    "example": "Außer Lisa hat sich niemand um die Stelle beworben.",
+    "gender": "other"
+  },
+  {
+    "word": "außerdem",
+    "translation": "also, besides, in addition",
+    "example": "Möchten Sie außerdem noch etwas?",
+    "gender": "other"
+  },
+  {
+    "word": "automatisch",
+    "translation": "automatic",
+    "example": "Die Tür schließt automatisch.",
+    "gender": "other"
+  },
+  {
+    "word": "bald",
+    "translation": "soon",
+    "example": "Besuchen Sie uns doch bald mal.",
+    "gender": "other"
+  },
+  {
+    "word": "bar",
+    "translation": "cash",
+    "example": "Zahlen Sie bar?",
+    "gender": "other"
+  },
+  {
+    "word": "befreit",
+    "translation": "exempt, freed",
+    "example": "Studenten und Studentinnen sind von den Rundfunk-Gebühren befreit.",
+    "gender": "other"
+  },
+  {
+    "word": "befriedigend",
+    "translation": "satisfactory",
+    "example": "Das Ergebnis ist befriedigend.",
+    "gender": "other"
+  },
+  {
+    "word": "begeistert",
+    "translation": "impressed, thrilled",
+    "example": "Es war ein tolles Konzert. Ich bin begeistert.",
+    "gender": "other"
+  },
+  {
+    "word": "begrenzt",
+    "translation": "limited",
+    "example": "Die Teilnehmerzahl ist auf 12 begrenzt.",
+    "gender": "other"
+  },
+  {
+    "word": "bei",
+    "translation": "near, at (someone’s place), while",
+    "example": "Potsdam liegt bei Berlin.",
+    "gender": "other"
+  },
+  {
+    "word": "beid-",
+    "translation": "both",
+    "example": "Beide waren mit meinem Vorschlag einverstanden.",
+    "gender": "other"
+  },
+  {
+    "word": "beinahe",
+    "translation": "almost",
+    "example": "Ich habe heute beinahe den Bus verpasst.",
+    "gender": "other"
+  },
+  {
+    "word": "bekannt",
+    "translation": "known",
+    "example": "Ein Onkel von mir ist ein bekannter Politiker.",
+    "gender": "other"
+  },
+  {
+    "word": "beliebt",
+    "translation": "popular",
+    "example": "Dieses Spiel ist bei Jugendlichen sehr beliebt.",
+    "gender": "other"
+  },
+  {
+    "word": "bequem",
+    "translation": "comfortable (for things, places)",
+    "example": "Meine Kinder ziehen am liebsten bequeme Sachen an.",
+    "gender": "other"
+  },
+  {
+    "word": "bereit",
+    "translation": "ready",
+    "example": "Ich bin jederzeit bereit, dir zu helfen.",
+    "gender": "other"
+  },
+  {
+    "word": "bereits",
+    "translation": "already",
+    "example": "Bitte melde dich bei Frau Kaiser. Sie hat bereits dreimal angerufen.",
+    "gender": "other"
+  },
+  {
+    "word": "beruflich",
+    "translation": "professional",
+    "example": "Was machen Sie beruflich?",
+    "gender": "other"
+  },
+  {
+    "word": "berufstätig",
+    "translation": "employed",
+    "example": "Sind Sie berufstätig?",
+    "gender": "other"
+  },
+  {
+    "word": "berühmt",
+    "translation": "famous",
+    "example": "Michael Schumacher ist ein berühmter Rennfahrer.",
+    "gender": "other"
+  },
+  {
+    "word": "Bescheid sagen",
+    "translation": "to let someone know",
+    "example": "Ich erkundige mich nach den Terminen und sage Ihnen dann Bescheid.",
+    "gender": "other"
+  },
+  {
+    "word": "Bescheid geben",
+    "translation": "to let someone know",
+    "example": "Kannst du mir bis morgen Bescheid geben?",
+    "gender": "other"
+  },
+  {
+    "word": "besonder-",
+    "translation": "special",
+    "example": "Meine Eltern wollten uns mit dieser Reise eine ganz besondere Freude machen.",
+    "gender": "other"
+  },
+  {
+    "word": "besonders",
+    "translation": "particularly, especially",
+    "example": "Ich habe heute ein besonders günstiges Angebot gesehen.",
+    "gender": "other"
+  },
+  {
+    "word": "bestimmt",
+    "translation": "certain, particular, definite",
+    "example": "Das hat Nancy bestimmt nicht so gemeint.",
+    "gender": "other"
+  },
+  {
+    "word": "betrunken",
+    "translation": "drunk",
+    "example": "Wenn Sie betrunken Auto fahren, verlieren Sie Ihren Führerschein.",
+    "gender": "other"
+  },
+  {
+    "word": "bevor",
+    "translation": "before",
+    "example": "Bevor wir gehen, möchte ich noch etwas essen.",
+    "gender": "other"
+  },
+  {
+    "word": "billig",
+    "translation": "cheap",
+    "example": "Dieses Buch ist nicht ganz billig.",
+    "gender": "other"
+  },
+  {
+    "word": "Bio-",
+    "translation": "organic",
+    "example": "Ich kaufe nur noch Biogemüse.",
+    "gender": "other"
+  },
+  {
+    "word": "bio(logisch)",
+    "translation": "biological, organic",
+    "example": "Biologische Lebensmittel gibt es jetzt auch im Supermarkt.",
+    "gender": "other"
+  },
+  {
+    "word": "bis",
+    "translation": "up to, until",
+    "example": "Die Linie 8 fährt nur bis zum Hauptbahnhof.",
+    "gender": "other"
+  },
+  {
+    "word": "bisher",
+    "translation": "so far",
+    "example": "Bisher ist alles in Ordnung.",
+    "gender": "other"
+  },
+  {
+    "word": "ein bisschen",
+    "translation": "a little",
+    "example": "Wenn Sie ein bisschen warten, können wir zusammen gehen.",
+    "gender": "other"
+  },
+  {
+    "word": "bitte",
+    "translation": "please",
+    "example": "Eine Tasse Kaffee, bitte!",
+    "gender": "other"
+  },
+  {
+    "word": "bitter",
+    "translation": "bitter",
+    "example": "Hast du Zucker? Der Tee ist sehr bitter.",
+    "gender": "other"
+  },
+  {
+    "word": "blass",
+    "translation": "pale",
+    "example": "Du siehst ganz blass aus. Bist du krank?",
+    "gender": "other"
+  },
+  {
+    "word": "blind",
+    "translation": "blind",
+    "example": "Er ist von Geburt an blind.",
+    "gender": "other"
+  },
+  {
+    "word": "blond",
+    "translation": "blond",
+    "example": "Mein Sohn ist blond.",
+    "gender": "other"
+  },
+  {
+    "word": "bloß",
+    "translation": "mere, just, only",
+    "example": "Ich möchte nichts kaufen. Ich möchte mich bloß umsehen.",
+    "gender": "other"
+  },
+  {
+    "word": "böse",
+    "translation": "evil, bad",
+    "example": "Ich habe das Buch leider vergessen. Hoffentlich bist du mir nicht böse.",
+    "gender": "other"
+  },
+  {
+    "word": "breit",
+    "translation": "wide",
+    "example": "Der Teppich ist zwei Meter lang und einen Meter breit.",
+    "gender": "other"
+  },
+  {
+    "word": "bunt",
+    "translation": "colorful",
+    "example": "Das bunte Kleid gefällt mir gut.",
+    "gender": "other"
+  },
+  {
+    "word": "chic/schick",
+    "translation": "fancy",
+    "example": "Ich finde dein Kleid sehr chick.",
+    "gender": "other"
+  },
+  {
+    "word": "da",
+    "translation": "there, because",
+    "example": "Da drüben ist ein Getränkeautomat.",
+    "gender": "other"
+  },
+  {
+    "word": "dabei",
+    "translation": "there(by)",
+    "example": "Was hast du dir dabei gedacht?",
+    "gender": "other"
+  },
+  {
+    "word": "dafür",
+    "translation": "for this",
+    "example": "Meine Schwester interessiert sich für Politik. Ich interessiere mich nicht dafür.",
+    "gender": "other"
+  },
+  {
+    "word": "dagegen",
+    "translation": "against",
+    "example": "Vorsicht, da ist ein Baum! Fahr nicht dagegen!",
+    "gender": "other"
+  },
+  {
+    "word": "daher",
+    "translation": "therefore, from there",
+    "example": "Ich bin erkältet, daher kann ich heute nicht kommen.",
+    "gender": "other"
+  },
+  {
+    "word": "dahin",
+    "translation": "(to) there, (until) then",
+    "example": "Der Zug kommt in 30 Minuten. Bis dahin können wir einen Kaffee trinken.",
+    "gender": "other"
+  },
+  {
+    "word": "damals",
+    "translation": "then, at the time",
+    "example": "Mit 15 wollte ich gerne Klavier spielen lernen. Aber damals hatte ich kein Geld dafür.",
+    "gender": "other"
+  },
+  {
+    "word": "damit",
+    "translation": "so that, with it",
+    "example": "Mach schnell, damit wir nicht zu spät kommen.",
+    "gender": "other"
+  },
+  {
+    "word": "danach",
+    "translation": "afterwards, then",
+    "example": "Zuerst gehen wir einkaufen, danach grillen wir auf unserem Balkon.",
+    "gender": "other"
+  },
+  {
+    "word": "daneben",
+    "translation": "next to",
+    "example": "Du weißt doch, wo die Post ist. Gleich daneben ist die Bank.",
+    "gender": "other"
+  },
+  {
+    "word": "dankbar",
+    "translation": "grateful",
+    "example": "Ich bin Ihnen sehr dankbar für Ihre Hilfe.",
+    "gender": "other"
+  },
+  {
+    "word": "danke",
+    "translation": "thanks",
+    "example": "Soll ich Ihnen helfen? Nein, danke, nicht nötig.",
+    "gender": "other"
+  },
+  {
+    "word": "dann",
+    "translation": "then",
+    "example": "Ich muss noch schnell zur Post, dann komme ich.",
+    "gender": "other"
+  },
+  {
+    "word": "dass",
+    "translation": "that",
+    "example": "Rico hat mir gesagt, dass er auch zur Party kommt.",
+    "gender": "other"
+  },
+  {
+    "word": "dauernd",
+    "translation": "permanent, constant",
+    "example": "Das dauernde Klingeln des Telefons stört mich.",
+    "gender": "other"
+  },
+  {
+    "word": "denn",
+    "translation": "because",
+    "example": "Ich lerne jetzt auch Portugiesisch, denn ich möchte nach Südamerika reisen.",
+    "gender": "other"
+  },
+  {
+    "word": "derselbe, dieselbe, dasselbe",
+    "translation": "the same",
+    "example": "Mein Freund und ich gehen in dieselbe Schule.",
+    "gender": "other"
+  },
+  {
+    "word": "deshalb",
+    "translation": "therefore",
+    "example": "Ich war krank. Deshalb war ich nicht im Büro.",
+    "gender": "other"
+  },
+  {
+    "word": "deswegen",
+    "translation": "therefore",
+    "example": "Ich habe falsch geparkt. Deswegen habe ich einen Strafzettel bekommen.",
+    "gender": "other"
+  },
+  {
+    "word": "deutlich",
+    "translation": "clear",
+    "example": "Schreiben Sie bitte deutlich!",
+    "gender": "other"
+  },
+  {
+    "word": "dicht",
+    "translation": "tight, close, dense",
+    "example": "Unsere Fenster sind nicht dicht. Es zieht immer.",
+    "gender": "other"
+  },
+  {
+    "word": "dick",
+    "translation": "thick, fat",
+    "example": "Ich bin zu dick. Ich muss weniger essen.",
+    "gender": "other"
+  },
+  {
+    "word": "dies-",
+    "translation": "this",
+    "example": "Wohin fährst du dieses Jahr in Urlaub?",
+    "gender": "other"
+  },
+  {
+    "word": "diesmal",
+    "translation": "this time",
+    "example": "Die letzten Spiele haben wir verloren. Diesmal haben wir zum Glück gewonnen.",
+    "gender": "other"
+  },
+  {
+    "word": "digital",
+    "translation": "digital",
+    "example": "Ich habe eine Digitaluhr gekauft. Die geht genauer als meine alte Uhr.",
+    "gender": "other"
+  },
+  {
+    "word": "direkt",
+    "translation": "direct",
+    "example": "Wir liefern Ihnen die Waren direkt ins Haus.",
+    "gender": "other"
+  },
+  {
+    "word": "doch",
+    "translation": "yes, but, after all",
+    "example": "Isst du kein Fleisch? – Doch, manchmal schon.",
+    "gender": "other"
+  },
+  {
+    "word": "doppelt",
+    "translation": "duplicate, double",
+    "example": "Das Buch habe ich doppelt.",
+    "gender": "other"
+  },
+  {
+    "word": "Doppel-",
+    "translation": "double",
+    "example": "Wir hätten gern ein Doppelbett.",
+    "gender": "other"
+  },
+  {
+    "word": "dort",
+    "translation": "there",
+    "example": "Dort drüben ist der Bahnhof.",
+    "gender": "other"
+  },
+  {
+    "word": "dorthin",
+    "translation": "there(in)",
+    "example": "Deine Tasche kannst du dorthin stellen.",
+    "gender": "other"
+  },
+  {
+    "word": "draußen",
+    "translation": "outside",
+    "example": "Es ist kalt draußen.",
+    "gender": "other"
+  },
+  {
+    "word": "dringend",
+    "translation": "urgent",
+    "example": "Ich muss dich dringend sprechen.",
+    "gender": "other"
+  },
+  {
+    "word": "drin, drinnen",
+    "translation": "inside, within",
+    "example": "Wo wollt ihr sitzen? Draußen oder drinnen?",
+    "gender": "other"
+  },
+  {
+    "word": "drüben",
+    "translation": "over there",
+    "example": "Dort drüben ist die Haltestelle.",
+    "gender": "other"
+  },
+  {
+    "word": "dumm",
+    "translation": "stupid",
+    "example": "Entschuldigung, das war dumm von mir.",
+    "gender": "other"
+  },
+  {
+    "word": "dunkel",
+    "translation": "dark",
+    "example": "Um sechs Uhr ist es schon dunkel.",
+    "gender": "other"
+  },
+  {
+    "word": "dünn",
+    "translation": "thin",
+    "example": "Mein Sohn ist sehr dünn. Er isst zu wenig.",
+    "gender": "other"
+  },
+  {
+    "word": "durch",
+    "translation": "through",
+    "example": "Wir sind mit dem Fahrrad durch den Wald gefahren.",
+    "gender": "other"
+  },
+  {
+    "word": "durcheinander",
+    "translation": "mixed up",
+    "example": "Alle meine Sachen sind durcheinander. Ich finde nichts mehr.",
+    "gender": "other"
+  },
+  {
+    "word": "durchschnittlich",
+    "translation": "average",
+    "example": "Die Preise sind im letzten Jahr um durchschnittlich 6 % gestiegen.",
+    "gender": "other"
+  },
+  {
+    "word": "durstig",
+    "translation": "thirsty",
+    "example": "Du bist sicher durstig. Was möchtest du trinken?",
+    "gender": "other"
+  },
+  {
+    "word": "eben",
+    "translation": "just, even",
+    "example": "Ich bin eben erst angekommen.",
+    "gender": "other"
+  },
+  {
+    "word": "ebenfalls",
+    "translation": "likewise",
+    "example": "Ich wünsche Ihnen ein schönes Wochenende. – Danke, ebenfalls.",
+    "gender": "other"
+  },
+  {
+    "word": "ebenso",
+    "translation": "likewise, also",
+    "example": "Schöne Feiertage. – Danke, ebenso.",
+    "gender": "other"
+  },
+  {
+    "word": "echt",
+    "translation": "real",
+    "example": "Ich träume von einem echten Perserteppich.",
+    "gender": "other"
+  },
+  {
+    "word": "eckig",
+    "translation": "angular, square",
+    "example": "Ich möchte einen eckigen Tisch, keinen runden.",
+    "gender": "other"
+  },
+  {
+    "word": "egal",
+    "translation": "no matter, irrelevant",
+    "example": "Es ist mir ganz egal, was die Leute denken.",
+    "gender": "other"
+  },
+  {
+    "word": "eher",
+    "translation": "rather",
+    "example": "Ich stehe meist eher auf als mein Mann.",
+    "gender": "other"
+  },
+  {
+    "word": "ehrlich",
+    "translation": "honest",
+    "example": "Sie ist ein ehrlicher Mensch.",
+    "gender": "other"
+  },
+  {
+    "word": "eigen-",
+    "translation": "own",
+    "example": "Fast jedes Kind hat ein eigenes Zimmer.",
+    "gender": "other"
+  },
+  {
+    "word": "eigentlich",
+    "translation": "actually",
+    "example": "Wir wollten eigentlich Freunde besuchen, aber dann sind wir doch zu Hause geblieben.",
+    "gender": "other"
+  },
+  {
+    "word": "eilig",
+    "translation": "urgent",
+    "example": "Hast du es eilig?",
+    "gender": "other"
+  },
+  {
+    "word": "ein-",
+    "translation": "a, one",
+    "example": "Ich nehme ein Bier. Willst du auch eins?",
+    "gender": "other"
+  },
+  {
+    "word": "eindeutig",
+    "translation": "clear",
+    "example": "Das Ergebnis ist eindeutig. Du hast gewonnen.",
+    "gender": "other"
+  },
+  {
+    "word": "einerseits",
+    "translation": "on the one hand",
+    "example": "Einerseits möchte ich die Reise gern machen, andererseits ist sie zu teuer.",
+    "gender": "other"
+  },
+  {
+    "word": "einfach",
+    "translation": "simple, simply",
+    "example": "Hin und zurück? – Nein, bitte nur einfach.",
+    "gender": "other"
+  },
+  {
+    "word": "einheitlich",
+    "translation": "uniform",
+    "example": "Die Schüler dieser Schule tragen einheitliche Kleidung.",
+    "gender": "other"
+  },
+  {
+    "word": "einig-",
+    "translation": "some, several",
+    "example": "In diesem Bericht sind einige Fehler.",
+    "gender": "other"
+  },
+  {
+    "word": "einmal",
+    "translation": "once",
+    "example": "Ich habe diese Oper leider nur einmal gesehen.",
+    "gender": "other"
+  },
+  {
+    "word": "einsam",
+    "translation": "lonely",
+    "example": "Ohne meine Familie fühle ich mich ein bisschen einsam.",
+    "gender": "other"
+  },
+  {
+    "word": "einschließlich",
+    "translation": "including, inclusive",
+    "example": "Alles zusammen kostet 200 Euro einschließlich Fahrtkosten.",
+    "gender": "other"
+  },
+  {
+    "word": "einverstanden",
+    "translation": "agreeable, agreed",
+    "example": "Als Termin schlage ich den 3. Mai vor. – Gut, einverstanden!",
+    "gender": "other"
+  },
+  {
+    "word": "einzeln",
+    "translation": "individual, separate",
+    "example": "Dieses Mineralwasser gibt es nur als Sechserpack, nicht einzeln.",
+    "gender": "other"
+  },
+  {
+    "word": "Einzel-",
+    "translation": "single",
+    "example": "z. B. Einzelkind, Einzelzimmer",
+    "gender": "other"
+  },
+  {
+    "word": "einzig-",
+    "translation": "the only, sole, single",
+    "example": "Wir waren die einzigen Gäste.",
+    "gender": "other"
+  },
+  {
+    "word": "elegant",
+    "translation": "elegant",
+    "example": "Ich finde dein Kleid sehr elegant.",
+    "gender": "other"
+  },
+  {
+    "word": "elektrisch",
+    "translation": "electric",
+    "example": "Wir kochen nicht mit Gas, sondern elektrisch.",
+    "gender": "other"
+  },
+  {
+    "word": "Elektro-",
+    "translation": "electrical",
+    "example": "z.B. Elektrogeschäft, Elektroingenieur, Elektroherd",
+    "gender": "other"
+  },
+  {
+    "word": "elektronisch",
+    "translation": "electronic",
+    "example": "Wir sollten die Daten elektronisch bearbeiten, sonst dauert es zu lange.",
+    "gender": "other"
+  },
+  {
+    "word": "endgültig",
+    "translation": "final, definite, ultimate",
+    "example": "Damit ist das Problem endgültig gelöst.",
+    "gender": "other"
+  },
+  {
+    "word": "endlich",
+    "translation": "finally",
+    "example": "Endlich haben wir eine schöne Wohnung gefunden.",
+    "gender": "other"
+  },
+  {
+    "word": "eng",
+    "translation": "tight, close",
+    "example": "Die Jacke ist mir zu eng.",
+    "gender": "other"
+  },
+  {
+    "word": "entlang",
+    "translation": "along",
+    "example": "Gehen Sie diese Straße entlang. Dann kommen Sie direkt zum Bahnhof.",
+    "gender": "other"
+  },
+  {
+    "word": "unentschieden",
+    "translation": "undecided, tied",
+    "example": "Es steht unentschieden zwischen den beiden Mannschaften.",
+    "gender": "other"
+  },
+  {
+    "word": "entschlossen",
+    "translation": "determined",
+    "example": "Ich bin fest entschlossen, diese Ausbildung fertigzumachen.",
+    "gender": "other"
+  },
+  {
+    "word": "entspannend",
+    "translation": "relaxing",
+    "example": "Der Urlaub war sehr entspannend.",
+    "gender": "other"
+  },
+  {
+    "word": "entweder ... oder",
+    "translation": "either ... or",
+    "example": "Nur einer kann gewinnen, entweder du oder ich.",
+    "gender": "other"
+  },
+  {
+    "word": "erfolgreich",
+    "translation": "successful",
+    "example": "Mein Großvater war ein erfolgreicher Geschäftsmann.",
+    "gender": "other"
+  },
+  {
+    "word": "erforderlich",
+    "translation": "required",
+    "example": "Hier ist die Liste der erforderlichen Zutaten für den Kuchen.",
+    "gender": "other"
+  },
+  {
+    "word": "erkältet",
+    "translation": "to have a cold",
+    "example": "Ich bin stark erkältet.",
+    "gender": "other"
+  },
+  {
+    "word": "ernst",
+    "translation": "serious",
+    "example": "Der starke Verkehr ist ein ernstes Problem.",
+    "gender": "other"
+  },
+  {
+    "word": "ernsthaft",
+    "translation": "serious",
+    "example": "Ich überlege ernsthaft, ob ich in eine andere Stadt ziehen soll.",
+    "gender": "other"
+  },
+  {
+    "word": "erschöpft",
+    "translation": "exhausted",
+    "example": "Nach dem Sport bin ich immer sehr erschöpft.",
+    "gender": "other"
+  },
+  {
+    "word": "erst",
+    "translation": "only, at first",
+    "example": "Sofia ist erst 20 Jahre alt.",
+    "gender": "other"
+  },
+  {
+    "word": "erst-",
+    "translation": "first",
+    "example": "Ich war zum ersten Mal allein im Urlaub.",
+    "gender": "other"
+  },
+  {
+    "word": "erwachsen",
+    "translation": "grown-up, adult",
+    "example": "Die Kinder sind schon fast erwachsen.",
+    "gender": "other"
+  },
+  {
+    "word": "es",
+    "translation": "it",
+    "example": "Mein Auto muss in die Werkstatt. Es ist kaputt.",
+    "gender": "other"
+  },
+  {
+    "word": "etwa",
+    "translation": "about, approximately",
+    "example": "Von hier sind es etwa zwanzig Kilometer.",
+    "gender": "other"
+  },
+  {
+    "word": "etwas",
+    "translation": "something",
+    "example": "Ich muss dir etwas erzählen.",
+    "gender": "other"
+  },
+  {
+    "word": "eventuell",
+    "translation": "possible, possibly",
+    "example": "Ich komme eventuell etwas später.",
+    "gender": "other"
+  },
+  {
+    "word": "ewig",
+    "translation": "eternal, forever",
+    "example": "Ich warte schon ewig auf mein neues Auto!",
+    "gender": "other"
+  },
+  {
+    "word": "extra",
+    "translation": "extra",
+    "example": "Die Getränke kosten extra.",
+    "gender": "other"
+  },
+  {
+    "word": "extrem",
+    "translation": "extreme",
+    "example": "Die Prüfung war extrem schwer.",
+    "gender": "other"
+  },
+  {
+    "word": "fair",
+    "translation": "fair",
+    "example": "Ich finde, unsere Mannschaft hat sehr fair gespielt.",
+    "gender": "other"
+  },
+  {
+    "word": "fällig",
+    "translation": "due",
+    "example": "Die Rechnung ist Énde des Monats fällig.",
+    "gender": "other"
+  },
+  {
+    "word": "falls",
+    "translation": "if, in case",
+    "example": "Falls es regnet, machen wir kein Picknick.",
+    "gender": "other"
+  },
+  {
+    "word": "falsch",
+    "translation": "wrong",
+    "example": "Tut mir leid, ich habe die falsche Nummer gewählt.",
+    "gender": "other"
+  },
+  {
+    "word": "fantastisch",
+    "translation": "fantastic",
+    "example": "Die Aussicht ist fantastisch!",
+    "gender": "other"
+  },
+  {
+    "word": "farbig",
+    "translation": "colored",
+    "example": "Ich brauche kein weißes, sondern farbiges Papier.",
+    "gender": "other"
+  },
+  {
+    "word": "fast",
+    "translation": "almost",
+    "example": "Das Konzent ist fast zu Ende.",
+    "gender": "other"
+  },
+  {
+    "word": "faul",
+    "translation": "lazy, rotten",
+    "example": "Mein Sohn war am Anfang in der Schule sehr faul. Heute lernt er sehr fleißig.",
+    "gender": "other"
+  },
+  {
+    "word": "Ferien-",
+    "translation": "vacation, holiday",
+    "example": "Ich suche eine günstige Ferienwohnung.",
+    "gender": "other"
+  },
+  {
+    "word": "fertig",
+    "translation": "finished, done, ready",
+    "example": "Das Essen ist gleich fertig.",
+    "gender": "other"
+  },
+  {
+    "word": "fest",
+    "translation": "firm, fixed",
+    "example": "Mein Kollege glaubt fest daran, dass er die neue Stelle bekommt.",
+    "gender": "other"
+  },
+  {
+    "word": "fett",
+    "translation": "fat(ty)",
+    "example": "Die Wurst ist mir zu fett.",
+    "gender": "other"
+  },
+  {
+    "word": "feucht",
+    "translation": "moist, damp",
+    "example": "Die Wäsche ist noch feucht.",
+    "gender": "other"
+  },
+  {
+    "word": "finanziell",
+    "translation": "financial",
+    "example": "Finanziell geht es meinem Neffen jetzt besser.",
+    "gender": "other"
+  },
+  {
+    "word": "flach",
+    "translation": "flat, shallow",
+    "example": "Für die Arbeit brauche ich flache Schuhe.",
+    "gender": "other"
+  },
+  {
+    "word": "fleißig",
+    "translation": "diligent, hard-working",
+    "example": "Pamela ist wirklich fleißig. Sie macht immer ihre Hausaufgaben.",
+    "gender": "other"
+  },
+  {
+    "word": "flexibel",
+    "translation": "flexible",
+    "example": "Meine Arbeitszeit ist flexibel.",
+    "gender": "other"
+  },
+  {
+    "word": "fließend",
+    "translation": "fluent, running (for liquids)",
+    "example": "Mein Kollege spricht fließend Deutsch.",
+    "gender": "other"
+  },
+  {
+    "word": "folgend",
+    "translation": "following",
+    "example": "Mehr Informationen auf den folgenden Seiten.",
+    "gender": "other"
+  },
+  {
+    "word": "frech",
+    "translation": "cheeky",
+    "example": "Du darfst in der Schule nicht so frech sein.",
+    "gender": "other"
+  },
+  {
+    "word": "frei",
+    "translation": "free",
+    "example": "Ist dieser Platz noch frei?",
+    "gender": "other"
+  },
+  {
+    "word": "im Freien",
+    "translation": "outdoors",
+    "example": "Wir wollen heute im Freien übernachten.",
+    "gender": "other"
+  },
+  {
+    "word": "freiwillig",
+    "translation": "voluntary",
+    "example": "Manchmal bleibe ich freiwillig länger im Büro.",
+    "gender": "other"
+  },
+  {
+    "word": "fremd",
+    "translation": "foreign",
+    "example": "Ich reise gern in fremde Länder.",
+    "gender": "other"
+  },
+  {
+    "word": "freundlich",
+    "translation": "friendly",
+    "example": "Er hat uns sehr freundlich begrüßt.",
+    "gender": "other"
+  },
+  {
+    "word": "frisch",
+    "translation": "fresh",
+    "example": "Das Brot ist noch ganz frisch.",
+    "gender": "other"
+  },
+  {
+    "word": "froh",
+    "translation": "glad, happy",
+    "example": "Ich bin froh, dass alles so gut geklappt hat.",
+    "gender": "other"
+  },
+  {
+    "word": "fröhlich",
+    "translation": "cheerful, happy",
+    "example": "Die Musik klingt fröhlich.",
+    "gender": "other"
+  },
+  {
+    "word": "früh",
+    "translation": "early",
+    "example": "Hier ist schon am frühen Morgen starker Verkehr.",
+    "gender": "other"
+  },
+  {
+    "word": "früher/früher-",
+    "translation": "earlier",
+    "example": "Früher habe ich in Berlin gewohnt.",
+    "gender": "other"
+  },
+  {
+    "word": "für",
+    "translation": "for",
+    "example": "Ist Post für mich da?",
+    "gender": "other"
+  },
+  {
+    "word": "furchtbar",
+    "translation": "terrible",
+    "example": "Dennis hat furchtbare Schmerzen.",
+    "gender": "other"
+  },
+  {
+    "word": "ganz",
+    "translation": "whole, entire(ly)",
+    "example": "Ich habe den ganzen Tag noch nichts gegessen.",
+    "gender": "other"
+  },
+  {
+    "word": "gar",
+    "translation": "cooked, entirely, at all",
+    "example": "Die Kartoffeln sind noch nicht gar.",
+    "gender": "other"
+  },
+  {
+    "word": "geehrt",
+    "translation": "honored, dear",
+    "example": "Sehr geehrte Damen und Herren, …",
+    "gender": "other"
+  },
+  {
+    "word": "geeignet",
+    "translation": "suitable, suited",
+    "example": "Dieses Spiel ist nicht für Kinder unter drei Jahren geeignet.",
+    "gender": "other"
+  },
+  {
+    "word": "gefährlich",
+    "translation": "dangerous",
+    "example": "Achtung, hier ist eine gefährliche Kurve!",
+    "gender": "other"
+  },
+  {
+    "word": "gegen",
+    "translation": "against, towards",
+    "example": "Ich bin gegen einen Baum gefahren.",
+    "gender": "other"
+  },
+  {
+    "word": "gegenüber",
+    "translation": "opposite (of)",
+    "example": "Das Geschäft liegt direkt gegenüber der Post.",
+    "gender": "other"
+  },
+  {
+    "word": "geheim",
+    "translation": "secret",
+    "example": "Das ist geheim. Du darfst es niemandem sagen.",
+    "gender": "other"
+  },
+  {
+    "word": "gemeinsam",
+    "translation": "together",
+    "example": "Du musst die Wohnung renovieren? Ich helfe dir. Wir können das gemeinsam machen.",
+    "gender": "other"
+  },
+  {
+    "word": "gemütlich",
+    "translation": "cozy, comfortable",
+    "example": "Wir haben eine sehr gemütliche Wohnung.",
+    "gender": "other"
+  },
+  {
+    "word": "genau",
+    "translation": "exactly",
+    "example": "Haben Sie die genaue Zeit?",
+    "gender": "other"
+  },
+  {
+    "word": "genauso",
+    "translation": "just as/like",
+    "example": "Katarina sieht genauso aus wie ihre Schwester.",
+    "gender": "other"
+  },
+  {
+    "word": "genug",
+    "translation": "enough",
+    "example": "Es ist noch genug Suppe da.",
+    "gender": "other"
+  },
+  {
+    "word": "gerade",
+    "translation": "straight, now",
+    "example": "Das Bild hängt nicht gerade.",
+    "gender": "other"
+  },
+  {
+    "word": "geradeaus",
+    "translation": "straight ahead",
+    "example": "Fahren Sie geradeaus bis zur nächsten Kreuzung.",
+    "gender": "other"
+  },
+  {
+    "word": "gerecht",
+    "translation": "fair",
+    "example": "Lass uns den Kuchen gerecht verteilen.",
+    "gender": "other"
+  },
+  {
+    "word": "gering",
+    "translation": "low",
+    "example": "Unsere Mannschaft hatte nur eine geringe Chance.",
+    "gender": "other"
+  },
+  {
+    "word": "gern/gerne",
+    "translation": "gladly, rather",
+    "example": "Ich helfe Ihnen gern.",
+    "gender": "other"
+  },
+  {
+    "word": "gesamt-/Gesamt-",
+    "translation": "total, whole",
+    "example": "Ich habe meine gesamten Bücher verschenkt.",
+    "gender": "other"
+  },
+  {
+    "word": "geschieden",
+    "translation": "divorced",
+    "example": "Ich bin seit drei Jahren geschieden.",
+    "gender": "other"
+  },
+  {
+    "word": "gespannt",
+    "translation": "curious, tense",
+    "example": "Ich bin gespannt, wer bei diesem Spiel gewinnt.",
+    "gender": "other"
+  },
+  {
+    "word": "gestern",
+    "translation": "yesterday",
+    "example": "Ich bin erst gestern zurückgekommen.",
+    "gender": "other"
+  },
+  {
+    "word": "gesund",
+    "translation": "healthy",
+    "example": "Ich hatte Grippe. Jetzt bin ich wieder gesund.",
+    "gender": "other"
+  },
+  {
+    "word": "gewohnt",
+    "translation": "used to, usual",
+    "example": "Ich bin gewohnt, früh ins Bett zu gehen.",
+    "gender": "other"
+  },
+  {
+    "word": "gewöhnlich",
+    "translation": "usually",
+    "example": "Um die Zeit ist er gewöhnlich zu Hause.",
+    "gender": "other"
+  },
+  {
+    "word": "giftig",
+    "translation": "poisonous",
+    "example": "Vorsicht, das ist giftig!",
+    "gender": "other"
+  },
+  {
+    "word": "glatt",
+    "translation": "smooth, slippery",
+    "example": "Fahr vorsichtig! Es ist glatt.",
+    "gender": "other"
+  },
+  {
+    "word": "gleich",
+    "translation": "same, equal(ly)",
+    "example": "Ich komme gleich.",
+    "gender": "other"
+  },
+  {
+    "word": "gleichfalls",
+    "translation": "likewise",
+    "example": "Schöne Feiertage! – Danke, gleichfalls.",
+    "gender": "other"
+  },
+  {
+    "word": "gleichberechtigt",
+    "translation": "equal (by rights)",
+    "example": "Mann und Frau sind gleichberechtigt.",
+    "gender": "other"
+  },
+  {
+    "word": "gleichzeitig",
+    "translation": "at the same time",
+    "example": "Ich kann nicht alles gleichzeitig machen.",
+    "gender": "other"
+  },
+  {
+    "word": "glücklich",
+    "translation": "happy, lucky",
+    "example": "Meine Schwester hat geheiratet und ist sehr glücklich.",
+    "gender": "other"
+  },
+  {
+    "word": "gratis",
+    "translation": "free of charge",
+    "example": "Diese Reparatur kostet Sie gar nichts, wir machen das gratis für Sie.",
+    "gender": "other"
+  },
+  {
+    "word": "groß",
+    "translation": "large, tall",
+    "example": "Wir haben einen großen Garten.",
+    "gender": "other"
+  },
+  {
+    "word": "Groß-",
+    "translation": "grand-",
+    "example": "z.B. die Großeltern, die Großmutter, der Großvater",
+    "gender": "other"
+  },
+  {
+    "word": "gründlich",
+    "translation": "thorough",
+    "example": "Ich möchte die Wohnung gründlich reinigen, bevor der Besuch kommt.",
+    "gender": "other"
+  },
+  {
+    "word": "gültig",
+    "translation": "valid",
+    "example": "Mein Pass ist nur noch zwei Monate gültig.",
+    "gender": "other"
+  },
+  {
+    "word": "günstig",
+    "translation": "cheap",
+    "example": "Ich suche eine günstige Ferienwohnung.",
+    "gender": "other"
+  },
+  {
+    "word": "gut",
+    "translation": "good",
+    "example": "Ich kenne ein gutes Lokal.",
+    "gender": "other"
+  },
+  {
+    "word": "halb",
+    "translation": "half",
+    "example": "Treffen wir uns um halb neun?",
+    "gender": "other"
+  },
+  {
+    "word": "halbtags",
+    "translation": "half-day",
+    "example": "Ich habe ein kleines Kind und kann nicht acht Stunden am Tag arbeiten. Deshalb möchte ich halbtags arbeiten.",
+    "gender": "other"
+  },
+  {
+    "word": "hallo",
+    "translation": "hello",
+    "example": "Hallo, wie geht’s? − Danke, gut, und dir?",
+    "gender": "other"
+  },
+  {
+    "word": "halt",
+    "translation": "just",
+    "example": "Es gibt leider keine Karten mehr. – Schade. Da kann man nichts machen. Das ist halt so.",
+    "gender": "other"
+  },
+  {
+    "word": "haltbar",
+    "translation": "durable, good (for food)",
+    "example": "Diese Tomaten sind mindestens 2 Wochen haltbar.",
+    "gender": "other"
+  },
+  {
+    "word": "hart",
+    "translation": "hard",
+    "example": "Das Bett im Hotel war mir zu hart.",
+    "gender": "other"
+  },
+  {
+    "word": "hässlich",
+    "translation": "ugly",
+    "example": "Das ist aber eine hässliche Lampe!",
+    "gender": "other"
+  },
+  {
+    "word": "häufig",
+    "translation": "frequently",
+    "example": "Haben Sie häufig Kopfschmerzen? Dann sollten Sie nicht so lange am Computer sitzen.",
+    "gender": "other"
+  },
+  {
+    "word": "heim",
+    "translation": "home",
+    "example": "Ich will jetzt heim.",
+    "gender": "other"
+  },
+  {
+    "word": "heimlich",
+    "translation": "secret(ly)",
+    "example": "Gestern habe ich gehört, dass mein Sohn heimlich raucht.",
+    "gender": "other"
+  },
+  {
+    "word": "heiß",
+    "translation": "hot",
+    "example": "Für die Jahreszeit ist es zu heiß.",
+    "gender": "other"
+  },
+  {
+    "word": "hell",
+    "translation": "bright, light",
+    "example": "Im Sommer wird es um 5 Uhr schon hell.",
+    "gender": "other"
+  },
+  {
+    "word": "her/her-",
+    "translation": "here, to here",
+    "example": "Wir haben uns lange nicht gesehen. – Ja, das ist wirklich lange her.",
+    "gender": "other"
+  },
+  {
+    "word": "herein-, rein-",
+    "translation": "in",
+    "example": "Kommt doch herein!",
+    "gender": "other"
+  },
+  {
+    "word": "herzlich",
+    "translation": "cordial",
+    "example": "Herzlichen Glückwunsch!",
+    "gender": "other"
+  },
+  {
+    "word": "heute",
+    "translation": "today",
+    "example": "Heute kann ich etwas früher nach Hause gehen.",
+    "gender": "other"
+  },
+  {
+    "word": "heutig-",
+    "translation": "today",
+    "example": "Die heutigen Computer können viel mehr als noch vor ein paar Jahren.",
+    "gender": "other"
+  },
+  {
+    "word": "hier/hier-",
+    "translation": "here",
+    "example": "Hier wohne ich.",
+    "gender": "other"
+  },
+  {
+    "word": "hierher",
+    "translation": "(to) here",
+    "example": "Ich komme oft hierher. In diesem Café gibt es guten Kuchen.",
+    "gender": "other"
+  },
+  {
+    "word": "hinten",
+    "translation": "at the back",
+    "example": "Wo möchtest du sitzen? Hinten oder vorne?",
+    "gender": "other"
+  },
+  {
+    "word": "hinter/hinter-",
+    "translation": "behind",
+    "example": "Hinter dem Haus haben wir einen Garten.",
+    "gender": "other"
+  },
+  {
+    "word": "hinterher",
+    "translation": "after(wards)",
+    "example": "Vor der Prüfung habe ich so viel gelernt. Hinterher habe ich vieles wieder vergessen.",
+    "gender": "other"
+  },
+  {
+    "word": "historisch",
+    "translation": "historical",
+    "example": "Wir waren mit unserer Klasse im Historischen Museum.",
+    "gender": "other"
+  },
+  {
+    "word": "hoch",
+    "translation": "high",
+    "example": "Der Berg ist fast 3000 m hoch.",
+    "gender": "other"
+  },
+  {
+    "word": "höchstens",
+    "translation": "at most",
+    "example": "Ich habe wenig Zeit. Ich kann höchstens eine Viertelstunde bleiben.",
+    "gender": "other"
+  },
+  {
+    "word": "hoffentlich",
+    "translation": "hopefully",
+    "example": "Hoffentlich hat unser Zug keine Verspätung.",
+    "gender": "other"
+  },
+  {
+    "word": "höflich",
+    "translation": "polite",
+    "example": "Unser Nachbar ist sehr höflich. Er sagt immer als Erster Guten Tag.",
+    "gender": "other"
+  },
+  {
+    "word": "hübsch",
+    "translation": "pretty",
+    "example": "Wir haben eine hübsche Wohnung gefunden.",
+    "gender": "other"
+  },
+  {
+    "word": "hungrig",
+    "translation": "hungry",
+    "example": "Ich bin sehr hungrig.",
+    "gender": "other"
+  },
+  {
+    "word": "ideal",
+    "translation": "ideal",
+    "example": "Eine Wohnung mit Garten wäre für uns ideal.",
+    "gender": "other"
+  },
+  {
+    "word": "illegal",
+    "translation": "illegal",
+    "example": "Ohne Steuerkarte zu arbeiten ist illegal. Wenn es herauskommt, musst du Strafe zahlen.",
+    "gender": "other"
+  },
+  {
+    "word": "immer",
+    "translation": "always",
+    "example": "Frau Bast kommt immer zu spät.",
+    "gender": "other"
+  },
+  {
+    "word": "in",
+    "translation": "in, on, to",
+    "example": "Ich wohne in Frankfurt.",
+    "gender": "other"
+  },
+  {
+    "word": "indem",
+    "translation": "by (doing sth.)",
+    "example": "Du kannst die Datei öffnen, indem du hier klickst.",
+    "gender": "other"
+  },
+  {
+    "word": "individuell",
+    "translation": "individual",
+    "example": "Die Lehrerin versucht, jedes Kind individuell zu fördern.",
+    "gender": "other"
+  },
+  {
+    "word": "inklusive",
+    "translation": "inclusive",
+    "example": "Der Zimmerpreis ist inklusive Frühstück.",
+    "gender": "other"
+  },
+  {
+    "word": "innen",
+    "translation": "inside",
+    "example": "Der Lichtschalter ist innen links.",
+    "gender": "other"
+  },
+  {
+    "word": "inner-",
+    "translation": "internal",
+    "example": "Wir müssen Sie untersuchen. Es kann sein, dass Sie innere Verletzungen haben.",
+    "gender": "other"
+  },
+  {
+    "word": "innerhalb",
+    "translation": "within",
+    "example": "Diese Fahrkarte gilt nur innerhalb der Stadt.",
+    "gender": "other"
+  },
+  {
+    "word": "insgesamt",
+    "translation": "in total",
+    "example": "Insgesamt haben sich 20 Teilnehmer für die Prüfung angemeldet.",
+    "gender": "other"
+  },
+  {
+    "word": "intelligent",
+    "translation": "intelligent",
+    "example": "Maria ist sehr intelligent. Sie kann sehr gut rechnen.",
+    "gender": "other"
+  },
+  {
+    "word": "intensiv",
+    "translation": "intensive",
+    "example": "Ich möchte intensiv Deutsch lernen.",
+    "gender": "other"
+  },
+  {
+    "word": "interessant",
+    "translation": "interesting",
+    "example": "Ich habe einen interessanten Bericht gelesen.",
+    "gender": "other"
+  },
+  {
+    "word": "interessiert",
+    "translation": "interested (in)",
+    "example": "Mein Nachbar zieht nächsten Monat aus. Sind Sie noch an der Wohnung interessiert?",
+    "gender": "other"
+  },
+  {
+    "word": "interkulturell",
+    "translation": "intercultural",
+    "example": "Wir haben in der Sprachschule ein interkulturelles Fest gefeiert.",
+    "gender": "other"
+  },
+  {
+    "word": "international",
+    "translation": "international",
+    "example": "Die Teilnehmenden in unserem Kurs sind ganz international: Silvana kommt aus Italien, Conchi aus Spanien, Yin aus China …",
+    "gender": "other"
+  },
+  {
+    "word": "inzwischen",
+    "translation": "meanwhile, in the meantime",
+    "example": "Herr Müller kommt gleich zurück. Sie können inzwischen in seinem Büro warten.",
+    "gender": "other"
+  },
+  {
+    "word": "irgendein",
+    "translation": "any",
+    "example": "Was für einen Saft möchten Sie? – Ganz egal, irgendeinen.",
+    "gender": "other"
+  },
+  {
+    "word": "irgendwann",
+    "translation": "at some point",
+    "example": "Ich habe Sie irgendwann schon mal gesehen.",
+    "gender": "other"
+  },
+  {
+    "word": "ja",
+    "translation": "yes",
+    "example": "Sind Sie verheiratet? – Ja.",
+    "gender": "other"
+  },
+  {
+    "word": "je (nach)",
+    "translation": "depending (on), each",
+    "example": "Die Pullover kosten je nach Qualität zwischen 40 und 60 Euro.",
+    "gender": "other"
+  },
+  {
+    "word": "je … desto …",
+    "translation": "the ... the ...",
+    "example": "Je länger ich Deutsch lerne, desto besser kann ich es verstehen.",
+    "gender": "other"
+  },
+  {
+    "word": "jeder, jedes, jede",
+    "translation": "each",
+    "example": "Das Restaurant hat jeden Tag geöffnet.",
+    "gender": "other"
+  },
+  {
+    "word": "jederzeit",
+    "translation": "at any time",
+    "example": "Sie können mich jederzeit anrufen.",
+    "gender": "other"
+  },
+  {
+    "word": "jedes Mal",
+    "translation": "every time",
+    "example": "Inge erzählt die Geschichte jedes Mal anders.",
+    "gender": "other"
+  },
+  {
+    "word": "jedoch",
+    "translation": "however, though",
+    "example": "Sie ruft immer wieder an, jedoch ohne Erfolg.",
+    "gender": "other"
+  },
+  {
+    "word": "jemals",
+    "translation": "ever",
+    "example": "Hast du jemals von dem Problem gehört? – Nein, nie.",
+    "gender": "other"
+  },
+  {
+    "word": "jemand",
+    "translation": "someone",
+    "example": "Hat jemand einen Bleistift für mich?",
+    "gender": "other"
+  },
+  {
+    "word": "jetzt",
+    "translation": "now",
+    "example": "Ich muss jetzt gehen.",
+    "gender": "other"
+  },
+  {
+    "word": "jeweils",
+    "translation": "each",
+    "example": "Der Kurs findet jeweils montags und donnerstags um 18 Uhr statt.",
+    "gender": "other"
+  },
+  {
+    "word": "jung",
+    "translation": "young",
+    "example": "Für diesen Film bist du noch zu jung.",
+    "gender": "other"
+  },
+  {
+    "word": "kalt",
+    "translation": "cold",
+    "example": "Es ist kalt heute.",
+    "gender": "other"
+  },
+  {
+    "word": "kaputt",
+    "translation": "broken",
+    "example": "Unsere Waschmaschine ist kaputt.",
+    "gender": "other"
+  },
+  {
+    "word": "kaum",
+    "translation": "hardly",
+    "example": "Ich kann Sie kaum verstehen. Bitte sprechen Sie lauter.",
+    "gender": "other"
+  },
+  {
+    "word": "kein-",
+    "translation": "none",
+    "example": "Ich habe leider heute keine Zeit.",
+    "gender": "other"
+  },
+  {
+    "word": "klar",
+    "translation": "clear",
+    "example": "Sie müssen noch mehr Deutsch lernen. – Ja, das ist mir klar.",
+    "gender": "other"
+  },
+  {
+    "word": "klasse",
+    "translation": "great",
+    "example": "Ich finde unseren Lehrer klasse.",
+    "gender": "other"
+  },
+  {
+    "word": "klein",
+    "translation": "small",
+    "example": "Unsere Wohnung ist klein.",
+    "gender": "other"
+  },
+  {
+    "word": "klug",
+    "translation": "smart",
+    "example": "Ich halte sie für klug.",
+    "gender": "other"
+  },
+  {
+    "word": "knapp",
+    "translation": "short, just (under)",
+    "example": "Mach schnell. Die Zeit ist knapp.",
+    "gender": "other"
+  },
+  {
+    "word": "komisch",
+    "translation": "funny, strange",
+    "example": "Das Essen schmeckt komisch. Probier mal.",
+    "gender": "other"
+  },
+  {
+    "word": "komplett",
+    "translation": "complete",
+    "example": "Ich habe den Termin komplett vergessen.",
+    "gender": "other"
+  },
+  {
+    "word": "kompliziert",
+    "translation": "complicated",
+    "example": "Er schreibt viel zu kompliziert.",
+    "gender": "other"
+  },
+  {
+    "word": "körperlich",
+    "translation": "physical",
+    "example": "Körperliche Arbeit macht mir nichts aus.",
+    "gender": "other"
+  },
+  {
+    "word": "korrekt",
+    "translation": "correct",
+    "example": "Ich habe die Rechnung geprüft. Alles ist korrekt.",
+    "gender": "other"
+  },
+  {
+    "word": "kostenlos",
+    "translation": "free of charge",
+    "example": "Diese Zeitschrift kostet nichts. Sie ist kostenlos.",
+    "gender": "other"
+  },
+  {
+    "word": "kräftig",
+    "translation": "strong, powerful",
+    "example": "Der Mann ist kräftig. Er macht viel Sport und isst viel.",
+    "gender": "other"
+  },
+  {
+    "word": "krank",
+    "translation": "ill, sick",
+    "example": "Ich war zwei Wochen krank.",
+    "gender": "other"
+  },
+  {
+    "word": "kreativ",
+    "translation": "creative",
+    "example": "Die Kinder sind beim Basteln sehr kreativ.",
+    "gender": "other"
+  },
+  {
+    "word": "kritisch",
+    "translation": "critical",
+    "example": "Es gab eine Diskussion über die Lebensmittelpreise. Ein Journalist hat kritische Fragen gestellt.",
+    "gender": "other"
+  },
+  {
+    "word": "kühl",
+    "translation": "cool",
+    "example": "Es ist kühl draußen. Zieh dir eine Jacke an.",
+    "gender": "other"
+  },
+  {
+    "word": "kulturell",
+    "translation": "cultural",
+    "example": "Es gibt große kulturelle Unterschiede zwischen den Ländern.",
+    "gender": "other"
+  },
+  {
+    "word": "künstlich",
+    "translation": "artificial",
+    "example": "Ich mag kein künstliches Licht.",
+    "gender": "other"
+  },
+  {
+    "word": "kurz",
+    "translation": "short",
+    "example": "Ricardo hat kurze Haare.",
+    "gender": "other"
+  },
+  {
+    "word": "kürzlich",
+    "translation": "recently",
+    "example": "Wir haben doch kürzlich darüber gesprochen, dass wir am Wochenende wegfahren wollen.",
+    "gender": "other"
+  },
+  {
+    "word": "lang",
+    "translation": "long",
+    "example": "Der Teppich ist 3 m lang und 2 m breit.",
+    "gender": "other"
+  },
+  {
+    "word": "lange, lang",
+    "translation": "long (for time)",
+    "example": "Wie lange dauert die Fahrt von Hamburg nach Berlin?",
+    "gender": "other"
+  },
+  {
+    "word": "langsam",
+    "translation": "slow",
+    "example": "Könnten Sie bitte etwas langsamer sprechen?",
+    "gender": "other"
+  },
+  {
+    "word": "längst",
+    "translation": "long ago",
+    "example": "Wann reparierst du die Heizung. – Die habe ich schon längst repariert.",
+    "gender": "other"
+  },
+  {
+    "word": "langweilig",
+    "translation": "boring",
+    "example": "Der Film war sehr langweilig.",
+    "gender": "other"
+  },
+  {
+    "word": "laut",
+    "translation": "loud, according to",
+    "example": "Lass uns gehen. Hier ist es mir zu laut.",
+    "gender": "other"
+  },
+  {
+    "word": "lecker",
+    "translation": "delicious",
+    "example": "Das Essen war sehr lecker.",
+    "gender": "other"
+  },
+  {
+    "word": "ledig",
+    "translation": "single",
+    "example": "Wie ist Ihr Familienstand? – Ledig.",
+    "gender": "other"
+  },
+  {
+    "word": "leer",
+    "translation": "empty",
+    "example": "Das Restaurant war fast leer.",
+    "gender": "other"
+  },
+  {
+    "word": "leicht",
+    "translation": "light, easy",
+    "example": "Der Koffer ist ganz leicht. Ich kann ihn allein tragen.",
+    "gender": "other"
+  },
+  {
+    "word": "leider",
+    "translation": "unfortunately",
+    "example": "Da kann ich Ihnen leider nicht helfen.",
+    "gender": "other"
+  },
+  {
+    "word": "leise",
+    "translation": "quiet",
+    "example": "Seid leise. Die anderen schlafen schon.",
+    "gender": "other"
+  },
+  {
+    "word": "letzt-",
+    "translation": "last",
+    "example": "Was hast du letzte Woche gemacht?",
+    "gender": "other"
+  },
+  {
+    "word": "lieb",
+    "translation": "kind, dear",
+    "example": "Die Kinder waren heute sehr lieb.",
+    "gender": "other"
+  },
+  {
+    "word": "Lieblings-",
+    "translation": "favorite",
+    "example": "z. B. Lieblingsfarbe, Lieblingsfilm, Lieblingsessen Mein Lieblingsessen ist Pizza.",
+    "gender": "other"
+  },
+  {
+    "word": "links",
+    "translation": "left",
+    "example": "An der Kreuzung müssen Sie nach links abbiegen.",
+    "gender": "other"
+  },
+  {
+    "word": "link-",
+    "translation": "left",
+    "example": "Er hat sich das linke Bein gebrochen.",
+    "gender": "other"
+  },
+  {
+    "word": "locker",
+    "translation": "relaxed, loose",
+    "example": "Lassen Sie bitte die Arme ganz locker und atmen Sie tief ein.",
+    "gender": "other"
+  },
+  {
+    "word": "los/los-",
+    "translation": "(see example sentence)",
+    "example": "Los! Beeilt euch!",
+    "gender": "other"
+  },
+  {
+    "word": "lustig",
+    "translation": "funny",
+    "example": "Ich habe einen lustigen Film gesehen.",
+    "gender": "other"
+  },
+  {
+    "word": "mager",
+    "translation": "lean",
+    "example": "Bitte 1 kg mageres Fleisch.",
+    "gender": "other"
+  },
+  {
+    "word": "mal",
+    "translation": "sometimes, times",
+    "example": "Mal bin ich glücklich, mal traurig.",
+    "gender": "other"
+  },
+  {
+    "word": "man",
+    "translation": "you, one",
+    "example": "Wie schreibt man das?",
+    "gender": "other"
+  },
+  {
+    "word": "manch-",
+    "translation": "some",
+    "example": "Manche Nachbarn sind unfreundlich.",
+    "gender": "other"
+  },
+  {
+    "word": "manchmal",
+    "translation": "sometimes",
+    "example": "Manchmal gehe ich mit meiner Frau ins Café.",
+    "gender": "other"
+  },
+  {
+    "word": "männlich",
+    "translation": "male",
+    "example": "Kreuzen Sie bitte an: „weiblich“ oder „männlich“.",
+    "gender": "other"
+  },
+  {
+    "word": "maximal",
+    "translation": "maximum",
+    "example": "Wie lange braucht ein Brief? – Maximal zwei Tage.",
+    "gender": "other"
+  },
+  {
+    "word": "mehr",
+    "translation": "more",
+    "example": "Ich habe diesmal mehr gelernt als bei der letzten Prüfung.",
+    "gender": "other"
+  },
+  {
+    "word": "mehrere",
+    "translation": "several",
+    "example": "Ich habe mehrere Leute gefragt. Aber niemand konnte mir helfen.",
+    "gender": "other"
+  },
+  {
+    "word": "meinetwegen",
+    "translation": "for my sake, for all I care",
+    "example": "Meinetwegen kannst du heute das Auto haben.",
+    "gender": "other"
+  },
+  {
+    "word": "meist-, die meisten",
+    "translation": "most",
+    "example": "Wie gut kannst du Deutsch? – Das Meiste verstehe ich.",
+    "gender": "other"
+  },
+  {
+    "word": "meist(ens)",
+    "translation": "usually, mostly",
+    "example": "Meistens trinke ich zum Frühstück nur einen Kaffee.",
+    "gender": "other"
+  },
+  {
+    "word": "menschlich",
+    "translation": "human(e)",
+    "example": "Fehler zu machen ist menschlich.",
+    "gender": "other"
+  },
+  {
+    "word": "merkwürdig",
+    "translation": "strange",
+    "example": "Das ist eine merkwürdige Geschichte.",
+    "gender": "other"
+  },
+  {
+    "word": "mild",
+    "translation": "mild",
+    "example": "Möchten Sie die Soße scharf? – Nein, bitte ganz mild.",
+    "gender": "other"
+  },
+  {
+    "word": "mindestens",
+    "translation": "at least",
+    "example": "Ein guter Fernsehapparat kostet mindestens 500 Euro.",
+    "gender": "other"
+  },
+  {
+    "word": "minimal",
+    "translation": "minimal",
+    "example": "Da ist nur ein minimaler Unterschied.",
+    "gender": "other"
+  },
+  {
+    "word": "miss-",
+    "translation": "miss-",
+    "example": "Die Konferenz war ein Misserfolg.",
+    "gender": "other"
+  },
+  {
+    "word": "mit",
+    "translation": "with",
+    "example": "Ich gehe heute Abend mit Maria aus.",
+    "gender": "other"
+  },
+  {
+    "word": "miteinander",
+    "translation": "with each other",
+    "example": "Sprechen Sie bitte miteinander.",
+    "gender": "other"
+  },
+  {
+    "word": "mitten",
+    "translation": "in the middle",
+    "example": "Wir haben eine Wohnung mitten in der Stadt.",
+    "gender": "other"
+  },
+  {
+    "word": "mittler-",
+    "translation": "middle",
+    "example": "In den mittleren Reihen sind noch Plätze frei.",
+    "gender": "other"
+  },
+  {
+    "word": "mittlerweile",
+    "translation": "meanwhile, by now",
+    "example": "Am Anfang war die Arbeit schwer. Mittlerweile habe ich mich daran gewöhnt.",
+    "gender": "other"
+  },
+  {
+    "word": "möbliert",
+    "translation": "furnished",
+    "example": "Ich suche ein möbliertes Zimmer.",
+    "gender": "other"
+  },
+  {
+    "word": "mobil/mobil-",
+    "translation": "mobile",
+    "example": "Mit dem Fahrrad bin ich in der Stadt sehr mobil.",
+    "gender": "other"
+  },
+  {
+    "word": "modern",
+    "translation": "modern",
+    "example": "Die Wohnung ist modern eingerichtet.",
+    "gender": "other"
+  },
+  {
+    "word": "möglich",
+    "translation": "possible",
+    "example": "Kann ich bitte sofort einen Termin haben? – Das ist leider nicht möglich.",
+    "gender": "other"
+  },
+  {
+    "word": "möglichst",
+    "translation": "preferably, as/if possible",
+    "example": "Sagen Sie mir bitte möglichst bald, ob Ihnen der Termin passt.",
+    "gender": "other"
+  },
+  {
+    "word": "müde",
+    "translation": "tired",
+    "example": "Ich bin müde. Ich gehe schlafen.",
+    "gender": "other"
+  },
+  {
+    "word": "mündlich",
+    "translation": "oral",
+    "example": "Die mündliche Prüfung ist erst nächste Woche.",
+    "gender": "other"
+  },
+  {
+    "word": "musikalisch",
+    "translation": "musical",
+    "example": "Sie ist sehr musikalisch: Sie spielt Klavier, Flöte und Geige.",
+    "gender": "other"
+  },
+  {
+    "word": "mutig",
+    "translation": "brave",
+    "example": "Es war sehr mutig von dir, deine Meinung laut zu sagen.",
+    "gender": "other"
+  },
+  {
+    "word": "nach",
+    "translation": "to, after",
+    "example": "Ich fahre morgen nach Hamburg.",
+    "gender": "other"
+  },
+  {
+    "word": "nachdem",
+    "translation": "after",
+    "example": "Nachdem wir gegessen hatten, sind wir spazieren gegangen.",
+    "gender": "other"
+  },
+  {
+    "word": "nachher",
+    "translation": "later, after",
+    "example": "Ich rufe nachher nochmal an.",
+    "gender": "other"
+  },
+  {
+    "word": "nächst-",
+    "translation": "next",
+    "example": "Wo ist hier die nächste Apotheke?",
+    "gender": "other"
+  },
+  {
+    "word": "nah(e)",
+    "translation": "near, close",
+    "example": "Wie weit ist es zum Bahnhof? – Das ist ganz nah, nur zwei Minuten von hier.",
+    "gender": "other"
+  },
+  {
+    "word": "nämlich",
+    "translation": "namely",
+    "example": "Ich muss leider gehen. Ich habe nämlich noch einen Termin beim Zahnarzt.",
+    "gender": "other"
+  },
+  {
+    "word": "nass",
+    "translation": "wet",
+    "example": "Es hat schrecklich geregnet. Ich bin ganz nass geworden.",
+    "gender": "other"
+  },
+  {
+    "word": "national/national-",
+    "translation": "national",
+    "example": "Das ist ein nationaler Wettbewerb.",
+    "gender": "other"
+  },
+  {
+    "word": "natürlich",
+    "translation": "natural, of course",
+    "example": "Natürlich helfen wir dir.",
+    "gender": "other"
+  },
+  {
+    "word": "neblig",
+    "translation": "foggy",
+    "example": "Fahr vorsichtig! Es ist neblig.",
+    "gender": "other"
+  },
+  {
+    "word": "neben",
+    "translation": "next to, besides",
+    "example": "Neben mir ist noch ein Platz frei.",
+    "gender": "other"
+  },
+  {
+    "word": "nebenan",
+    "translation": "next door",
+    "example": "Das ist José, er wohnt nebenan.",
+    "gender": "other"
+  },
+  {
+    "word": "nebenbei",
+    "translation": "on the side",
+    "example": "Mein Freund studiert Geschichte. Und nebenbei arbeitet er in einer Kneipe.",
+    "gender": "other"
+  },
+  {
+    "word": "negativ",
+    "translation": "negative",
+    "example": "Du solltest nicht alles negativ sehen.",
+    "gender": "other"
+  },
+  {
+    "word": "nein",
+    "translation": "no",
+    "example": "Noch ein Bier? – Nein, danke.",
+    "gender": "other"
+  },
+  {
+    "word": "nervös",
+    "translation": "nervous",
+    "example": "Das Warten macht mich ganz nervös.",
+    "gender": "other"
+  },
+  {
+    "word": "nett",
+    "translation": "nice",
+    "example": "Die Leute sind hier sehr nett.",
+    "gender": "other"
+  },
+  {
+    "word": "neu",
+    "translation": "new",
+    "example": "Mein Wagen ist noch ganz neu.",
+    "gender": "other"
+  },
+  {
+    "word": "neugierig",
+    "translation": "curious",
+    "example": "Die Nachbarn sind ziemlich neugierig.",
+    "gender": "other"
+  },
+  {
+    "word": "neulich",
+    "translation": "recently",
+    "example": "Ich war neulich bei der Bank und habe einen alten Freund getroffen.",
+    "gender": "other"
+  },
+  {
+    "word": "nicht",
+    "translation": "not",
+    "example": "Zigarette? - Danke, ich rauche nicht.",
+    "gender": "other"
+  },
+  {
+    "word": "nichts",
+    "translation": "nothing",
+    "example": "Ich habe noch nichts gegessen.",
+    "gender": "other"
+  },
+  {
+    "word": "nie",
+    "translation": "never",
+    "example": "Der Chef ist nie da.",
+    "gender": "other"
+  },
+  {
+    "word": "niedrig",
+    "translation": "low",
+    "example": "Die Räume hier sind mir zu niedrig.",
+    "gender": "other"
+  },
+  {
+    "word": "niemand",
+    "translation": "nobody",
+    "example": "Ich habe geklingelt. Aber es war niemand zu Hause.",
+    "gender": "other"
+  },
+  {
+    "word": "nirgends",
+    "translation": "nowhere",
+    "example": "Ich kann die Quittung nirgends finden.",
+    "gender": "other"
+  },
+  {
+    "word": "nirgendwo",
+    "translation": "nowhere",
+    "example": "Die Schlüssel kann ich nirgendwo finden.",
+    "gender": "other"
+  },
+  {
+    "word": "noch",
+    "translation": "still",
+    "example": "Mein Bruder geht noch zur Schule.",
+    "gender": "other"
+  },
+  {
+    "word": "noch mal",
+    "translation": "again",
+    "example": "Vielen Dank nochmal.",
+    "gender": "other"
+  },
+  {
+    "word": "nochmals",
+    "translation": "again",
+    "example": "Nochmals vielen Dank!",
+    "gender": "other"
+  },
+  {
+    "word": "normal",
+    "translation": "normal",
+    "example": "Fehler zu machen ist doch ganz normal.",
+    "gender": "other"
+  },
+  {
+    "word": "normalerweise",
+    "translation": "normally",
+    "example": "Wann haben Sie normalerweise Pause?",
+    "gender": "other"
+  },
+  {
+    "word": "nötig",
+    "translation": "necessary",
+    "example": "Wenn es nötig ist, nehmen Sie noch eine Tablette.",
+    "gender": "other"
+  },
+  {
+    "word": "notwendig",
+    "translation": "necessary",
+    "example": "Muss ich nochmal wiederkommen? – Nein, das ist nicht notwendig.",
+    "gender": "other"
+  },
+  {
+    "word": "nun",
+    "translation": "now",
+    "example": "Schade, dass du arbeiten musst. – Das ist nun mal so.",
+    "gender": "other"
+  },
+  {
+    "word": "nur",
+    "translation": "only",
+    "example": "Im Kaufhaus gibt‘s T-Shirts für nur fünf Euro.",
+    "gender": "other"
+  },
+  {
+    "word": "nützlich",
+    "translation": "useful",
+    "example": "Danke für den Tipp. Das war sehr nützlich.",
+    "gender": "other"
+  },
+  {
+    "word": "ob",
+    "translation": "whether",
+    "example": "Ich weiß noch nicht, ob ich kommen kann.",
+    "gender": "other"
+  },
+  {
+    "word": "oben",
+    "translation": "above, on top, upstairs",
+    "example": "Wir wohnen oben im 4. Stock.",
+    "gender": "other"
+  },
+  {
+    "word": "ober-",
+    "translation": "upper",
+    "example": "Die Wohnung im oberen Stockwerk ist vermietet.",
+    "gender": "other"
+  },
+  {
+    "word": "obwohl",
+    "translation": "although",
+    "example": "Obwohl meine Kollegin krank ist, geht sie arbeiten.",
+    "gender": "other"
+  },
+  {
+    "word": "oder",
+    "translation": "or",
+    "example": "Möchten Sie Kaffee oder Tee?",
+    "gender": "other"
+  },
+  {
+    "word": "offen",
+    "translation": "open",
+    "example": "Komm rein. Die Haustür ist offen. (A) (D: auf)",
+    "gender": "other"
+  },
+  {
+    "word": "öffentlich",
+    "translation": "public",
+    "example": "In der Stadt fahre ich immer mit öffentlichen Verkehrsmitteln.",
+    "gender": "other"
+  },
+  {
+    "word": "offenbar",
+    "translation": "apparently, obviously",
+    "example": "Das Restaurant ist heute offenbar geschlossen.",
+    "gender": "other"
+  },
+  {
+    "word": "offiziell",
+    "translation": "official",
+    "example": "Sie bekommen von uns eine offizielle Einladung.",
+    "gender": "other"
+  },
+  {
+    "word": "oft/öfter",
+    "translation": "often/more often",
+    "example": "Ich treffe mich oft mit meiner Freundin.",
+    "gender": "other"
+  },
+  {
+    "word": "ohne",
+    "translation": "without",
+    "example": "Bitte eine Pizza ohne Zwiebeln.",
+    "gender": "other"
+  },
+  {
+    "word": "Öko- (ökologisch)",
+    "translation": "eco(logical)",
+    "example": "z.B. Ökoladen, Ökostrom, ökologischer Anbau",
+    "gender": "other"
+  },
+  {
+    "word": "optimistisch",
+    "translation": "optimistic",
+    "example": "Glaubst du, dass du den Job bekommst. – Ja, ich bin ganz optimistisch.",
+    "gender": "other"
+  },
+  {
+    "word": "ordentlich",
+    "translation": "neat",
+    "example": "Mein Bruder ist ein sehr ordentlicher Mensch.",
+    "gender": "other"
+  },
+  {
+    "word": "original",
+    "translation": "original",
+    "example": "Ich muss das originale Dokument abgeben.",
+    "gender": "other"
+  },
+  {
+    "word": "(ein) paar",
+    "translation": "a couple, a few",
+    "example": "Ich komme gleich. Es dauert nur ein paar Minuten.",
+    "gender": "other"
+  },
+  {
+    "word": "parallel",
+    "translation": "parallel",
+    "example": "Die Goethestraße ist parallel zur Hauptstraße.",
+    "gender": "other"
+  },
+  {
+    "word": "passiv",
+    "translation": "passive",
+    "example": "Man sollte im Kurs nicht passiv sein, sondern mitdiskutieren.",
+    "gender": "other"
+  },
+  {
+    "word": "pauschal",
+    "translation": "flat rate, general",
+    "example": "Sie haben die Reise pauschal gebucht.",
+    "gender": "other"
+  },
+  {
+    "word": "peinlich",
+    "translation": "embarrassing",
+    "example": "Das muss dir nicht peinlich sein.",
+    "gender": "other"
+  },
+  {
+    "word": "per",
+    "translation": "per",
+    "example": "Wie kann ich mich für den Kurs anmelden? – Per Fax oder E-Mail.",
+    "gender": "other"
+  },
+  {
+    "word": "perfekt",
+    "translation": "perfect",
+    "example": "Die Reiseorganisation war perfekt.",
+    "gender": "other"
+  },
+  {
+    "word": "persönlich",
+    "translation": "personal(ly)",
+    "example": "Hier gibt es zu viele Autos. Das ist meine persönliche Meinung.",
+    "gender": "other"
+  },
+  {
+    "word": "plötzlich",
+    "translation": "suddenly",
+    "example": "Es war zuerst so schön. Plötzlich hat es angefangen zu regnen.",
+    "gender": "other"
+  },
+  {
+    "word": "politisch",
+    "translation": "political",
+    "example": "Ich diskutiere mit meinem Mann oft über politische Probleme.",
+    "gender": "other"
+  },
+  {
+    "word": "populär",
+    "translation": "popular",
+    "example": "Diese Musik ist bei Jugendlichen populär.",
+    "gender": "other"
+  },
+  {
+    "word": "positiv",
+    "translation": "positive",
+    "example": "Wir haben eine positive Nachricht für Sie. Sie bekommen die Stelle.",
+    "gender": "other"
+  },
+  {
+    "word": "praktisch",
+    "translation": "practical",
+    "example": "Ich finde diese Küchenmaschine sehr praktisch.",
+    "gender": "other"
+  },
+  {
+    "word": "preiswert",
+    "translation": "inexpensive",
+    "example": "Die Jacke ist sehr preiswert.",
+    "gender": "other"
+  },
+  {
+    "word": "prima",
+    "translation": "great",
+    "example": "Mit diesen Leuten verstehe ich mich prima.",
+    "gender": "other"
+  },
+  {
+    "word": "privat",
+    "translation": "private",
+    "example": "Hier meine Nummer im Büro und meine private Nummer.",
+    "gender": "other"
+  },
+  {
+    "word": "pro",
+    "translation": "per",
+    "example": "Eintritt pro Person: zwei Euro.",
+    "gender": "other"
+  },
+  {
+    "word": "Prost",
+    "translation": "cheers",
+    "example": "Wir trinken auf Ihre Gesundheit! Prost!",
+    "gender": "other"
+  },
+  {
+    "word": "pünktlich",
+    "translation": "punctual, on time",
+    "example": "Seien Sie bitte pünktlich.",
+    "gender": "other"
+  },
+  {
+    "word": "quer",
+    "translation": "across, diagonally",
+    "example": "Ich muss zu meiner Arbeit quer durch die ganze Stadt fahren.",
+    "gender": "other"
+  },
+  {
+    "word": "rauf/rauf-",
+    "translation": "up",
+    "example": "Hier ist die Treppe, also los, schnell rauf!",
+    "gender": "other"
+  },
+  {
+    "word": "raus/raus-",
+    "translation": "out",
+    "example": "Willst du rein oder raus?",
+    "gender": "other"
+  },
+  {
+    "word": "realistisch",
+    "translation": "realistic",
+    "example": "Ich glaube nicht, dass du für das Auto noch so viel Geld bekommst. Das ist nicht realistisch.",
+    "gender": "other"
+  },
+  {
+    "word": "rechtlich",
+    "translation": "legal",
+    "example": "Wir beraten Sie in rechtlichen Fragen.",
+    "gender": "other"
+  },
+  {
+    "word": "recht",
+    "translation": "right",
+    "example": "Ist es Ihnen recht, wenn ich morgen vorbeikomme?",
+    "gender": "other"
+  },
+  {
+    "word": "rechts",
+    "translation": "right",
+    "example": "An der nächsten Kreuzung müssen Sie rechts abbiegen.",
+    "gender": "other"
+  },
+  {
+    "word": "recht-",
+    "translation": "right-",
+    "example": "Ich habe mir den rechten Arm gebrochen.",
+    "gender": "other"
+  },
+  {
+    "word": "rechtzeitig",
+    "translation": "on time",
+    "example": "Bitte weck mich rechtzeitig. Ich muss pünktlich sein.",
+    "gender": "other"
+  },
+  {
+    "word": "regelmäßig",
+    "translation": "regularly",
+    "example": "Sie müssen die Tabletten regelmäßig nehmen.",
+    "gender": "other"
+  },
+  {
+    "word": "regional",
+    "translation": "regional",
+    "example": "Du kannst mit einer Regionalbahn fahren. Das ist billiger.",
+    "gender": "other"
+  },
+  {
+    "word": "reich",
+    "translation": "rich",
+    "example": "Wenn ich reich wäre, würde ich eine Weltreise machen.",
+    "gender": "other"
+  },
+  {
+    "word": "reif",
+    "translation": "ripe",
+    "example": "Die Banane kannst du nicht essen. Sie ist noch nicht reif.",
+    "gender": "other"
+  },
+  {
+    "word": "rein",
+    "translation": "pure",
+    "example": "Der Pullover ist aus reiner Wolle.",
+    "gender": "other"
+  },
+  {
+    "word": "relativ",
+    "translation": "relative",
+    "example": "Die Wohnung ist relativ groß, aber sehr teuer.",
+    "gender": "other"
+  },
+  {
+    "word": "richtig",
+    "translation": "correct, right",
+    "example": "Was Sie da sagen, ist richtig.",
+    "gender": "other"
+  },
+  {
+    "word": "riesig",
+    "translation": "huge",
+    "example": "Die Stadt ist riesig.",
+    "gender": "other"
+  },
+  {
+    "word": "roh",
+    "translation": "raw",
+    "example": "Du kannst das nicht essen. Das Fleisch ist noch roh.",
+    "gender": "other"
+  },
+  {
+    "word": "rückwärts",
+    "translation": "backwards",
+    "example": "Ich bin rückwärts aus der Garage gefahren.",
+    "gender": "other"
+  },
+  {
+    "word": "ruhig",
+    "translation": "quiet, calm",
+    "example": "Ich suche ein ruhiges Zimmer.",
+    "gender": "other"
+  },
+  {
+    "word": "rund",
+    "translation": "round",
+    "example": "Wir haben für unser Wohnzimmer einen runden Tisch gekauft.",
+    "gender": "other"
+  },
+  {
+    "word": "salzig",
+    "translation": "salty",
+    "example": "Dieses Essen ist zu salzig für mich.",
+    "gender": "other"
+  },
+  {
+    "word": "sämtliche",
+    "translation": "all",
+    "example": "Sämtliche Fenster müssen geschlossen bleiben.",
+    "gender": "other"
+  },
+  {
+    "word": "satt",
+    "translation": "full",
+    "example": "Möchten Sie noch etwas? – Nein danke, ich bin satt.",
+    "gender": "other"
+  },
+  {
+    "word": "sauber",
+    "translation": "clean",
+    "example": "Bringen Sie mir bitte ein sauberes Glas!",
+    "gender": "other"
+  },
+  {
+    "word": "sauer",
+    "translation": "sour",
+    "example": "Die Äpfel sind mir zu sauer.",
+    "gender": "other"
+  },
+  {
+    "word": "schade",
+    "translation": "a pity/shame",
+    "example": "Ich kann leider nicht mitkommen. – Das ist aber schade!",
+    "gender": "other"
+  },
+  {
+    "word": "schädlich",
+    "translation": "harmful",
+    "example": "Rauchen ist schädlich für die Gesundheit.",
+    "gender": "other"
+  },
+  {
+    "word": "scharf",
+    "translation": "spicy, sharp",
+    "example": "Bei uns zu Hause essen wir immer sehr scharf.",
+    "gender": "other"
+  },
+  {
+    "word": "geschieden",
+    "translation": "divorced",
+    "example": "Meine Kollegin ist geschieden.",
+    "gender": "other"
+  },
+  {
+    "word": "schief",
+    "translation": "crooked, askew",
+    "example": "Der Spiegel hängt ganz schief.",
+    "gender": "other"
+  },
+  {
+    "word": "schlank",
+    "translation": "slim",
+    "example": "In diesem Kleid siehst du sehr schlank aus.",
+    "gender": "other"
+  },
+  {
+    "word": "schlecht",
+    "translation": "bad",
+    "example": "Das Wetter ist schlecht.",
+    "gender": "other"
+  },
+  {
+    "word": "schließlich",
+    "translation": "finally",
+    "example": "Ich musste lange warten. Aber schließlich habe ich den Job doch noch bekommen.",
+    "gender": "other"
+  },
+  {
+    "word": "schlimm",
+    "translation": "bad",
+    "example": "Die Wunde sieht schlimm aus.",
+    "gender": "other"
+  },
+  {
+    "word": "schmal",
+    "translation": "narrow",
+    "example": "Hier kannst du nicht parken. Die Straße ist zu schmal.",
+    "gender": "other"
+  },
+  {
+    "word": "schmutzig",
+    "translation": "dirty",
+    "example": "Leg bitte die schmutzige Wäsche in die Waschmaschine.",
+    "gender": "other"
+  },
+  {
+    "word": "schnell",
+    "translation": "fast",
+    "example": "Warum fährst du so schnell?",
+    "gender": "other"
+  },
+  {
+    "word": "schon",
+    "translation": "already",
+    "example": "Ist das Essen schon fertig?",
+    "gender": "other"
+  },
+  {
+    "word": "schön",
+    "translation": "beautiful",
+    "example": "Ich finde eure Wohnung sehr schön.",
+    "gender": "other"
+  },
+  {
+    "word": "schrecklich",
+    "translation": "terrible",
+    "example": "Heute ist eine schreckliche Hitze.",
+    "gender": "other"
+  },
+  {
+    "word": "schriftlich",
+    "translation": "written, in writing",
+    "example": "Die schriftliche Prüfung dauert einen halben Tag.",
+    "gender": "other"
+  },
+  {
+    "word": "schuld",
+    "translation": "guilty",
+    "example": "Ich hatte einen Unfall. Aber ich war nicht schuld.",
+    "gender": "other"
+  },
+  {
+    "word": "schuldig",
+    "translation": "guilty",
+    "example": "Was bin ich Ihnen schuldig? – 50 Euro, bitte.",
+    "gender": "other"
+  },
+  {
+    "word": "schwach",
+    "translation": "weak",
+    "example": "Ich bin noch nicht gesund. Ich fühle mich noch sehr schwach.",
+    "gender": "other"
+  },
+  {
+    "word": "schwer",
+    "translation": "heavy, difficult",
+    "example": "Der Koffer ist viel zu schwer.",
+    "gender": "other"
+  },
+  {
+    "word": "Schwieger-",
+    "translation": "in-law",
+    "example": "Wir besuchen morgen meine Schwiegereltern.",
+    "gender": "other"
+  },
+  {
+    "word": "schwierig",
+    "translation": "difficult",
+    "example": "Die Prüfung war sehr schwierig.",
+    "gender": "other"
+  },
+  {
+    "word": "sehr",
+    "translation": "very",
+    "example": "Ich habe mich sehr über Ihren Besuch gefreut.",
+    "gender": "other"
+  },
+  {
+    "word": "seit",
+    "translation": "since, for (a period of time)",
+    "example": "Wir wohnen seit dem 1. März in Dortmund.",
+    "gender": "other"
+  },
+  {
+    "word": "seitdem",
+    "translation": "since (then)",
+    "example": "Ich bin vor zwei Jahren nach Deutschland gekommen. Seitdem lerne ich Deutsch.",
+    "gender": "other"
+  },
+  {
+    "word": "selb-",
+    "translation": "same",
+    "example": "Ich habe am selben Tag Geburtstag wie du.",
+    "gender": "other"
+  },
+  {
+    "word": "selbst",
+    "translation": "by oneself",
+    "example": "Den Kuchen habe ich selbst gebacken.",
+    "gender": "other"
+  },
+  {
+    "word": "selber",
+    "translation": "by oneself",
+    "example": "Sie will das selber machen.",
+    "gender": "other"
+  },
+  {
+    "word": "selbstständig",
+    "translation": "independent, self-employed",
+    "example": "Jetzt bin ich angestellt. Früher war ich selbstständig.",
+    "gender": "other"
+  },
+  {
+    "word": "selbstverständlich",
+    "translation": "naturally, of course",
+    "example": "Selbstverständlich sagen wir Ihnen sofort Bescheid.",
+    "gender": "other"
+  },
+  {
+    "word": "selten",
+    "translation": "rarely",
+    "example": "Ich gehe ganz selten ins Kino.",
+    "gender": "other"
+  },
+  {
+    "word": "seltsam",
+    "translation": "strange",
+    "example": "Es ist seltsam, dass mein Bruder noch nicht hier ist.",
+    "gender": "other"
+  },
+  {
+    "word": "senkrecht",
+    "translation": "vertical",
+    "example": "Ziehen Sie bitte eine senkrechte Linie.",
+    "gender": "other"
+  },
+  {
+    "word": "sicher",
+    "translation": "safe, sure",
+    "example": "Dieses Auto ist besonders sicher.",
+    "gender": "other"
+  },
+  {
+    "word": "sichtbar",
+    "translation": "visible",
+    "example": "Es gibt keine sichtbaren Verletzungen. Aber wir müssen das Bein trotzdem untersuchen.",
+    "gender": "other"
+  },
+  {
+    "word": "sinnlos",
+    "translation": "pointless",
+    "example": "So ein sinnloses Buch habe ich schon lange nicht mehr gelesen.",
+    "gender": "other"
+  },
+  {
+    "word": "sinnvoll",
+    "translation": "sensible",
+    "example": "Es funktioniert einfach nicht. Es ist sinnvoll, es noch einmal zu versuchen.",
+    "gender": "other"
+  },
+  {
+    "word": "so",
+    "translation": "so, as, like this",
+    "example": "Wie macht man das? – So!",
+    "gender": "other"
+  },
+  {
+    "word": "sobald",
+    "translation": "as soon as",
+    "example": "Sobald ich den Termin weiß, gebe ich Ihnen Bescheid.",
+    "gender": "other"
+  },
+  {
+    "word": "sodass",
+    "translation": "so (that)",
+    "example": "Der Zug hatte zwei Stunden Verspätung, sodass ich erst um 23 Uhr nach Hause kam.",
+    "gender": "other"
+  },
+  {
+    "word": "sofort",
+    "translation": "immediately",
+    "example": "Warum sind Sie nicht sofort zum Arzt gegangen?",
+    "gender": "other"
+  },
+  {
+    "word": "sogenannt-",
+    "translation": "so-called",
+    "example": "Studenten, die lange studieren, sind sogenannte Langzeitstudierende.",
+    "gender": "other"
+  },
+  {
+    "word": "sogar",
+    "translation": "even",
+    "example": "Auf dem Berg war es so kalt. Es hat sogar geschneit.",
+    "gender": "other"
+  },
+  {
+    "word": "solange",
+    "translation": "as long as",
+    "example": "Solange Sie Fieber haben, dürfen Sie auf keinen Fall arbeiten gehen.",
+    "gender": "other"
+  },
+  {
+    "word": "solch-",
+    "translation": "such",
+    "example": "Solche Schuhe finde ich toll.",
+    "gender": "other"
+  },
+  {
+    "word": "sondern",
+    "translation": "but (rather)",
+    "example": "Unser Besuch kommt nicht heute, sondern morgen.",
+    "gender": "other"
+  },
+  {
+    "word": "sonnig",
+    "translation": "sunny",
+    "example": "Das Wetter morgen: sonnig und warm.",
+    "gender": "other"
+  },
+  {
+    "word": "sonst",
+    "translation": "otherwise",
+    "example": "Haben sie sonst noch einen Wunsch? – Nein, danke. Das ist alles.",
+    "gender": "other"
+  },
+  {
+    "word": "soviel",
+    "translation": "as far as",
+    "example": "Soviel ich weiß, hat dieses Restaurant heute Ruhetag.",
+    "gender": "other"
+  },
+  {
+    "word": "so viel/so viel wie",
+    "translation": "as much (as)",
+    "example": "Ich habe so viel gegessen. Jetzt ist mir schlecht.",
+    "gender": "other"
+  },
+  {
+    "word": "sowieso",
+    "translation": "anyway",
+    "example": "Willst du mir den Brief mitgeben? Ich gehe sowieso zur Post.",
+    "gender": "other"
+  },
+  {
+    "word": "sowohl … als auch",
+    "translation": "both ... and",
+    "example": "Sowohl Sie als auch Ihre Frau müssen unterschreiben.",
+    "gender": "other"
+  },
+  {
+    "word": "sozial",
+    "translation": "social",
+    "example": "Das System ist nicht sozial.",
+    "gender": "other"
+  },
+  {
+    "word": "spannend",
+    "translation": "exciting",
+    "example": "Das Spiel war spannend bis zur letzten Minute.",
+    "gender": "other"
+  },
+  {
+    "word": "sparsam",
+    "translation": "frugal, economical",
+    "example": "Wir haben fünf Kinder. Wir müssen sehr sparsam sein.",
+    "gender": "other"
+  },
+  {
+    "word": "spät",
+    "translation": "late",
+    "example": "Wie spät ist es?",
+    "gender": "other"
+  },
+  {
+    "word": "spätestens",
+    "translation": "at the latest",
+    "example": "Ich muss spätestens um 9 Uhr bei der Arbeit sein.",
+    "gender": "other"
+  },
+  {
+    "word": "Speise-/-speise, -n",
+    "translation": "food, dish",
+    "example": "Als Vorspeise nehme ich eine Suppe, aber dafür nehme ich keine Nachspeise. (D, A)",
+    "gender": "other"
+  },
+  {
+    "word": "Spezial-",
+    "translation": "special",
+    "example": "Ich brauche eine Spezialpflege für trockenes Haar.",
+    "gender": "other"
+  },
+  {
+    "word": "speziell",
+    "translation": "special",
+    "example": "Ich suche einen ganz speziellen Ring für meine Freundin.",
+    "gender": "other"
+  },
+  {
+    "word": "spitz",
+    "translation": "sharp, pointed",
+    "example": "Der Bleistift ist nicht spitz.",
+    "gender": "other"
+  },
+  {
+    "word": "sportlich",
+    "translation": "sporty",
+    "example": "Ich bin nicht sehr sportlich.",
+    "gender": "other"
+  },
+  {
+    "word": "städtisch",
+    "translation": "urban",
+    "example": "Ich gehe gern in die städtische Bibliothek.",
+    "gender": "other"
+  },
+  {
+    "word": "ständig",
+    "translation": "permanent, constant",
+    "example": "Ich habe schon ein paar Mal bei meiner Freundin angerufen. Es ist ständig besetzt.",
+    "gender": "other"
+  },
+  {
+    "word": "stark",
+    "translation": "strong",
+    "example": "Der Kaffee ist sehr stark.",
+    "gender": "other"
+  },
+  {
+    "word": "statistisch",
+    "translation": "statistical",
+    "example": "Die statistischen Ergebnisse zeigen eine gute Entwicklung.",
+    "gender": "other"
+  },
+  {
+    "word": "statt",
+    "translation": "instead of",
+    "example": "Kann ich diese Woche statt Donnerstag am Freitag kommen?",
+    "gender": "other"
+  },
+  {
+    "word": "steil",
+    "translation": "steep",
+    "example": "Die Straße zu unserem Haus ist sehr steil.",
+    "gender": "other"
+  },
+  {
+    "word": "stilistisch",
+    "translation": "stylistic",
+    "example": "Der Text ist stilistisch sehr schön.",
+    "gender": "other"
+  },
+  {
+    "word": "still",
+    "translation": "quiet, still",
+    "example": "Sei doch mal einen Moment still!",
+    "gender": "other"
+  },
+  {
+    "word": "stolz",
+    "translation": "proud (of)",
+    "example": "Ich bin stolz auf dich. Das hast du sehr gut gemacht.",
+    "gender": "other"
+  },
+  {
+    "word": "strafbar",
+    "translation": "criminal, punishable",
+    "example": "Was du da machst, ist strafbar.",
+    "gender": "other"
+  },
+  {
+    "word": "streng",
+    "translation": "strict",
+    "example": "Unsere Tochter hat einen sehr strengen Lehrer.",
+    "gender": "other"
+  },
+  {
+    "word": "stumm",
+    "translation": "mute",
+    "example": "Stell bitte dein Handy leise oder auf stumm.",
+    "gender": "other"
+  },
+  {
+    "word": "süchtig",
+    "translation": "addicted",
+    "example": "Ich bin süchtig nach Schokolade.",
+    "gender": "other"
+  },
+  {
+    "word": "super",
+    "translation": "super",
+    "example": "Das war ein super Film!",
+    "gender": "other"
+  },
+  {
+    "word": "süß",
+    "translation": "sweet, cute",
+    "example": "Ich esse gern süße Sachen.",
+    "gender": "other"
+  },
+  {
+    "word": "sympathisch",
+    "translation": "likeable, nice",
+    "example": "Ich finde unsere neue Kollegin sehr sympathisch.",
+    "gender": "other"
+  },
+  {
+    "word": "tatsächlich",
+    "translation": "actually, in fact",
+    "example": "Die Hose ist tatsächlich zu klein, obwohl sie so groß aussieht.",
+    "gender": "other"
+  },
+  {
+    "word": "taub",
+    "translation": "deaf",
+    "example": "Sie hört schlecht, sie ist schon fast taub.",
+    "gender": "other"
+  },
+  {
+    "word": "technisch",
+    "translation": "technical",
+    "example": "Es gab ein technisches Problem.",
+    "gender": "other"
+  },
+  {
+    "word": "Tee ziehen lassen",
+    "translation": "steep the tea",
+    "example": "Diesen Tee sollte man 10 Minuten ziehen lassen.",
+    "gender": "other"
+  },
+  {
+    "word": "teuer",
+    "translation": "expensive",
+    "example": "Ich finde das Geschäft nicht teuer.",
+    "gender": "other"
+  },
+  {
+    "word": "theoretisch",
+    "translation": "theoretically",
+    "example": "Ich habe die theoretische Prüfung bestanden. Nach der praktischen habe ich den Führerschein.",
+    "gender": "other"
+  },
+  {
+    "word": "tief",
+    "translation": "deep",
+    "example": "Vorsicht, Kinder! Das Wasser ist hier sehr tief.",
+    "gender": "other"
+  },
+  {
+    "word": "tödlich",
+    "translation": "fatal",
+    "example": "Dieses Gift kann für den Menschen tödlich sein.",
+    "gender": "other"
+  },
+  {
+    "word": "tolerant",
+    "translation": "tolerant",
+    "example": "Die Nachbarn hören oft laut Musik. Wir müssen sehr tolerant sein.",
+    "gender": "other"
+  },
+  {
+    "word": "toll",
+    "translation": "great",
+    "example": "Ich habe mir ein tolles Kleid gekauft.",
+    "gender": "other"
+  },
+  {
+    "word": "tot",
+    "translation": "dead",
+    "example": "Meine Großeltern sind schon lange tot.",
+    "gender": "other"
+  },
+  {
+    "word": "total",
+    "translation": "total",
+    "example": "Der Film war total langweilig.",
+    "gender": "other"
+  },
+  {
+    "word": "traditionell",
+    "translation": "traditional",
+    "example": "Ich mag die traditionelle Küche.",
+    "gender": "other"
+  },
+  {
+    "word": "Traum-",
+    "translation": "dream",
+    "example": "Mein Traumberuf ist Feuerwehrmann.",
+    "gender": "other"
+  },
+  {
+    "word": "traurig",
+    "translation": "sad",
+    "example": "Ich bin traurig. Ich darf nicht mitfahren.",
+    "gender": "other"
+  },
+  {
+    "word": "getrennt leben",
+    "translation": "to live separately",
+    "example": "Ich lebe getrennt von meiner Frau.",
+    "gender": "other"
+  },
+  {
+    "word": "treu",
+    "translation": "loyal, faithful",
+    "example": "Herr Maier ist ein treuer Kunde von uns.",
+    "gender": "other"
+  },
+  {
+    "word": "trocken",
+    "translation": "dry",
+    "example": "Die Wäsche ist noch nicht trocken.",
+    "gender": "other"
+  },
+  {
+    "word": "trotz",
+    "translation": "despite",
+    "example": "Trotz Grippe bin ich zur Arbeit gegangen.",
+    "gender": "other"
+  },
+  {
+    "word": "trotzdem",
+    "translation": "nevertheless",
+    "example": "Es war ziemlich kalt. Trotzdem bin ich schwimmen gegangen.",
+    "gender": "other"
+  },
+  {
+    "word": "typisch",
+    "translation": "typical",
+    "example": "Im Hotel gab es typisch deutsches Essen.",
+    "gender": "other"
+  },
+  {
+    "word": "üben",
+    "translation": "practise",
+    "example": "Ich lerne gerade Gitarre spielen. Ich übe jeden Tag zwei Stunden.",
+    "gender": "other"
+  },
+  {
+    "word": "über",
+    "translation": "above, over, about",
+    "example": "Die Müllers wohnen direkt über uns.",
+    "gender": "other"
+  },
+  {
+    "word": "überall",
+    "translation": "everywhere",
+    "example": "Ich habe überall gesucht, aber meine Brille ist weg.",
+    "gender": "other"
+  },
+  {
+    "word": "überhaupt",
+    "translation": "at all",
+    "example": "Die Suppe schmeckt mir überhaupt nicht.",
+    "gender": "other"
+  },
+  {
+    "word": "übermorgen",
+    "translation": "the day after tomorrow",
+    "example": "Morgen kann ich nicht. Wir sehen uns übermorgen.",
+    "gender": "other"
+  },
+  {
+    "word": "üblich",
+    "translation": "customary, usual",
+    "example": "In Deutschland ist es üblich, früh zu Abend zu essen.",
+    "gender": "other"
+  },
+  {
+    "word": "übrig",
+    "translation": "left (over)",
+    "example": "Ist noch etwas zu essen übrig?",
+    "gender": "other"
+  },
+  {
+    "word": "übrigens",
+    "translation": "by the way",
+    "example": "Übrigens, kennst du schon die neuen Nachbarn?",
+    "gender": "other"
+  },
+  {
+    "word": "um",
+    "translation": "at (with time), around",
+    "example": "Wir treffen uns um 8 Uhr.",
+    "gender": "other"
+  },
+  {
+    "word": "um … zu",
+    "translation": "in order to",
+    "example": "Um gesund zu bleiben, musst du Sport machen und Gemüse essen.",
+    "gender": "other"
+  },
+  {
+    "word": "umgekehrt",
+    "translation": "reverse, other way around",
+    "example": "Nein, umgekehrt: erst der Vorname, dann der Nachname.",
+    "gender": "other"
+  },
+  {
+    "word": "umso",
+    "translation": "all the more",
+    "example": "Je früher wir dort sind, umso besser sind unsere Chancen auf einen guten Sitzplatz.",
+    "gender": "other"
+  },
+  {
+    "word": "umsonst",
+    "translation": "free of charge, in vain",
+    "example": "Ich musste nichts bezahlen. Die Reparatur war umsonst.",
+    "gender": "other"
+  },
+  {
+    "word": "un-",
+    "translation": "un- (negation of adjectives)",
+    "example": "Der Verkäufer war sehr unfreundlich.",
+    "gender": "other"
+  },
+  {
+    "word": "unbedingt",
+    "translation": "absolute(ly), really",
+    "example": "Ich muss unbedingt mit dir sprechen.",
+    "gender": "other"
+  },
+  {
+    "word": "und",
+    "translation": "and",
+    "example": "Ich habe heute und morgen frei.",
+    "gender": "other"
+  },
+  {
+    "word": "ungefähr",
+    "translation": "approximate(ly), about",
+    "example": "Wie weit ist es bis zum Bahnhof? – Nicht weit, ungefähr zehn Minuten zu Fuß.",
+    "gender": "other"
+  },
+  {
+    "word": "ungewöhnlich",
+    "translation": "unusual",
+    "example": "Ich finde diese Speise ungewöhnlich, aber sie schmeckt gut.",
+    "gender": "other"
+  },
+  {
+    "word": "unglaublich",
+    "translation": "incredible, unbelievable",
+    "example": "Es ist unglaublich. Schon wieder so ein Unglück.",
+    "gender": "other"
+  },
+  {
+    "word": "unheimlich",
+    "translation": "scary, uncanny, creepy",
+    "example": "Ich mag dieses Haus nicht. Es sieht unheimlich aus.",
+    "gender": "other"
+  },
+  {
+    "word": "unten",
+    "translation": "below, downstairs, at the bottom",
+    "example": "Wir wohnen im 3. Stock, meine Eltern unten im 1. Stock.",
+    "gender": "other"
+  },
+  {
+    "word": "unter",
+    "translation": "under",
+    "example": "Unter uns wohnt eine Familie mit drei Kindern.",
+    "gender": "other"
+  },
+  {
+    "word": "unter-",
+    "translation": "bottom",
+    "example": "Mein Pass ist im unteren Regal.",
+    "gender": "other"
+  },
+  {
+    "word": "untersagt",
+    "translation": "forbidden",
+    "example": "Es ist untersagt, hier zu rauchen.",
+    "gender": "other"
+  },
+  {
+    "word": "unterschiedlich",
+    "translation": "different",
+    "example": "Mein Bruder und ich sind sehr unterschiedlich. Er interessiert sich für Mathematik, ich mich für Sprachen.",
+    "gender": "other"
+  },
+  {
+    "word": "unterwegs",
+    "translation": "on the road/way",
+    "example": "Warte auf mich. Ich bin unterwegs und komme gleich.",
+    "gender": "other"
+  },
+  {
+    "word": "ursprünglich",
+    "translation": "originally",
+    "example": "Ursprünglich wollte ich in einem Restaurant arbeiten. Aber dann bin ich Busfahrerin geworden.",
+    "gender": "other"
+  },
+  {
+    "word": "vegetarisch",
+    "translation": "vegetarian",
+    "example": "Ich mag kein Fleisch. Ich esse am liebsten vegetarisch.",
+    "gender": "other"
+  },
+  {
+    "word": "verabredet",
+    "translation": "arranged",
+    "example": "Tut mir leid, ich habe keine Zeit. Ich bin mit meiner Freundin verabredet.",
+    "gender": "other"
+  },
+  {
+    "word": "verantwortlich",
+    "translation": "responsible",
+    "example": "Sie sind für Ihre Kinder verantwortlich.",
+    "gender": "other"
+  },
+  {
+    "word": "verboten",
+    "translation": "forbidden",
+    "example": "In den meisten Restaurants ist Rauchen verboten.",
+    "gender": "other"
+  },
+  {
+    "word": "verdächtig",
+    "translation": "suspicious",
+    "example": "Die Tür war nicht abgeschlossen. Das ist verdächtig.",
+    "gender": "other"
+  },
+  {
+    "word": "vergeblich",
+    "translation": "in vain",
+    "example": "Ich habe vergeblich versucht dich anzurufen.",
+    "gender": "other"
+  },
+  {
+    "word": "vergnügt",
+    "translation": "amused, happy",
+    "example": "Er kam mit einem vergnügten Grinsen herein.",
+    "gender": "other"
+  },
+  {
+    "word": "verheiratet",
+    "translation": "married",
+    "example": "Mit wem sind Sie verheiratet?",
+    "gender": "other"
+  },
+  {
+    "word": "verliebt",
+    "translation": "in love",
+    "example": "Ich bin in Francesco verliebt.",
+    "gender": "other"
+  },
+  {
+    "word": "vermutlich",
+    "translation": "probably, presumably",
+    "example": "Vermutlich sagt er die Wahrheit.",
+    "gender": "other"
+  },
+  {
+    "word": "vernünftig",
+    "translation": "reasonable",
+    "example": "Seien Sie doch vernünftig!",
+    "gender": "other"
+  },
+  {
+    "word": "verpflichtet",
+    "translation": "obligated",
+    "example": "Sie sind verpflichtet, den Unfall zu melden.",
+    "gender": "other"
+  },
+  {
+    "word": "verrückt",
+    "translation": "crazy",
+    "example": "Bist du verrückt geworden?!",
+    "gender": "other"
+  },
+  {
+    "word": "verschieden",
+    "translation": "different",
+    "example": "Unsere beiden Kinder sind sehr verschieden.",
+    "gender": "other"
+  },
+  {
+    "word": "verständlich",
+    "translation": "understandable",
+    "example": "Nach acht Stunden Schule haben die Kinder keine Lust mehr, die Hausaufgaben zu machen. Ich finde das verständlich.",
+    "gender": "other"
+  },
+  {
+    "word": "verwandt",
+    "translation": "related",
+    "example": "Sind Sie mit Frau Meyer verwandt?",
+    "gender": "other"
+  },
+  {
+    "word": "viel/viele",
+    "translation": "much/many, a lot",
+    "example": "Ich habe schon viel gelernt.",
+    "gender": "other"
+  },
+  {
+    "word": "vielleicht",
+    "translation": "maybe, perhaps",
+    "example": "Kommst du mit in die Stadt? - Ich weiß noch nicht. Vielleicht.",
+    "gender": "other"
+  },
+  {
+    "word": "virtuell",
+    "translation": "virtual",
+    "example": "Auf dieser Website kann man an einer virtuellen Stadtrundfahrt teilnehmen.",
+    "gender": "other"
+  },
+  {
+    "word": "voll",
+    "translation": "full (of)",
+    "example": "Die Flasche ist noch ganz voll.",
+    "gender": "other"
+  },
+  {
+    "word": "völlig",
+    "translation": "completely",
+    "example": "Das halte ich für völlig ausgeschlossen.",
+    "gender": "other"
+  },
+  {
+    "word": "von",
+    "translation": "from, of",
+    "example": "Ich komme gerade vom Zahnarzt.",
+    "gender": "other"
+  },
+  {
+    "word": "voneinander",
+    "translation": "from each other",
+    "example": "Wir haben lange nichts voneinander gehört.",
+    "gender": "other"
+  },
+  {
+    "word": "vor",
+    "translation": "before, ago, in front of",
+    "example": "Ich bin vor einer Woche zurückgekommen.",
+    "gender": "other"
+  },
+  {
+    "word": "vor allem",
+    "translation": "above all, especially",
+    "example": "Grüßen Sie alle von mir, vor allem Frau Meier.",
+    "gender": "other"
+  },
+  {
+    "word": "voraus",
+    "translation": "ahead",
+    "example": "Gehen Sie schon voraus.",
+    "gender": "other"
+  },
+  {
+    "word": "voraussichtlich",
+    "translation": "expected",
+    "example": "Der Zug hat voraussichtlich 20 Minuten Verspätung.",
+    "gender": "other"
+  },
+  {
+    "word": "vorbei/vorbei-",
+    "translation": "past, over",
+    "example": "Die Linie 8 fährt am Krankenhaus vorbei.",
+    "gender": "other"
+  },
+  {
+    "word": "vorder-",
+    "translation": "front",
+    "example": "In den vorderen Reihen sind noch Plätze frei.",
+    "gender": "other"
+  },
+  {
+    "word": "vorgestern",
+    "translation": "the day before yesterday",
+    "example": "Er hat mich vorgestern angerufen.",
+    "gender": "other"
+  },
+  {
+    "word": "vorher",
+    "translation": "before, previously",
+    "example": "Ich komme mit ins Café. Vorher muss ich aber noch zur Bank.",
+    "gender": "other"
+  },
+  {
+    "word": "vorhin",
+    "translation": "earlier",
+    "example": "Vorhin hat Heidrun angerufen. Du sollst sie zurückrufen.",
+    "gender": "other"
+  },
+  {
+    "word": "vorläufig",
+    "translation": "temporary, provisional",
+    "example": "Ich habe noch keine Wohnung. Ich wohne vorläufig bei einem Freund.",
+    "gender": "other"
+  },
+  {
+    "word": "vorn, vorne",
+    "translation": "at the front, beginning",
+    "example": "Bitte vorn beim Fahrer einsteigen!",
+    "gender": "other"
+  },
+  {
+    "word": "vorsichtig",
+    "translation": "careful",
+    "example": "Bitte fahr vorsichtig, die Straße ist glatt.",
+    "gender": "other"
+  },
+  {
+    "word": "vorwärts",
+    "translation": "forward",
+    "example": "Ich kann nicht vorbei. Bitte fahr noch ein Stück vorwärts.",
+    "gender": "other"
+  },
+  {
+    "word": "waagerecht",
+    "translation": "horizontal",
+    "example": "Ziehen Sie bitte einen waagerechten Strich.",
+    "gender": "other"
+  },
+  {
+    "word": "wach",
+    "translation": "awake",
+    "example": "Bist du schon lange wach?",
+    "gender": "other"
+  },
+  {
+    "word": "wahnsinnig",
+    "translation": "insane",
+    "example": "Du fährst viel zu schnell. Bist du wahnsinnig?!",
+    "gender": "other"
+  },
+  {
+    "word": "wahr",
+    "translation": "true",
+    "example": "Was ich sage, ist wahr.",
+    "gender": "other"
+  },
+  {
+    "word": "während",
+    "translation": "while, during",
+    "example": "Während ich arbeite, höre ich oft Musik.",
+    "gender": "other"
+  },
+  {
+    "word": "wahrscheinlich",
+    "translation": "probably",
+    "example": "Wahrscheinlich mache ich im Herbst noch einen Deutschkurs.",
+    "gender": "other"
+  },
+  {
+    "word": "wann",
+    "translation": "when",
+    "example": "Wann kommst du?",
+    "gender": "other"
+  },
+  {
+    "word": "warm",
+    "translation": "warm",
+    "example": "Hier ist es sehr warm.",
+    "gender": "other"
+  },
+  {
+    "word": "warum",
+    "translation": "why",
+    "example": "Warum besuchst du mich nicht?",
+    "gender": "other"
+  },
+  {
+    "word": "was",
+    "translation": "what",
+    "example": "Was ist das?",
+    "gender": "other"
+  },
+  {
+    "word": "was für ein-",
+    "translation": "what kind of",
+    "example": "Ich will mir ein Auto kaufen. – Was denn für eins?",
+    "gender": "other"
+  },
+  {
+    "word": "weder … noch",
+    "translation": "neither ... nor",
+    "example": "Für Urlaub haben wir weder Zeit noch Geld.",
+    "gender": "other"
+  },
+  {
+    "word": "weg/weg-",
+    "translation": "gone, away",
+    "example": "Meine Handtasche ist weg!",
+    "gender": "other"
+  },
+  {
+    "word": "wegen",
+    "translation": "because of, due to",
+    "example": "Wegen Nebels konnte unser Flugzeug nicht landen.",
+    "gender": "other"
+  },
+  {
+    "word": "weiblich",
+    "translation": "female",
+    "example": "Kreuzen Sie bitte an: „weiblich“ oder „männlich“.",
+    "gender": "other"
+  },
+  {
+    "word": "weich",
+    "translation": "soft",
+    "example": "Ich möchte zum Frühstück ein weiches Ei.",
+    "gender": "other"
+  },
+  {
+    "word": "weil",
+    "translation": "because",
+    "example": "Ich kann nicht kommen, weil ich krank bin.",
+    "gender": "other"
+  },
+  {
+    "word": "-weise",
+    "translation": "-ly, -wise",
+    "example": "War der Test schwierig? – Teilweise.",
+    "gender": "other"
+  },
+  {
+    "word": "weit",
+    "translation": "wide",
+    "example": "Wie weit ist es noch bis München?",
+    "gender": "other"
+  },
+  {
+    "word": "weiter/weiter-",
+    "translation": "further",
+    "example": "Ich möchte nicht stören. Bitte essen Sie ruhig weiter.",
+    "gender": "other"
+  },
+  {
+    "word": "welcher, welche, welches",
+    "translation": "which",
+    "example": "Welcher Tag ist heute?",
+    "gender": "other"
+  },
+  {
+    "word": "weltweit",
+    "translation": "worldwide",
+    "example": "Unsere Firma produziert für den weltweiten Markt.",
+    "gender": "other"
+  },
+  {
+    "word": "wenig/wenige",
+    "translation": "little, few",
+    "example": "Essen Sie immer so wenig?",
+    "gender": "other"
+  },
+  {
+    "word": "wenigstens",
+    "translation": "at (the) least",
+    "example": "Ich habe keinen Hunger. – Ach, essen Sie wenigstens ein Stück Kuchen.",
+    "gender": "other"
+  },
+  {
+    "word": "wenn",
+    "translation": "if, when",
+    "example": "Kommst du zu der Party? - Vielleicht, wenn ich nicht arbeiten muss.",
+    "gender": "other"
+  },
+  {
+    "word": "wer",
+    "translation": "who",
+    "example": "Wer ist das? Kennst du die Frau?",
+    "gender": "other"
+  },
+  {
+    "word": "wert",
+    "translation": "worth",
+    "example": "Das Auto ist vielleicht noch 1000 Euro wert.",
+    "gender": "other"
+  },
+  {
+    "word": "wertlos",
+    "translation": "worthless",
+    "example": "Diese alten Geldscheine sind heute völlig wertlos.",
+    "gender": "other"
+  },
+  {
+    "word": "wertvoll",
+    "translation": "valuable",
+    "example": "Ich habe einen sehr wertvollen Ring von meiner Großmutter.",
+    "gender": "other"
+  },
+  {
+    "word": "weshalb",
+    "translation": "why",
+    "example": "Weshalb rufst du an?",
+    "gender": "other"
+  },
+  {
+    "word": "wichtig",
+    "translation": "important",
+    "example": "Die Prüfung ist sehr wichtig für mich.",
+    "gender": "other"
+  },
+  {
+    "word": "wie",
+    "translation": "how, as/like",
+    "example": "Wie heißt du?",
+    "gender": "other"
+  },
+  {
+    "word": "wieder/wieder-",
+    "translation": "again",
+    "example": "Wann kommst du wieder?",
+    "gender": "other"
+  },
+  {
+    "word": "wild",
+    "translation": "wild",
+    "example": "Das ist ein wilder Fluss.",
+    "gender": "other"
+  },
+  {
+    "word": "wieso",
+    "translation": "why",
+    "example": "Wie lange sind Sie hier? – Wieso fragen Sie?",
+    "gender": "other"
+  },
+  {
+    "word": "wie viel(e)",
+    "translation": "how much/many",
+    "example": "Wie viel Geld hast du dabei?",
+    "gender": "other"
+  },
+  {
+    "word": "willkommen",
+    "translation": "welcome",
+    "example": "Herzlich willkommen in Köln.",
+    "gender": "other"
+  },
+  {
+    "word": "windig",
+    "translation": "windy",
+    "example": "Es ist heute sehr windig.",
+    "gender": "other"
+  },
+  {
+    "word": "wirklich",
+    "translation": "really",
+    "example": "Du glaubst mir nicht? Es ist aber wirklich so.",
+    "gender": "other"
+  },
+  {
+    "word": "wo",
+    "translation": "where",
+    "example": "Wo waren Sie im Urlaub?",
+    "gender": "other"
+  },
+  {
+    "word": "woher",
+    "translation": "where from",
+    "example": "Woher kommst du?",
+    "gender": "other"
+  },
+  {
+    "word": "wohin",
+    "translation": "where to",
+    "example": "Wohin kommt der Schrank?",
+    "gender": "other"
+  },
+  {
+    "word": "wohl",
+    "translation": "well, probably",
+    "example": "Kann ich nach Hause gehen? Ich fühle mich nicht wohl.",
+    "gender": "other"
+  },
+  {
+    "word": "bewölkt",
+    "translation": "cloudy",
+    "example": "Heute ist es stark bewölkt.",
+    "gender": "other"
+  },
+  {
+    "word": "worüber",
+    "translation": "what about",
+    "example": "Worüber lachen Sie?",
+    "gender": "other"
+  },
+  {
+    "word": "worum",
+    "translation": "what about",
+    "example": "Kann ich Herrn Meier sprechen? – Worum geht es denn?",
+    "gender": "other"
+  },
+  {
+    "word": "wunderbar",
+    "translation": "wonderful",
+    "example": "Im ganzen Urlaub hatten wir wunderbares Wetter.",
+    "gender": "other"
+  },
+  {
+    "word": "wunderschön",
+    "translation": "beautiful",
+    "example": "Wir haben einen Ausflug gemacht. Es war wunderschön.",
+    "gender": "other"
+  },
+  {
+    "word": "wütend",
+    "translation": "angry",
+    "example": "Warum bist du so wütend?",
+    "gender": "other"
+  },
+  {
+    "word": "zahlreich",
+    "translation": "numerous",
+    "example": "Die Gäste sind zahlreich gekommen. Es gibt zahlreiche Beispiele für gute Zusammenarbeit.",
+    "gender": "other"
+  },
+  {
+    "word": "zurzeit",
+    "translation": "currently",
+    "example": "Zurzeit habe ich sehr viel zu tun.",
+    "gender": "other"
+  },
+  {
+    "word": "zentral",
+    "translation": "central",
+    "example": "Wir suchen eine Zweizimmerwohnung in zentraler Lage.",
+    "gender": "other"
+  },
+  {
+    "word": "ziemlich",
+    "translation": "pretty, quite",
+    "example": "Ich bin schon ziemlich müde. Ich gehe ins Bett.",
+    "gender": "other"
+  },
+  {
+    "word": "zu",
+    "translation": "to, at, too",
+    "example": "Ich bringe Sie zum Bahnhof.",
+    "gender": "other"
+  },
+  {
+    "word": "zuerst",
+    "translation": "(at) first",
+    "example": "Wer war zuerst? – Der Herr hier.",
+    "gender": "other"
+  },
+  {
+    "word": "zufällig",
+    "translation": "random, by chance",
+    "example": "Wir haben uns zufällig am Bahnhof getroffen.",
+    "gender": "other"
+  },
+  {
+    "word": "zufrieden",
+    "translation": "satisfied (with)",
+    "example": "Meine Kinder haben heute Zeugnisse bekommen. Ich bin zufrieden.",
+    "gender": "other"
+  },
+  {
+    "word": "zugänglich",
+    "translation": "accessible",
+    "example": "Der Park ist für alle zugänglich.",
+    "gender": "other"
+  },
+  {
+    "word": "zukünftig",
+    "translation": "in the future, future",
+    "example": "Ich bitte dich, zukünftig früher zu kommen.",
+    "gender": "other"
+  },
+  {
+    "word": "zuletzt",
+    "translation": "(at) last",
+    "example": "Die Kleider packen wir zuletzt ein.",
+    "gender": "other"
+  },
+  {
+    "word": "zumindest",
+    "translation": "at least",
+    "example": "Ich möchte nicht in der Stadt wohnen, zumindest jetzt nicht, wenn die Kinder noch so klein sind.",
+    "gender": "other"
+  },
+  {
+    "word": "zunächst",
+    "translation": "first (of all), at first",
+    "example": "Zunächst möchte ich alle begrüßen!",
+    "gender": "other"
+  },
+  {
+    "word": "zurück/zurück-",
+    "translation": "back",
+    "example": "Bitte eine Fahrkarte nach Frankfurt und zurück!",
+    "gender": "other"
+  },
+  {
+    "word": "zusammen/zusammen-",
+    "translation": "together",
+    "example": "Wir haben als Kinder oft zusammen gespielt.",
+    "gender": "other"
+  },
+  {
+    "word": "zusätzlich",
+    "translation": "additional",
+    "example": "Sie müssen in Zukunft eine Stunde zusätzlich arbeiten.",
+    "gender": "other"
+  },
+  {
+    "word": "zuständig",
+    "translation": "responsible",
+    "example": "Wir haben ein Problem mit der Heizung. Wer ist dafür zuständig?",
+    "gender": "other"
+  },
+  {
+    "word": "zuverlässig",
+    "translation": "reliable",
+    "example": "Der Kollege kommt bestimmt gleich. Er ist immer sehr zuverlässig.",
+    "gender": "other"
+  },
+  {
+    "word": "zwar",
+    "translation": "although, namely",
+    "example": "Diese Schuhe sind zwar teuer, aber gut.",
+    "gender": "other"
+  },
+  {
+    "word": "zwischen",
+    "translation": "between",
+    "example": "Das Regal stellen wir zwischen die beiden Schränke.",
+    "gender": "other"
+  }
+]

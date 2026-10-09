@@ -1,0 +1,3908 @@
+[
+  {
+    "word": "abbiegen",
+    "translation": "to turn off",
+    "example": "An der nächsten Kreuzung müssen Sie links abbiegen.",
+    "gender": "verb"
+  },
+  {
+    "word": "abfahren",
+    "translation": "to depart",
+    "example": "Unser Zug ist pünktlich abgefahren.",
+    "gender": "verb"
+  },
+  {
+    "word": "abgeben",
+    "translation": "to hand in/off",
+    "example": "Ich soll dieses Päckchen bei Herrn Müller abgeben.",
+    "gender": "verb"
+  },
+  {
+    "word": "abhängen",
+    "translation": "to depend on",
+    "example": "Vielleicht bleiben wir ein paar Tage länger, das hängt vom Wetter ab.",
+    "gender": "verb"
+  },
+  {
+    "word": "abheben",
+    "translation": "to lift up/off, take off",
+    "example": "Für die Reise habe ich 500 Euro von meinem Konto abgehoben.",
+    "gender": "verb"
+  },
+  {
+    "word": "abholen",
+    "translation": "to pick up",
+    "example": "Meine Freundin hat mich vom Bahnhof abgeholt.",
+    "gender": "verb"
+  },
+  {
+    "word": "abschreiben",
+    "translation": "to write off, copy",
+    "example": "Er hat die Hausaufgaben von mir abgeschrieben.",
+    "gender": "verb"
+  },
+  {
+    "word": "ablehnen",
+    "translation": "to refuse, reject",
+    "example": "Er hat mein Angebot, ihm zu helfen, abgelehnt.",
+    "gender": "verb"
+  },
+  {
+    "word": "abmachen",
+    "translation": "to arrange, agree, take off",
+    "example": "Wir hatten doch abgemacht, dass du die Getränke besorgst.",
+    "gender": "verb"
+  },
+  {
+    "word": "abnehmen",
+    "translation": "to lose weight, remove",
+    "example": "Morgen können wir den Verband abnehmen.",
+    "gender": "verb"
+  },
+  {
+    "word": "abonnieren",
+    "translation": "to subscribe",
+    "example": "Diese Zeitschrift würde ich gerne abonnieren.",
+    "gender": "verb"
+  },
+  {
+    "word": "absagen",
+    "translation": "to cancel",
+    "example": "Ich muss unser Treffen leider absagen, weil ich krank geworden bin.",
+    "gender": "verb"
+  },
+  {
+    "word": "abstimmen",
+    "translation": "to vote (on)",
+    "example": "Lasst uns über diesen Punkt abstimmen.",
+    "gender": "verb"
+  },
+  {
+    "word": "abwaschen",
+    "translation": "to wash, wash off",
+    "example": "Ich muss noch das Geschirr abwaschen.",
+    "gender": "verb"
+  },
+  {
+    "word": "achten",
+    "translation": "to pay attention (to)",
+    "example": "Achten Sie bitte darauf, dass Sie abschließen, wenn Sie gehen.",
+    "gender": "verb"
+  },
+  {
+    "word": "akzeptieren",
+    "translation": "to accept",
+    "example": "Ich kann diese Bedingungen nicht akzeptieren.",
+    "gender": "verb"
+  },
+  {
+    "word": "sich amüsieren",
+    "translation": "to have fun",
+    "example": "Bei dem Fest haben wir uns sehr gut amüsiert.",
+    "gender": "verb"
+  },
+  {
+    "word": "analysieren",
+    "translation": "to analyze",
+    "example": "Die Politiker analysieren die Situation auf dem Arbeitsmarkt.",
+    "gender": "verb"
+  },
+  {
+    "word": "anbieten",
+    "translation": "to offer",
+    "example": "Darf ich Ihnen etwas zu trinken anbieten?",
+    "gender": "verb"
+  },
+  {
+    "word": "ändern",
+    "translation": "to change",
+    "example": "Das Wetter hat sich geändert.",
+    "gender": "verb"
+  },
+  {
+    "word": "anerkennen",
+    "translation": "to recognize",
+    "example": "Meine Ausbildung wird hier nicht anerkannt.",
+    "gender": "verb"
+  },
+  {
+    "word": "anfangen",
+    "translation": "to start (with)",
+    "example": "Wann fängst du mit der Arbeit an?",
+    "gender": "verb"
+  },
+  {
+    "word": "angeben",
+    "translation": "to specify",
+    "example": "Bitte geben Sie Ihre genaue Adresse an.",
+    "gender": "verb"
+  },
+  {
+    "word": "anhaben",
+    "translation": "to wear, have (sth.) on",
+    "example": "Gestern hatte Julia ein rotes Kleid an.",
+    "gender": "verb"
+  },
+  {
+    "word": "anklicken",
+    "translation": "to click",
+    "example": "Du musst das Bild anklicken. Dann wird es größer.",
+    "gender": "verb"
+  },
+  {
+    "word": "ankommen",
+    "translation": "to arrive",
+    "example": "Wann kommt der Zug in Hamburg an?",
+    "gender": "verb"
+  },
+  {
+    "word": "ankündigen",
+    "translation": "to announce",
+    "example": "Wir sollten unseren Besuch ankündigen.",
+    "gender": "verb"
+  },
+  {
+    "word": "anmelden",
+    "translation": "to register",
+    "example": "Für diesen Kurs müssen Sie sich unbedingt vorher anmelden.",
+    "gender": "verb"
+  },
+  {
+    "word": "annehmen",
+    "translation": "to accept, assume",
+    "example": "Ich nehme Ihre Einladung gern an.",
+    "gender": "verb"
+  },
+  {
+    "word": "anrufen",
+    "translation": "to call (by phone)",
+    "example": "Ich rufe Sie heute Abend an.",
+    "gender": "verb"
+  },
+  {
+    "word": "anschaffen",
+    "translation": "to purchase, acquire",
+    "example": "Wir haben uns neue Möbel angeschafft.",
+    "gender": "verb"
+  },
+  {
+    "word": "anschließen",
+    "translation": "to connect",
+    "example": "Wo kann ich den Computer anschließen?",
+    "gender": "verb"
+  },
+  {
+    "word": "anschnallen",
+    "translation": "to buckle up",
+    "example": "Vergiss nicht, dich anzuschnallen.",
+    "gender": "verb"
+  },
+  {
+    "word": "ansehen",
+    "translation": "to look at, view",
+    "example": "Warum siehst du mich so erschrocken an?",
+    "gender": "verb"
+  },
+  {
+    "word": "ansprechen",
+    "translation": "to speak to, address",
+    "example": "Gestern hat mich unsere neue Nachbarin im Treppenhaus angesprochen.",
+    "gender": "verb"
+  },
+  {
+    "word": "anstellen",
+    "translation": "to employ, turn on, place",
+    "example": "Können Sie bitte die Heizung anstellen?",
+    "gender": "verb"
+  },
+  {
+    "word": "sich anstrengen",
+    "translation": "to make an effort",
+    "example": "Diese Arbeit strengt mich sehr an.",
+    "gender": "verb"
+  },
+  {
+    "word": "anwenden",
+    "translation": "to apply",
+    "example": "Diese Salbe muss man dreimal am Tag anwenden.",
+    "gender": "verb"
+  },
+  {
+    "word": "antworten",
+    "translation": "to answer, reply (to)",
+    "example": "Jorge hat seit drei Wochen nicht auf meinen Brief geantwortet.",
+    "gender": "verb"
+  },
+  {
+    "word": "anzeigen",
+    "translation": "to display, report (to police)",
+    "example": "Wenn Sie hier parken, zeige ich Sie an.",
+    "gender": "verb"
+  },
+  {
+    "word": "(sich) anziehen",
+    "translation": "to get dressed",
+    "example": "Du musst dich wärmer anziehen, sonst erkältest du dich.",
+    "gender": "verb"
+  },
+  {
+    "word": "arbeiten",
+    "translation": "to work on/for",
+    "example": "Er arbeitet heute bis 16 Uhr.",
+    "gender": "verb"
+  },
+  {
+    "word": "(sich) ärgern",
+    "translation": "to get angry (about), to annoy",
+    "example": "Ärgern Sie sich nicht.",
+    "gender": "verb"
+  },
+  {
+    "word": "atmen",
+    "translation": "to breathe",
+    "example": "Er hat eine Erkältung und kann nicht durch die Nase atmen.",
+    "gender": "verb"
+  },
+  {
+    "word": "auffallen",
+    "translation": "to stand out",
+    "example": "Mir ist aufgefallen, dass Harriett ganz blass ist.",
+    "gender": "verb"
+  },
+  {
+    "word": "auffordern",
+    "translation": "to ask, prompt",
+    "example": "Sie forderte mich auf, meine Meinung zu sagen.",
+    "gender": "verb"
+  },
+  {
+    "word": "aufführen",
+    "translation": "to perform",
+    "example": "Die Kinder führen zu Weihnachten ein Theaterstück auf.",
+    "gender": "verb"
+  },
+  {
+    "word": "aufgeben",
+    "translation": "to give up",
+    "example": "Ich habe auf der Post ein Paket aufgegeben.",
+    "gender": "verb"
+  },
+  {
+    "word": "aufhalten",
+    "translation": "to stay, hold up, stop",
+    "example": "Wo hält er sich gerade auf? – In München.",
+    "gender": "verb"
+  },
+  {
+    "word": "aufheben",
+    "translation": "to lift up, to keep in a safe place",
+    "example": "Lassen Sie die Papiere nur auf dem Boden liegen, ich hebe sie schon auf.",
+    "gender": "verb"
+  },
+  {
+    "word": "aufhören",
+    "translation": "to stop (with)",
+    "example": "Es hört nicht auf zu schneien.",
+    "gender": "verb"
+  },
+  {
+    "word": "aufladen",
+    "translation": "to charge",
+    "example": "Ich muss mein Telefon aufladen. Die Batterie ist leer.",
+    "gender": "verb"
+  },
+  {
+    "word": "auflösen",
+    "translation": "to dissolve",
+    "example": "Die Tablette bitte in Wasser auflösen.",
+    "gender": "verb"
+  },
+  {
+    "word": "aufnehmen",
+    "translation": "to record, take in, absorb",
+    "example": "Wir haben Aneta in unseren Verein aufgenommen.",
+    "gender": "verb"
+  },
+  {
+    "word": "aufpassen",
+    "translation": "to watch out (for), look after",
+    "example": "Tut mir leid. Da habe ich wohl nicht aufgepasst.",
+    "gender": "verb"
+  },
+  {
+    "word": "aufräumen",
+    "translation": "to tidy up",
+    "example": "Vor meinem Urlaub muss ich unbedingt noch meinen Schreibtisch aufräumen.",
+    "gender": "verb"
+  },
+  {
+    "word": "(sich) aufregen",
+    "translation": "to upset/get upset (about), excite",
+    "example": "Es regt mich auf, dass ich schon wieder Überstunden machen muss.",
+    "gender": "verb"
+  },
+  {
+    "word": "aufstehen",
+    "translation": "to stand up",
+    "example": "Ich stehe jeden Morgen um sechs Uhr auf.",
+    "gender": "verb"
+  },
+  {
+    "word": "auftreten",
+    "translation": "to occur, appear, perform",
+    "example": "Nächste Woche tritt in der Stadthalle eine berühmte Musikgruppe auf.",
+    "gender": "verb"
+  },
+  {
+    "word": "aufwachen",
+    "translation": "to wake up",
+    "example": "Von dem Lärm bin ich aufgewacht.",
+    "gender": "verb"
+  },
+  {
+    "word": "ausdrucken",
+    "translation": "to print",
+    "example": "Kann ich das auf deinem Drucker ausdrucken?",
+    "gender": "verb"
+  },
+  {
+    "word": "ausfallen",
+    "translation": "to be canceled, fail, fall out",
+    "example": "Nächste Woche fällt der Kurs aus.",
+    "gender": "verb"
+  },
+  {
+    "word": "ausfüllen",
+    "translation": "to fill in/out, complete",
+    "example": "Füllen Sie bitte dieses Formular aus!",
+    "gender": "verb"
+  },
+  {
+    "word": "ausgeben",
+    "translation": "to spend (on)",
+    "example": "Carola gibt viel Geld für ihr Hobby aus.",
+    "gender": "verb"
+  },
+  {
+    "word": "ausgehen",
+    "translation": "to go out",
+    "example": "Plötzlich ist das Licht ausgegangen.",
+    "gender": "verb"
+  },
+  {
+    "word": "ausmachen",
+    "translation": "to turn off, matter, arrange",
+    "example": "Sie müssen leider warten. – Kein Problem. Das macht mir nichts aus.",
+    "gender": "verb"
+  },
+  {
+    "word": "ausreichen",
+    "translation": "to suffice",
+    "example": "Das Geld muss bis März ausreichen.",
+    "gender": "verb"
+  },
+  {
+    "word": "ausrichten",
+    "translation": "to host, align, convey (a message)",
+    "example": "Mein Mann ist nicht da. Soll ich ihm etwas ausrichten?",
+    "gender": "verb"
+  },
+  {
+    "word": "(sich) ausruhen",
+    "translation": "to rest",
+    "example": "Sie ruhen sich von der Arbeit aus.",
+    "gender": "verb"
+  },
+  {
+    "word": "ausschließen",
+    "translation": "to exclude",
+    "example": "Das kann man nicht ganz ausschließen.",
+    "gender": "verb"
+  },
+  {
+    "word": "aussehen",
+    "translation": "to look",
+    "example": "Sie sehen wieder besser aus. Sind Sie wieder gesund?",
+    "gender": "verb"
+  },
+  {
+    "word": "aussprechen",
+    "translation": "to pronounce",
+    "example": "Wie spricht man dieses Wort aus?",
+    "gender": "verb"
+  },
+  {
+    "word": "ausstellen",
+    "translation": "to exhibit, issue",
+    "example": "Im Schaufenster sind Winterschuhe ausgestellt.",
+    "gender": "verb"
+  },
+  {
+    "word": "(sich etwas) aussuchen",
+    "translation": "to choose something",
+    "example": "Such dir etwas Schönes aus! Ich lade dich ein.",
+    "gender": "verb"
+  },
+  {
+    "word": "auswählen",
+    "translation": "to select",
+    "example": "Für die Aufgabe können Sie aus drei Themen auswählen.",
+    "gender": "verb"
+  },
+  {
+    "word": "ausziehen",
+    "translation": "to move out, take off (clothes)",
+    "example": "Willst du den Mantel nicht ausziehen?",
+    "gender": "verb"
+  },
+  {
+    "word": "backen",
+    "translation": "to bake",
+    "example": "Wenn du kommst, backe ich einen Kuchen.",
+    "gender": "verb"
+  },
+  {
+    "word": "baden",
+    "translation": "to bathe, swim",
+    "example": "Wenn du baden möchtest: Das Badezimmer ist dort hinten links.",
+    "gender": "verb"
+  },
+  {
+    "word": "basteln",
+    "translation": "to craft, make things with hands",
+    "example": "Die Kinder basteln ein Vogelhaus.",
+    "gender": "verb"
+  },
+  {
+    "word": "bauen",
+    "translation": "to build",
+    "example": "Mein Nachbar hat ein Haus gebaut.",
+    "gender": "verb"
+  },
+  {
+    "word": "beachten",
+    "translation": "to note, observe",
+    "example": "Bitte beachten Sie die Ansagen am Bahnsteig.",
+    "gender": "verb"
+  },
+  {
+    "word": "beantragen",
+    "translation": "to apply for",
+    "example": "Hast du schon einen neuen Pass beantragt?",
+    "gender": "verb"
+  },
+  {
+    "word": "beantworten",
+    "translation": "to answer",
+    "example": "Sie haben meine Frage leider nicht beantwortet.",
+    "gender": "verb"
+  },
+  {
+    "word": "sich bedanken",
+    "translation": "to thank sb. (bei) for sth. (für)",
+    "example": "Ich möchte mich noch einmal sehr herzlich für Ihre Hilfe bedanken.",
+    "gender": "verb"
+  },
+  {
+    "word": "bedeuten",
+    "translation": "to mean",
+    "example": "Was bedeutet dieses Wort?",
+    "gender": "verb"
+  },
+  {
+    "word": "bedienen",
+    "translation": "to serve",
+    "example": "Werden Sie schon bedient?",
+    "gender": "verb"
+  },
+  {
+    "word": "sich beeilen",
+    "translation": "to hurry up",
+    "example": "Wir müssen uns beeilen. Sonst verpassen wir den Zug.",
+    "gender": "verb"
+  },
+  {
+    "word": "beenden",
+    "translation": "to finish",
+    "example": "Du musst deine Ausbildung auf jeden Fall beenden.",
+    "gender": "verb"
+  },
+  {
+    "word": "sich befinden",
+    "translation": "to be located",
+    "example": "Das Bord-Bistro befindet sich in der Mitte des Zuges.",
+    "gender": "verb"
+  },
+  {
+    "word": "begegnen",
+    "translation": "to encounter",
+    "example": "Sind wir uns nicht schon mal irgendwann begegnet?",
+    "gender": "verb"
+  },
+  {
+    "word": "beginnen",
+    "translation": "to start",
+    "example": "In zwei Wochen beginnen die Sommerferien.",
+    "gender": "verb"
+  },
+  {
+    "word": "begleiten",
+    "translation": "to accompany",
+    "example": "Ich begleite dich ein Stück.",
+    "gender": "verb"
+  },
+  {
+    "word": "begründen",
+    "translation": "to justify",
+    "example": "Bitte begründen Sie Ihre Meinung.",
+    "gender": "verb"
+  },
+  {
+    "word": "begrüßen",
+    "translation": "to welcome",
+    "example": "Der Gastgeber begrüßt seine Gäste.",
+    "gender": "verb"
+  },
+  {
+    "word": "behalten",
+    "translation": "to keep",
+    "example": "Darf ich die Zeitschrift behalten?",
+    "gender": "verb"
+  },
+  {
+    "word": "behandeln",
+    "translation": "to treat",
+    "example": "Welcher Arzt hat Sie bis jetzt behandelt?",
+    "gender": "verb"
+  },
+  {
+    "word": "behaupten",
+    "translation": "to claim",
+    "example": "Er behauptet, unsere Meinung sei nicht wichtig.",
+    "gender": "verb"
+  },
+  {
+    "word": "behindern",
+    "translation": "to hinder",
+    "example": "Bitte parken Sie so, dass Sie niemanden behindern.",
+    "gender": "verb"
+  },
+  {
+    "word": "beißen",
+    "translation": "to bite",
+    "example": "Pass auf, dass dich der Hund nicht beißt!",
+    "gender": "verb"
+  },
+  {
+    "word": "bekannt geben",
+    "translation": "to announce",
+    "example": "Den Prüfungsort geben wir Ihnen noch rechtzeitig bekannt.",
+    "gender": "verb"
+  },
+  {
+    "word": "bekommen",
+    "translation": "to get, receive",
+    "example": "Haben Sie meinen Brief bekommen?",
+    "gender": "verb"
+  },
+  {
+    "word": "beleidigen",
+    "translation": "to insult, offend",
+    "example": "Ich wollte Sie nicht beleidigen.",
+    "gender": "verb"
+  },
+  {
+    "word": "bemerken",
+    "translation": "to notice",
+    "example": "Ich habe nicht bemerkt, dass das Fenster offen ist.",
+    "gender": "verb"
+  },
+  {
+    "word": "sich bemühen",
+    "translation": "to endeavor",
+    "example": "Er hat sich sehr bemüht, etwas Gutes zu kochen.",
+    "gender": "verb"
+  },
+  {
+    "word": "benötigen",
+    "translation": "to need",
+    "example": "Sagen Sie Bescheid, wenn Sie noch etwas benötigen.",
+    "gender": "verb"
+  },
+  {
+    "word": "benutzen",
+    "translation": "to use",
+    "example": "Benutzen Sie bitte die öffentlichen Verkehrsmittel.",
+    "gender": "verb"
+  },
+  {
+    "word": "beobachten",
+    "translation": "to observe",
+    "example": "Wer hat den Unfall beobachtet?",
+    "gender": "verb"
+  },
+  {
+    "word": "beraten",
+    "translation": "to advise",
+    "example": "Unser Personal berät Sie gern, wenn Sie Fragen haben.",
+    "gender": "verb"
+  },
+  {
+    "word": "berechnen",
+    "translation": "to calculate",
+    "example": "Die Kosten für die Fahrt müssen erst berechnet werden.",
+    "gender": "verb"
+  },
+  {
+    "word": "berichten",
+    "translation": "to report (on)",
+    "example": "Alle Zeitungen haben über den Unfall berichtet.",
+    "gender": "verb"
+  },
+  {
+    "word": "beruhigen",
+    "translation": "to calm, reassure",
+    "example": "Beruhigen Sie sich bitte. Es ist alles in Ordnung.",
+    "gender": "verb"
+  },
+  {
+    "word": "beschädigen",
+    "translation": "to damage",
+    "example": "Bitte machen Sie eine Liste davon, was die Einbrecher beschädigt haben.",
+    "gender": "verb"
+  },
+  {
+    "word": "(sich) beschäftigen",
+    "translation": "to employ, occupy oneself (with)",
+    "example": "Womit haben Sie sich bei Ihrer Arbeit beschäftigt?",
+    "gender": "verb"
+  },
+  {
+    "word": "beschließen",
+    "translation": "to decide",
+    "example": "Wir haben beschlossen, uns ein kleineres Auto zu kaufen.",
+    "gender": "verb"
+  },
+  {
+    "word": "beschreiben",
+    "translation": "to describe",
+    "example": "Kannst du mir den Weg zum Flughafen beschreiben?",
+    "gender": "verb"
+  },
+  {
+    "word": "sich beschweren",
+    "translation": "to complain to sb. (bei) about sth. (über)",
+    "example": "Ich beschwerte mich beim Ober über ein Haar in meinem Essen.",
+    "gender": "verb"
+  },
+  {
+    "word": "besetzen",
+    "translation": "to occupy",
+    "example": "Dieser Platz ist besetzt.",
+    "gender": "verb"
+  },
+  {
+    "word": "besichtigen",
+    "translation": "to visit",
+    "example": "Im Urlaub haben wir Schloss Schönbrunn besichtigt.",
+    "gender": "verb"
+  },
+  {
+    "word": "besitzen",
+    "translation": "to own",
+    "example": "Besitzt Ihre Frau ein eigenes Auto?",
+    "gender": "verb"
+  },
+  {
+    "word": "besorgen",
+    "translation": "to get sb. sth., provide",
+    "example": "Soll ich die Eintrittskarten besorgen?",
+    "gender": "verb"
+  },
+  {
+    "word": "besprechen",
+    "translation": "to discuss",
+    "example": "Wir müssen noch genau besprechen, wann wir losfahren und was wir mitnehmen.",
+    "gender": "verb"
+  },
+  {
+    "word": "bestätigen",
+    "translation": "to confirm",
+    "example": "Die Firma hat mir den Termin schriftlich bestätigt.",
+    "gender": "verb"
+  },
+  {
+    "word": "bestehen",
+    "translation": "to consist of (aus), pass (an exam), insist on (auf)",
+    "example": "Das Modul Lesen besteht aus fünf Teilen.",
+    "gender": "verb"
+  },
+  {
+    "word": "bestellen",
+    "translation": "to order, tell sb. sth.",
+    "example": "Wir haben Pizza bestellt.",
+    "gender": "verb"
+  },
+  {
+    "word": "bestrafen",
+    "translation": "to punish",
+    "example": "Zu schnelles Fahren wird streng bestraft.",
+    "gender": "verb"
+  },
+  {
+    "word": "besuchen",
+    "translation": "to visit",
+    "example": "Besuchen Sie uns doch mal.",
+    "gender": "verb"
+  },
+  {
+    "word": "sich beteiligen",
+    "translation": "to participate",
+    "example": "Wir wollen unserer Lehrerin ein Geschenk kaufen. Wer möchte sich beteiligen?",
+    "gender": "verb"
+  },
+  {
+    "word": "betreuen",
+    "translation": "to look after sb., supervise",
+    "example": "Wer betreut bei Ihnen die Kinder?",
+    "gender": "verb"
+  },
+  {
+    "word": "betrügen",
+    "translation": "to cheat",
+    "example": "Ich würde meine Familie niemals betrügen.",
+    "gender": "verb"
+  },
+  {
+    "word": "(sich) bewegen",
+    "translation": "to move",
+    "example": "Ich kann mich vor Schmerzen kaum noch bewegen.",
+    "gender": "verb"
+  },
+  {
+    "word": "beweisen",
+    "translation": "to prove",
+    "example": "Wir können beweisen, dass Sie bei Rot über die Ampel gefahren sind.",
+    "gender": "verb"
+  },
+  {
+    "word": "sich bewerben",
+    "translation": "to apply (for)",
+    "example": "Ich habe mich um diese Stelle beworben.",
+    "gender": "verb"
+  },
+  {
+    "word": "bezahlen",
+    "translation": "to pay",
+    "example": "Hast du die Rechnung schon bezahlt?",
+    "gender": "verb"
+  },
+  {
+    "word": "bieten",
+    "translation": "to offer",
+    "example": "Er hat mir für den alten Wagen noch 800 Euro geboten.",
+    "gender": "verb"
+  },
+  {
+    "word": "bitten",
+    "translation": "to ask (for)",
+    "example": "Darf ich Sie bitten, kurz zuzuhören?",
+    "gender": "verb"
+  },
+  {
+    "word": "bleiben",
+    "translation": "to stay",
+    "example": "Ich bleibe heute zu Hause.",
+    "gender": "verb"
+  },
+  {
+    "word": "blitzen",
+    "translation": "to flash, sparkle",
+    "example": "Gestern Abend gab es ein Gewitter. Es hat furchtbar geblitzt und gedonnert.",
+    "gender": "verb"
+  },
+  {
+    "word": "blühen",
+    "translation": "to bloom",
+    "example": "Die Bäume blühen schon. Es ist Frühling.",
+    "gender": "verb"
+  },
+  {
+    "word": "bluten",
+    "translation": "to bleed",
+    "example": "Ich habe mich verletzt. Meine Hand blutet.",
+    "gender": "verb"
+  },
+  {
+    "word": "braten",
+    "translation": "to fry",
+    "example": "Das Fleisch muss zehn Minuten braten.",
+    "gender": "verb"
+  },
+  {
+    "word": "brauchen",
+    "translation": "to need",
+    "example": "Ich brauche ein Auto.",
+    "gender": "verb"
+  },
+  {
+    "word": "brechen",
+    "translation": "to break",
+    "example": "Er hat sich beim Skifahren verletzt, sein Bein ist gebrochen.",
+    "gender": "verb"
+  },
+  {
+    "word": "bremsen",
+    "translation": "to brake",
+    "example": "Der Mann ist ganz plötzlich über die Straße gegangen. Ich musste stark bremsen.",
+    "gender": "verb"
+  },
+  {
+    "word": "brennen",
+    "translation": "to burn",
+    "example": "In diesem Haus hat es letztes Jahr gebrannt.",
+    "gender": "verb"
+  },
+  {
+    "word": "bringen",
+    "translation": "to bring",
+    "example": "Bringen Sie mir bitte ein Glas Tee!",
+    "gender": "verb"
+  },
+  {
+    "word": "buchen",
+    "translation": "to book",
+    "example": "Ich habe für morgen einen Flug nach Rom gebucht.",
+    "gender": "verb"
+  },
+  {
+    "word": "buchstabieren",
+    "translation": "to spell",
+    "example": "Würden Sie Ihren Namen bitte buchstabieren?",
+    "gender": "verb"
+  },
+  {
+    "word": "danken",
+    "translation": "to thank (for)",
+    "example": "Ich danke dir für die Einladung.",
+    "gender": "verb"
+  },
+  {
+    "word": "darstellen",
+    "translation": "to represent, depict",
+    "example": "Er konnte das Problem sehr gut darstellen.",
+    "gender": "verb"
+  },
+  {
+    "word": "dauern",
+    "translation": "to last",
+    "example": "Wie lange dauert die Pause? – Eine halbe Stunde.",
+    "gender": "verb"
+  },
+  {
+    "word": "dekorieren",
+    "translation": "to decorate",
+    "example": "Hilfst du mir, den Tisch für die Party zu dekorieren?",
+    "gender": "verb"
+  },
+  {
+    "word": "denken",
+    "translation": "to think (of, about)",
+    "example": "Du lachst - was denkst du gerade?",
+    "gender": "verb"
+  },
+  {
+    "word": "dienen",
+    "translation": "to serve",
+    "example": "Solche Kontakte dienen der Verbesserung der internationalen Beziehungen.",
+    "gender": "verb"
+  },
+  {
+    "word": "diskutieren",
+    "translation": "to discuss (sth.)",
+    "example": "Wir haben lange diskutiert, wie wir das Büro einrichten sollen.",
+    "gender": "verb"
+  },
+  {
+    "word": "donnern",
+    "translation": "to thunder",
+    "example": "Hörst du es donnern? Das Gewitter kommt näher.",
+    "gender": "verb"
+  },
+  {
+    "word": "(sich) drehen",
+    "translation": "to turn, revolve around (um)",
+    "example": "Drehen Sie zum Einschalten den Schalter nach rechts.",
+    "gender": "verb"
+  },
+  {
+    "word": "drucken",
+    "translation": "to print",
+    "example": "Warum hast du den Brief noch nicht ausgedruckt?",
+    "gender": "verb"
+  },
+  {
+    "word": "drücken",
+    "translation": "to press",
+    "example": "Sie brauchen nur auf den Knopf zu drücken.",
+    "gender": "verb"
+  },
+  {
+    "word": "dürfen",
+    "translation": "to may, be allowed",
+    "example": "Dürfen wir heute länger fernsehen?",
+    "gender": "verb"
+  },
+  {
+    "word": "(sich) duschen",
+    "translation": "to take a shower",
+    "example": "Wenn Sie sich duschen wollen: Das Badezimmer ist dort hinten links.",
+    "gender": "verb"
+  },
+  {
+    "word": "duzen",
+    "translation": "to be on first name terms",
+    "example": "Wollen wir Du zueinander sagen? Ja, wir können uns gern duzen?",
+    "gender": "verb"
+  },
+  {
+    "word": "sich eignen",
+    "translation": "to be suited",
+    "example": "Dieses Hotel eignet sich besonders für Familien mit Kindern.",
+    "gender": "verb"
+  },
+  {
+    "word": "eilen",
+    "translation": "to hurry",
+    "example": "Es eilt sehr. Bitte machen Sie schnell.",
+    "gender": "verb"
+  },
+  {
+    "word": "einbrechen",
+    "translation": "to break in",
+    "example": "Jemand ist in unsere Wohnung eingebrochen.",
+    "gender": "verb"
+  },
+  {
+    "word": "einfallen",
+    "translation": "to come to mind, collapse",
+    "example": "Mir ist wieder eingefallen, wie das Buch heißt.",
+    "gender": "verb"
+  },
+  {
+    "word": "beeinflussen",
+    "translation": "to influence",
+    "example": "Dieses Ereignis hat die Wahlen beeinflusst.",
+    "gender": "verb"
+  },
+  {
+    "word": "einfügen",
+    "translation": "to insert, paste",
+    "example": "Markieren Sie zuerst die Zeilen, dann „kopieren“ drücken und dann einfügen.",
+    "gender": "verb"
+  },
+  {
+    "word": "sich einigen",
+    "translation": "to come to an agreement",
+    "example": "Jeder hat einen anderen Vorschlag. Wir können uns leider nicht einigen.",
+    "gender": "verb"
+  },
+  {
+    "word": "einkaufen",
+    "translation": "to shop",
+    "example": "Wir gehen einmal pro Woche einkaufen.",
+    "gender": "verb"
+  },
+  {
+    "word": "einladen",
+    "translation": "to invite (to)",
+    "example": "Darf ich Sie zum Essen einladen?",
+    "gender": "verb"
+  },
+  {
+    "word": "einnehmen",
+    "translation": "to take",
+    "example": "Wie muss ich die Tropfen einnehmen?",
+    "gender": "verb"
+  },
+  {
+    "word": "einpacken",
+    "translation": "to pack",
+    "example": "Hast du Handtücher eingepackt?",
+    "gender": "verb"
+  },
+  {
+    "word": "einrichten",
+    "translation": "to furnish, set up",
+    "example": "Ich habe meine Wohnung selbst eingerichtet.",
+    "gender": "verb"
+  },
+  {
+    "word": "einschalten",
+    "translation": "to switch on",
+    "example": "Können Sie bitte die Heizung einschalten?",
+    "gender": "verb"
+  },
+  {
+    "word": "einsetzen",
+    "translation": "to insert, employ",
+    "example": "Ich glaube, wir müssen jemanden einsetzen, der sich um die Organisation kümmert.",
+    "gender": "verb"
+  },
+  {
+    "word": "einsteigen",
+    "translation": "to get in",
+    "example": "Ab 20 Uhr vorne beim Fahrer einsteigen.",
+    "gender": "verb"
+  },
+  {
+    "word": "einstellen",
+    "translation": "to set",
+    "example": "Die Firma wird in diesem Jahr drei neue Leute einstellen.",
+    "gender": "verb"
+  },
+  {
+    "word": "eintragen",
+    "translation": "to register, enter",
+    "example": "Tragen Sie sich bitte in die Liste ein.",
+    "gender": "verb"
+  },
+  {
+    "word": "eintreten",
+    "translation": "to enter",
+    "example": "Letztes Jahr bin ich in einen Sportverein eingetreten.",
+    "gender": "verb"
+  },
+  {
+    "word": "einzahlen",
+    "translation": "to deposit",
+    "example": "Ich habe gestern Geld auf mein Bankkonto eingezahlt.",
+    "gender": "verb"
+  },
+  {
+    "word": "einziehen",
+    "translation": "to move in",
+    "example": "Die Wohnung ist fertig. Wir können nächste Woche einziehen.",
+    "gender": "verb"
+  },
+  {
+    "word": "empfangen",
+    "translation": "to receive",
+    "example": "Wir können mit unserem Fernseher über 30 Programme empfangen.",
+    "gender": "verb"
+  },
+  {
+    "word": "empfehlen",
+    "translation": "to recommend",
+    "example": "Was können Sie mir denn empfehlen?",
+    "gender": "verb"
+  },
+  {
+    "word": "enden",
+    "translation": "to end",
+    "example": "Die Straße endet hier.",
+    "gender": "verb"
+  },
+  {
+    "word": "entdecken",
+    "translation": "to discover",
+    "example": "Ich habe in deinem Brief noch ein paar Fehler entdeckt.",
+    "gender": "verb"
+  },
+  {
+    "word": "entfernen",
+    "translation": "to remove",
+    "example": "Der Müll muss dringend entfernt werden.",
+    "gender": "verb"
+  },
+  {
+    "word": "enthalten",
+    "translation": "to contain",
+    "example": "Diese Schokolade enthält nur sehr wenig Zucker.",
+    "gender": "verb"
+  },
+  {
+    "word": "entlassen",
+    "translation": "to dismiss",
+    "example": "Die Operation ist gut gelaufen. Wir können Sie nächste Woche aus dem Krankenhaus entlassen.",
+    "gender": "verb"
+  },
+  {
+    "word": "(sich) entscheiden",
+    "translation": "to decide (on)",
+    "example": "Das kann ich nicht allein entscheiden, da muss ich erst fragen.",
+    "gender": "verb"
+  },
+  {
+    "word": "sich entschließen",
+    "translation": "to decide",
+    "example": "Mein Nachbar hat sich nun doch entschlossen, sein Auto zu verkaufen.",
+    "gender": "verb"
+  },
+  {
+    "word": "(sich) entschuldigen",
+    "translation": "to apologize to sb. (bei) for sth. (für)",
+    "example": "Entschuldigen Sie bitte, dass ich Sie störe. Aber es gibt ein Problem.",
+    "gender": "verb"
+  },
+  {
+    "word": "entsorgen",
+    "translation": "to dispose of",
+    "example": "Wie kann ich meine alte Kaffeemaschine entsorgen?",
+    "gender": "verb"
+  },
+  {
+    "word": "entstehen",
+    "translation": "to arise",
+    "example": "Hier entsteht ein neues Einkaufszentrum.",
+    "gender": "verb"
+  },
+  {
+    "word": "enttäuschen",
+    "translation": "to disappoint",
+    "example": "Leider hat mich sein Verhalten enttäuscht.",
+    "gender": "verb"
+  },
+  {
+    "word": "entwickeln",
+    "translation": "to develop",
+    "example": "Unser Sohn entwickelt sich gut in der Schule.",
+    "gender": "verb"
+  },
+  {
+    "word": "sich ereignen",
+    "translation": "to occur",
+    "example": "Der Unfall ereignete sich am frühen Morgen.",
+    "gender": "verb"
+  },
+  {
+    "word": "erfahren",
+    "translation": "to experience",
+    "example": "Wann erfahren wir das Ergebnis der Prüfung?",
+    "gender": "verb"
+  },
+  {
+    "word": "erfinden",
+    "translation": "to invent",
+    "example": "Das Rad wurde vor ca. 6000 Jahren erfunden.",
+    "gender": "verb"
+  },
+  {
+    "word": "erfordern",
+    "translation": "to require",
+    "example": "Dieser Job erfordert viel Kraft.",
+    "gender": "verb"
+  },
+  {
+    "word": "erfüllen",
+    "translation": "to fulfill",
+    "example": "Sie müssen den Vertrag in allen Punkten erfüllen.",
+    "gender": "verb"
+  },
+  {
+    "word": "ergänzen",
+    "translation": "to complete",
+    "example": "Ergänzen Sie bitte die fehlenden Angaben.",
+    "gender": "verb"
+  },
+  {
+    "word": "erhalten",
+    "translation": "to receive, preserve",
+    "example": "Ihr Schreiben vom 3. Januar haben wir erhalten.",
+    "gender": "verb"
+  },
+  {
+    "word": "erhöhen",
+    "translation": "to increase",
+    "example": "Die Regierung wird sicher bald wieder die Steuern erhöhen.",
+    "gender": "verb"
+  },
+  {
+    "word": "sich erholen",
+    "translation": "to recover (from)",
+    "example": "Im Urlaub habe ich mich sehr gut erholt.",
+    "gender": "verb"
+  },
+  {
+    "word": "(sich) erinnern",
+    "translation": "to remember, remind (about)",
+    "example": "Bitte, erinnern Sie mich noch einmal an den Termin",
+    "gender": "verb"
+  },
+  {
+    "word": "sich erkälten",
+    "translation": "to catch a cold",
+    "example": "Der Junge hat sich beim Baden erkältet.",
+    "gender": "verb"
+  },
+  {
+    "word": "erkennen",
+    "translation": "to recognize",
+    "example": "Ich habe Roberto gleich an seiner Stimme erkannt.",
+    "gender": "verb"
+  },
+  {
+    "word": "erklären",
+    "translation": "to explain",
+    "example": "Kannst du mir erklären, wie man diesen Apparat bedient?",
+    "gender": "verb"
+  },
+  {
+    "word": "sich erkundigen",
+    "translation": "to inquire (about)",
+    "example": "Hast du dich schon nach einem Zug erkundigt?",
+    "gender": "verb"
+  },
+  {
+    "word": "erlauben",
+    "translation": "to allow",
+    "example": "Ich erlaube meinen Kindern nicht, so lange fernzusehen.",
+    "gender": "verb"
+  },
+  {
+    "word": "erleben",
+    "translation": "to experience",
+    "example": "In unserem Urlaub haben wir viel Schönes erlebt.",
+    "gender": "verb"
+  },
+  {
+    "word": "erledigen",
+    "translation": "to do, deal with, take of sth.",
+    "example": "Diese zwei Pakete müssen zur Post. Könntest du das für mich erledigen?",
+    "gender": "verb"
+  },
+  {
+    "word": "erleichtern",
+    "translation": "to facilitate, make easier",
+    "example": "Ich bin erleichtert, dass alles so gut geklappt hat.",
+    "gender": "verb"
+  },
+  {
+    "word": "ernähren",
+    "translation": "to feed, nourish",
+    "example": "Wie ernähre ich mich richtig?",
+    "gender": "verb"
+  },
+  {
+    "word": "eröffnen",
+    "translation": "to open",
+    "example": "Mein Nachbar hat letzten Monat ein Geschäft eröffnet.",
+    "gender": "verb"
+  },
+  {
+    "word": "erreichen",
+    "translation": "to reach",
+    "example": "Wenn wir uns beeilen, erreichen wir noch den 8-Uhr-Zug.",
+    "gender": "verb"
+  },
+  {
+    "word": "ersetzen",
+    "translation": "to replace (with)",
+    "example": "Wir ersetzen Ihnen die Kosten.",
+    "gender": "verb"
+  },
+  {
+    "word": "erstellen",
+    "translation": "to create",
+    "example": "Erstellen Sie bitte eine Liste mit allen Informationen, die Sie brauchen.",
+    "gender": "verb"
+  },
+  {
+    "word": "erwarten",
+    "translation": "to expect",
+    "example": "Ich erwarte einen Anruf aus Berlin.",
+    "gender": "verb"
+  },
+  {
+    "word": "erzählen",
+    "translation": "to tell (sb. about)",
+    "example": "Mein Mann hat mir schon viel von Ihnen erzählt.",
+    "gender": "verb"
+  },
+  {
+    "word": "erziehen",
+    "translation": "to educate, raise (children)",
+    "example": "Kinder zu erziehen ist nicht leicht.",
+    "gender": "verb"
+  },
+  {
+    "word": "essen",
+    "translation": "to eat",
+    "example": "Haben Sie schon zu Mittag gegessen?",
+    "gender": "verb"
+  },
+  {
+    "word": "fahren",
+    "translation": "to drive, go",
+    "example": "Wir sind mit dem Zug gefahren.",
+    "gender": "verb"
+  },
+  {
+    "word": "fallen",
+    "translation": "to fall",
+    "example": "Das Glas ist auf den Boden gefallen.",
+    "gender": "verb"
+  },
+  {
+    "word": "fangen",
+    "translation": "to catch",
+    "example": "Das Kind hat den Ball gefangen.",
+    "gender": "verb"
+  },
+  {
+    "word": "fassen",
+    "translation": "to catch, grasp",
+    "example": "Sie haben den Dieb gefasst.",
+    "gender": "verb"
+  },
+  {
+    "word": "faulenzen",
+    "translation": "to laze around",
+    "example": "Am Wochenende können wir faulenzen.",
+    "gender": "verb"
+  },
+  {
+    "word": "fehlen",
+    "translation": "to be missing",
+    "example": "Auf dem Brief fehlt der Absender.",
+    "gender": "verb"
+  },
+  {
+    "word": "feiern",
+    "translation": "to celebrate",
+    "example": "Wir haben gestern Karls Geburtstag gefeiert.",
+    "gender": "verb"
+  },
+  {
+    "word": "fernsehen",
+    "translation": "to television",
+    "example": "Meine Kinder dürfen abends nur eine Stunde fernsehen.",
+    "gender": "verb"
+  },
+  {
+    "word": "festhalten",
+    "translation": "to hold on, hold tightly",
+    "example": "Halt dich gut fest.",
+    "gender": "verb"
+  },
+  {
+    "word": "festlegen",
+    "translation": "to determine",
+    "example": "Ich weiß noch nicht, ob ich das mache. Ich möchte mich noch nicht festlegen.",
+    "gender": "verb"
+  },
+  {
+    "word": "festsetzen",
+    "translation": "to set",
+    "example": "Die Schule hat den Termin für die Prüfung festgesetzt.",
+    "gender": "verb"
+  },
+  {
+    "word": "feststehen",
+    "translation": "to be fixed/definite",
+    "example": "Der Termin steht seit Langem fest.",
+    "gender": "verb"
+  },
+  {
+    "word": "feststellen",
+    "translation": "to determine",
+    "example": "Er hat festgestellt, dass der Absender des Briefes falsch war.",
+    "gender": "verb"
+  },
+  {
+    "word": "finanzieren",
+    "translation": "to finance",
+    "example": "Ich weiß nicht, wie ich das Auto finanzieren soll.",
+    "gender": "verb"
+  },
+  {
+    "word": "finden",
+    "translation": "to find",
+    "example": "Meine Tante hat eine gute Arbeit gefunden.",
+    "gender": "verb"
+  },
+  {
+    "word": "fliegen",
+    "translation": "to fly",
+    "example": "Der Vogel ist auf einen Baum geflogen.",
+    "gender": "verb"
+  },
+  {
+    "word": "fliehen",
+    "translation": "to flee",
+    "example": "Der Einbrecher ist sofort geflohen.",
+    "gender": "verb"
+  },
+  {
+    "word": "fließen",
+    "translation": "to flow",
+    "example": "Dieser Fluss fließt in die Nordsee.",
+    "gender": "verb"
+  },
+  {
+    "word": "folgen",
+    "translation": "to follow",
+    "example": "Es folgen die Nachrichten.",
+    "gender": "verb"
+  },
+  {
+    "word": "fordern",
+    "translation": "to demand",
+    "example": "Die Arbeitnehmer fordern mehr Geld.",
+    "gender": "verb"
+  },
+  {
+    "word": "fördern",
+    "translation": "to promote, support",
+    "example": "Die Stadt fördert viele Sportprojekte.",
+    "gender": "verb"
+  },
+  {
+    "word": "fortsetzen",
+    "translation": "to continue",
+    "example": "Wir setzen die Behandlung am nächsten Donnerstag um 11 Uhr fort.",
+    "gender": "verb"
+  },
+  {
+    "word": "fotografieren",
+    "translation": "to photograph",
+    "example": "Ich fotografiere gern.",
+    "gender": "verb"
+  },
+  {
+    "word": "fragen",
+    "translation": "to ask (for)",
+    "example": "Darf ich Sie etwas fragen?",
+    "gender": "verb"
+  },
+  {
+    "word": "fressen",
+    "translation": "to eat (for animals)",
+    "example": "Hat der Hund schon etwas zu fressen bekommen?",
+    "gender": "verb"
+  },
+  {
+    "word": "sich freuen",
+    "translation": "to be pleased about (über), look forward to (auf)",
+    "example": "Es freut mich, dass alles so gut geklappt hat.",
+    "gender": "verb"
+  },
+  {
+    "word": "frieren",
+    "translation": "to freeze",
+    "example": "Wenn Sie frieren, mache ich das Fenster wieder zu.",
+    "gender": "verb"
+  },
+  {
+    "word": "frühstücken",
+    "translation": "to have breakfast",
+    "example": "Haben Sie schon gefrühstückt?",
+    "gender": "verb"
+  },
+  {
+    "word": "fühlen",
+    "translation": "to feel",
+    "example": "Wie fühlen Sie sich? - Danke, ich fühle mich wohl.",
+    "gender": "verb"
+  },
+  {
+    "word": "führen",
+    "translation": "to lead",
+    "example": "Der Lehrer führt seine Schüler durch das Museum.",
+    "gender": "verb"
+  },
+  {
+    "word": "funktionieren",
+    "translation": "to function",
+    "example": "Können Sie mir bitte mal zeigen, wie der Automat funktioniert?",
+    "gender": "verb"
+  },
+  {
+    "word": "(sich) fürchten",
+    "translation": "to be afraid",
+    "example": "Sie fürchtet sich vor Schlangen.",
+    "gender": "verb"
+  },
+  {
+    "word": "füttern",
+    "translation": "to feed",
+    "example": "Es ist im Zoo nicht erlaubt, die Tiere zu füttern.",
+    "gender": "verb"
+  },
+  {
+    "word": "garantieren",
+    "translation": "to guarantee",
+    "example": "Ich kann Ihnen nicht garantieren, dass das Gerät nächste Woche fertig ist.",
+    "gender": "verb"
+  },
+  {
+    "word": "geben",
+    "translation": "to give",
+    "example": "Geben Sie mir bitte eine Quittung!",
+    "gender": "verb"
+  },
+  {
+    "word": "geboren werden",
+    "translation": "to be born",
+    "example": "Wann und wo sind Sie geboren?",
+    "gender": "verb"
+  },
+  {
+    "word": "gebrauchen",
+    "translation": "to use",
+    "example": "Wir können diese Möbel gut gebrauchen.",
+    "gender": "verb"
+  },
+  {
+    "word": "gefallen",
+    "translation": "to like (something)",
+    "example": "Wie gefällt es Ihnen hier?",
+    "gender": "verb"
+  },
+  {
+    "word": "sich etwas gefallen lassen",
+    "translation": "to put up with something",
+    "example": "Das würde ich mir nicht gefallen lassen.",
+    "gender": "verb"
+  },
+  {
+    "word": "gehen",
+    "translation": "to go, walk, function, be about (um; 7th sentence)",
+    "example": "Ich gehe jeden Morgen zu Fuß zur Arbeit.",
+    "gender": "verb"
+  },
+  {
+    "word": "gehören",
+    "translation": "to belong to",
+    "example": "Gehört Ihnen das Haus?",
+    "gender": "verb"
+  },
+  {
+    "word": "gelingen",
+    "translation": "to succeed",
+    "example": "Es ist mir gelungen, meinen Chef zu überzeugen.",
+    "gender": "verb"
+  },
+  {
+    "word": "gelten",
+    "translation": "be effective/valid, be considered as (als)",
+    "example": "Mein Pass gilt noch ein Jahr.",
+    "gender": "verb"
+  },
+  {
+    "word": "genehmigen",
+    "translation": "to approve",
+    "example": "Mein Chef hat mir sechs Wochen Urlaub genehmigt.",
+    "gender": "verb"
+  },
+  {
+    "word": "genießen",
+    "translation": "to enjoy",
+    "example": "Er kann das Essen leider nicht genießen, weil es zu scharf ist.",
+    "gender": "verb"
+  },
+  {
+    "word": "genügen",
+    "translation": "to suffice",
+    "example": "Wie viele Zimmer brauchen Sie? – Mir genügt eine 2-Zimmer-Wohnung.",
+    "gender": "verb"
+  },
+  {
+    "word": "geschehen",
+    "translation": "to happen",
+    "example": "Vielen Dank für Ihre Hilfe. – Gern geschehen.",
+    "gender": "verb"
+  },
+  {
+    "word": "gewinnen",
+    "translation": "to win",
+    "example": "Ich möchte so gern einmal im Lotto gewinnen.",
+    "gender": "verb"
+  },
+  {
+    "word": "sich gewöhnen",
+    "translation": "to get used to",
+    "example": "Wir haben uns an das Leben hier gewöhnt.",
+    "gender": "verb"
+  },
+  {
+    "word": "gießen",
+    "translation": "to water",
+    "example": "Es hat nicht geregnet. Ich muss meine Blumen gießen.",
+    "gender": "verb"
+  },
+  {
+    "word": "glauben",
+    "translation": "to believe (in)",
+    "example": "Ich glaube, der Chef ist heute nicht im Büro.",
+    "gender": "verb"
+  },
+  {
+    "word": "gratulieren",
+    "translation": "to congratulate (on)",
+    "example": "Ich gratuliere euch zur Geburt eurer Tochter.",
+    "gender": "verb"
+  },
+  {
+    "word": "greifen",
+    "translation": "to grab",
+    "example": "Greifen Sie doch zu!",
+    "gender": "verb"
+  },
+  {
+    "word": "gründen",
+    "translation": "to found",
+    "example": "Frau Bauer hat eine eigene Firma gegründet.",
+    "gender": "verb"
+  },
+  {
+    "word": "grüßen",
+    "translation": "to greet",
+    "example": "Wer war die Frau, die du eben gegrüßt hast?",
+    "gender": "verb"
+  },
+  {
+    "word": "gucken",
+    "translation": "to watch, look",
+    "example": "Guck doch mal! Es schneit.",
+    "gender": "verb"
+  },
+  {
+    "word": "haben",
+    "translation": "to have",
+    "example": "Wir haben Hunger.",
+    "gender": "verb"
+  },
+  {
+    "word": "hageln",
+    "translation": "to hail",
+    "example": "Bei Gewitter kann es auch hageln.",
+    "gender": "verb"
+  },
+  {
+    "word": "halten",
+    "translation": "to hold, keep, stop",
+    "example": "Kannst du mal kurz meine Handtasche halten?",
+    "gender": "verb"
+  },
+  {
+    "word": "handeln",
+    "translation": "to trade, deal, be about sth. (um)",
+    "example": "Herr Huber hat ein kleines Geschäft. Er handelt mit Obst und Gemüse.",
+    "gender": "verb"
+  },
+  {
+    "word": "hängen",
+    "translation": "to hang",
+    "example": "Das Bild hängt schief.",
+    "gender": "verb"
+  },
+  {
+    "word": "hassen",
+    "translation": "to hate",
+    "example": "Ich hasse Autofahren.",
+    "gender": "verb"
+  },
+  {
+    "word": "heben",
+    "translation": "to lift",
+    "example": "Kannst du mir helfen? Das Paket kann ich allein nicht heben.",
+    "gender": "verb"
+  },
+  {
+    "word": "heiraten",
+    "translation": "to marry",
+    "example": "Unsere Freunde heiraten nächsten Monat in Italien.",
+    "gender": "verb"
+  },
+  {
+    "word": "heißen",
+    "translation": "to call oneself, mean",
+    "example": "Wie heißen Sie?",
+    "gender": "verb"
+  },
+  {
+    "word": "heizen",
+    "translation": "to heat",
+    "example": "Wir heizen mit Öl.",
+    "gender": "verb"
+  },
+  {
+    "word": "helfen",
+    "translation": "to help",
+    "example": "Kannst du mir helfen? Ich muss nächsten Monat umziehen.",
+    "gender": "verb"
+  },
+  {
+    "word": "herstellen",
+    "translation": "to manufacture",
+    "example": "In unserer Firma stellen wir Schokolade her.",
+    "gender": "verb"
+  },
+  {
+    "word": "(herunter-)fahren",
+    "translation": "to shut down",
+    "example": "Zum Schluss musst du den Computer herunterfahren.",
+    "gender": "verb"
+  },
+  {
+    "word": "(hinunter) runterwerfen",
+    "translation": "to throw down",
+    "example": "Kannst du mir bitte den Schlüssel runterwerfen? Ich habe meinen vergessen.",
+    "gender": "verb"
+  },
+  {
+    "word": "hinterlassen",
+    "translation": "to leave behind",
+    "example": "Möchten Sie eine Nachricht hinterlassen?",
+    "gender": "verb"
+  },
+  {
+    "word": "hinweisen",
+    "translation": "to point out",
+    "example": "Wir möchten Sie darauf hinweisen, dass das Rauchen am Bahnsteig nicht gestattet ist.",
+    "gender": "verb"
+  },
+  {
+    "word": "hochladen",
+    "translation": "to upload",
+    "example": "Kannst du bitte die Datei für die Hausaufgabe hochladen?",
+    "gender": "verb"
+  },
+  {
+    "word": "hoffen",
+    "translation": "to hope (for)",
+    "example": "Ich hoffe, dass ihr zu meinem Geburtstag kommen könnt.",
+    "gender": "verb"
+  },
+  {
+    "word": "holen",
+    "translation": "to get",
+    "example": "Soll ich uns was zu trinken holen?",
+    "gender": "verb"
+  },
+  {
+    "word": "hören",
+    "translation": "to hear, listen",
+    "example": "Ich kann nicht mehr so gut hören.",
+    "gender": "verb"
+  },
+  {
+    "word": "hupen",
+    "translation": "to honk",
+    "example": "Hier ist ein Krankenhaus. Hier darfst du nicht hupen.",
+    "gender": "verb"
+  },
+  {
+    "word": "husten",
+    "translation": "to cough",
+    "example": "Der Junge hat die ganze Nacht gehustet.",
+    "gender": "verb"
+  },
+  {
+    "word": "informieren",
+    "translation": "to inform",
+    "example": "Wir informieren Sie rechtzeitig über die neuen Prüfungstermine.",
+    "gender": "verb"
+  },
+  {
+    "word": "installieren",
+    "translation": "to install",
+    "example": "Können Sie mir helfen, meinen Computer zu installieren?",
+    "gender": "verb"
+  },
+  {
+    "word": "integrieren",
+    "translation": "to integrate",
+    "example": "Sie ist schon sehr gut im Team integriert.",
+    "gender": "verb"
+  },
+  {
+    "word": "(sich) interessieren",
+    "translation": "to interest/be interested in",
+    "example": "Das Thema Kindererziehung interessiert mich sehr.",
+    "gender": "verb"
+  },
+  {
+    "word": "sich irren",
+    "translation": "to be wrong",
+    "example": "Du irrst dich. Das Auto war nicht grün, sondern rot.",
+    "gender": "verb"
+  },
+  {
+    "word": "kämpfen",
+    "translation": "to fight (for/against)",
+    "example": "Die Frauen kämpfen für mehr Rechte.",
+    "gender": "verb"
+  },
+  {
+    "word": "(sich etwas) kaufen",
+    "translation": "to buy yourself something",
+    "example": "Im Supermarkt kauft man sehr günstig ein.",
+    "gender": "verb"
+  },
+  {
+    "word": "kennen",
+    "translation": "to know (a person, a place)",
+    "example": "Kennen Sie hier in der Nähe ein gemütliches Café?",
+    "gender": "verb"
+  },
+  {
+    "word": "kennenlernen",
+    "translation": "to get to know",
+    "example": "Wo habt ihr euch kennengelernt?",
+    "gender": "verb"
+  },
+  {
+    "word": "klagen",
+    "translation": "to sue, complain",
+    "example": "Sie klagt über Kopfschmerzen.",
+    "gender": "verb"
+  },
+  {
+    "word": "klappen",
+    "translation": "to function, work out well",
+    "example": "Wie war die Reise? – Gut. Es hat alles prima geklappt.",
+    "gender": "verb"
+  },
+  {
+    "word": "klären",
+    "translation": "to clarify",
+    "example": "Ich hoffe, wir können dieses Problem bald klären.",
+    "gender": "verb"
+  },
+  {
+    "word": "kleben",
+    "translation": "to glue",
+    "example": "Die Briefmarke klebt nicht mehr.",
+    "gender": "verb"
+  },
+  {
+    "word": "klettern",
+    "translation": "to climb",
+    "example": "Die Kinder sind auf den Baum geklettert.",
+    "gender": "verb"
+  },
+  {
+    "word": "klicken",
+    "translation": "to click",
+    "example": "Wenn du die Datei öffnen willst, musst du mit der Maus zweimal klicken.",
+    "gender": "verb"
+  },
+  {
+    "word": "klingeln",
+    "translation": "to ring",
+    "example": "Ich glaube, es hat an der Tür geklingelt.",
+    "gender": "verb"
+  },
+  {
+    "word": "klingen",
+    "translation": "to sound",
+    "example": "Wollen wir einkaufen gehen und danach zusammen kochen? – Ja, das klingt gut.",
+    "gender": "verb"
+  },
+  {
+    "word": "klopfen",
+    "translation": "to knock",
+    "example": "Da klopft jemand ans Fenster.",
+    "gender": "verb"
+  },
+  {
+    "word": "kochen",
+    "translation": "to cook",
+    "example": "Ich koche gern.",
+    "gender": "verb"
+  },
+  {
+    "word": "kommen",
+    "translation": "to come",
+    "example": "Woher kommen Sie? – Aus Frankreich.",
+    "gender": "verb"
+  },
+  {
+    "word": "können",
+    "translation": "to be able to",
+    "example": "Ich kann den schweren Koffer nicht tragen.",
+    "gender": "verb"
+  },
+  {
+    "word": "konsumieren",
+    "translation": "to consume",
+    "example": "Die Europäer haben im letzten Jahr mehr Fleisch konsumiert.",
+    "gender": "verb"
+  },
+  {
+    "word": "kontrollieren",
+    "translation": "to control",
+    "example": "Beim Auto müssen Sie regelmäßig das Öl kontrollieren.",
+    "gender": "verb"
+  },
+  {
+    "word": "sich konzentrieren",
+    "translation": "to concentrate (on)",
+    "example": "Bitte stör mich jetzt nicht. Ich muss mich auf meine Arbeit konzentrieren.",
+    "gender": "verb"
+  },
+  {
+    "word": "korrigieren",
+    "translation": "to correct",
+    "example": "Können Sie bitte meinen Brief korrigieren?",
+    "gender": "verb"
+  },
+  {
+    "word": "kosten",
+    "translation": "to cost",
+    "example": "Wie viel kostet das T-Shirt? – 15 Euro.",
+    "gender": "verb"
+  },
+  {
+    "word": "kriegen",
+    "translation": "to get",
+    "example": "Haben Sie meinen Brief gekriegt?",
+    "gender": "verb"
+  },
+  {
+    "word": "kritisieren",
+    "translation": "to criticize",
+    "example": "Kritisiere mich nicht so oft.",
+    "gender": "verb"
+  },
+  {
+    "word": "sich kümmern",
+    "translation": "to look after sth./sb., take care of sth.",
+    "example": "Ich kann nicht arbeiten. Ich muss mich um die Kinder kümmern.",
+    "gender": "verb"
+  },
+  {
+    "word": "kündigen",
+    "translation": "to terminate, cancel",
+    "example": "Ich war mit meiner Stelle nicht zufrieden und habe gekündigt.",
+    "gender": "verb"
+  },
+  {
+    "word": "küssen",
+    "translation": "to kiss",
+    "example": "Er nahm sie in die Arme und küsste sie.",
+    "gender": "verb"
+  },
+  {
+    "word": "lächeln",
+    "translation": "to smile",
+    "example": "Schauen Sie in die Kamera. Bitte lächeln!",
+    "gender": "verb"
+  },
+  {
+    "word": "lachen",
+    "translation": "to laugh (about)",
+    "example": "Lachen ist gesund.",
+    "gender": "verb"
+  },
+  {
+    "word": "landen",
+    "translation": "to land",
+    "example": "Wir sind erst um 20 Uhr in München gelandet.",
+    "gender": "verb"
+  },
+  {
+    "word": "sich langweilen",
+    "translation": "to get bored",
+    "example": "Langweilst du dich?",
+    "gender": "verb"
+  },
+  {
+    "word": "lassen",
+    "translation": "to leave, get sth. done for you",
+    "example": "Ich habe mein Gepäck am Bahnhof gelassen.",
+    "gender": "verb"
+  },
+  {
+    "word": "laufen",
+    "translation": "to run, walk",
+    "example": "Ich bin gestern 100 m in 10,4 Sekunden gelaufen.",
+    "gender": "verb"
+  },
+  {
+    "word": "leben",
+    "translation": "to live",
+    "example": "Leben Ihre Großeltern noch?",
+    "gender": "verb"
+  },
+  {
+    "word": "legen",
+    "translation": "to lay",
+    "example": "Ich habe Ihnen die Briefe auf den Schreibtisch gelegt.",
+    "gender": "verb"
+  },
+  {
+    "word": "leid tun",
+    "translation": "to feel sorry",
+    "example": "Die Frau tut mir leid.",
+    "gender": "verb"
+  },
+  {
+    "word": "leiden",
+    "translation": "to suffer (from/due to)",
+    "example": "Er leidet an einer schweren Krankheit.",
+    "gender": "verb"
+  },
+  {
+    "word": "leihen",
+    "translation": "to borrow",
+    "example": "Ich habe mir von meinem Bruder 50 Euro geliehen.",
+    "gender": "verb"
+  },
+  {
+    "word": "leisten",
+    "translation": "to afford, perform",
+    "example": "So ein teures Auto kann ich mir leider nicht leisten.",
+    "gender": "verb"
+  },
+  {
+    "word": "leiten",
+    "translation": "to lead, guide",
+    "example": "Wer leitet den Kurs?",
+    "gender": "verb"
+  },
+  {
+    "word": "lernen",
+    "translation": "to learn",
+    "example": "Wie lange lernen Sie schon Deutsch?",
+    "gender": "verb"
+  },
+  {
+    "word": "lesen",
+    "translation": "to read",
+    "example": "Ich habe gelesen, dass es ab heute Sonderangebote gibt.",
+    "gender": "verb"
+  },
+  {
+    "word": "lieben",
+    "translation": "to love",
+    "example": "Ich liebe meine Familie.",
+    "gender": "verb"
+  },
+  {
+    "word": "liefern",
+    "translation": "to deliver",
+    "example": "Wir liefern Ihnen das Regal direkt ins Haus.",
+    "gender": "verb"
+  },
+  {
+    "word": "liegen",
+    "translation": "to be, lie (in a place)",
+    "example": "Der Brief liegt schon auf Ihrem Schreibtisch.",
+    "gender": "verb"
+  },
+  {
+    "word": "loben",
+    "translation": "to praise",
+    "example": "Ich habe alle Hausaufgaben gemacht. Der Lehrer hat mich heute gelobt.",
+    "gender": "verb"
+  },
+  {
+    "word": "sich lohnen",
+    "translation": "to be worthwhile",
+    "example": "Für drei Tage zu meinen Eltern fahren lohnt sich nicht. Es ist zu weit.",
+    "gender": "verb"
+  },
+  {
+    "word": "losfahren",
+    "translation": "to drive off, leave",
+    "example": "Wir fahren um 8 Uhr los. Sei bitte pünktlich.",
+    "gender": "verb"
+  },
+  {
+    "word": "löschen",
+    "translation": "to delete, erase, put out",
+    "example": "Du kannst die Datei löschen. Ich brauche sie nicht mehr.",
+    "gender": "verb"
+  },
+  {
+    "word": "lösen",
+    "translation": "to solve",
+    "example": "Wir müssen dieses Problem lösen.",
+    "gender": "verb"
+  },
+  {
+    "word": "lügen",
+    "translation": "to lie",
+    "example": "Du sollst nicht lügen.",
+    "gender": "verb"
+  },
+  {
+    "word": "machen",
+    "translation": "to make, do",
+    "example": "Was machst du am Wochenende?",
+    "gender": "verb"
+  },
+  {
+    "word": "malen",
+    "translation": "to paint",
+    "example": "Das Bild hat mein Vater gemalt.",
+    "gender": "verb"
+  },
+  {
+    "word": "markieren",
+    "translation": "to mark",
+    "example": "Hier ist unser Hotel. Ich markiere Ihnen auf dem Plan den Weg zum Bahnhof.",
+    "gender": "verb"
+  },
+  {
+    "word": "meinen",
+    "translation": "to think, mean",
+    "example": "Dieser Film ist gut. Was meinst du?",
+    "gender": "verb"
+  },
+  {
+    "word": "melden",
+    "translation": "to report, answer",
+    "example": "Ich habe schon zweimal angerufen. Aber es meldet sich niemand.",
+    "gender": "verb"
+  },
+  {
+    "word": "(sich) merken",
+    "translation": "to notice, remember",
+    "example": "Ich habe nicht gemerkt, dass es schon so spät ist. Ich muss gehen.",
+    "gender": "verb"
+  },
+  {
+    "word": "messen",
+    "translation": "to measure",
+    "example": "Haben Sie schon Fieber gemessen?",
+    "gender": "verb"
+  },
+  {
+    "word": "mieten",
+    "translation": "to rent",
+    "example": "Wir haben die Wohnung für drei Jahre gemietet.",
+    "gender": "verb"
+  },
+  {
+    "word": "mischen",
+    "translation": "to mix",
+    "example": "Ich möchte ein gemischtes Eis mit Sahne.",
+    "gender": "verb"
+  },
+  {
+    "word": "mitteilen",
+    "translation": "to inform, communicate",
+    "example": "Den Prüfungstermin teilen wir Ihnen noch mit.",
+    "gender": "verb"
+  },
+  {
+    "word": "möchten",
+    "translation": "to want, wish",
+    "example": "Möchtest du auch einen Kaffee?",
+    "gender": "verb"
+  },
+  {
+    "word": "mögen",
+    "translation": "to like",
+    "example": "Ich mag keinen Reis.",
+    "gender": "verb"
+  },
+  {
+    "word": "müssen",
+    "translation": "to have to, must",
+    "example": "Wie lange müssen Sie arbeiten?",
+    "gender": "verb"
+  },
+  {
+    "word": "nachdenken",
+    "translation": "to think about, ponder",
+    "example": "Ich weiß nicht, was ich machen soll. Ich muss nachdenken.",
+    "gender": "verb"
+  },
+  {
+    "word": "nachschlagen",
+    "translation": "to look up",
+    "example": "Ich kenne das Wort nicht. Das musst du im Wörterbuch nachschlagen.",
+    "gender": "verb"
+  },
+  {
+    "word": "nähen",
+    "translation": "to sew",
+    "example": "Meine Mutter näht ihre Kleider selbst.",
+    "gender": "verb"
+  },
+  {
+    "word": "sich nähern",
+    "translation": "to approach",
+    "example": "Er nähert sich dem Unfallort ganz langsam.",
+    "gender": "verb"
+  },
+  {
+    "word": "nehmen",
+    "translation": "to take",
+    "example": "Was möchten Sie? – Ich nehme einen Salat.",
+    "gender": "verb"
+  },
+  {
+    "word": "nennen",
+    "translation": "to call",
+    "example": "Mein Freund heißt Alexander, aber alle nennen ihn Alex.",
+    "gender": "verb"
+  },
+  {
+    "word": "nutzen",
+    "translation": "to use",
+    "example": "Ich möchte das schöne Wetter nutzen und spazieren gehen.",
+    "gender": "verb"
+  },
+  {
+    "word": "nützen",
+    "translation": "to utilize, be of use",
+    "example": "Ich habe jeden Tag eine Tablette genommen. Aber es hat nichts genützt.",
+    "gender": "verb"
+  },
+  {
+    "word": "veröffentlichen",
+    "translation": "to publish",
+    "example": "Das Buch wurde gestern veröffentlicht.",
+    "gender": "verb"
+  },
+  {
+    "word": "öffnen",
+    "translation": "to open",
+    "example": "Wann öffnen die Geschäfte?",
+    "gender": "verb"
+  },
+  {
+    "word": "operieren",
+    "translation": "to operate",
+    "example": "Wir müssen das Knie sofort operieren.",
+    "gender": "verb"
+  },
+  {
+    "word": "ordnen",
+    "translation": "to arrange, order, organize",
+    "example": "Letztes Wochenende habe ich meine Papiere geordnet.",
+    "gender": "verb"
+  },
+  {
+    "word": "organisieren",
+    "translation": "to organize",
+    "example": "Für den nächsten Sommerurlaub habe ich schon alles organisiert.",
+    "gender": "verb"
+  },
+  {
+    "word": "packen",
+    "translation": "to pack",
+    "example": "Ich muss noch meinen Koffer packen.",
+    "gender": "verb"
+  },
+  {
+    "word": "passen",
+    "translation": "to fit",
+    "example": "Der Pullover passt mir nicht mehr.",
+    "gender": "verb"
+  },
+  {
+    "word": "passieren",
+    "translation": "to happen",
+    "example": "Entschuldigung! – Kein Problem. Es ist nichts passiert.",
+    "gender": "verb"
+  },
+  {
+    "word": "pflanzen",
+    "translation": "to plant",
+    "example": "Lass uns einen Baum pflanzen!",
+    "gender": "verb"
+  },
+  {
+    "word": "pflegen",
+    "translation": "to care for, look after",
+    "example": "Meine Mutter ist sehr krank. Ich muss sie pflegen.",
+    "gender": "verb"
+  },
+  {
+    "word": "planen",
+    "translation": "to plan",
+    "example": "Wir haben geplant, diesmal im Urlaub nach Österreich zu fahren.",
+    "gender": "verb"
+  },
+  {
+    "word": "probieren",
+    "translation": "to try",
+    "example": "Haben Sie dieses Waschmittel schon einmal probiert?",
+    "gender": "verb"
+  },
+  {
+    "word": "produzieren",
+    "translation": "to produce",
+    "example": "Unsere Firma produziert Feuerzeuge.",
+    "gender": "verb"
+  },
+  {
+    "word": "protestieren",
+    "translation": "to protest (against)",
+    "example": "Wir protestieren gegen den Bau der Autobahn.",
+    "gender": "verb"
+  },
+  {
+    "word": "prüfen",
+    "translation": "to check, examine",
+    "example": "Bitte prüfen Sie sofort, ob die Rechnung stimmt.",
+    "gender": "verb"
+  },
+  {
+    "word": "putzen",
+    "translation": "to clean",
+    "example": "Ich muss heute noch die Wohnung putzen.",
+    "gender": "verb"
+  },
+  {
+    "word": "(sich) rasieren",
+    "translation": "to shave",
+    "example": "Dein Bart ist aber lang! Du solltest dich mal wieder rasieren.",
+    "gender": "verb"
+  },
+  {
+    "word": "raten",
+    "translation": "to guess, advise",
+    "example": "Ich möchte billig Urlaub machen. Was raten Sie mir?",
+    "gender": "verb"
+  },
+  {
+    "word": "rauchen",
+    "translation": "to smoke",
+    "example": "Hier ist das Rauchen verboten!",
+    "gender": "verb"
+  },
+  {
+    "word": "reagieren",
+    "translation": "to react (to)",
+    "example": "Ich habe dem Vermieter geschrieben, aber er hat noch nicht reagiert.",
+    "gender": "verb"
+  },
+  {
+    "word": "realisieren",
+    "translation": "to realize",
+    "example": "Diese Pläne sind nicht zu realisieren.",
+    "gender": "verb"
+  },
+  {
+    "word": "rechnen",
+    "translation": "to calculate",
+    "example": "Meine Tochter kann gut rechnen.",
+    "gender": "verb"
+  },
+  {
+    "word": "reden",
+    "translation": "to talk (about/with sb.)",
+    "example": "Worüber habt ihr gestern geredet?",
+    "gender": "verb"
+  },
+  {
+    "word": "reduzieren",
+    "translation": "to reduce",
+    "example": "Wir haben jetzt unsere Preise reduziert.",
+    "gender": "verb"
+  },
+  {
+    "word": "regeln",
+    "translation": "to regulate",
+    "example": "Die Ampel ist kaputt. Ein Polizist regelt den Verkehr.",
+    "gender": "verb"
+  },
+  {
+    "word": "regnen",
+    "translation": "to rain",
+    "example": "Es hat gestern den ganzen Tag geregnet.",
+    "gender": "verb"
+  },
+  {
+    "word": "reichen",
+    "translation": "to reach, suffice",
+    "example": "Ich nehme nur eine Suppe. Das reicht mir.",
+    "gender": "verb"
+  },
+  {
+    "word": "reinigen",
+    "translation": "to clean",
+    "example": "Ich möchte diesen Anzug reinigen lassen.",
+    "gender": "verb"
+  },
+  {
+    "word": "reisen",
+    "translation": "to travel",
+    "example": "Ich reise gern nach Spanien.",
+    "gender": "verb"
+  },
+  {
+    "word": "reiten",
+    "translation": "to ride",
+    "example": "Möchtest du gerne reiten lernen?",
+    "gender": "verb"
+  },
+  {
+    "word": "rennen",
+    "translation": "to race",
+    "example": "Ich bin sehr schnell gerannt, aber der Bus war schon weg.",
+    "gender": "verb"
+  },
+  {
+    "word": "reparieren",
+    "translation": "to repair",
+    "example": "Das Fahrrad kann man leider nicht mehr reparieren.",
+    "gender": "verb"
+  },
+  {
+    "word": "reservieren",
+    "translation": "to reserve",
+    "example": "Dieser Tisch ist reserviert.",
+    "gender": "verb"
+  },
+  {
+    "word": "retten",
+    "translation": "to rescue",
+    "example": "Der Arzt konnte das Kind noch retten.",
+    "gender": "verb"
+  },
+  {
+    "word": "riechen",
+    "translation": "to smell (of)",
+    "example": "Dieses Parfüm riecht sehr gut.",
+    "gender": "verb"
+  },
+  {
+    "word": "rufen",
+    "translation": "to call (by shouting)",
+    "example": "Ich habe die Kinder gerufen, aber sie haben mich nicht gehört.",
+    "gender": "verb"
+  },
+  {
+    "word": "sagen",
+    "translation": "to say",
+    "example": "Entschuldigung! Was haben Sie gesagt?",
+    "gender": "verb"
+  },
+  {
+    "word": "sammeln",
+    "translation": "to collect",
+    "example": "Mein Bruder sammelt Briefmarken.",
+    "gender": "verb"
+  },
+  {
+    "word": "schaden",
+    "translation": "to damage, harm",
+    "example": "Ein kleines Glas Wein kann nicht schaden.",
+    "gender": "verb"
+  },
+  {
+    "word": "schaffen",
+    "translation": "to create, manage, accomplish",
+    "example": "Kannst du mir helfen, die Party vorzubereiten? Ich schaffe das nicht allein.",
+    "gender": "verb"
+  },
+  {
+    "word": "schalten",
+    "translation": "to switch",
+    "example": "Schalten Sie bitte das Licht aus, wenn Sie gehen.",
+    "gender": "verb"
+  },
+  {
+    "word": "schätzen",
+    "translation": "to esimate, value",
+    "example": "Wie alt ist der Chef? – Ich weiß nicht, ich schätze, um die Fünfzig.",
+    "gender": "verb"
+  },
+  {
+    "word": "schauen",
+    "translation": "to look, watch",
+    "example": "Schau mal! Da vorne ist noch ein Platz frei.",
+    "gender": "verb"
+  },
+  {
+    "word": "sich scheiden lassen",
+    "translation": "to get a divorce",
+    "example": "Meine Nachbarn haben sich scheiden lassen.",
+    "gender": "verb"
+  },
+  {
+    "word": "scheinen",
+    "translation": "to seem, shine",
+    "example": "Gestern hat es geregnet. Heute scheint wieder die Sonne.",
+    "gender": "verb"
+  },
+  {
+    "word": "schenken",
+    "translation": "to give as a present",
+    "example": "Wir wollen dir zum Geburtstag etwas schenken.",
+    "gender": "verb"
+  },
+  {
+    "word": "schicken",
+    "translation": "to send",
+    "example": "Ich habe meinen Freunden eine Einladung zur Hochzeit geschickt.",
+    "gender": "verb"
+  },
+  {
+    "word": "schieben",
+    "translation": "to push",
+    "example": "Leider ist mein Fahrrad kaputtgegangen. Ich musste es nach Hause schieben.",
+    "gender": "verb"
+  },
+  {
+    "word": "schießen",
+    "translation": "to shoot",
+    "example": "Unsere Mannschaft hat ein Tor geschossen.",
+    "gender": "verb"
+  },
+  {
+    "word": "schimpfen",
+    "translation": "to scold, complain (about)",
+    "example": "Der Arzt hat mit mir geschimpft, weil ich zu wenig Sport mache.",
+    "gender": "verb"
+  },
+  {
+    "word": "schlafen",
+    "translation": "to sleep",
+    "example": "Haben Sie gut geschlafen?",
+    "gender": "verb"
+  },
+  {
+    "word": "schlagen",
+    "translation": "to beat",
+    "example": "Wer hat den Weltmeister geschlagen?",
+    "gender": "verb"
+  },
+  {
+    "word": "schließen",
+    "translation": "to close",
+    "example": "Bitte, schließen Sie die Tür.",
+    "gender": "verb"
+  },
+  {
+    "word": "schmecken",
+    "translation": "to taste",
+    "example": "Hat es Ihnen geschmeckt?",
+    "gender": "verb"
+  },
+  {
+    "word": "schminken",
+    "translation": "to (wear) make up",
+    "example": "Du bist heute sehr schön geschminkt.",
+    "gender": "verb"
+  },
+  {
+    "word": "verschmutzen",
+    "translation": "to pollute",
+    "example": "Die Fabrik verschmutzt den Fluss.",
+    "gender": "verb"
+  },
+  {
+    "word": "schneien",
+    "translation": "to snow",
+    "example": "Heute Nacht hat es geschneit.",
+    "gender": "verb"
+  },
+  {
+    "word": "(sich) schneiden",
+    "translation": "to cut, intersect",
+    "example": "Das Messer schneidet nicht.",
+    "gender": "verb"
+  },
+  {
+    "word": "schreiben",
+    "translation": "to write",
+    "example": "Ich habe dir einen Brief geschrieben.",
+    "gender": "verb"
+  },
+  {
+    "word": "schreien",
+    "translation": "to shout",
+    "example": "Kinder, hört bitte auf, so laut zu schreien. – Ich muss arbeiten.",
+    "gender": "verb"
+  },
+  {
+    "word": "schütteln",
+    "translation": "to shake",
+    "example": "Die Flasche muss man vor dem Öffnen schütteln.",
+    "gender": "verb"
+  },
+  {
+    "word": "schützen",
+    "translation": "to protect",
+    "example": "Diese Impfung schützt vor Grippe.",
+    "gender": "verb"
+  },
+  {
+    "word": "schweigen",
+    "translation": "to remain silent",
+    "example": "Sie sprach viel, aber ihr Mann schwieg den ganzen Abend lang.",
+    "gender": "verb"
+  },
+  {
+    "word": "schwimmen",
+    "translation": "to swim",
+    "example": "Ich gehe regelmäßig schwimmen.",
+    "gender": "verb"
+  },
+  {
+    "word": "schwitzen",
+    "translation": "to sweat",
+    "example": "Es war sehr heiß. Wir haben alle sehr geschwitzt.",
+    "gender": "verb"
+  },
+  {
+    "word": "sehen",
+    "translation": "to see",
+    "example": "Ich sehe nicht gut. Ich brauche eine Brille.",
+    "gender": "verb"
+  },
+  {
+    "word": "sein",
+    "translation": "to be",
+    "example": "Ich bin Mechaniker.",
+    "gender": "verb"
+  },
+  {
+    "word": "senden",
+    "translation": "to send",
+    "example": "Bitte senden Sie uns die Unterlagen per E-Mail.",
+    "gender": "verb"
+  },
+  {
+    "word": "(sich) setzen",
+    "translation": "to sit down",
+    "example": "Darf ich mich zu Ihnen setzen?",
+    "gender": "verb"
+  },
+  {
+    "word": "sichern",
+    "translation": "to secure",
+    "example": "Du musst immer alle Daten im Computer sichern.",
+    "gender": "verb"
+  },
+  {
+    "word": "siegen",
+    "translation": "to win",
+    "example": "Die Mannschaft siegte mit 2:0.",
+    "gender": "verb"
+  },
+  {
+    "word": "(sich) siezen",
+    "translation": "to be on first name terms",
+    "example": "Obwohl sie sich schon lange kennen, siezen sie sich.",
+    "gender": "verb"
+  },
+  {
+    "word": "singen",
+    "translation": "to sing",
+    "example": "Ich singe gern.",
+    "gender": "verb"
+  },
+  {
+    "word": "sinken",
+    "translation": "to sink",
+    "example": "Das Schiff ist vor der Küste gesunken.",
+    "gender": "verb"
+  },
+  {
+    "word": "sitzen",
+    "translation": "to sit",
+    "example": "Wo möchten Sie sitzen? – Bitte ganz hinten.",
+    "gender": "verb"
+  },
+  {
+    "word": "sollen",
+    "translation": "to be supposed to",
+    "example": "Wann soll ich kommen?",
+    "gender": "verb"
+  },
+  {
+    "word": "sorgen",
+    "translation": "to look after sb./sth.",
+    "example": "Wer sorgt denn für die Kinder?",
+    "gender": "verb"
+  },
+  {
+    "word": "sparen",
+    "translation": "to save",
+    "example": "Ein Auto ist mir zu teuer, ich muss sparen.",
+    "gender": "verb"
+  },
+  {
+    "word": "spazieren gehen",
+    "translation": "to go for a walk",
+    "example": "Wir gehen sonntags immer spazieren.",
+    "gender": "verb"
+  },
+  {
+    "word": "speichern",
+    "translation": "to save",
+    "example": "Sie müssen die Datei speichern.",
+    "gender": "verb"
+  },
+  {
+    "word": "spielen",
+    "translation": "to play",
+    "example": "Wir haben einen großen Garten, da können die Kinder spielen.",
+    "gender": "verb"
+  },
+  {
+    "word": "sprechen",
+    "translation": "to speak (about)",
+    "example": "Können Sie bitte etwas lauter sprechen?",
+    "gender": "verb"
+  },
+  {
+    "word": "springen",
+    "translation": "to jump",
+    "example": "Wir waren im Schwimmbad. Mein Sohn ist immer wieder ins Wasser gesprungen.",
+    "gender": "verb"
+  },
+  {
+    "word": "spülen",
+    "translation": "to rinse, flush, wash",
+    "example": "Hast du das Geschirr gespült?",
+    "gender": "verb"
+  },
+  {
+    "word": "spüren",
+    "translation": "to feel",
+    "example": "Wo tut es weh? Spüren Sie das hier?",
+    "gender": "verb"
+  },
+  {
+    "word": "stammen",
+    "translation": "to originate",
+    "example": "Ich stamme aus einer kleinen Stadt an der Donau.",
+    "gender": "verb"
+  },
+  {
+    "word": "starten",
+    "translation": "to start",
+    "example": "Das Flugzeug ist pünktlich gestartet.",
+    "gender": "verb"
+  },
+  {
+    "word": "stattfinden",
+    "translation": "to take place",
+    "example": "Das Spiel findet auch bei Regen statt.",
+    "gender": "verb"
+  },
+  {
+    "word": "staubsaugen",
+    "translation": "to vacuum",
+    "example": "Ich muss heute in meiner Wohnung noch staubsaugen.",
+    "gender": "verb"
+  },
+  {
+    "word": "stechen",
+    "translation": "to sting, pierce",
+    "example": "Stefan wird beim Zelten immer von den Mücken gestochen.",
+    "gender": "verb"
+  },
+  {
+    "word": "stecken",
+    "translation": "to put, be",
+    "example": "Wo ist denn mein Pass? Ich hatte ihn doch in die Handtasche gesteckt.",
+    "gender": "verb"
+  },
+  {
+    "word": "stehen",
+    "translation": "to stand",
+    "example": "In meinem Beruf muss ich viel stehen.",
+    "gender": "verb"
+  },
+  {
+    "word": "stehlen",
+    "translation": "to steal",
+    "example": "Gestern hat mir jemand im Zug meine Uhr gestohlen.",
+    "gender": "verb"
+  },
+  {
+    "word": "steigen",
+    "translation": "to rise",
+    "example": "Die Preise für Milch und Gemüse sind schon wieder gestiegen.",
+    "gender": "verb"
+  },
+  {
+    "word": "stellen",
+    "translation": "to place",
+    "example": "Stell das Bier in den Kühlschrank!",
+    "gender": "verb"
+  },
+  {
+    "word": "sterben",
+    "translation": "to die (of)",
+    "example": "Mein Kollege kommt heute nicht. Sein Vater ist gestern an einem Herzinfarkt gestorben.",
+    "gender": "verb"
+  },
+  {
+    "word": "stimmen",
+    "translation": "to be right, vote (for/against)",
+    "example": "Meine Adresse stimmt nicht mehr.",
+    "gender": "verb"
+  },
+  {
+    "word": "stinken",
+    "translation": "to stink",
+    "example": "Was stinkt denn hier so? – Das ist der Fisch. Er ist nicht mehr frisch.",
+    "gender": "verb"
+  },
+  {
+    "word": "stoppen",
+    "translation": "to stop",
+    "example": "Die Polizei hat mich gestoppt, weil ich bei Rot über die Ampel gefahren bin.",
+    "gender": "verb"
+  },
+  {
+    "word": "stören",
+    "translation": "to disturb",
+    "example": "Darf ich Sie einen Augenblick stören?",
+    "gender": "verb"
+  },
+  {
+    "word": "(sich) stoßen",
+    "translation": "to bump into, encounter",
+    "example": "Wie haben Sie sich denn verletzt? – Ich habe mich an der Autotür gestoßen.",
+    "gender": "verb"
+  },
+  {
+    "word": "streiken",
+    "translation": "to strike",
+    "example": "Die Arbeiter streiken für höhere Löhne.",
+    "gender": "verb"
+  },
+  {
+    "word": "(sich) streiten",
+    "translation": "to argue with sb. (mit) about sth. (über)",
+    "example": "Die Kinder streiten sich oft.",
+    "gender": "verb"
+  },
+  {
+    "word": "studieren",
+    "translation": "to study",
+    "example": "Mein Sohn will Medizin studieren.",
+    "gender": "verb"
+  },
+  {
+    "word": "stürzen",
+    "translation": "to fall, overthrow",
+    "example": "Ich bin auf der Straße gestürzt und habe mir den Fuß gebrochen.",
+    "gender": "verb"
+  },
+  {
+    "word": "suchen",
+    "translation": "to search",
+    "example": "Ich suche meine Brille.",
+    "gender": "verb"
+  },
+  {
+    "word": "tanken",
+    "translation": "to fuel up",
+    "example": "Wir müssen unbedingt tanken. Wir haben fast kein Benzin mehr.",
+    "gender": "verb"
+  },
+  {
+    "word": "tanzen",
+    "translation": "to dance",
+    "example": "Auf der Hochzeit haben wir viel getanzt.",
+    "gender": "verb"
+  },
+  {
+    "word": "tauchen",
+    "translation": "to dive",
+    "example": "Ich möchte im Urlaub wieder tauchen gehen.",
+    "gender": "verb"
+  },
+  {
+    "word": "tauschen",
+    "translation": "to swap",
+    "example": "Ich würde meinen Kuchen gegen dein Brot tauschen.",
+    "gender": "verb"
+  },
+  {
+    "word": "teilen",
+    "translation": "to share",
+    "example": "Mein Mann und ich teilen uns die Arbeit.",
+    "gender": "verb"
+  },
+  {
+    "word": "teilnehmen",
+    "translation": "to participate (in)",
+    "example": "Leider konnte ich an dem Kurs nicht regelmäßig teilnehmen.",
+    "gender": "verb"
+  },
+  {
+    "word": "telefonieren",
+    "translation": "to phone",
+    "example": "Ich muss kurz telefonieren.",
+    "gender": "verb"
+  },
+  {
+    "word": "testen",
+    "translation": "to test",
+    "example": "Testen Sie unsere Angebote kostenlos.",
+    "gender": "verb"
+  },
+  {
+    "word": "tippen",
+    "translation": "to type",
+    "example": "Wie schnell kannst du tippen?",
+    "gender": "verb"
+  },
+  {
+    "word": "tragen",
+    "translation": "to carry, wear",
+    "example": "Lass mich den Koffer tragen. Der ist zu schwer für dich.",
+    "gender": "verb"
+  },
+  {
+    "word": "trainieren",
+    "translation": "to train",
+    "example": "Wir trainieren einmal pro Woche im Sportverein.",
+    "gender": "verb"
+  },
+  {
+    "word": "träumen",
+    "translation": "to dream (of)",
+    "example": "Ich habe schlecht geträumt.",
+    "gender": "verb"
+  },
+  {
+    "word": "treffen",
+    "translation": "to meet",
+    "example": "Wir treffen uns immer freitags.",
+    "gender": "verb"
+  },
+  {
+    "word": "treiben",
+    "translation": "to drive, do sports",
+    "example": "Welchen Sport treibst du?",
+    "gender": "verb"
+  },
+  {
+    "word": "(sich) trennen",
+    "translation": "to separate",
+    "example": "Wir leben getrennt.",
+    "gender": "verb"
+  },
+  {
+    "word": "treten",
+    "translation": "to step, kick",
+    "example": "Ich bin in ein Stück Glas getreten.",
+    "gender": "verb"
+  },
+  {
+    "word": "trinken",
+    "translation": "to drink",
+    "example": "Trinken Sie einen Tee mit uns?",
+    "gender": "verb"
+  },
+  {
+    "word": "trocknen",
+    "translation": "to dry",
+    "example": "Ich habe mir die Haare getrocknet.",
+    "gender": "verb"
+  },
+  {
+    "word": "tun",
+    "translation": "to do",
+    "example": "Ich habe heute viel zu tun.",
+    "gender": "verb"
+  },
+  {
+    "word": "überfahren",
+    "translation": "to run over",
+    "example": "Gestern hat ein Autofahrer einen Hund überfahren.",
+    "gender": "verb"
+  },
+  {
+    "word": "überholen",
+    "translation": "to overtake",
+    "example": "Hier dürfen Lkws nicht überholen.",
+    "gender": "verb"
+  },
+  {
+    "word": "überlegen",
+    "translation": "to consider, think",
+    "example": "Ich kann mich nicht entscheiden. Ich muss mir das noch überlegen.",
+    "gender": "verb"
+  },
+  {
+    "word": "übernachten",
+    "translation": "to stay overnight",
+    "example": "Wir haben auf dem Campingplatz übernachtet.",
+    "gender": "verb"
+  },
+  {
+    "word": "übernehmen",
+    "translation": "to take over",
+    "example": "Ich habe das Geschäft von meinem Vater übernommen.",
+    "gender": "verb"
+  },
+  {
+    "word": "überprüfen",
+    "translation": "to check, examine",
+    "example": "Bitte überprüfen Sie, ob Ihr Name richtig geschrieben ist.",
+    "gender": "verb"
+  },
+  {
+    "word": "überqueren",
+    "translation": "to cross",
+    "example": "Bitte die Straße nur an der Ampel überqueren.",
+    "gender": "verb"
+  },
+  {
+    "word": "überraschen",
+    "translation": "to surprise",
+    "example": "Ich bin ganz überrascht, dass die Wohnung so billig ist.",
+    "gender": "verb"
+  },
+  {
+    "word": "überreden",
+    "translation": "to persuade",
+    "example": "Zuerst wollte ich nicht, aber mein Bruder hat mich überredet, einen Englischkurs zu machen.",
+    "gender": "verb"
+  },
+  {
+    "word": "übersetzen",
+    "translation": "to translate",
+    "example": "Können Sie mir bitte diesen Brief übersetzen?",
+    "gender": "verb"
+  },
+  {
+    "word": "übertreiben",
+    "translation": "to exaggerate, overdo",
+    "example": "Ein bisschen Sport ist gesund. Aber man sollte es nicht übertreiben.",
+    "gender": "verb"
+  },
+  {
+    "word": "überweisen",
+    "translation": "to transfer",
+    "example": "Ich überweise dir das Geld.",
+    "gender": "verb"
+  },
+  {
+    "word": "umarmen",
+    "translation": "to embrace, hug",
+    "example": "Lass dich zum Abschied umarmen.",
+    "gender": "verb"
+  },
+  {
+    "word": "(sich) umdrehen",
+    "translation": "to turn around",
+    "example": "Dreh dich mal um. Da hinten liegt das Buch doch.",
+    "gender": "verb"
+  },
+  {
+    "word": "umgehen",
+    "translation": "to bypass, get around",
+    "example": "Er kann sehr gut mit Kindern umgehen.",
+    "gender": "verb"
+  },
+  {
+    "word": "umsteigen",
+    "translation": "to change (transport)",
+    "example": "In Ulm müssen Sie umsteigen.",
+    "gender": "verb"
+  },
+  {
+    "word": "umtauschen",
+    "translation": "to exchange",
+    "example": "Ich möchte diese Bluse umtauschen. Sie passt mir nicht.",
+    "gender": "verb"
+  },
+  {
+    "word": "umziehen",
+    "translation": "to move (places)",
+    "example": "Familie Meier ist letzten Monat umgezogen. Sie wohnen nicht mehr hier.",
+    "gender": "verb"
+  },
+  {
+    "word": "sich umziehen",
+    "translation": "to change clothes",
+    "example": "Bevor wir zur Party gehen, möchte ich mich umziehen.",
+    "gender": "verb"
+  },
+  {
+    "word": "unterbrechen",
+    "translation": "to interrupt",
+    "example": "Wir unterbrechen die Sendung für eine wichtige Nachricht.",
+    "gender": "verb"
+  },
+  {
+    "word": "(sich) unterhalten",
+    "translation": "to chat (about), entertain",
+    "example": "Wir haben uns über das Fußballspiel unterhalten.",
+    "gender": "verb"
+  },
+  {
+    "word": "unterlassen",
+    "translation": "to refrain from",
+    "example": "Das Rauchen auf den Gängen ist zu unterlassen.",
+    "gender": "verb"
+  },
+  {
+    "word": "unternehmen",
+    "translation": "to undertake, do",
+    "example": "Wollen wir heute Abend noch etwas unternehmen?",
+    "gender": "verb"
+  },
+  {
+    "word": "unterrichten",
+    "translation": "to teach",
+    "example": "Meine Frau unterrichtet Spanisch.",
+    "gender": "verb"
+  },
+  {
+    "word": "unterscheiden",
+    "translation": "to distinguish",
+    "example": "Ihr seid euch sehr ähnlich. Auf dem Foto kann man euch beide nicht unterscheiden.",
+    "gender": "verb"
+  },
+  {
+    "word": "unterschreiben",
+    "translation": "to sign",
+    "example": "Unterschreiben Sie bitte hier unten rechts.",
+    "gender": "verb"
+  },
+  {
+    "word": "unterstreichen",
+    "translation": "to underline",
+    "example": "Wir sollen alle wichtigen Wörter unterstreichen.",
+    "gender": "verb"
+  },
+  {
+    "word": "unterstützen",
+    "translation": "to support",
+    "example": "Sie unterstützen mich, wo sie nur können.",
+    "gender": "verb"
+  },
+  {
+    "word": "untersuchen",
+    "translation": "to examine",
+    "example": "Sie sollten sich vom Arzt untersuchen lassen.",
+    "gender": "verb"
+  },
+  {
+    "word": "verursachen",
+    "translation": "to cause",
+    "example": "Dieser Busfahrer verursachte den Unfall.",
+    "gender": "verb"
+  },
+  {
+    "word": "(sich) verabreden",
+    "translation": "to arrange to meet with",
+    "example": "Wir haben uns mit Freunden verabredet. Wir wollen zusammen essen.",
+    "gender": "verb"
+  },
+  {
+    "word": "(sich) verabschieden",
+    "translation": "to say goodbye (to)",
+    "example": "Ich wurde von meinen Freunden sehr nett verabschiedet.",
+    "gender": "verb"
+  },
+  {
+    "word": "(sich) verändern",
+    "translation": "to change",
+    "example": "Das geht so nicht. Wir müssen die Organisation verändern.",
+    "gender": "verb"
+  },
+  {
+    "word": "(sich) verbessern",
+    "translation": "to improve",
+    "example": "Ich habe mein Deutsch verbessert.",
+    "gender": "verb"
+  },
+  {
+    "word": "verbieten",
+    "translation": "to prohibit",
+    "example": "Ich werde meinen Kindern das Rauchen verbieten.",
+    "gender": "verb"
+  },
+  {
+    "word": "verbinden",
+    "translation": "to connect",
+    "example": "Wir müssen die Wunde sofort verbinden.",
+    "gender": "verb"
+  },
+  {
+    "word": "verbrauchen",
+    "translation": "to consume",
+    "example": "Wie viel Benzin verbraucht dein Auto?",
+    "gender": "verb"
+  },
+  {
+    "word": "(sich) verbrennen",
+    "translation": "to burn",
+    "example": "Ich werde alle Briefe verbrennen.",
+    "gender": "verb"
+  },
+  {
+    "word": "verbringen",
+    "translation": "to spend (time)",
+    "example": "Wie haben Sie Ihren Urlaub verbracht?",
+    "gender": "verb"
+  },
+  {
+    "word": "verdienen",
+    "translation": "to earn",
+    "example": "In diesem Beruf verdient man gut.",
+    "gender": "verb"
+  },
+  {
+    "word": "vereinbaren",
+    "translation": "to agree, arrange",
+    "example": "Können wir einen Termin vereinbaren?",
+    "gender": "verb"
+  },
+  {
+    "word": "vergessen",
+    "translation": "to forget",
+    "example": "Ich habe den Termin ganz vergessen.",
+    "gender": "verb"
+  },
+  {
+    "word": "vergleichen",
+    "translation": "to compare",
+    "example": "Vergleichen Sie die Angebote.",
+    "gender": "verb"
+  },
+  {
+    "word": "sich vergnügen",
+    "translation": "to have fun",
+    "example": "Auf der Party habe ich mich sehr vergnügt.",
+    "gender": "verb"
+  },
+  {
+    "word": "vergrößern",
+    "translation": "to enlarge",
+    "example": "Können Sie das Foto vergrößern?",
+    "gender": "verb"
+  },
+  {
+    "word": "verhaften",
+    "translation": "to arrest",
+    "example": "Die Polizei hat 23 Menschen verhaftet.",
+    "gender": "verb"
+  },
+  {
+    "word": "sich verhalten",
+    "translation": "to behave",
+    "example": "Der Mann hat sich uns gegenüber merkwürdig verhalten.",
+    "gender": "verb"
+  },
+  {
+    "word": "verhindern",
+    "translation": "to prevent",
+    "example": "Wir konnten den Unfall nicht verhindern.",
+    "gender": "verb"
+  },
+  {
+    "word": "verkaufen",
+    "translation": "to sell",
+    "example": "Ich habe unser altes Auto verkauft.",
+    "gender": "verb"
+  },
+  {
+    "word": "verlangen",
+    "translation": "to demand",
+    "example": "Jeden Tag Überstunden? Das können Sie nicht verlangen.",
+    "gender": "verb"
+  },
+  {
+    "word": "verlängern",
+    "translation": "to extend",
+    "example": "Ich muss meinen Pass verlängern lassen.",
+    "gender": "verb"
+  },
+  {
+    "word": "(sich) verlassen",
+    "translation": "to leave, rely on (auf)",
+    "example": "Ich habe die Party um 3 Uhr verlassen.",
+    "gender": "verb"
+  },
+  {
+    "word": "sich verlaufen",
+    "translation": "to get lost",
+    "example": "Gestern haben wir uns im Wald verlaufen. Wir haben erst eine Stunde später den richtigen Weg gefunden.",
+    "gender": "verb"
+  },
+  {
+    "word": "(sich) verletzen",
+    "translation": "to injure",
+    "example": "Ich habe mich an der Hand verletzt.",
+    "gender": "verb"
+  },
+  {
+    "word": "sich verlieben",
+    "translation": "to fall in love (with)",
+    "example": "Ich habe mich verliebt.",
+    "gender": "verb"
+  },
+  {
+    "word": "verlieren",
+    "translation": "to lose",
+    "example": "Ich habe meine Brieftasche verloren.",
+    "gender": "verb"
+  },
+  {
+    "word": "vermeiden",
+    "translation": "to avoid",
+    "example": "Der Arzt sagt, ich soll Stress vermeiden.",
+    "gender": "verb"
+  },
+  {
+    "word": "vermieten",
+    "translation": "to rent out (to)",
+    "example": "Bei uns im Haus ist ein Zimmer zu vermieten.",
+    "gender": "verb"
+  },
+  {
+    "word": "vermissen",
+    "translation": "to miss (a person etc.)",
+    "example": "Ich vermisse meine Familie.",
+    "gender": "verb"
+  },
+  {
+    "word": "vermuten",
+    "translation": "to assume, suspect",
+    "example": "Ich vermute, sie wird heute nicht kommen.",
+    "gender": "verb"
+  },
+  {
+    "word": "verpacken",
+    "translation": "to pack",
+    "example": "Hast Du die Pakete gut verpackt?",
+    "gender": "verb"
+  },
+  {
+    "word": "verpassen",
+    "translation": "to miss (a scheduled thing)",
+    "example": "Ich habe den Zug verpasst.",
+    "gender": "verb"
+  },
+  {
+    "word": "verpflegen",
+    "translation": "to cater",
+    "example": "Wir werden hier sehr gut mit Essen verpflegt.",
+    "gender": "verb"
+  },
+  {
+    "word": "verraten",
+    "translation": "to betray, reveal",
+    "example": "Wer hat dir das Geheimnis verraten?",
+    "gender": "verb"
+  },
+  {
+    "word": "verreisen",
+    "translation": "to travel",
+    "example": "Frau Dr. Müller ist zurzeit verreist.",
+    "gender": "verb"
+  },
+  {
+    "word": "versäumen",
+    "translation": "to miss",
+    "example": "Tut mir leid, ich habe die Anmeldefrist versäumt.",
+    "gender": "verb"
+  },
+  {
+    "word": "verschieben",
+    "translation": "to postpone, shift",
+    "example": "Leider muss ich den Termin verschieben.",
+    "gender": "verb"
+  },
+  {
+    "word": "verschreiben",
+    "translation": "to prescribe",
+    "example": "Die Ärztin hat mir Tabletten verschrieben.",
+    "gender": "verb"
+  },
+  {
+    "word": "verschwinden",
+    "translation": "to disappear",
+    "example": "Mein Ausweis ist verschwunden. Hast du ihn vielleicht gesehen?",
+    "gender": "verb"
+  },
+  {
+    "word": "versichern",
+    "translation": "to insure",
+    "example": "Wollen Sie Ihr Gepäck versichern?",
+    "gender": "verb"
+  },
+  {
+    "word": "versprechen",
+    "translation": "to promise",
+    "example": "Meine Mutter hat mir versprochen, mich abzuholen.",
+    "gender": "verb"
+  },
+  {
+    "word": "(sich) verstecken",
+    "translation": "to hide",
+    "example": "Ich habe das Geld hinter dem Regal versteckt.",
+    "gender": "verb"
+  },
+  {
+    "word": "(sich) verstehen",
+    "translation": "to understand, get along",
+    "example": "Ich kann Sie kaum verstehen. Sprechen Sie bitte lauter.",
+    "gender": "verb"
+  },
+  {
+    "word": "versuchen",
+    "translation": "to try",
+    "example": "Haben Sie es schon mal mit diesem Mittel versucht?",
+    "gender": "verb"
+  },
+  {
+    "word": "verteilen",
+    "translation": "to distribute",
+    "example": "Kannst du bitte schon mal die Gläser verteilen?",
+    "gender": "verb"
+  },
+  {
+    "word": "vertrauen",
+    "translation": "to trust",
+    "example": "Ich kenne dich gut. Ich vertraue dir.",
+    "gender": "verb"
+  },
+  {
+    "word": "vertreten",
+    "translation": "to represent",
+    "example": "Wer vertritt Sie, wenn Sie Urlaub machen?",
+    "gender": "verb"
+  },
+  {
+    "word": "verurteilen",
+    "translation": "to sentence, condemn",
+    "example": "Das Gericht hat den Täter zu einer Geldstrafe verurteilt.",
+    "gender": "verb"
+  },
+  {
+    "word": "verwechseln",
+    "translation": "to mix up, confuse with",
+    "example": "Entschuldigen Sie, ich habe Sie mit jemandem verwechselt.",
+    "gender": "verb"
+  },
+  {
+    "word": "verwenden",
+    "translation": "to use",
+    "example": "Dieses Wort wird oft verwendet.",
+    "gender": "verb"
+  },
+  {
+    "word": "verzeihen",
+    "translation": "to forgive",
+    "example": "Das werde ich ihm nie verzeihen können.",
+    "gender": "verb"
+  },
+  {
+    "word": "verzichten",
+    "translation": "to do without, renounce",
+    "example": "Ich verzichte heute auf den Kaffee.",
+    "gender": "verb"
+  },
+  {
+    "word": "(sich) vorbereiten",
+    "translation": "to prepare (for)",
+    "example": "Am Sonntag machen wir ein kleines Fest. Ich muss noch viel dafür vorbereiten.",
+    "gender": "verb"
+  },
+  {
+    "word": "vorhaben",
+    "translation": "to intend, plan",
+    "example": "Haben Sie morgen Abend schon etwas vor?",
+    "gender": "verb"
+  },
+  {
+    "word": "vorkommen",
+    "translation": "to occur",
+    "example": "Kein Problem. Das kann vorkommen.",
+    "gender": "verb"
+  },
+  {
+    "word": "vorlesen",
+    "translation": "to read out loud",
+    "example": "Ich lese meinen Kindern oft etwas vor.",
+    "gender": "verb"
+  },
+  {
+    "word": "vorschlagen",
+    "translation": "to suggest",
+    "example": "Ich schlage vor, dass wir eine Pause machen.",
+    "gender": "verb"
+  },
+  {
+    "word": "(sich) vorstellen",
+    "translation": "to introduce, imagine",
+    "example": "So schwierig habe ich mir die Arbeit nicht vorgestellt.",
+    "gender": "verb"
+  },
+  {
+    "word": "wachsen",
+    "translation": "to grow",
+    "example": "Mein Sohn ist sehr gewachsen. Er ist jetzt schon größer als ich.",
+    "gender": "verb"
+  },
+  {
+    "word": "wählen",
+    "translation": "to choose",
+    "example": "Sie können wählen: Als Vorspeise gibt es Suppe oder Salat.",
+    "gender": "verb"
+  },
+  {
+    "word": "wandern",
+    "translation": "to hike",
+    "example": "Wir gehen oft wandern.",
+    "gender": "verb"
+  },
+  {
+    "word": "warnen",
+    "translation": "to warn",
+    "example": "Ich warne Sie. Der Hund ist gefährlich.",
+    "gender": "verb"
+  },
+  {
+    "word": "warten",
+    "translation": "to wait (for)",
+    "example": "Können Sie ein paar Minuten warten?",
+    "gender": "verb"
+  },
+  {
+    "word": "(sich) waschen",
+    "translation": "to wash",
+    "example": "Ich habe die Bluse gerade frisch gewaschen.",
+    "gender": "verb"
+  },
+  {
+    "word": "wechseln",
+    "translation": "to change",
+    "example": "Können Sie 50 Euro in Kleingeld/in Dollar wechseln?",
+    "gender": "verb"
+  },
+  {
+    "word": "wecken",
+    "translation": "to awaken",
+    "example": "Können Sie mich morgen früh um sechs wecken?",
+    "gender": "verb"
+  },
+  {
+    "word": "wehtun",
+    "translation": "to hurt",
+    "example": "Wo tut es weh?",
+    "gender": "verb"
+  },
+  {
+    "word": "sich weigern",
+    "translation": "to refuse",
+    "example": "Ich weigere mich diese Arbeit zu tun.",
+    "gender": "verb"
+  },
+  {
+    "word": "weinen",
+    "translation": "to cry",
+    "example": "Bitte nicht weinen. Du bekommst eine neue Puppe.",
+    "gender": "verb"
+  },
+  {
+    "word": "wenden",
+    "translation": "to turn",
+    "example": "Sie müssen zurückfahren, aber hier dürfen Sie nicht wenden.",
+    "gender": "verb"
+  },
+  {
+    "word": "werden",
+    "translation": "to become",
+    "example": "Es wird kalt.",
+    "gender": "verb"
+  },
+  {
+    "word": "werfen",
+    "translation": "to throw",
+    "example": "Die Kinder haben Steine ins Wasser geworfen.",
+    "gender": "verb"
+  },
+  {
+    "word": "wetten",
+    "translation": "to bet",
+    "example": "Wir haben gewettet, dass sie wieder zu spät kommt.",
+    "gender": "verb"
+  },
+  {
+    "word": "widersprechen",
+    "translation": "to contradict",
+    "example": "Da muss ich Ihnen widersprechen.",
+    "gender": "verb"
+  },
+  {
+    "word": "wiederholen",
+    "translation": "to repeat",
+    "example": "Ich wiederhole: Die Nummer ist 3487.",
+    "gender": "verb"
+  },
+  {
+    "word": "wiegen",
+    "translation": "to weigh",
+    "example": "Wie viel wiegst du?",
+    "gender": "verb"
+  },
+  {
+    "word": "winken",
+    "translation": "to wave",
+    "example": "Alle standen auf dem Bahnsteig und winkten zum Abschied.",
+    "gender": "verb"
+  },
+  {
+    "word": "wirken",
+    "translation": "to work",
+    "example": "Die Tabletten haben nicht gewirkt.",
+    "gender": "verb"
+  },
+  {
+    "word": "wissen",
+    "translation": "to know",
+    "example": "Weißt du, wie der Hausmeister heißt?",
+    "gender": "verb"
+  },
+  {
+    "word": "wohnen",
+    "translation": "to live",
+    "example": "Wir wohnen in einem alten Haus.",
+    "gender": "verb"
+  },
+  {
+    "word": "wollen",
+    "translation": "to want",
+    "example": "Peter will Arzt werden.",
+    "gender": "verb"
+  },
+  {
+    "word": "sich wundern",
+    "translation": "to wonder (about), be surprised",
+    "example": "Es hat mich gewundert, dass das Essen hier so günstig ist.",
+    "gender": "verb"
+  },
+  {
+    "word": "(sich) wünschen",
+    "translation": "to wish",
+    "example": "Ich wünsche Ihnen alles Gute.",
+    "gender": "verb"
+  },
+  {
+    "word": "zahlen",
+    "translation": "to pay",
+    "example": "Herr Ober, zahlen bitte!",
+    "gender": "verb"
+  },
+  {
+    "word": "zählen",
+    "translation": "to count",
+    "example": "Bitte zählen Sie das Wechselgeld sofort nach.",
+    "gender": "verb"
+  },
+  {
+    "word": "zeichnen",
+    "translation": "to draw",
+    "example": "Meine Tochter kann sehr gut zeichnen.",
+    "gender": "verb"
+  },
+  {
+    "word": "zeigen",
+    "translation": "to show",
+    "example": "Zeig mir bitte deine Hausaufgaben.",
+    "gender": "verb"
+  },
+  {
+    "word": "zelten",
+    "translation": "to camp",
+    "example": "Ich habe noch nie gezeltet.",
+    "gender": "verb"
+  },
+  {
+    "word": "zerstören",
+    "translation": "to destroy",
+    "example": "Der Sturm hat viele Häuser zerstört.",
+    "gender": "verb"
+  },
+  {
+    "word": "ziehen",
+    "translation": "to pull, move (places)",
+    "example": "Sie müssen ziehen, nicht drücken.",
+    "gender": "verb"
+  },
+  {
+    "word": "zubereiten",
+    "translation": "to prepare",
+    "example": "Sie bereitet das Fleisch mit Kartoffeln zu.",
+    "gender": "verb"
+  },
+  {
+    "word": "zugehen",
+    "translation": "to approach, close",
+    "example": "Die Tür geht nicht zu. Kannst du mir helfen?",
+    "gender": "verb"
+  },
+  {
+    "word": "zuhören",
+    "translation": "to listen",
+    "example": "Hör mir doch mal zu!",
+    "gender": "verb"
+  },
+  {
+    "word": "zumachen",
+    "translation": "to close",
+    "example": "Mach bitte die Tür zu!",
+    "gender": "verb"
+  },
+  {
+    "word": "zunehmen",
+    "translation": "to increase, gain weight",
+    "example": "Ich habe im Urlaub 1 Kilo zugenommen.",
+    "gender": "verb"
+  },
+  {
+    "word": "zurechtkommen",
+    "translation": "to manage, cope",
+    "example": "Soll ich Ihnen helfen? - Danke. Ich komme allein zurecht.",
+    "gender": "verb"
+  },
+  {
+    "word": "zusagen",
+    "translation": "to promise",
+    "example": "Meine Eltern haben uns zum Essen eingeladen. Ich habe zugesagt.",
+    "gender": "verb"
+  },
+  {
+    "word": "zusammenfassen",
+    "translation": "to summarize",
+    "example": "Können Sie das bitte noch einmal kurz zusammenfassen?",
+    "gender": "verb"
+  },
+  {
+    "word": "zu sein",
+    "translation": "to be closed",
+    "example": "Am Sonntag sind die die meisten Läden zu.",
+    "gender": "verb"
+  },
+  {
+    "word": "zustimmen",
+    "translation": "to agree",
+    "example": "Ich stimme dir in dieser Sache völlig zu.",
+    "gender": "verb"
+  },
+  {
+    "word": "zweifeln",
+    "translation": "to doubt sth.",
+    "example": "Ich zweifle nicht daran, dass Sie recht haben.",
+    "gender": "verb"
+  },
+  {
+    "word": "(sich) zwingen",
+    "translation": "to force",
+    "example": "Bitte zwing mich nicht etwas zu essen. Ich bin wirklich nicht hungrig.",
+    "gender": "verb"
+  },
+  {
+    "word": "präsentieren",
+    "translation": "to present",
+    "example": "Präsentieren Sie Ihre Ergebnisse bitte im Kurs.",
+    "gender": "verb"
+  },
+  {
+    "word": "pensioniert werden/sein, in Pension gehen/sein",
+    "translation": "to be retired",
+    "example": "Ich werde Ende des Jahres pensioniert.",
+    "gender": "verb"
+  },
+  {
+    "word": "parken",
+    "translation": "to park",
+    "example": "Hier dürfen Sie nicht parken.",
+    "gender": "verb"
+  },
+  {
+    "word": "grillen",
+    "translation": "to barbecue",
+    "example": "Heute wollen wir im Garten grillen.",
+    "gender": "verb"
+  },
+  {
+    "word": "festnehmen",
+    "translation": "to arrest",
+    "example": "Die Polizei hat einen Mann festgenommen.",
+    "gender": "verb"
+  },
+  {
+    "word": "erschrecken",
+    "translation": "to frighten",
+    "example": "Du hast richtig krank ausgesehen. Ich war ganz erschrocken.",
+    "gender": "verb"
+  },
+  {
+    "word": "(sich) überzeugen",
+    "translation": "to convince (sb. of)",
+    "example": "Ihr Vorschlag überzeugt mich gar nicht.",
+    "gender": "verb"
+  },
+  {
+    "word": "beschränken",
+    "translation": "to limit",
+    "example": "Die Teilnehmerzahl für den Kurs ist beschränkt.",
+    "gender": "verb"
+  },
+  {
+    "word": "entgegenkommen",
+    "translation": "to meet, accommodate",
+    "example": "Auf dem Weg nach Hause ist mir mein Nachbar entgegengekommen.",
+    "gender": "verb"
+  },
+  {
+    "word": "(raus/heraus)finden",
+    "translation": "to find out",
+    "example": "Hast du schon rausgefunden, wann und wo man sich für den Kurs anmelden muss?",
+    "gender": "verb"
+  },
+  {
+    "word": "(runter/herunter)laden",
+    "translation": "to download",
+    "example": "Ich habe mir Musik aus dem Internet (he)runtergeladen.",
+    "gender": "verb"
+  },
+  {
+    "word": "kaputtgehen",
+    "translation": "to break (intransitive)",
+    "example": "Pass bitte mit diesem Glas auf. Es geht leicht kaputt.",
+    "gender": "verb"
+  },
+  {
+    "word": "kaputtmachen",
+    "translation": "to break (transitive)",
+    "example": "Wer hat die Lampe kaputtgemacht?",
+    "gender": "verb"
+  },
+  {
+    "word": "zuschauen",
+    "translation": "to watch",
+    "example": "Möchtest du beim Fußballspiel zuschauen?",
+    "gender": "verb"
+  },
+  {
+    "word": "aufschreiben",
+    "translation": "to write down",
+    "example": "Ich habe mir deine Telefonnummer aufgeschrieben.",
+    "gender": "verb"
+  },
+  {
+    "word": "stehenbleiben",
+    "translation": "to stop, remain still",
+    "example": "Bitte bleiben Sie stehen.",
+    "gender": "verb"
+  },
+  {
+    "word": "kopieren",
+    "translation": "to copy",
+    "example": "Kann ich mir diesen Artikel kopieren?",
+    "gender": "verb"
+  },
+  {
+    "word": "notieren",
+    "translation": "to note",
+    "example": "Ich habe mir den Termin notiert.",
+    "gender": "verb"
+  }
+]

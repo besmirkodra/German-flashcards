@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Besi's B1 Flashcards</title>
+    <style>
+        :root {
+            --bg: #121212; --card-bg: #ffffff; --text: #333;
+            --der: #3498db; --die: #e91e63; --das: #2ecc71;
+            --verb: #f1c40f; --other: #9b59b6;
+        }
+        body { font-family: 'Segoe UI', sans-serif; background: var(--bg); color: white; display: flex; flex-direction: column; align-items: center; justify-content: center; min-height: 100vh; margin: 0; }
+        
+        .selector { margin-bottom: 20px; }
+        select { padding: 10px; border-radius: 8px; border: none; background: #333; color: white; font-size: 1rem; cursor: pointer; }
+        
+        .card { width: 350px; height: 250px; background: var(--card-bg); color: var(--text); border-radius: 20px; display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; cursor: pointer; padding: 25px; box-shadow: 0 10px 30px rgba(0,0,0,0.5); transition: 0.2s; position: relative; }
+        .card:active { transform: scale(0.97); }
+        
+        /* Colored Bottom Border for Visual Memory */
+        .card.der { border-bottom: 15px solid var(--der); }
+        .card.die { border-bottom: 15px solid var(--die); }
+        .card.das { border-bottom: 15px solid var(--das); }
+        .card.verb { border-bottom: 15px solid var(--verb); }
+        .card.other { border-bottom: 15px solid var(--other); }
+        
+        h1 { margin: 0; font-size: 1.8rem; }
+        #example { font-style: italic; color: #666; margin-top: 10px; line-height: 1.4; }
+        .translation { display: none; margin-top: 20px; font-weight: bold; font-size: 1.4rem; color: #c0392b; }
+        
+        .btn { margin-top: 30px; padding: 15px 40px; background: #e94560; border: none; color: white; border-radius: 50px; font-weight: bold; cursor: pointer; box-shadow: 0 5px 15px rgba(233,69,96,0.3); transition: 0.3s; }
+        .btn:hover { background: #ff4d6d; }
+    </style>
+</head>
+<body>
+    <div class="selector">
+        <select id="mode" onchange="loadDatabase()">
+            <option value="nouns.json">Nouns (Nomen)</option>
+            <option value="verbs.json">Verbs (Verben)</option>
+            <option value="others.json">Others (Andere)</option>
+        </select>
+    </div>
+    
+    <div class="card" id="card" onclick="reveal()">
+        <h1 id="word">Loading...</h1>
+        <p id="example"></p>
+        <div class="translation" id="translation"></div>
+    </div>
+    
+    <button class="btn" onclick="nextCard()">Next Word</button>
+
+    <script>
+        let cards = [];
+        let currentIndex = 0;
+
+        async function loadDatabase() {
+            const file = document.getElementById('mode').value;
+            const res = await fetch(file);
+            cards = await res.json();
+            // Shuffle the words every time we switch modes
+            cards.sort(() => Math.random() - 0.5);
+            currentIndex = 0;
+            showCard();
+        }
+
+        function showCard() {
+            if (!cards.length) return;
+            const data = cards[currentIndex];
+            document.getElementById('word').innerText = data.word;
+            document.getElementById('example').innerText = data.example;
+            document.getElementById('translation').innerText = data.translation;
+            document.getElementById('translation').style.display = 'none';
+            document.getElementById('card').className = 'card ' + data.gender;
+        }
+
+        function reveal() { 
+            document.getElementById('translation').style.display = 'block'; 
+        }
+
+        function nextCard() { 
+            currentIndex = (currentIndex + 1) % cards.length; 
+            showCard(); 
+        }
+        
+        loadDatabase();
+    </script>
+</body>
+</html>
