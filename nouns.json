@@ -30,7 +30,7 @@
     "gender": "der"
   },
   {
-    "word": "das Abitur (D) \nÃÂ¢ÃÂÃÂ A",
+    "word": "das Abitur (D) \n$\rightarrow$ A",
     "translation": "Abitur, school leaving examination",
     "example": "Meine Tochter hat gerade Abitur gemacht.",
     "gender": "das"
@@ -1596,13 +1596,13 @@
     "gender": "die"
   },
   {
-    "word": "die e-card (A) \nÃÂ¢ÃÂÃÂ D: die Versichertenkarte",
+    "word": "die e-card (A) \n$\rightarrow$ D: die Versichertenkarte",
     "translation": "e-card",
     "example": "Haben Sie Ihre e-card dabei?",
     "gender": "die"
   },
   {
-    "word": "die ec-Karte/EC-Karte \nÃÂ¢ÃÂÃÂ A: Bankomat-Karte",
+    "word": "die ec-Karte/EC-Karte \n$\rightarrow$ A: Bankomat-Karte",
     "translation": "ec card",
     "example": "Bezahlen Sie bar? Sie können auch mit der ec-Karte zahlen.",
     "gender": "die"
@@ -2136,7 +2136,7 @@
     "gender": "die"
   },
   {
-    "word": "das Faschierte (A) \nÃÂ¢ÃÂÃÂ D",
+    "word": "das Faschierte (A) \n$\rightarrow$ D",
     "translation": "minced meat",
     "example": "Geben Sie mir bitte 500 g Faschiertes.",
     "gender": "das"
@@ -2148,7 +2148,7 @@
     "gender": "der"
   },
   {
-    "word": "die Fasnacht (CH) \nÃÂ¢ÃÂÃÂ D",
+    "word": "die Fasnacht (CH) \n$\rightarrow$ D",
     "translation": "carnival",
     "example": "Dort hängt mein Kostüm für den Fasnachtsumzug.",
     "gender": "die"
@@ -2196,7 +2196,7 @@
     "gender": "das"
   },
   {
-    "word": "die Ferien (Pl.) (CH) \nÃÂ¢ÃÂÃÂ D",
+    "word": "die Ferien (Pl.) (CH) \n$\rightarrow$ D",
     "translation": "vacation",
     "example": "Ich habe noch drei Tage Ferien.",
     "gender": "die"
@@ -5946,13 +5946,13 @@
     "gender": "das"
   },
   {
-    "word": "der (Schlag-)Rahm (CH) \nÃÂ¢ÃÂÃÂ D: (Schlag-)Sahne",
+    "word": "der (Schlag-)Rahm (CH) \n$\rightarrow$ D: (Schlag-)Sahne",
     "translation": "(whipped) cream",
     "example": "Ich hätte gern ein Stück Torte mit (Schlag-)Rahm.",
     "gender": "der"
   },
   {
-    "word": "der/das (Schlag-)Obers (A)\nÃÂ¢ÃÂÃÂ D: (Schlag-)Sahne; CH: (Schlag-)Rahm",
+    "word": "der/das (Schlag-)Obers (A)\n$\rightarrow$ D: (Schlag-)Sahne; CH: (Schlag-)Rahm",
     "translation": "(whipped) cream",
     "example": "Ich hätte gern ein Stück Torte mit Schlagobers.",
     "gender": "das"
@@ -6348,7 +6348,7 @@
     "gender": "der"
   },
   {
-    "word": "die (Schlag-)Sahne (D) \nÃÂ¢ÃÂÃÂ A: (Schlag-)Obers; CH: (Schlag-)Rahm",
+    "word": "die (Schlag-)Sahne (D) \n$\rightarrow$ A: (Schlag-)Obers; CH: (Schlag-)Rahm",
     "translation": "(whipped) cream",
     "example": "Ich hätte gern ein Stück Torte mit Sahne.",
     "gender": "die"
@@ -8868,7 +8868,7 @@
     "gender": "die"
   },
   {
-    "word": "der Zivilstand (CH) \nÃÂ¢ÃÂÃÂ Personenstand; D",
+    "word": "der Zivilstand (CH) \n$\rightarrow$ Personenstand; D",
     "translation": "marital status",
     "example": "Bei ÃÂ¢ÃÂÃÂZivilstandÃÂ¢ÃÂÃÂ musst du ÃÂ¢ÃÂÃÂledigÃÂ¢ÃÂÃÂ ankreuzen.",
     "gender": "der"
@@ -8934,7 +8934,7 @@
     "gender": "die"
   },
   {
-    "word": "die Zünder (A) (Pl.) \nÃÂ¢ÃÂÃÂ Streichholz; Zündholz",
+    "word": "die Zünder (A) (Pl.) \n$\rightarrow$ Streichholz; Zündholz",
     "translation": "matches",
     "example": "Ich hätte gern eine Schachtel Zünder.",
     "gender": "der"
