@@ -112,94 +112,103 @@
             localStorage.setItem('ghRepo', document.getElementById('ghRepo').value);
         }
 
+        // Helper functions to safely decode and encode UTF-8 Base64 strings for German umlauts
+        function utf8Btoa(str) {
+            return btoa(String.fromCharCode(...new TextEncoder().encode(str)));
+        }
+
+        function utf8Atob(base64Str) {
+            const binaryStr = atob(base64Str.replace(/\s/g, ''));
+            const bytes = Uint8Array.from(binaryStr, c => c.charCodeAt(0));
+            return new TextDecoder().decode(bytes);
+        }
+
         async function generateWithAI() {
-    const word = document.getElementById('wordInput').value.trim();
-    const apiKey = document.getElementById('geminiKey').value.trim();
-    const status = document.getElementById('status');
+            const word = document.getElementById('wordInput').value.trim();
+            const apiKey = document.getElementById('geminiKey').value.trim();
+            const status = document.getElementById('status');
 
-    if (!word) { alert('Please enter a German word first!'); return; }
-    if (!apiKey) { alert('Please enter your Gemini API key in settings!'); return; }
+            if (!word) { alert('Please enter a German word first!'); return; }
+            if (!apiKey) { alert('Please enter your Gemini API key in settings!'); return; }
 
-    status.innerText = "🤖 AI is generating properties...";
-    status.style.color = "#3498db";
+            status.innerText = "🤖 AI is generating properties...";
+            status.style.color = "#3498db";
 
-    const prompt = `Analyze the German word "${word}". Return ONLY a valid JSON object (no markdown formatting, no backticks) with these exact keys:
-    - "word": exact word with proper capitalization and article if noun (e.g., "die Entscheidung" or "gehen")
-    - "translation": English translation
-    - "example": a natural B1-level German sentence using this word
-    - "gender": one of ["der", "die", "das", "verb", "other"] based on whether it is a masculine noun, feminine noun, neuter noun, verb, or other part of speech.`;
+            const prompt = `Analyze the German word "${word}". Return ONLY a valid JSON object (no markdown formatting, no backticks) with these exact keys:
+            - "word": exact word with proper capitalization and article if noun (e.g., "die Entscheidung" or "gehen")
+            - "translation": English translation
+            - "example": a natural B1-level German sentence using this word
+            - "gender": one of ["der", "die", "das", "verb", "other"] based on whether it is a masculine noun, feminine noun, neuter noun, verb, or other part of speech.`;
 
-    const endpoint = `https://generativelanguage.googleapis.com/v1beta/models/gemini-3.8-flash:generateContent?key=${apiKey}`;
+            const endpoint = `https://generativelanguage.googleapis.com/v1beta/models/gemini-3.8-flash:generateContent?key=${apiKey}`;
 
-    // Retry configuration
-    const maxRetries = 3;
-    let attempt = 0;
-    let response = null;
+            // Retry configuration for high demand spikes
+            const maxRetries = 3;
+            let attempt = 0;
+            let response = null;
 
-    while (attempt < maxRetries) {
-        try {
-            if (attempt > 0) {
-                status.innerText = `⏳ Server busy. Retrying (Attempt ${attempt + 1}/${maxRetries})...`;
-                status.style.color = "#f39c12";
-                // Wait 2 seconds before retrying
-                await new Promise(res => setTimeout(res, 2000));
+            while (attempt < maxRetries) {
+                try {
+                    if (attempt > 0) {
+                        status.innerText = `⏳ Server busy. Retrying (Attempt ${attempt + 1}/${maxRetries})...`;
+                        status.style.color = "#f39c12";
+                        await new Promise(res => setTimeout(res, 2000));
+                    }
+
+                    response = await fetch(endpoint, {
+                        method: 'POST',
+                        headers: { 'Content-Type': 'application/json' },
+                        body: JSON.stringify({ contents: [{ parts: [{ text: prompt }] }] })
+                    });
+
+                    if (response.ok) break;
+
+                    if (response.status === 503 || response.status === 429) {
+                        attempt++;
+                    } else {
+                        const errData = await response.json();
+                        throw new Error(errData.error?.message || `HTTP ${response.status}`);
+                    }
+                } catch (err) {
+                    if (attempt >= maxRetries - 1 || (!err.message.includes('503') && !err.message.includes('429'))) {
+                        console.error(err);
+                        status.innerText = `❌ Error: ${err.message}`;
+                        status.style.color = "#e94560";
+                        return;
+                    }
+                    attempt++;
+                }
             }
 
-            response = await fetch(endpoint, {
-                method: 'POST',
-                headers: { 'Content-Type': 'application/json' },
-                body: JSON.stringify({ contents: [{ parts: [{ text: prompt }] }] })
-            });
-
-            if (response.ok) break; // Request succeeded
-
-            // If it's a 503 or 429 (rate limit/high demand), retry
-            if (response.status === 503 || response.status === 429) {
-                attempt++;
-            } else {
-                // If it's another HTTP error (e.g., 400 or 403), stop immediately
-                const errData = await response.json();
-                throw new Error(errData.error?.message || `HTTP ${response.status}`);
-            }
-        } catch (err) {
-            if (attempt >= maxRetries - 1 || !err.message.includes('503')) {
-                console.error(err);
-                status.innerText = `❌ Error: ${err.message}`;
+            if (!response || !response.ok) {
+                status.innerText = "❌ Google AI servers are overloaded. Please wait 10 seconds and try again.";
                 status.style.color = "#e94560";
                 return;
             }
-            attempt++;
+
+            try {
+                const data = await response.json();
+                let text = data.candidates[0].content.parts[0].text;
+                text = text.replace(/```json/g, '').replace(/```/g, '').trim();
+                
+                const result = JSON.parse(text);
+
+                document.getElementById('wordInput').value = result.word || word;
+                document.getElementById('translationInput').value = result.translation || '';
+                document.getElementById('exampleInput').value = result.example || '';
+                if (result.gender) {
+                    document.getElementById('genderInput').value = result.gender;
+                }
+
+                status.innerText = "✨ AI generated successfully!";
+                status.style.color = "#2ecc71";
+            } catch (err) {
+                console.error(err);
+                status.innerText = `❌ Error parsing AI response: ${err.message}`;
+                status.style.color = "#e94560";
+            }
         }
-    }
 
-    if (!response || !response.ok) {
-        status.innerText = "❌ Google AI servers are overloaded. Please wait 10 seconds and try again.";
-        status.style.color = "#e94560";
-        return;
-    }
-
-    try {
-        const data = await response.json();
-        let text = data.candidates[0].content.parts[0].text;
-        text = text.replace(/```json/g, '').replace(/```/g, '').trim();
-        
-        const result = JSON.parse(text);
-
-        document.getElementById('wordInput').value = result.word || word;
-        document.getElementById('translationInput').value = result.translation || '';
-        document.getElementById('exampleInput').value = result.example || '';
-        if (result.gender) {
-            document.getElementById('genderInput').value = result.gender;
-        }
-
-        status.innerText = "✨ AI generated successfully!";
-        status.style.color = "#2ecc71";
-    } catch (err) {
-        console.error(err);
-        status.innerText = `❌ Error parsing AI response: ${err.message}`;
-        status.style.color = "#e94560";
-    }
-}
         async function saveToGitHub() {
             const token = document.getElementById('githubToken').value.trim();
             const user = document.getElementById('ghUser').value.trim();
@@ -239,10 +248,16 @@
                 const fileData = await getRes.json();
                 const sha = fileData.sha;
                 
-                const decodedContent = JSON.parse(atob(fileData.content));
+                // Decode existing JSON safely with UTF-8 support
+                const decodedText = utf8Atob(fileData.content);
+                const decodedContent = JSON.parse(decodedText);
+                
+                // Append new card
                 decodedContent.push(newCard);
 
-                const updatedContentBase64 = btoa(unescape(encodeURIComponent(JSON.stringify(decodedContent, null, 2))));
+                // Encode back to UTF-8 Base64 cleanly
+                const updatedJsonStr = JSON.stringify(decodedContent, null, 2);
+                const updatedContentBase64 = utf8Btoa(updatedJsonStr);
 
                 const putRes = await fetch(url, {
                     method: 'PUT',

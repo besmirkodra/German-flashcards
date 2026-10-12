@@ -65,24 +65,38 @@
         let cards = [];
         let currentIndex = 0;
 
+        // Fetch JSON datasets with cache-busting to ensure latest additions appear instantly
+        async function fetchDataset(filename) {
+            const res = await fetch(`${filename}?t=${Date.now()}`);
+            if (!res.ok) throw new Error(`HTTP error! status: ${res.status}`);
+            return await res.json();
+        }
+
         async function loadDatabase() {
-            const file = document.getElementById('mode').value;
-            const res = await fetch(file);
-            cards = await res.json();
-            // Shuffle the words every time we switch modes
-            cards.sort(() => Math.random() - 0.5);
-            currentIndex = 0;
-            showCard();
+            try {
+                const file = document.getElementById('mode').value;
+                cards = await fetchDataset(file);
+                
+                // Shuffle words when switching categories
+                cards.sort(() => Math.random() - 0.5);
+                currentIndex = 0;
+                showCard();
+            } catch (e) {
+                console.error("Failed to load dataset:", e);
+                document.getElementById('word').innerText = "Error loading cards";
+                document.getElementById('example').innerText = "";
+                document.getElementById('translation').innerText = "";
+            }
         }
 
         function showCard() {
             if (!cards.length) return;
             const data = cards[currentIndex];
-            document.getElementById('word').innerText = data.word;
+            document.getElementById('word').innerText = data.word || '';
             document.getElementById('example').innerText = data.example || '';
             document.getElementById('translation').innerText = data.translation || '';
             document.getElementById('translation').style.display = 'none';
-            document.getElementById('card').className = 'card ' + (data.gender || '');
+            document.getElementById('card').className = 'card ' + (data.gender || 'other');
         }
 
         function reveal() { 
@@ -104,17 +118,16 @@
 
             for (const file of files) {
                 try {
-                    const res = await fetch(file);
-                    const data = await res.json();
+                    const data = await fetchDataset(file);
                     
                     foundCard = data.find(item => 
-                        item.word.toLowerCase().includes(query) || 
+                        (item.word && item.word.toLowerCase().includes(query)) || 
                         (item.translation && item.translation.toLowerCase().includes(query))
                     );
 
                     if (foundCard) break;
                 } catch (e) {
-                    console.error('Error fetching file:', file, e);
+                    console.error('Error fetching file during search:', file, e);
                 }
             }
 
