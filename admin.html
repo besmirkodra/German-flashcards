@@ -113,60 +113,93 @@
         }
 
         async function generateWithAI() {
-            const word = document.getElementById('wordInput').value.trim();
-            const apiKey = document.getElementById('geminiKey').value.trim();
-            const status = document.getElementById('status');
+    const word = document.getElementById('wordInput').value.trim();
+    const apiKey = document.getElementById('geminiKey').value.trim();
+    const status = document.getElementById('status');
 
-            if (!word) { alert('Please enter a German word first!'); return; }
-            if (!apiKey) { alert('Please enter your Gemini API key in settings!'); return; }
+    if (!word) { alert('Please enter a German word first!'); return; }
+    if (!apiKey) { alert('Please enter your Gemini API key in settings!'); return; }
 
-            status.innerText = "🤖 AI is generating properties...";
-            status.style.color = "#3498db";
+    status.innerText = "🤖 AI is generating properties...";
+    status.style.color = "#3498db";
 
-            const prompt = `Analyze the German word "${word}". Return ONLY a valid JSON object (no markdown formatting, no backticks) with these exact keys:
-            - "word": exact word with proper capitalization and article if noun (e.g., "die Entscheidung" or "gehen")
-            - "translation": English translation
-            - "example": a natural B1-level German sentence using this word
-            - "gender": one of ["der", "die", "das", "verb", "other"] based on whether it is a masculine noun, feminine noun, neuter noun, verb, or other part of speech.`;
+    const prompt = `Analyze the German word "${word}". Return ONLY a valid JSON object (no markdown formatting, no backticks) with these exact keys:
+    - "word": exact word with proper capitalization and article if noun (e.g., "die Entscheidung" or "gehen")
+    - "translation": English translation
+    - "example": a natural B1-level German sentence using this word
+    - "gender": one of ["der", "die", "das", "verb", "other"] based on whether it is a masculine noun, feminine noun, neuter noun, verb, or other part of speech.`;
 
-            // Updated endpoint to use gemini-3.8-flash
-            const endpoint = `https://generativelanguage.googleapis.com/v1beta/models/gemini-3.8-flash:generateContent?key=${apiKey}`;
+    const endpoint = `https://generativelanguage.googleapis.com/v1beta/models/gemini-3.8-flash:generateContent?key=${apiKey}`;
 
-            try {
-                const response = await fetch(endpoint, {
-                    method: 'POST',
-                    headers: { 'Content-Type': 'application/json' },
-                    body: JSON.stringify({ contents: [{ parts: [{ text: prompt }] }] })
-                });
+    // Retry configuration
+    const maxRetries = 3;
+    let attempt = 0;
+    let response = null;
 
-                if (!response.ok) {
-                    const errData = await response.json();
-                    throw new Error(errData.error?.message || `HTTP ${response.status}`);
-                }
+    while (attempt < maxRetries) {
+        try {
+            if (attempt > 0) {
+                status.innerText = `⏳ Server busy. Retrying (Attempt ${attempt + 1}/${maxRetries})...`;
+                status.style.color = "#f39c12";
+                // Wait 2 seconds before retrying
+                await new Promise(res => setTimeout(res, 2000));
+            }
 
-                const data = await response.json();
-                let text = data.candidates[0].content.parts[0].text;
-                // Clean markdown code blocks if present
-                text = text.replace(/```json/g, '').replace(/```/g, '').trim();
-                
-                const result = JSON.parse(text);
+            response = await fetch(endpoint, {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ contents: [{ parts: [{ text: prompt }] }] })
+            });
 
-                document.getElementById('wordInput').value = result.word || word;
-                document.getElementById('translationInput').value = result.translation || '';
-                document.getElementById('exampleInput').value = result.example || '';
-                if (result.gender) {
-                    document.getElementById('genderInput').value = result.gender;
-                }
+            if (response.ok) break; // Request succeeded
 
-                status.innerText = "✨ AI generated successfully!";
-                status.style.color = "#2ecc71";
-            } catch (err) {
+            // If it's a 503 or 429 (rate limit/high demand), retry
+            if (response.status === 503 || response.status === 429) {
+                attempt++;
+            } else {
+                // If it's another HTTP error (e.g., 400 or 403), stop immediately
+                const errData = await response.json();
+                throw new Error(errData.error?.message || `HTTP ${response.status}`);
+            }
+        } catch (err) {
+            if (attempt >= maxRetries - 1 || !err.message.includes('503')) {
                 console.error(err);
                 status.innerText = `❌ Error: ${err.message}`;
                 status.style.color = "#e94560";
+                return;
             }
+            attempt++;
+        }
+    }
+
+    if (!response || !response.ok) {
+        status.innerText = "❌ Google AI servers are overloaded. Please wait 10 seconds and try again.";
+        status.style.color = "#e94560";
+        return;
+    }
+
+    try {
+        const data = await response.json();
+        let text = data.candidates[0].content.parts[0].text;
+        text = text.replace(/```json/g, '').replace(/```/g, '').trim();
+        
+        const result = JSON.parse(text);
+
+        document.getElementById('wordInput').value = result.word || word;
+        document.getElementById('translationInput').value = result.translation || '';
+        document.getElementById('exampleInput').value = result.example || '';
+        if (result.gender) {
+            document.getElementById('genderInput').value = result.gender;
         }
 
+        status.innerText = "✨ AI generated successfully!";
+        status.style.color = "#2ecc71";
+    } catch (err) {
+        console.error(err);
+        status.innerText = `❌ Error parsing AI response: ${err.message}`;
+        status.style.color = "#e94560";
+    }
+}
         async function saveToGitHub() {
             const token = document.getElementById('githubToken').value.trim();
             const user = document.getElementById('ghUser').value.trim();
