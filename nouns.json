@@ -168,7 +168,7 @@
     "gender": "das"
   },
   {
-    "word": "die ÃÂÃÂnderung",
+    "word": "die änderung",
     "translation": "change, modification",
     "example": "Es gibt eine Programmänderung.",
     "gender": "die"
@@ -212,7 +212,7 @@
   {
     "word": "die Anleitung",
     "translation": "instructions",
-    "example": "In der Anleitung steht, dass bei diesem Spiel der ÃÂÃÂlteste beginnt.",
+    "example": "In der Anleitung steht, dass bei diesem Spiel der älteste beginnt.",
     "gender": "die"
   },
   {
@@ -378,9 +378,9 @@
     "gender": "der"
   },
   {
-    "word": "der ÃÂÃÂrger (Sg.)",
+    "word": "der ärger (Sg.)",
     "translation": "anger, trouble",
-    "example": "Ich hatte heute ÃÂÃÂrger im Büro. Ich habe mich mit einem Kollegen gestritten.",
+    "example": "Ich hatte heute ärger im Büro. Ich habe mich mit einem Kollegen gestritten.",
     "gender": "der"
   },
   {
