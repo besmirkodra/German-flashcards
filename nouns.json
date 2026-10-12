@@ -2,7 +2,7 @@
   {
     "word": "die Abbildung",
     "translation": "illustration",
-    "example": "Auf der Abbildung sehen Sie, wie man das GerÃÂÃÂ¤t einschaltet.",
+    "example": "Auf der Abbildung sehen Sie, wie man das Gerät einschaltet.",
     "gender": "die"
   },
   {
@@ -20,7 +20,7 @@
   {
     "word": "der Abfall",
     "translation": "waste",
-    "example": "Werfen Sie den Bioabfall bitte nicht zum normalen MÃÂÃÂ¼ll.",
+    "example": "Werfen Sie den Bioabfall bitte nicht zum normalen Müll.",
     "gender": "der"
   },
   {
@@ -38,7 +38,7 @@
   {
     "word": "das Abonnement",
     "translation": "subscription",
-    "example": "Ich habe das Abonnement gekÃÂÃÂ¼ndigt.",
+    "example": "Ich habe das Abonnement gekündigt.",
     "gender": "das"
   },
   {
@@ -56,7 +56,7 @@
   {
     "word": "der Absender",
     "translation": "sender",
-    "example": "Schicken Sie das Paket an den Absender zurÃÂÃÂ¼ck.",
+    "example": "Schicken Sie das Paket an den Absender zurück.",
     "gender": "der"
   },
   {
@@ -92,19 +92,19 @@
   {
     "word": "die Aktion",
     "translation": "action, campaign, initiative",
-    "example": "Die Stadt sollte eine Aktion fÃÂÃÂ¼r Familien planen.",
+    "example": "Die Stadt sollte eine Aktion für Familien planen.",
     "gender": "die"
   },
   {
-    "word": "die AktivitÃÂÃÂ¤t",
+    "word": "die Aktivität",
     "translation": "activity",
-    "example": "In den Ferien bietet die Stadt fÃÂÃÂ¼r Kinder verschiedene FreizeitaktivitÃÂÃÂ¤ten.",
+    "example": "In den Ferien bietet die Stadt für Kinder verschiedene Freizeitaktivitäten.",
     "gender": "die"
   },
   {
     "word": "der Alarm",
     "translation": "alarm",
-    "example": "Bei Feueralarm dÃÂÃÂ¼rfen Sie die AufzÃÂÃÂ¼ge nicht benutzen.",
+    "example": "Bei Feueralarm dürfen Sie die Aufzüge nicht benutzen.",
     "gender": "der"
   },
   {
@@ -134,7 +134,7 @@
   {
     "word": "das Altenheim",
     "translation": "old people's home",
-    "example": "Die GroÃÂÃÂeltern unserer Nachbarn sind im Altenheim.",
+    "example": "Die Großeltern unserer Nachbarn sind im Altenheim.",
     "gender": "das"
   },
   {
@@ -146,7 +146,7 @@
   {
     "word": "die Ampel",
     "translation": "traffic light",
-    "example": "Dort an der Ampel kannst du ÃÂÃÂ¼ber die StraÃÂÃÂe gehen.",
+    "example": "Dort an der Ampel kannst du über die Straße gehen.",
     "gender": "die"
   },
   {
@@ -164,13 +164,13 @@
   {
     "word": "das Angebot",
     "translation": "offer",
-    "example": "Ich habe in der Zeitung ein paar gÃÂÃÂ¼nstige Wohnungsangebote gelesen.",
+    "example": "Ich habe in der Zeitung ein paar günstige Wohnungsangebote gelesen.",
     "gender": "das"
   },
   {
     "word": "die ÃÂÃÂnderung",
     "translation": "change, modification",
-    "example": "Es gibt eine ProgrammÃÂÃÂ¤nderung.",
+    "example": "Es gibt eine Programmänderung.",
     "gender": "die"
   },
   {
@@ -186,9 +186,9 @@
     "gender": "die"
   },
   {
-    "word": "der AngehÃÂÃÂ¶rige",
+    "word": "der Angehörige",
     "translation": "relative",
-    "example": "Der Arzt darf nur FamilienangehÃÂÃÂ¶rigen Auskunft geben.",
+    "example": "Der Arzt darf nur Familienangehörigen Auskunft geben.",
     "gender": "der"
   },
   {
@@ -218,7 +218,7 @@
   {
     "word": "die Anmeldung",
     "translation": "registration",
-    "example": "Wo bekomme ich die Formulare fÃÂÃÂ¼r die Anmeldung?",
+    "example": "Wo bekomme ich die Formulare für die Anmeldung?",
     "gender": "die"
   },
   {
@@ -254,7 +254,7 @@
   {
     "word": "der Anschluss",
     "translation": "connection",
-    "example": "In Mannheim haben Sie Anschluss nach SaarbrÃÂÃÂ¼cken.",
+    "example": "In Mannheim haben Sie Anschluss nach Saarbrücken.",
     "gender": "der"
   },
   {
@@ -266,13 +266,13 @@
   {
     "word": "der Angestellte",
     "translation": "employee",
-    "example": "BjÃÂÃÂ¶rn ist Angestellter in einem ReisebÃÂÃÂ¼ro.",
+    "example": "Björn ist Angestellter in einem Reisebüro.",
     "gender": "der"
   },
   {
     "word": "der Antrag",
     "translation": "application",
-    "example": "Haben Sie schon einen Antrag fÃÂÃÂ¼r das Wohngeld ausgefÃÂÃÂ¼llt?",
+    "example": "Haben Sie schon einen Antrag für das Wohngeld ausgefüllt?",
     "gender": "der"
   },
   {
@@ -284,7 +284,7 @@
   {
     "word": "der Anwalt",
     "translation": "lawyer, attorney",
-    "example": "Ich werde das nicht bezahlen. Ich mÃÂÃÂ¶chte zuerst mit meinem Anwalt sprechen.",
+    "example": "Ich werde das nicht bezahlen. Ich möchte zuerst mit meinem Anwalt sprechen.",
     "gender": "der"
   },
   {
@@ -308,19 +308,19 @@
   {
     "word": "der Apfel",
     "translation": "apple",
-    "example": "Zum FrÃÂÃÂ¼hstÃÂÃÂ¼ck esse ich jeden Tag einen Apfel.",
+    "example": "Zum Frühstück esse ich jeden Tag einen Apfel.",
     "gender": "der"
   },
   {
     "word": "die Apotheke",
     "translation": "pharmacy",
-    "example": "Ist hier in der NÃÂÃÂ¤he eine Apotheke?",
+    "example": "Ist hier in der Nähe eine Apotheke?",
     "gender": "die"
   },
   {
     "word": "der Apparat",
     "translation": "apparatus",
-    "example": "KÃÂÃÂ¶nnen Sie den Apparat bitte etwas leiser stellen?",
+    "example": "Können Sie den Apparat bitte etwas leiser stellen?",
     "gender": "der"
   },
   {
@@ -338,7 +338,7 @@
   {
     "word": "die Arbeit",
     "translation": "work",
-    "example": "Wie gefÃÂÃÂ¤llt dir deine Arbeit?",
+    "example": "Wie gefällt dir deine Arbeit?",
     "gender": "die"
   },
   {
@@ -362,7 +362,7 @@
   {
     "word": "der Arbeitsplatz",
     "translation": "workplace",
-    "example": "In der Industrie gibt es immer weniger ArbeitsplÃÂÃÂ¤tze.",
+    "example": "In der Industrie gibt es immer weniger Arbeitsplätze.",
     "gender": "der"
   },
   {
@@ -374,13 +374,13 @@
   {
     "word": "der Architekt",
     "translation": "architect",
-    "example": "Dieses Haus hat eine berÃÂÃÂ¼hmte Architektin gebaut.",
+    "example": "Dieses Haus hat eine berühmte Architektin gebaut.",
     "gender": "der"
   },
   {
     "word": "der ÃÂÃÂrger (Sg.)",
     "translation": "anger, trouble",
-    "example": "Ich hatte heute ÃÂÃÂrger im BÃÂÃÂ¼ro. Ich habe mich mit einem Kollegen gestritten.",
+    "example": "Ich hatte heute ÃÂÃÂrger im Büro. Ich habe mich mit einem Kollegen gestritten.",
     "gender": "der"
   },
   {
@@ -392,7 +392,7 @@
   {
     "word": "die Art",
     "translation": "kind, type",
-    "example": "Im Zoo haben sie 34 verschiedene Arten von VÃÂÃÂ¶geln.",
+    "example": "Im Zoo haben sie 34 verschiedene Arten von Vögeln.",
     "gender": "die"
   },
   {
@@ -422,7 +422,7 @@
   {
     "word": "der Aufenthalt",
     "translation": "stay",
-    "example": "Der Zug hat in MÃÂÃÂ¼nchen nur 20 Minuten Aufenthalt.",
+    "example": "Der Zug hat in München nur 20 Minuten Aufenthalt.",
     "gender": "der"
   },
   {
@@ -434,7 +434,7 @@
   {
     "word": "die Aufgabe",
     "translation": "task",
-    "example": "Hast du deine Hausaufgaben fÃÂÃÂ¼r die Schule schon gemacht?",
+    "example": "Hast du deine Hausaufgaben für die Schule schon gemacht?",
     "gender": "die"
   },
   {
@@ -446,7 +446,7 @@
   {
     "word": "der Auftrag",
     "translation": "order, assignment",
-    "example": "Ich komme im Auftrag von Frau MÃÂÃÂ¼ller und soll Ihnen diesen Brief geben.",
+    "example": "Ich komme im Auftrag von Frau Müller und soll Ihnen diesen Brief geben.",
     "gender": "der"
   },
   {
@@ -458,7 +458,7 @@
   {
     "word": "der Aufzug",
     "translation": "elevator",
-    "example": "Im BÃÂÃÂ¼ro ist leider der Aufzug kaputt.",
+    "example": "Im Büro ist leider der Aufzug kaputt.",
     "gender": "der"
   },
   {
@@ -482,7 +482,7 @@
   {
     "word": "der Ausdruck",
     "translation": "expression",
-    "example": "1. Diesen Ausdruck habe ich noch nie gehÃÂÃÂ¶rt.",
+    "example": "1. Diesen Ausdruck habe ich noch nie gehört.",
     "gender": "der"
   },
   {
@@ -494,7 +494,7 @@
   {
     "word": "die Ausfahrt",
     "translation": "(car) exit",
-    "example": "Hier ist eine Ausfahrt, da dÃÂÃÂ¼rfen Sie nicht parken.",
+    "example": "Hier ist eine Ausfahrt, da dürfen Sie nicht parken.",
     "gender": "die"
   },
   {
@@ -518,13 +518,13 @@
   {
     "word": "die Aushilfe",
     "translation": "temporary help, assistance",
-    "example": "Wir suchen eine freundliche Aushilfe fÃÂÃÂ¼r unser GeschÃÂÃÂ¤ft.",
+    "example": "Wir suchen eine freundliche Aushilfe für unser Geschäft.",
     "gender": "die"
   },
   {
     "word": "die Auskunft",
     "translation": "information, information desk",
-    "example": "Ich hÃÂÃÂ¤tte gern eine Auskunft.",
+    "example": "Ich hätte gern eine Auskunft.",
     "gender": "die"
   },
   {
@@ -534,9 +534,9 @@
     "gender": "das"
   },
   {
-    "word": "der AuslÃÂÃÂ¤nder",
+    "word": "der Ausländer",
     "translation": "foreigner",
-    "example": "Viele AuslÃÂÃÂ¤nder und AuslÃÂÃÂ¤nderinnen lernen in der Volkshochschule Deutsch.",
+    "example": "Viele Ausländer und Ausländerinnen lernen in der Volkshochschule Deutsch.",
     "gender": "der"
   },
   {
@@ -566,7 +566,7 @@
   {
     "word": "die Auswahl",
     "translation": "selection",
-    "example": "Wir mÃÂÃÂ¼ssen eine Auswahl aus den BÃÂÃÂ¼chern treffen.",
+    "example": "Wir müssen eine Auswahl aus den Büchern treffen.",
     "gender": "die"
   },
   {
@@ -578,7 +578,7 @@
   {
     "word": "das Auto",
     "translation": "car",
-    "example": "Mario fÃÂÃÂ¤hrt mit dem Auto zur Arbeit.",
+    "example": "Mario fährt mit dem Auto zur Arbeit.",
     "gender": "das"
   },
   {
@@ -596,19 +596,19 @@
   {
     "word": "der Autor",
     "translation": "author",
-    "example": "Diese Autorin hat in diesem Jahr schon zwei BÃÂÃÂ¼cher geschrieben.",
+    "example": "Diese Autorin hat in diesem Jahr schon zwei Bücher geschrieben.",
     "gender": "der"
   },
   {
-    "word": "die BÃÂÃÂ¤ckerei",
+    "word": "die Bäckerei",
     "translation": "bakery",
-    "example": "Wir kaufen unser Brot immer in der BÃÂÃÂ¤ckerei am Markt.",
+    "example": "Wir kaufen unser Brot immer in der Bäckerei am Markt.",
     "gender": "die"
   },
   {
     "word": "das Bad",
     "translation": "bathroom",
-    "example": "Nach einem warmen Bad fÃÂÃÂ¼hlt man sich gleich viel besser.",
+    "example": "Nach einem warmen Bad fühlt man sich gleich viel besser.",
     "gender": "das"
   },
   {
@@ -624,9 +624,9 @@
     "gender": "die"
   },
   {
-    "word": "die StraÃÂÃÂenbahn",
+    "word": "die Straßenbahn",
     "translation": "tram",
-    "example": "Nehmen Sie die StraÃÂÃÂenbahn Nr. 16.",
+    "example": "Nehmen Sie die Straßenbahn Nr. 16.",
     "gender": "die"
   },
   {
@@ -644,7 +644,7 @@
   {
     "word": "der Bahnsteig",
     "translation": "platform",
-    "example": "Auf HauptbahnhÃÂÃÂ¶fen gibt es meist viele Bahnsteige.",
+    "example": "Auf Hauptbahnhöfen gibt es meist viele Bahnsteige.",
     "gender": "der"
   },
   {
@@ -662,7 +662,7 @@
   {
     "word": "das Ballett",
     "translation": "ballet",
-    "example": "Meine Tochter mÃÂÃÂ¶chte gern Ballett tanzen.",
+    "example": "Meine Tochter möchte gern Ballett tanzen.",
     "gender": "das"
   },
   {
@@ -698,7 +698,7 @@
   {
     "word": "die Bankomat-Karte",
     "translation": "ATM card",
-    "example": "Sie kÃÂÃÂ¶nnen auch mit Bankomat-Karte zahlen.",
+    "example": "Sie können auch mit Bankomat-Karte zahlen.",
     "gender": "die"
   },
   {
@@ -716,7 +716,7 @@
   {
     "word": "der Bart",
     "translation": "beard",
-    "example": "John trÃÂÃÂ¤gt jetzt einen Bart.",
+    "example": "John trägt jetzt einen Bart.",
     "gender": "der"
   },
   {
@@ -728,7 +728,7 @@
   {
     "word": "die Batterie",
     "translation": "battery",
-    "example": "Bringst du bitte Batterien fÃÂÃÂ¼r die Kamera mit?",
+    "example": "Bringst du bitte Batterien für die Kamera mit?",
     "gender": "die"
   },
   {
@@ -746,19 +746,19 @@
   {
     "word": "die Baustelle",
     "translation": "building site",
-    "example": "Wir mÃÂÃÂ¼ssen die Baustelle umfahren.",
+    "example": "Wir müssen die Baustelle umfahren.",
     "gender": "die"
   },
   {
     "word": "der Bauer",
     "translation": "farmer",
-    "example": "Wir kaufen unser GemÃÂÃÂ¼se beim Bauern.",
+    "example": "Wir kaufen unser Gemüse beim Bauern.",
     "gender": "der"
   },
   {
     "word": "der Baum",
     "translation": "tree",
-    "example": "Wir haben zwei BÃÂÃÂ¤ume im Garten.",
+    "example": "Wir haben zwei Bäume im Garten.",
     "gender": "der"
   },
   {
@@ -770,7 +770,7 @@
   {
     "word": "der Bedarf",
     "translation": "demand",
-    "example": "An diesem Produkt besteht groÃÂÃÂer Bedarf.",
+    "example": "An diesem Produkt besteht großer Bedarf.",
     "gender": "der"
   },
   {
@@ -788,25 +788,25 @@
   {
     "word": "die Bedingung",
     "translation": "condition, terms",
-    "example": "Wenn Sie unsere Bedingungen akzeptieren, kÃÂÃÂ¶nnen wir einen Vertrag machen.",
+    "example": "Wenn Sie unsere Bedingungen akzeptieren, können wir einen Vertrag machen.",
     "gender": "die"
   },
   {
     "word": "der Beginn (Sg.)",
     "translation": "beginning",
-    "example": "Zu Beginn der Stunde begrÃÂÃÂ¼ÃÂÃÂt die Lehrerin ihre SchÃÂÃÂ¼ler.",
+    "example": "Zu Beginn der Stunde begrüßt die Lehrerin ihre Schüler.",
     "gender": "der"
   },
   {
-    "word": "die BegrÃÂÃÂ¼ndung",
+    "word": "die Begründung",
     "translation": "justification",
-    "example": "Die Miete wurde ohne BegrÃÂÃÂ¼ndung erhÃÂÃÂ¶ht.",
+    "example": "Die Miete wurde ohne Begründung erhöht.",
     "gender": "die"
   },
   {
-    "word": "die BehÃÂÃÂ¶rde",
+    "word": "die Behörde",
     "translation": "authority",
-    "example": "Sie erhalten ein Schreiben von der zustÃÂÃÂ¤ndigen BehÃÂÃÂ¶rde.",
+    "example": "Sie erhalten ein Schreiben von der zuständigen Behörde.",
     "gender": "die"
   },
   {
@@ -818,13 +818,13 @@
   {
     "word": "das Beispiel",
     "translation": "example",
-    "example": "KÃÂÃÂ¶nnen Sie mir ein Beispiel sagen?",
+    "example": "Können Sie mir ein Beispiel sagen?",
     "gender": "das"
   },
   {
     "word": "der Beitrag",
     "translation": "contribution, fee",
-    "example": "Die Krankenkasse hat die BeitrÃÂÃÂ¤ge erhÃÂÃÂ¶ht.",
+    "example": "Die Krankenkasse hat die Beiträge erhöht.",
     "gender": "der"
   },
   {
@@ -848,19 +848,19 @@
   {
     "word": "die Beratung",
     "translation": "advice, counselling",
-    "example": "Beratungen fÃÂÃÂ¼r Familien gibt es jeden Dienstag zwischen 14 und 16 Uhr.",
+    "example": "Beratungen für Familien gibt es jeden Dienstag zwischen 14 und 16 Uhr.",
     "gender": "die"
   },
   {
     "word": "der Bereich",
     "translation": "area, field (of expertise)",
-    "example": "In welchem Bereich mÃÂÃÂ¶chten Sie arbeiten?",
+    "example": "In welchem Bereich möchten Sie arbeiten?",
     "gender": "der"
   },
   {
     "word": "der Berg",
     "translation": "mountain",
-    "example": "Die Zugspitze ist der hÃÂÃÂ¶chste Berg in Deutschland.",
+    "example": "Die Zugspitze ist der höchste Berg in Deutschland.",
     "gender": "der"
   },
   {
@@ -876,21 +876,21 @@
     "gender": "der"
   },
   {
-    "word": "die BeschÃÂÃÂ¤ftigung",
+    "word": "die Beschäftigung",
     "translation": "employment",
-    "example": "Ich suche eine HalbtagsbeschÃÂÃÂ¤ftigung, weil ich ein kleines Kind habe.",
+    "example": "Ich suche eine Halbtagsbeschäftigung, weil ich ein kleines Kind habe.",
     "gender": "die"
   },
   {
     "word": "der Bescheid",
     "translation": "information, notice",
-    "example": "Den endgÃÂÃÂ¼ltigen Bescheid erhalten Sie in etwa vier Wochen.",
+    "example": "Den endgültigen Bescheid erhalten Sie in etwa vier Wochen.",
     "gender": "der"
   },
   {
     "word": "die Beschreibung",
     "translation": "description",
-    "example": "Eine Beschreibung des GerÃÂÃÂ¤ts liegt bei.",
+    "example": "Eine Beschreibung des Geräts liegt bei.",
     "gender": "die"
   },
   {
@@ -906,9 +906,9 @@
     "gender": "die"
   },
   {
-    "word": "die BestÃÂÃÂ¤tigung",
+    "word": "die Bestätigung",
     "translation": "confirmation",
-    "example": "Ich brauche eine schriftliche BestÃÂÃÂ¤tigung fÃÂÃÂ¼r das Amt.",
+    "example": "Ich brauche eine schriftliche Bestätigung für das Amt.",
     "gender": "die"
   },
   {
@@ -920,7 +920,7 @@
   {
     "word": "der Betrag",
     "translation": "amount",
-    "example": "Bitte ÃÂÃÂ¼berweisen Sie den Betrag auf unser Konto.",
+    "example": "Bitte überweisen Sie den Betrag auf unser Konto.",
     "gender": "der"
   },
   {
@@ -932,7 +932,7 @@
   {
     "word": "die Betreuung",
     "translation": "care",
-    "example": "Haben Sie eine Betreuung fÃÂÃÂ¼r Ihre Kinder?",
+    "example": "Haben Sie eine Betreuung für Ihre Kinder?",
     "gender": "die"
   },
   {
@@ -944,7 +944,7 @@
   {
     "word": "der Betriebsrat",
     "translation": "works council",
-    "example": "Der Betriebsrat wird Sie ÃÂÃÂ¼ber die neuen Arbeitszeiten informieren.",
+    "example": "Der Betriebsrat wird Sie über die neuen Arbeitszeiten informieren.",
     "gender": "der"
   },
   {
@@ -954,21 +954,21 @@
     "gender": "das"
   },
   {
-    "word": "die BevÃÂÃÂ¶lkerung",
+    "word": "die Bevölkerung",
     "translation": "population",
-    "example": "11 % der BevÃÂÃÂ¶lkerung wurden nicht im Inland geboren.",
+    "example": "11 % der Bevölkerung wurden nicht im Inland geboren.",
     "gender": "die"
   },
   {
     "word": "die Bewegung",
     "translation": "movement",
-    "example": "Sie brauchen mehr Bewegung. Sie mÃÂÃÂ¼ssen regelmÃÂÃÂ¤ÃÂÃÂig spazieren gehen.",
+    "example": "Sie brauchen mehr Bewegung. Sie müssen regelmäßig spazieren gehen.",
     "gender": "die"
   },
   {
     "word": "der Beweis",
     "translation": "proof",
-    "example": "Haben Sie dafÃÂÃÂ¼r Beweise?",
+    "example": "Haben Sie dafür Beweise?",
     "gender": "der"
   },
   {
@@ -1004,25 +1004,25 @@
   {
     "word": "das Bild",
     "translation": "image",
-    "example": "Ein Bild von meinen Kindern hÃÂÃÂ¤ngt ÃÂÃÂ¼ber meinem Schreibtisch.",
+    "example": "Ein Bild von meinen Kindern hängt über meinem Schreibtisch.",
     "gender": "das"
   },
   {
     "word": "der Bildschirm",
     "translation": "screen",
-    "example": "Ich brauche einen grÃÂÃÂ¶ÃÂÃÂeren Bildschirm fÃÂÃÂ¼r meinen Computer.",
+    "example": "Ich brauche einen größeren Bildschirm für meinen Computer.",
     "gender": "der"
   },
   {
     "word": "das Billett",
     "translation": "ticket",
-    "example": "Ein Billett kÃÂÃÂ¶nnen Sie am Schalter kaufen.",
+    "example": "Ein Billett können Sie am Schalter kaufen.",
     "gender": "das"
   },
   {
     "word": "der Bikini",
     "translation": "bikini",
-    "example": "Ich mÃÂÃÂ¶chte einen neuen Bikini kaufen.",
+    "example": "Ich möchte einen neuen Bikini kaufen.",
     "gender": "der"
   },
   {
@@ -1034,7 +1034,7 @@
   {
     "word": "die Birne",
     "translation": "pear",
-    "example": "MÃÂÃÂ¶chten Sie Obst? Die Birnen sind heute besonders schÃÂÃÂ¶n.",
+    "example": "Möchten Sie Obst? Die Birnen sind heute besonders schön.",
     "gender": "die"
   },
   {
@@ -1046,25 +1046,25 @@
   {
     "word": "das Blatt",
     "translation": "leaf, sheet (of paper)",
-    "example": "Die BÃÂÃÂ¤ume bekommen schon gelbe BlÃÂÃÂ¤tter.",
+    "example": "Die Bäume bekommen schon gelbe Blätter.",
     "gender": "das"
   },
   {
     "word": "der Bleistift",
     "translation": "pencil",
-    "example": "Hast du einen Bleistift fÃÂÃÂ¼r mich?",
+    "example": "Hast du einen Bleistift für mich?",
     "gender": "der"
   },
   {
     "word": "der Blick",
     "translation": "view",
-    "example": "Von hier hat man einen tollen Blick ÃÂÃÂ¼ber die Stadt.",
+    "example": "Von hier hat man einen tollen Blick über die Stadt.",
     "gender": "der"
   },
   {
     "word": "der Blitz",
     "translation": "lightning",
-    "example": "Was fÃÂÃÂ¼r ein Gewitter, hast du den Blitz gesehen?",
+    "example": "Was für ein Gewitter, hast du den Blitz gesehen?",
     "gender": "der"
   },
   {
@@ -1076,7 +1076,7 @@
   {
     "word": "die Bluse",
     "translation": "blouse",
-    "example": "Ich hÃÂÃÂ¤tte gerne eine weiÃÂÃÂe Bluse.",
+    "example": "Ich hätte gerne eine weiße Bluse.",
     "gender": "die"
   },
   {
@@ -1088,7 +1088,7 @@
   {
     "word": "der Boden",
     "translation": "floor, ground, soil",
-    "example": "Die BÃÂÃÂ¼cher lagen alle auf dem Boden.",
+    "example": "Die Bücher lagen alle auf dem Boden.",
     "gender": "der"
   },
   {
@@ -1118,13 +1118,13 @@
   {
     "word": "der Braten",
     "translation": "roast",
-    "example": "Nehmen Sie noch etwas SoÃÂÃÂe zum Braten?",
+    "example": "Nehmen Sie noch etwas Soße zum Braten?",
     "gender": "der"
   },
   {
     "word": "die Breite",
     "translation": "width",
-    "example": "Welche MaÃÂÃÂe hat der Tisch? ÃÂ¢ÃÂÃÂ LÃÂÃÂ¤nge: 1 m, Breite: 80 cm, HÃÂÃÂ¶he: 1,20 m.",
+    "example": "Welche Maße hat der Tisch? ÃÂ¢ÃÂÃÂ Länge: 1 m, Breite: 80 cm, Höhe: 1,20 m.",
     "gender": "die"
   },
   {
@@ -1142,7 +1142,7 @@
   {
     "word": "der Briefkasten",
     "translation": "mailbox",
-    "example": "Ist hier in der NÃÂÃÂ¤he ein Briefkasten?",
+    "example": "Ist hier in der Nähe ein Briefkasten?",
     "gender": "der"
   },
   {
@@ -1152,15 +1152,15 @@
     "gender": "die"
   },
   {
-    "word": "der BrieftrÃÂÃÂ¤ger",
+    "word": "der Briefträger",
     "translation": "letter carrier",
-    "example": "War die BrieftrÃÂÃÂ¤gerin schon da?",
+    "example": "War die Briefträgerin schon da?",
     "gender": "der"
   },
   {
     "word": "der Briefumschlag",
     "translation": "envelope",
-    "example": "Ich hÃÂÃÂ¤tte gern 50 BriefumschlÃÂÃÂ¤ge und Briefmarken dazu.",
+    "example": "Ich hätte gern 50 Briefumschläge und Briefmarken dazu.",
     "gender": "der"
   },
   {
@@ -1176,39 +1176,39 @@
     "gender": "die"
   },
   {
-    "word": "die BroschÃÂÃÂ¼re",
+    "word": "die Broschüre",
     "translation": "brochure, leaflet",
-    "example": "In der BroschÃÂÃÂ¼re finden Sie die neuesten Informationen.",
+    "example": "In der Broschüre finden Sie die neuesten Informationen.",
     "gender": "die"
   },
   {
     "word": "das Brot",
     "translation": "bread",
-    "example": "Brot kaufe ich immer beim BÃÂÃÂ¤cker, nicht im Supermarkt.",
+    "example": "Brot kaufe ich immer beim Bäcker, nicht im Supermarkt.",
     "gender": "das"
   },
   {
-    "word": "das BrÃÂÃÂ¶tchen",
+    "word": "das Brötchen",
     "translation": "rolls",
-    "example": "Ich hole schnell ein paar BrÃÂÃÂ¶tchen zum FrÃÂÃÂ¼hstÃÂÃÂ¼ck.",
+    "example": "Ich hole schnell ein paar Brötchen zum Frühstück.",
     "gender": "das"
   },
   {
-    "word": "das BrÃÂÃÂ¶tli",
+    "word": "das Brötli",
     "translation": "rolls",
-    "example": "Ich hole schnell ein paar BrÃÂÃÂ¶tli zum FrÃÂÃÂ¼hstÃÂÃÂ¼ck.",
+    "example": "Ich hole schnell ein paar Brötli zum Frühstück.",
     "gender": "das"
   },
   {
-    "word": "die BrÃÂÃÂ¼cke",
+    "word": "die Brücke",
     "translation": "bridge",
-    "example": "Fahren Sie ÃÂÃÂ¼ber die nÃÂÃÂ¤chste BrÃÂÃÂ¼cke und dann rechts.",
+    "example": "Fahren Sie über die nächste Brücke und dann rechts.",
     "gender": "die"
   },
   {
     "word": "der Bruder",
     "translation": "brother",
-    "example": "Mein jÃÂÃÂ¼ngster Bruder geht noch zur Schule.",
+    "example": "Mein jüngster Bruder geht noch zur Schule.",
     "gender": "der"
   },
   {
@@ -1220,13 +1220,13 @@
   {
     "word": "der Bub",
     "translation": "boy",
-    "example": "In der Schulklasse sind 15 Buben und 10 MÃÂÃÂ¤dchen.",
+    "example": "In der Schulklasse sind 15 Buben und 10 Mädchen.",
     "gender": "der"
   },
   {
     "word": "das Buch",
     "translation": "book",
-    "example": "Haben Sie ein Buch ÃÂÃÂ¼ber die Geschichte von Berlin?",
+    "example": "Haben Sie ein Buch über die Geschichte von Berlin?",
     "gender": "das"
   },
   {
@@ -1242,57 +1242,57 @@
     "gender": "der"
   },
   {
-    "word": "die BÃÂÃÂ¼chse",
+    "word": "die Büchse",
     "translation": "box, can",
-    "example": "Ich habe noch eine BÃÂÃÂ¼chse Bohnen.",
+    "example": "Ich habe noch eine Büchse Bohnen.",
     "gender": "die"
   },
   {
     "word": "das Buffet",
     "translation": "buffet",
-    "example": "Das Buffet ist erÃÂÃÂ¶ffnet!",
+    "example": "Das Buffet ist eröffnet!",
     "gender": "das"
   },
   {
-    "word": "die BÃÂÃÂ¼hne",
+    "word": "die Bühne",
     "translation": "stage",
-    "example": "Er steht gern auf der BÃÂÃÂ¼hne.",
+    "example": "Er steht gern auf der Bühne.",
     "gender": "die"
   },
   {
     "word": "die Burg",
     "translation": "castle",
-    "example": "Von der Burg hat man eine schÃÂÃÂ¶ne Aussicht.",
+    "example": "Von der Burg hat man eine schöne Aussicht.",
     "gender": "die"
   },
   {
-    "word": "der BÃÂÃÂ¼rger",
+    "word": "der Bürger",
     "translation": "citizen",
-    "example": "EU-BÃÂÃÂ¼rgerinnen und BÃÂÃÂ¼rger kÃÂÃÂ¶nnen ÃÂÃÂ¼berall in Europa arbeiten.",
+    "example": "EU-Bürgerinnen und Bürger können überall in Europa arbeiten.",
     "gender": "der"
   },
   {
-    "word": "der BÃÂÃÂ¼rgermeister",
+    "word": "der Bürgermeister",
     "translation": "mayor",
-    "example": "Der BÃÂÃÂ¼rgermeister hat eine wichtige Rolle in der Stadtverwaltung.",
+    "example": "Der Bürgermeister hat eine wichtige Rolle in der Stadtverwaltung.",
     "gender": "der"
   },
   {
-    "word": "das BÃÂÃÂ¼ro",
+    "word": "das Büro",
     "translation": "office",
-    "example": "Unser BÃÂÃÂ¼ro bleibt samstags geschlossen.",
+    "example": "Unser Büro bleibt samstags geschlossen.",
     "gender": "das"
   },
   {
-    "word": "die BÃÂÃÂ¼rste",
+    "word": "die Bürste",
     "translation": "brush",
-    "example": "Hast du eine BÃÂÃÂ¼rste? Meine Schuhe sind so schmutzig.",
+    "example": "Hast du eine Bürste? Meine Schuhe sind so schmutzig.",
     "gender": "die"
   },
   {
-    "word": "die ZahnbÃÂÃÂ¼rste",
+    "word": "die Zahnbürste",
     "translation": "toothbrush",
-    "example": "Ich brauche eine neue ZahnbÃÂÃÂ¼rste.",
+    "example": "Ich brauche eine neue Zahnbürste.",
     "gender": "die"
   },
   {
@@ -1304,13 +1304,13 @@
   {
     "word": "die Butter (Sg.)",
     "translation": "butter",
-    "example": "Ich mÃÂÃÂ¶chte nur Butter aufs Brot.",
+    "example": "Ich möchte nur Butter aufs Brot.",
     "gender": "die"
   },
   {
     "word": "das CafÃÂÃÂ©",
     "translation": "cafÃÂÃÂ©",
-    "example": "Hier in der NÃÂÃÂ¤he ist ein CafÃÂÃÂ©. Lass uns einen Kaffee trinken.",
+    "example": "Hier in der Nähe ist ein CafÃÂÃÂ©. Lass uns einen Kaffee trinken.",
     "gender": "das"
   },
   {
@@ -1352,7 +1352,7 @@
   {
     "word": "die Creme",
     "translation": "cream",
-    "example": "Ich hÃÂÃÂ¤tte gern eine Creme fÃÂÃÂ¼r die HÃÂÃÂ¤nde.",
+    "example": "Ich hätte gern eine Creme für die Hände.",
     "gender": "die"
   },
   {
@@ -1364,13 +1364,13 @@
   {
     "word": "das Couvert",
     "translation": "envelope",
-    "example": "Ich hÃÂÃÂ¤tte gern 50 Couverts und Briefmarken dazu.",
+    "example": "Ich hätte gern 50 Couverts und Briefmarken dazu.",
     "gender": "das"
   },
   {
     "word": "das Dach",
     "translation": "roof",
-    "example": "Wir mÃÂÃÂ¼ssen das Dach reparieren lassen.",
+    "example": "Wir müssen das Dach reparieren lassen.",
     "gender": "das"
   },
   {
@@ -1382,13 +1382,13 @@
   {
     "word": "der Dank (Sg.)",
     "translation": "thanks",
-    "example": "Vielen Dank fÃÂÃÂ¼r Ihre MÃÂÃÂ¼he.",
+    "example": "Vielen Dank für Ihre Mühe.",
     "gender": "der"
   },
   {
     "word": "die Darstellung",
     "translation": "representation",
-    "example": "Ihr Buch enthÃÂÃÂ¤lt eine klare Darstellung dieser Probleme.",
+    "example": "Ihr Buch enthält eine klare Darstellung dieser Probleme.",
     "gender": "die"
   },
   {
@@ -1412,7 +1412,7 @@
   {
     "word": "die Dauer (Sg.)",
     "translation": "duration",
-    "example": "Sie kÃÂÃÂ¶nnen das Buch fÃÂÃÂ¼r die Dauer einer Woche ausleihen.",
+    "example": "Sie können das Buch für die Dauer einer Woche ausleihen.",
     "gender": "die"
   },
   {
@@ -1430,7 +1430,7 @@
   {
     "word": "das Denkmal",
     "translation": "monument",
-    "example": "In dieser Stadt gibt es viele berÃÂÃÂ¼hmte DenkmÃÂÃÂ¤ler.",
+    "example": "In dieser Stadt gibt es viele berühmte Denkmäler.",
     "gender": "das"
   },
   {
@@ -1446,9 +1446,9 @@
     "gender": "das"
   },
   {
-    "word": "die DiÃÂÃÂ¤t",
+    "word": "die Diät",
     "translation": "diet",
-    "example": "Ich mÃÂÃÂ¶chte abnehmen. Deshalb mache ich eine DiÃÂÃÂ¤t.",
+    "example": "Ich möchte abnehmen. Deshalb mache ich eine Diät.",
     "gender": "die"
   },
   {
@@ -1460,7 +1460,7 @@
   {
     "word": "der Dialog",
     "translation": "dialog",
-    "example": "Sie hÃÂÃÂ¶ren jetzt einen Dialog.",
+    "example": "Sie hören jetzt einen Dialog.",
     "gender": "der"
   },
   {
@@ -1472,13 +1472,13 @@
   {
     "word": "der Dienst",
     "translation": "service",
-    "example": "Als Krankenschwester habe ich oft FrÃÂÃÂ¼hdienst.",
+    "example": "Als Krankenschwester habe ich oft Frühdienst.",
     "gender": "der"
   },
   {
     "word": "das Ding",
     "translation": "thing",
-    "example": "Gib mir bitte mal das Ding da drÃÂÃÂ¼ben.",
+    "example": "Gib mir bitte mal das Ding da drüben.",
     "gender": "das"
   },
   {
@@ -1490,7 +1490,7 @@
   {
     "word": "der Direktor",
     "translation": "director",
-    "example": "Ich mÃÂÃÂ¶chte gern mit dem Direktor sprechen.",
+    "example": "Ich möchte gern mit dem Direktor sprechen.",
     "gender": "der"
   },
   {
@@ -1508,19 +1508,19 @@
   {
     "word": "die Distanz",
     "translation": "distance",
-    "example": "Diese Firma transportiert Waren auch ÃÂÃÂ¼ber groÃÂÃÂe Distanzen.",
+    "example": "Diese Firma transportiert Waren auch über große Distanzen.",
     "gender": "die"
   },
   {
     "word": "der Doktor",
     "translation": "doctor",
-    "example": "Ist Frau Dr. MÃÂÃÂ¼ller da?",
+    "example": "Ist Frau Dr. Müller da?",
     "gender": "der"
   },
   {
     "word": "das Dokument",
     "translation": "document",
-    "example": "Hast du alle Dokumente fÃÂÃÂ¼r die Anmeldung dabei?",
+    "example": "Hast du alle Dokumente für die Anmeldung dabei?",
     "gender": "das"
   },
   {
@@ -1562,13 +1562,13 @@
   {
     "word": "der Drucker",
     "translation": "printer",
-    "example": "Ich brauche einen neuen Drucker fÃÂÃÂ¼r meinen Computer.",
+    "example": "Ich brauche einen neuen Drucker für meinen Computer.",
     "gender": "der"
   },
   {
     "word": "der Druck",
     "translation": "pressure, push",
-    "example": "Mit einem Knopfdruck schaltet man das GerÃÂÃÂ¤t ein.",
+    "example": "Mit einem Knopfdruck schaltet man das Gerät ein.",
     "gender": "der"
   },
   {
@@ -1604,7 +1604,7 @@
   {
     "word": "die ec-Karte/EC-Karte \nÃÂ¢ÃÂÃÂ A: Bankomat-Karte",
     "translation": "ec card",
-    "example": "Bezahlen Sie bar? Sie kÃÂÃÂ¶nnen auch mit der ec-Karte zahlen.",
+    "example": "Bezahlen Sie bar? Sie können auch mit der ec-Karte zahlen.",
     "gender": "die"
   },
   {
@@ -1628,7 +1628,7 @@
   {
     "word": "die Ehefrau",
     "translation": "wife, husband",
-    "example": "Wie heiÃÂÃÂt Ihre Ehefrau mit Vornamen?",
+    "example": "Wie heißt Ihre Ehefrau mit Vornamen?",
     "gender": "der"
   },
   {
@@ -1640,7 +1640,7 @@
   {
     "word": "das Ei",
     "translation": "egg",
-    "example": "MÃÂÃÂ¶chtest du zum FrÃÂÃÂ¼hstÃÂÃÂ¼ck ein Ei?",
+    "example": "Möchtest du zum Frühstück ein Ei?",
     "gender": "das"
   },
   {
@@ -1650,9 +1650,9 @@
     "gender": "die"
   },
   {
-    "word": "die EinbahnstraÃÂÃÂe",
+    "word": "die Einbahnstraße",
     "translation": "one-way street",
-    "example": "Die GoethestraÃÂÃÂe ist jetzt eine EinbahnstraÃÂÃÂe.",
+    "example": "Die Goethestraße ist jetzt eine Einbahnstraße.",
     "gender": "die"
   },
   {
@@ -1664,13 +1664,13 @@
   {
     "word": "der Einbruch",
     "translation": "burglary, break in",
-    "example": "In der Urlaubszeit gibt es viele WohnungseinbrÃÂÃÂ¼che.",
+    "example": "In der Urlaubszeit gibt es viele Wohnungseinbrüche.",
     "gender": "der"
   },
   {
     "word": "der Eindruck",
     "translation": "impression",
-    "example": "Ich finde die Leute auf der StraÃÂÃÂe ziemlich unfreundlich. Wie ist dein Eindruck?",
+    "example": "Ich finde die Leute auf der Straße ziemlich unfreundlich. Wie ist dein Eindruck?",
     "gender": "der"
   },
   {
@@ -1682,7 +1682,7 @@
   {
     "word": "der Einfall",
     "translation": "idea",
-    "example": "Frag einfach meine Freundin. Sie hat immer gute EinfÃÂÃÂ¤lle.",
+    "example": "Frag einfach meine Freundin. Sie hat immer gute Einfälle.",
     "gender": "der"
   },
   {
@@ -1692,15 +1692,15 @@
     "gender": "der"
   },
   {
-    "word": "die EinfÃÂÃÂ¼hrung",
+    "word": "die Einführung",
     "translation": "introduction",
-    "example": "Leider habe ich die EinfÃÂÃÂ¼hrung des Kurses verpasst.",
+    "example": "Leider habe ich die Einführung des Kurses verpasst.",
     "gender": "die"
   },
   {
     "word": "der Eingang",
     "translation": "entrance",
-    "example": "Das GebÃÂÃÂ¤ude hat zwei EingÃÂÃÂ¤nge.",
+    "example": "Das Gebäude hat zwei Eingänge.",
     "gender": "der"
   },
   {
@@ -1712,25 +1712,25 @@
   {
     "word": "das Einkommen",
     "translation": "income",
-    "example": "Bei einem hÃÂÃÂ¶heren Einkommen muss man mehr Steuern zahlen.",
+    "example": "Bei einem höheren Einkommen muss man mehr Steuern zahlen.",
     "gender": "das"
   },
   {
     "word": "die Einladung",
     "translation": "invitation",
-    "example": "Danke fÃÂÃÂ¼r die Einladung.",
+    "example": "Danke für die Einladung.",
     "gender": "die"
   },
   {
     "word": "die Einnahme",
     "translation": "income, intake",
-    "example": "Unser GeschÃÂÃÂ¤ft lÃÂÃÂ¤uft gut. Unsere Einnahmen waren in diesem Monat hÃÂÃÂ¶her als im letzten.",
+    "example": "Unser Geschäft läuft gut. Unsere Einnahmen waren in diesem Monat höher als im letzten.",
     "gender": "die"
   },
   {
     "word": "die Einrichtung",
     "translation": "furnishings, establishment",
-    "example": "Deine Wohnung ist sehr gemÃÂÃÂ¼tlich, die Einrichtung gefÃÂÃÂ¤llt mir sehr gut.",
+    "example": "Deine Wohnung ist sehr gemütlich, die Einrichtung gefällt mir sehr gut.",
     "gender": "die"
   },
   {
@@ -1742,25 +1742,25 @@
   {
     "word": "der Eintritt",
     "translation": "admission, entrance",
-    "example": "Kinder ÃÂÃÂ¼ber 10 Jahre zahlen den vollen Eintritt.",
+    "example": "Kinder über 10 Jahre zahlen den vollen Eintritt.",
     "gender": "der"
   },
   {
     "word": "der Einwohner",
     "translation": "inhabitant, resident",
-    "example": "Berlin hat ÃÂÃÂ¼ber drei Millionen Einwohner.",
+    "example": "Berlin hat über drei Millionen Einwohner.",
     "gender": "der"
   },
   {
     "word": "die Einzahlung",
     "translation": "deposit",
-    "example": "Sie sollten die Einzahlung pÃÂÃÂ¼nktlich machen.",
+    "example": "Sie sollten die Einzahlung pünktlich machen.",
     "gender": "die"
   },
   {
     "word": "die Einzelheit",
     "translation": "detail",
-    "example": "Du musst mir das in allen Einzelheiten erzÃÂÃÂ¤hlen.",
+    "example": "Du musst mir das in allen Einzelheiten erzählen.",
     "gender": "die"
   },
   {
@@ -1778,7 +1778,7 @@
   {
     "word": "die Eisenbahn",
     "translation": "railroad",
-    "example": "Die Kinder wÃÂÃÂ¼nschen sich eine elektrische Eisenbahn.",
+    "example": "Die Kinder wünschen sich eine elektrische Eisenbahn.",
     "gender": "die"
   },
   {
@@ -1790,13 +1790,13 @@
   {
     "word": "der Empfang",
     "translation": "reception, receipt, welcome",
-    "example": "Bitte den Empfang bestÃÂÃÂ¤tigen!",
+    "example": "Bitte den Empfang bestätigen!",
     "gender": "der"
   },
   {
-    "word": "der EmpfÃÂÃÂ¤nger",
+    "word": "der Empfänger",
     "translation": "recipient, reciever",
-    "example": "Es fehlt die genaue Adresse des EmpfÃÂÃÂ¤ngers.",
+    "example": "Es fehlt die genaue Adresse des Empfängers.",
     "gender": "der"
   },
   {
@@ -1808,13 +1808,13 @@
   {
     "word": "das Ende",
     "translation": "end",
-    "example": "Ich wohne am Ende der StraÃÂÃÂe.",
+    "example": "Ich wohne am Ende der Straße.",
     "gender": "das"
   },
   {
     "word": "die Energie",
     "translation": "energy",
-    "example": "Wir mÃÂÃÂ¼ssen Energie sparen.",
+    "example": "Wir müssen Energie sparen.",
     "gender": "die"
   },
   {
@@ -1832,13 +1832,13 @@
   {
     "word": "die Entlassung",
     "translation": "dismissal",
-    "example": "Seine Entlassung aus der Firma kam ÃÂÃÂ¼berraschend.",
+    "example": "Seine Entlassung aus der Firma kam überraschend.",
     "gender": "die"
   },
   {
     "word": "die Entscheidung",
     "translation": "decision",
-    "example": "Diese wichtige Entscheidung mÃÂÃÂ¶chte ich zuerst mit meinem Mann besprechen.",
+    "example": "Diese wichtige Entscheidung möchte ich zuerst mit meinem Mann besprechen.",
     "gender": "die"
   },
   {
@@ -1848,15 +1848,15 @@
     "gender": "die"
   },
   {
-    "word": "die EnttÃÂÃÂ¤uschung",
+    "word": "die Enttäuschung",
     "translation": "disappointment",
-    "example": "Das Endspiel war eine groÃÂÃÂe EnttÃÂÃÂ¤uschung.",
+    "example": "Das Endspiel war eine große Enttäuschung.",
     "gender": "die"
   },
   {
     "word": "die Entwicklung",
     "translation": "development",
-    "example": "Genug Schlaf ist wichtig fÃÂÃÂ¼r die Entwicklung Ihres Kindes.",
+    "example": "Genug Schlaf ist wichtig für die Entwicklung Ihres Kindes.",
     "gender": "die"
   },
   {
@@ -1868,11 +1868,11 @@
   {
     "word": "der Erdapfel",
     "translation": "potato",
-    "example": "Kann ich bitte noch ErdÃÂÃÂ¤pfel bekommen?",
+    "example": "Kann ich bitte noch Erdäpfel bekommen?",
     "gender": "der"
   },
   {
-    "word": "das Erdgeschoss/ ErgeschoÃÂÃÂ",
+    "word": "das Erdgeschoss/ Ergeschoß",
     "translation": "ground/first floor",
     "example": "Unsere Wohnung befindet sich im Erdgeschoss.",
     "gender": "das"
@@ -1880,7 +1880,7 @@
   {
     "word": "das Ereignis",
     "translation": "event",
-    "example": "Alle Zeitungen haben ÃÂÃÂ¼ber diese Ereignisse berichtet.",
+    "example": "Alle Zeitungen haben über diese Ereignisse berichtet.",
     "gender": "das"
   },
   {
@@ -1892,25 +1892,25 @@
   {
     "word": "die Erfindung",
     "translation": "invention",
-    "example": "Die Erfindung des Buchdrucks war sehr wichtig fÃÂÃÂ¼r die Menschen.",
+    "example": "Die Erfindung des Buchdrucks war sehr wichtig für die Menschen.",
     "gender": "die"
   },
   {
     "word": "der Erfolg",
     "translation": "success",
-    "example": "Der Film war ein groÃÂÃÂer Erfolg.",
+    "example": "Der Film war ein großer Erfolg.",
     "gender": "der"
   },
   {
     "word": "das Ergebnis",
     "translation": "result",
-    "example": "Ein so gutes Ergebnis hat uns alle ÃÂÃÂ¼berrascht.",
+    "example": "Ein so gutes Ergebnis hat uns alle überrascht.",
     "gender": "das"
   },
   {
-    "word": "die ErhÃÂÃÂ¶hung",
+    "word": "die Erhöhung",
     "translation": "increase",
-    "example": "Wir streiken fÃÂÃÂ¼r eine LohnerhÃÂÃÂ¶hung.",
+    "example": "Wir streiken für eine Lohnerhöhung.",
     "gender": "die"
   },
   {
@@ -1922,25 +1922,25 @@
   {
     "word": "die Erinnerung",
     "translation": "memory, reminder",
-    "example": "An diese Zeit habe ich viele schÃÂÃÂ¶ne Erinnerungen.",
+    "example": "An diese Zeit habe ich viele schöne Erinnerungen.",
     "gender": "die"
   },
   {
-    "word": "die ErkÃÂÃÂ¤ltung",
+    "word": "die Erkältung",
     "translation": "cold (illness)",
-    "example": "Du hast eine schlimme ErkÃÂÃÂ¤ltung!",
+    "example": "Du hast eine schlimme Erkältung!",
     "gender": "die"
   },
   {
-    "word": "die ErklÃÂÃÂ¤rung",
+    "word": "die Erklärung",
     "translation": "explanation",
-    "example": "Hast du schon die SteuererklÃÂÃÂ¤rung gemacht?",
+    "example": "Hast du schon die Steuererklärung gemacht?",
     "gender": "die"
   },
   {
     "word": "die Erlaubnis",
     "translation": "permission",
-    "example": "Sie hÃÂÃÂ¤tten ihn vorher um Erlaubnis bitten mÃÂÃÂ¼ssen.",
+    "example": "Sie hätten ihn vorher um Erlaubnis bitten müssen.",
     "gender": "die"
   },
   {
@@ -1950,15 +1950,15 @@
     "gender": "das"
   },
   {
-    "word": "die ErmÃÂÃÂ¤ÃÂÃÂigung",
+    "word": "die Ermäßigung",
     "translation": "reduction",
-    "example": "Es gibt eine ErmÃÂÃÂ¤ÃÂÃÂigung fÃÂÃÂ¼r Kinder und Senioren.",
+    "example": "Es gibt eine Ermäßigung für Kinder und Senioren.",
     "gender": "die"
   },
   {
-    "word": "die ErnÃÂÃÂ¤hrung (Sg.)",
+    "word": "die Ernährung (Sg.)",
     "translation": "nutrition",
-    "example": "Ich finde eine gesunde ErnÃÂÃÂ¤hrung wichtig.",
+    "example": "Ich finde eine gesunde Ernährung wichtig.",
     "gender": "die"
   },
   {
@@ -1968,33 +1968,33 @@
     "gender": "die"
   },
   {
-    "word": "die ErÃÂÃÂ¶ffnung",
+    "word": "die Eröffnung",
     "translation": "opening",
-    "example": "Die ErÃÂÃÂ¶ffnung der neuen Oper ist am 1. Juni.",
+    "example": "Die Eröffnung der neuen Oper ist am 1. Juni.",
     "gender": "die"
   },
   {
     "word": "der Ersatz (Sg.)",
     "translation": "replacement",
-    "example": "Sie bekommen von unserer Firma einen Ersatz fÃÂÃÂ¼r das kaputte GerÃÂÃÂ¤t.",
+    "example": "Sie bekommen von unserer Firma einen Ersatz für das kaputte Gerät.",
     "gender": "der"
   },
   {
     "word": "der Erwachsene",
     "translation": "adult",
-    "example": "Erwachsene zahlen 5 Euro, fÃÂÃÂ¼r Kinder ist der Eintritt frei.",
+    "example": "Erwachsene zahlen 5 Euro, für Kinder ist der Eintritt frei.",
     "gender": "der"
   },
   {
-    "word": "die ErzÃÂÃÂ¤hlung",
+    "word": "die Erzählung",
     "translation": "story, narrative",
-    "example": "Diese ErzÃÂÃÂ¤hlung ist sehr berÃÂÃÂ¼hmt. Du musst sie lesen.",
+    "example": "Diese Erzählung ist sehr berühmt. Du musst sie lesen.",
     "gender": "die"
   },
   {
     "word": "die Erziehung (Sg.)",
     "translation": "education, upbringing",
-    "example": "Heute kÃÂÃÂ¼mmern sich auch viele VÃÂÃÂ¤ter um die Erziehung der Kinder.",
+    "example": "Heute kümmern sich auch viele Väter um die Erziehung der Kinder.",
     "gender": "die"
   },
   {
@@ -2012,7 +2012,7 @@
   {
     "word": "die Etage",
     "translation": "floor",
-    "example": "Das BÃÂÃÂ¼ro ist in der 3. Etage, Zimmer 305.",
+    "example": "Das Büro ist in der 3. Etage, Zimmer 305.",
     "gender": "die"
   },
   {
@@ -2036,7 +2036,7 @@
   {
     "word": "das Fach",
     "translation": "field, subject, compartment",
-    "example": "Die HandtÃÂÃÂ¼cher sind im obersten Fach links.",
+    "example": "Die Handtücher sind im obersten Fach links.",
     "gender": "das"
   },
   {
@@ -2048,25 +2048,25 @@
   {
     "word": "die Fachleute (Pl.)",
     "translation": "experts",
-    "example": "Die suchen Fachleute fÃÂÃÂ¼r dieses Computerprogramm.",
+    "example": "Die suchen Fachleute für dieses Computerprogramm.",
     "gender": "die"
   },
   {
-    "word": "die FÃÂÃÂ¤higkeit",
+    "word": "die Fähigkeit",
     "translation": "ability",
-    "example": "In seiner Position braucht man die FÃÂÃÂ¤higkeit, andere zu ÃÂÃÂ¼berzeugen.",
+    "example": "In seiner Position braucht man die Fähigkeit, andere zu überzeugen.",
     "gender": "die"
   },
   {
-    "word": "die FÃÂÃÂ¤hre",
+    "word": "die Fähre",
     "translation": "ferry",
-    "example": "Wir nehmen die FÃÂÃÂ¤hre ÃÂÃÂ¼ber den Bodensee.",
+    "example": "Wir nehmen die Fähre über den Bodensee.",
     "gender": "die"
   },
   {
     "word": "die Fahrbahn",
     "translation": "roadway",
-    "example": "Fahren Sie bitte vorsichtig. Es sind KÃÂÃÂ¼he auf der Fahrbahn.",
+    "example": "Fahren Sie bitte vorsichtig. Es sind Kühe auf der Fahrbahn.",
     "gender": "die"
   },
   {
@@ -2084,19 +2084,19 @@
   {
     "word": "der Fahrplan",
     "translation": "timetable",
-    "example": "Der Fahrplan hat sich geÃÂÃÂ¤ndert.",
+    "example": "Der Fahrplan hat sich geändert.",
     "gender": "der"
   },
   {
     "word": "das Fahrrad",
     "translation": "bicycle",
-    "example": "Sie fÃÂÃÂ¤hrt jeden Morgen mit dem Fahrrad zur Arbeit.",
+    "example": "Sie fährt jeden Morgen mit dem Fahrrad zur Arbeit.",
     "gender": "das"
   },
   {
     "word": "das Fahrzeug",
     "translation": "vehicle",
-    "example": "Wem gehÃÂÃÂ¶rt das Fahrzeug?",
+    "example": "Wem gehört das Fahrzeug?",
     "gender": "das"
   },
   {
@@ -2108,13 +2108,13 @@
   {
     "word": "der Fall",
     "translation": "case",
-    "example": "Was wÃÂÃÂ¼rden Sie in diesem Fall tun?",
+    "example": "Was würden Sie in diesem Fall tun?",
     "gender": "der"
   },
   {
     "word": "die Familie",
     "translation": "family",
-    "example": "Ich habe eine groÃÂÃÂe Familie.",
+    "example": "Ich habe eine große Familie.",
     "gender": "die"
   },
   {
@@ -2144,19 +2144,19 @@
   {
     "word": "der Fasching",
     "translation": "carnival",
-    "example": "Dort hÃÂÃÂ¤ngt mein KostÃÂÃÂ¼m fÃÂÃÂ¼r den Faschings(um)zug.",
+    "example": "Dort hängt mein Kostüm für den Faschings(um)zug.",
     "gender": "der"
   },
   {
     "word": "die Fasnacht (CH) \nÃÂ¢ÃÂÃÂ D",
     "translation": "carnival",
-    "example": "Dort hÃÂÃÂ¤ngt mein KostÃÂÃÂ¼m fÃÂÃÂ¼r den Fasnachtsumzug.",
+    "example": "Dort hängt mein Kostüm für den Fasnachtsumzug.",
     "gender": "die"
   },
   {
     "word": "der Fauteuil",
     "translation": "armchair",
-    "example": "Ich hÃÂÃÂ¤tte gern einen bequemen Fauteuil.",
+    "example": "Ich hätte gern einen bequemen Fauteuil.",
     "gender": "der"
   },
   {
@@ -2168,13 +2168,13 @@
   {
     "word": "die Feier",
     "translation": "celebration",
-    "example": "Es war eine schÃÂÃÂ¶ne Feier.",
+    "example": "Es war eine schöne Feier.",
     "gender": "die"
   },
   {
     "word": "der Feierabend",
     "translation": "evening, closing time",
-    "example": "Einen schÃÂÃÂ¶nen Feierabend.",
+    "example": "Einen schönen Feierabend.",
     "gender": "der"
   },
   {
@@ -2186,7 +2186,7 @@
   {
     "word": "das Feld",
     "translation": "field",
-    "example": "Auf diesem Feld wÃÂÃÂ¤chst GemÃÂÃÂ¼se.",
+    "example": "Auf diesem Feld wächst Gemüse.",
     "gender": "das"
   },
   {
@@ -2222,13 +2222,13 @@
   {
     "word": "das Fest",
     "translation": "festival, feast, party",
-    "example": "Wenn ich 18 werde, feiern wir ein groÃÂÃÂes Fest.",
+    "example": "Wenn ich 18 werde, feiern wir ein großes Fest.",
     "gender": "das"
   },
   {
     "word": "die Festplatte",
     "translation": "hard disk",
-    "example": "Mein Computer hat eine groÃÂÃÂe Festplatte.",
+    "example": "Mein Computer hat eine große Festplatte.",
     "gender": "die"
   },
   {
@@ -2240,7 +2240,7 @@
   {
     "word": "das Feuer",
     "translation": "fire",
-    "example": "Der Schaden durch das Feuer war sehr groÃÂÃÂ.",
+    "example": "Der Schaden durch das Feuer war sehr groß.",
     "gender": "das"
   },
   {
@@ -2258,13 +2258,13 @@
   {
     "word": "die Feuerwehrfest",
     "translation": "fire department festival",
-    "example": "Am Feuerwehrfest gibt es viele Speisen und AktivitÃÂÃÂ¤ten.",
+    "example": "Am Feuerwehrfest gibt es viele Speisen und Aktivitäten.",
     "gender": "die"
   },
   {
     "word": "das Fieber",
     "translation": "fever",
-    "example": "PlÃÂÃÂ¶tzlich habe ich hohes Fieber bekommen.",
+    "example": "Plötzlich habe ich hohes Fieber bekommen.",
     "gender": "das"
   },
   {
@@ -2292,15 +2292,15 @@
     "gender": "die"
   },
   {
-    "word": "die FlÃÂÃÂ¤che",
+    "word": "die Fläche",
     "translation": "area, surface",
-    "example": "Unsere Wohnung hat eine WohnflÃÂÃÂ¤che von 100 mÃÂÃÂ².",
+    "example": "Unsere Wohnung hat eine Wohnfläche von 100 mÃÂÃÂ².",
     "gender": "die"
   },
   {
     "word": "die Flasche",
     "translation": "bottle",
-    "example": "Wo kann man die leeren Flaschen zurÃÂÃÂ¼ckgeben?",
+    "example": "Wo kann man die leeren Flaschen zurückgeben?",
     "gender": "die"
   },
   {
@@ -2328,9 +2328,9 @@
     "gender": "die"
   },
   {
-    "word": "die FlÃÂÃÂ¶te",
+    "word": "die Flöte",
     "translation": "flute",
-    "example": "Sie spielt sehr schÃÂÃÂ¶n FlÃÂÃÂ¶te.",
+    "example": "Sie spielt sehr schön Flöte.",
     "gender": "die"
   },
   {
@@ -2342,13 +2342,13 @@
   {
     "word": "der Flug",
     "translation": "flight",
-    "example": "Ich habe den Flug fÃÂÃÂ¼r Sie gebucht.",
+    "example": "Ich habe den Flug für Sie gebucht.",
     "gender": "der"
   },
   {
     "word": "der Flughafen",
     "translation": "airport",
-    "example": "Der Flughafen liegt 30 km auÃÂÃÂerhalb der Stadt.",
+    "example": "Der Flughafen liegt 30 km außerhalb der Stadt.",
     "gender": "der"
   },
   {
@@ -2360,19 +2360,19 @@
   {
     "word": "der Flur",
     "translation": "hallway",
-    "example": "Wir warten drauÃÂÃÂen im Flur.",
+    "example": "Wir warten draußen im Flur.",
     "gender": "der"
   },
   {
     "word": "der Fluss",
     "translation": "river",
-    "example": "Wie heiÃÂÃÂt dieser Fluss?",
+    "example": "Wie heißt dieser Fluss?",
     "gender": "der"
   },
   {
-    "word": "die FlÃÂÃÂ¼ssigkeit",
+    "word": "die Flüssigkeit",
     "translation": "liquid",
-    "example": "Dieses Medikament mit viel FlÃÂÃÂ¼ssigkeit einnehmen.",
+    "example": "Dieses Medikament mit viel Flüssigkeit einnehmen.",
     "gender": "die"
   },
   {
@@ -2388,21 +2388,21 @@
     "gender": "die"
   },
   {
-    "word": "die FÃÂÃÂ¶rderung",
+    "word": "die Förderung",
     "translation": "promotion, funding",
-    "example": "FÃÂÃÂ¼r das Projekt bekommen wir eine FÃÂÃÂ¶rderung von der Stadt.",
+    "example": "Für das Projekt bekommen wir eine Förderung von der Stadt.",
     "gender": "die"
   },
   {
     "word": "die Form",
     "translation": "shape",
-    "example": "Diese Schuhe haben eine schÃÂÃÂ¶ne Form.",
+    "example": "Diese Schuhe haben eine schöne Form.",
     "gender": "die"
   },
   {
     "word": "das Formular",
     "translation": "form",
-    "example": "FÃÂÃÂ¼llen Sie bitte dieses Formular aus.",
+    "example": "Füllen Sie bitte dieses Formular aus.",
     "gender": "das"
   },
   {
@@ -2420,7 +2420,7 @@
   {
     "word": "der Fortschritt",
     "translation": "progress",
-    "example": "Ich habe beim Deutschlernen groÃÂÃÂe Fortschritte gemacht.",
+    "example": "Ich habe beim Deutschlernen große Fortschritte gemacht.",
     "gender": "der"
   },
   {
@@ -2438,25 +2438,25 @@
   {
     "word": "das Foto",
     "translation": "photo",
-    "example": "KÃÂÃÂ¶nnen Sie dieses Foto vergrÃÂÃÂ¶ÃÂÃÂern?",
+    "example": "Können Sie dieses Foto vergrößern?",
     "gender": "das"
   },
   {
     "word": "der Fotoapparat",
     "translation": "camera",
-    "example": "Ich mÃÂÃÂ¶chte mir einen Fotoapparat kaufen.",
+    "example": "Ich möchte mir einen Fotoapparat kaufen.",
     "gender": "der"
   },
   {
     "word": "der Fotograf",
     "translation": "photographer",
-    "example": "Die Fotografin hat sehr schÃÂÃÂ¶ne Fotos gemacht.",
+    "example": "Die Fotografin hat sehr schöne Fotos gemacht.",
     "gender": "der"
   },
   {
     "word": "die Fotografie",
     "translation": "photography",
-    "example": "Ich interessiere mich fÃÂÃÂ¼r Fotografie.",
+    "example": "Ich interessiere mich für Fotografie.",
     "gender": "die"
   },
   {
@@ -2468,19 +2468,19 @@
   {
     "word": "die Frau",
     "translation": "woman, wife, Ms., Mrs.",
-    "example": "In meinem Deutschkurs sind mehr Frauen als MÃÂÃÂ¤nner.",
+    "example": "In meinem Deutschkurs sind mehr Frauen als Männer.",
     "gender": "die"
   },
   {
     "word": "die Freiheit",
     "translation": "freedom",
-    "example": "Wir wollen die Freiheit haben, unsere Meinung sagen zu kÃÂÃÂ¶nnen.",
+    "example": "Wir wollen die Freiheit haben, unsere Meinung sagen zu können.",
     "gender": "die"
   },
   {
     "word": "die Freizeit",
     "translation": "leisure/free time",
-    "example": "In meiner Freizeit hÃÂÃÂ¶re ich gern Musik.",
+    "example": "In meiner Freizeit höre ich gern Musik.",
     "gender": "die"
   },
   {
@@ -2522,79 +2522,79 @@
   {
     "word": "die Frist",
     "translation": "deadline",
-    "example": "Die Frist fÃÂÃÂ¼r die Anmeldung zum Deutschkurs ist abgelaufen.",
+    "example": "Die Frist für die Anmeldung zum Deutschkurs ist abgelaufen.",
     "gender": "die"
   },
   {
     "word": "die Frucht",
     "translation": "fruit",
-    "example": "Welche FrÃÂÃÂ¼chte kann man essen?",
+    "example": "Welche Früchte kann man essen?",
     "gender": "die"
   },
   {
-    "word": "das FrÃÂÃÂ¼hstÃÂÃÂ¼ck",
+    "word": "das Frühstück",
     "translation": "breakfast",
-    "example": "Wir sitzen gerade beim FrÃÂÃÂ¼hstÃÂÃÂ¼ck.",
+    "example": "Wir sitzen gerade beim Frühstück.",
     "gender": "das"
   },
   {
-    "word": "der FÃÂÃÂ¼hrerausweis",
+    "word": "der Führerausweis",
     "translation": "driver's license",
-    "example": "Hast du einen FÃÂÃÂ¼hrerausweis?",
+    "example": "Hast du einen Führerausweis?",
     "gender": "der"
   },
   {
-    "word": "der FÃÂÃÂ¼hrerschein",
+    "word": "der Führerschein",
     "translation": "driver's license",
-    "example": "Hast du einen FÃÂÃÂ¼hrerschein?",
+    "example": "Hast du einen Führerschein?",
     "gender": "der"
   },
   {
-    "word": "die FÃÂÃÂ¼hrerscheinprÃÂÃÂ¼fung",
+    "word": "die Führerscheinprüfung",
     "translation": "driver's license exam",
-    "example": "Die FÃÂÃÂ¼hrerscheinprÃÂÃÂ¼fung findet am Freitag statt.",
+    "example": "Die Führerscheinprüfung findet am Freitag statt.",
     "gender": "der"
   },
   {
-    "word": "die FÃÂÃÂ¼hrung",
+    "word": "die Führung",
     "translation": "guide, lead, management",
-    "example": "Die nÃÂÃÂ¤chste FÃÂÃÂ¼hrung beginnt um 15 Uhr.",
+    "example": "Die nächste Führung beginnt um 15 Uhr.",
     "gender": "die"
   },
   {
-    "word": "das FundbÃÂÃÂ¼ro",
+    "word": "das Fundbüro",
     "translation": "lost and found office",
-    "example": "Sie haben Ihren Schirm verloren. Da fragen Sie am besten im FundbÃÂÃÂ¼ro.",
+    "example": "Sie haben Ihren Schirm verloren. Da fragen Sie am besten im Fundbüro.",
     "gender": "das"
   },
   {
-    "word": "der FuÃÂÃÂ",
+    "word": "der Fuß",
     "translation": "foot",
-    "example": "Er hat sich den linken FuÃÂÃÂ gebrochen.",
+    "example": "Er hat sich den linken Fuß gebrochen.",
     "gender": "der"
   },
   {
-    "word": "der FuÃÂÃÂball",
+    "word": "der Fußball",
     "translation": "soccer",
-    "example": "Spielt ihr gerne FuÃÂÃÂball?",
+    "example": "Spielt ihr gerne Fußball?",
     "gender": "der"
   },
   {
-    "word": "das FuÃÂÃÂballspiel",
+    "word": "das Fußballspiel",
     "translation": "soccer match",
-    "example": "Spielt ihr gerne ein FuÃÂÃÂballspiel?",
+    "example": "Spielt ihr gerne ein Fußballspiel?",
     "gender": "das"
   },
   {
-    "word": "der FuÃÂÃÂgÃÂÃÂ¤nger",
+    "word": "der Fußgänger",
     "translation": "pedestrian",
-    "example": "Dieser Weg ist nur fÃÂÃÂ¼r FuÃÂÃÂgÃÂÃÂ¤nger.",
+    "example": "Dieser Weg ist nur für Fußgänger.",
     "gender": "der"
   },
   {
-    "word": "die FuÃÂÃÂgÃÂÃÂ¤ngerzone",
+    "word": "die Fußgängerzone",
     "translation": "pedestrian zone",
-    "example": "Wir treffen uns um 15 Uhr in der FuÃÂÃÂgÃÂÃÂ¤ngerzone.",
+    "example": "Wir treffen uns um 15 Uhr in der Fußgängerzone.",
     "gender": "die"
   },
   {
@@ -2612,7 +2612,7 @@
   {
     "word": "der Gang",
     "translation": "corridor, gear course",
-    "example": "Wir warten drauÃÂÃÂen im Gang. ( ? D, CH: Korridor; D: Flur)",
+    "example": "Wir warten draußen im Gang. ( ? D, CH: Korridor; D: Flur)",
     "gender": "der"
   },
   {
@@ -2630,13 +2630,13 @@
   {
     "word": "die Garderobe",
     "translation": "wardrobe",
-    "example": "Die MÃÂÃÂ¤ntel bitte an der Garderobe abgeben.",
+    "example": "Die Mäntel bitte an der Garderobe abgeben.",
     "gender": "die"
   },
   {
     "word": "der Garten",
     "translation": "garden",
-    "example": "Wir haben einen schÃÂÃÂ¶nen groÃÂÃÂen Garten.",
+    "example": "Wir haben einen schönen großen Garten.",
     "gender": "der"
   },
   {
@@ -2648,7 +2648,7 @@
   {
     "word": "der Gast",
     "translation": "guest",
-    "example": "Wir haben heute Abend GÃÂÃÂ¤ste.",
+    "example": "Wir haben heute Abend Gäste.",
     "gender": "der"
   },
   {
@@ -2658,21 +2658,21 @@
     "gender": "das"
   },
   {
-    "word": "die GaststÃÂÃÂ¤tte",
+    "word": "die Gaststätte",
     "translation": "restaurant",
-    "example": "Ich arbeite seit einem Monat in einer GaststÃÂÃÂ¤tte.",
+    "example": "Ich arbeite seit einem Monat in einer Gaststätte.",
     "gender": "die"
   },
   {
-    "word": "das GebÃÂÃÂ¤ude",
+    "word": "das Gebäude",
     "translation": "building",
-    "example": "In diesem GebÃÂÃÂ¤ude sind nur BÃÂÃÂ¼ros.",
+    "example": "In diesem Gebäude sind nur Büros.",
     "gender": "das"
   },
   {
-    "word": "das GebÃÂÃÂ¤ck",
+    "word": "das Gebäck",
     "translation": "pastry",
-    "example": "Das GebÃÂÃÂ¤ck ist ganz frisch.",
+    "example": "Das Gebäck ist ganz frisch.",
     "gender": "das"
   },
   {
@@ -2694,9 +2694,9 @@
     "gender": "die"
   },
   {
-    "word": "die GebÃÂÃÂ¼hr",
+    "word": "die Gebühr",
     "translation": "fee",
-    "example": "Die GebÃÂÃÂ¼hr liegt bei 60 Euro.",
+    "example": "Die Gebühr liegt bei 60 Euro.",
     "gender": "die"
   },
   {
@@ -2708,13 +2708,13 @@
   {
     "word": "der Geburtstag",
     "translation": "birthday",
-    "example": "Herzlichen GlÃÂÃÂ¼ckwunsch zum Geburtstag!",
+    "example": "Herzlichen Glückwunsch zum Geburtstag!",
     "gender": "der"
   },
   {
     "word": "das Gedicht",
     "translation": "poem",
-    "example": "Kennst du ein schÃÂÃÂ¶nes Gedicht?",
+    "example": "Kennst du ein schönes Gedicht?",
     "gender": "das"
   },
   {
@@ -2730,15 +2730,15 @@
     "gender": "die"
   },
   {
-    "word": "das GefÃÂÃÂ¤ngnis",
+    "word": "das Gefängnis",
     "translation": "prison",
-    "example": "Er wurde zu fÃÂÃÂ¼nf Jahren GefÃÂÃÂ¤ngnis verurteilt.",
+    "example": "Er wurde zu fünf Jahren Gefängnis verurteilt.",
     "gender": "das"
   },
   {
-    "word": "das GefÃÂÃÂ¼hl",
+    "word": "das Gefühl",
     "translation": "feeling",
-    "example": "Ich glaube, ich schaffe die PrÃÂÃÂ¼fung. Ich habe ein gutes GefÃÂÃÂ¼hl.",
+    "example": "Ich glaube, ich schaffe die Prüfung. Ich habe ein gutes Gefühl.",
     "gender": "das"
   },
   {
@@ -2750,7 +2750,7 @@
   {
     "word": "die Gegend",
     "translation": "region, area",
-    "example": "Der Schwarzwald ist eine sehr schÃÂÃÂ¶ne Gegend.",
+    "example": "Der Schwarzwald ist eine sehr schöne Gegend.",
     "gender": "die"
   },
   {
@@ -2762,13 +2762,13 @@
   {
     "word": "der Gegenstand",
     "translation": "object",
-    "example": "Ich schlieÃÂÃÂe meine persÃÂÃÂ¶nlichen GegenstÃÂÃÂ¤nde im Schwimmbad lieber in ein Fach ein.",
+    "example": "Ich schließe meine persönlichen Gegenstände im Schwimmbad lieber in ein Fach ein.",
     "gender": "der"
   },
   {
     "word": "das Gegenteil",
     "translation": "opposite",
-    "example": "Das Gegenteil von ÃÂ¢ÃÂÃÂkleinÃÂ¢ÃÂÃÂ ist ÃÂ¢ÃÂÃÂgroÃÂÃÂÃÂ¢ÃÂÃÂ.",
+    "example": "Das Gegenteil von ÃÂ¢ÃÂÃÂkleinÃÂ¢ÃÂÃÂ ist ÃÂ¢ÃÂÃÂgroßÃÂ¢ÃÂÃÂ.",
     "gender": "das"
   },
   {
@@ -2802,9 +2802,9 @@
     "gender": "der"
   },
   {
-    "word": "die GeldbÃÂÃÂ¶rse",
+    "word": "die Geldbörse",
     "translation": "purse, wallet",
-    "example": "Ich habe nur Kleingeld in meiner GeldbÃÂÃÂ¶rse.",
+    "example": "Ich habe nur Kleingeld in meiner Geldbörse.",
     "gender": "die"
   },
   {
@@ -2816,13 +2816,13 @@
   {
     "word": "die Gemeinschaft",
     "translation": "community",
-    "example": "Rauchen ist in den Gemeinschafts-rÃÂÃÂ¤umen nicht erlaubt.",
+    "example": "Rauchen ist in den Gemeinschafts-räumen nicht erlaubt.",
     "gender": "die"
   },
   {
-    "word": "das GemÃÂÃÂ¼se",
+    "word": "das Gemüse",
     "translation": "vegetables",
-    "example": "Wir kaufen das GemÃÂÃÂ¼se direkt beim Bauern.",
+    "example": "Wir kaufen das Gemüse direkt beim Bauern.",
     "gender": "das"
   },
   {
@@ -2832,15 +2832,15 @@
     "gender": "die"
   },
   {
-    "word": "das GepÃÂÃÂ¤ck (Sg.)",
+    "word": "das Gepäck (Sg.)",
     "translation": "luggage",
-    "example": "Ich habe mein GepÃÂÃÂ¤ck am Bahnhof gelassen.",
+    "example": "Ich habe mein Gepäck am Bahnhof gelassen.",
     "gender": "das"
   },
   {
-    "word": "das GerÃÂÃÂ¤t",
+    "word": "das Gerät",
     "translation": "device",
-    "example": "Ich kaufe meine ElektrogerÃÂÃÂ¤te immer gebraucht. Das ist viel billiger.",
+    "example": "Ich kaufe meine Elektrogeräte immer gebraucht. Das ist viel billiger.",
     "gender": "das"
   },
   {
@@ -2850,39 +2850,39 @@
     "gender": "das"
   },
   {
-    "word": "das GeschÃÂÃÂ¤ft",
+    "word": "das Geschäft",
     "translation": "business",
-    "example": "Die GeschÃÂÃÂ¤fte schlieÃÂÃÂen um 18.30 Uhr.",
+    "example": "Die Geschäfte schließen um 18.30 Uhr.",
     "gender": "das"
   },
   {
     "word": "das Geschenk",
     "translation": "gift",
-    "example": "Vielen Dank fÃÂÃÂ¼r das Geschenk.",
+    "example": "Vielen Dank für das Geschenk.",
     "gender": "das"
   },
   {
     "word": "die Geschichte",
     "translation": "history, story",
-    "example": "Ich interessiere mich nicht fÃÂÃÂ¼r Geschichte.",
+    "example": "Ich interessiere mich nicht für Geschichte.",
     "gender": "die"
   },
   {
     "word": "das Geschirr",
     "translation": "tableware, dishes",
-    "example": "FÃÂÃÂ¼r die Geburtstagsfeier brauche ich Geschirr fÃÂÃÂ¼r zwÃÂÃÂ¶lf Personen.",
+    "example": "Für die Geburtstagsfeier brauche ich Geschirr für zwölf Personen.",
     "gender": "das"
   },
   {
     "word": "das Geschlecht",
     "translation": "gender",
-    "example": "Bitte kreuzen Sie an: ÃÂ¢ÃÂÃÂGeschlecht: weiblich/mÃÂÃÂ¤nnlichÃÂ¢ÃÂÃÂ.",
+    "example": "Bitte kreuzen Sie an: ÃÂ¢ÃÂÃÂGeschlecht: weiblich/männlichÃÂ¢ÃÂÃÂ.",
     "gender": "das"
   },
   {
     "word": "der Geschmack",
     "translation": "taste, flavor",
-    "example": "Ich mÃÂÃÂ¶chte bitte Kaugummi mit Erdbeergeschmack.",
+    "example": "Ich möchte bitte Kaugummi mit Erdbeergeschmack.",
     "gender": "der"
   },
   {
@@ -2892,9 +2892,9 @@
     "gender": "die"
   },
   {
-    "word": "die GeschwindigkeitsbeschrÃÂÃÂ¤nkung",
+    "word": "die Geschwindigkeitsbeschränkung",
     "translation": "speed limit",
-    "example": "Bitte beachten Sie die GeschwindigkeitsbeschrÃÂÃÂ¤nkungen.",
+    "example": "Bitte beachten Sie die Geschwindigkeitsbeschränkungen.",
     "gender": "die"
   },
   {
@@ -2906,7 +2906,7 @@
   {
     "word": "die Gesellschaft",
     "translation": "society, company",
-    "example": "Er will die Gesellschaft verÃÂÃÂ¤ndern.",
+    "example": "Er will die Gesellschaft verändern.",
     "gender": "die"
   },
   {
@@ -2922,21 +2922,21 @@
     "gender": "das"
   },
   {
-    "word": "das GesprÃÂÃÂ¤ch",
+    "word": "das Gespräch",
     "translation": "conversation",
-    "example": "Herr MÃÂÃÂ¼ller ist gerade in einem GesprÃÂÃÂ¤ch.",
+    "example": "Herr Müller ist gerade in einem Gespräch.",
     "gender": "das"
   },
   {
     "word": "die Gesundheit (Sg.)",
     "translation": "health",
-    "example": "Sie mÃÂÃÂ¼ssen mehr auf Ihre Gesundheit achten.",
+    "example": "Sie müssen mehr auf Ihre Gesundheit achten.",
     "gender": "die"
   },
   {
-    "word": "das GetrÃÂÃÂ¤nk",
+    "word": "das Getränk",
     "translation": "beverage",
-    "example": "Besorgst du bitte die GetrÃÂÃÂ¤nke?",
+    "example": "Besorgst du bitte die Getränke?",
     "gender": "das"
   },
   {
@@ -2954,7 +2954,7 @@
   {
     "word": "das Gewicht",
     "translation": "weight",
-    "example": "Wie teuer ist das PÃÂÃÂ¤ckchen? ÃÂ¢ÃÂÃÂ Das hÃÂÃÂ¤ngt vom Gewicht ab.",
+    "example": "Wie teuer ist das Päckchen? ÃÂ¢ÃÂÃÂ Das hängt vom Gewicht ab.",
     "gender": "das"
   },
   {
@@ -2982,15 +2982,15 @@
     "gender": "die"
   },
   {
-    "word": "das GewÃÂÃÂ¼rz",
+    "word": "das Gewürz",
     "translation": "spice",
-    "example": "Von den scharfen GewÃÂÃÂ¼rzen bekommt man Durst.",
+    "example": "Von den scharfen Gewürzen bekommt man Durst.",
     "gender": "das"
   },
   {
     "word": "das Gift",
     "translation": "poison",
-    "example": "Vorsicht, das Gift dieser Pflanze ist fÃÂÃÂ¼r Menschen gefÃÂÃÂ¤hrlich!",
+    "example": "Vorsicht, das Gift dieser Pflanze ist für Menschen gefährlich!",
     "gender": "das"
   },
   {
@@ -3008,19 +3008,19 @@
   {
     "word": "das Gleis",
     "translation": "track, platform",
-    "example": "Der Zug fÃÂÃÂ¤hrt heute von Gleis 7 ab.",
+    "example": "Der Zug fährt heute von Gleis 7 ab.",
     "gender": "das"
   },
   {
-    "word": "das GlÃÂÃÂ¼ck",
+    "word": "das Glück",
     "translation": "happiness, luck",
-    "example": "Du hast dich nicht verletzt. Da hast du GlÃÂÃÂ¼ck gehabt.",
+    "example": "Du hast dich nicht verletzt. Da hast du Glück gehabt.",
     "gender": "das"
   },
   {
-    "word": "der GlÃÂÃÂ¼ckwunsch",
+    "word": "der Glückwunsch",
     "translation": "congratulations",
-    "example": "Herzlichen GlÃÂÃÂ¼ckwunsch zum Geburtstag!",
+    "example": "Herzlichen Glückwunsch zum Geburtstag!",
     "gender": "der"
   },
   {
@@ -3072,33 +3072,33 @@
     "gender": "die"
   },
   {
-    "word": "die GrÃÂÃÂ¶ÃÂÃÂe",
+    "word": "die Größe",
     "translation": "size",
-    "example": "Welche GrÃÂÃÂ¶ÃÂÃÂe haben Sie?",
+    "example": "Welche Größe haben Sie?",
     "gender": "die"
   },
   {
     "word": "der Grund",
     "translation": "reason, ground",
-    "example": "Sie haben Ihre Stelle gekÃÂÃÂ¼ndigt. Aus welchem Grund?",
+    "example": "Sie haben Ihre Stelle gekündigt. Aus welchem Grund?",
     "gender": "der"
   },
   {
-    "word": "das GrundstÃÂÃÂ¼ck",
+    "word": "das Grundstück",
     "translation": "property, land",
-    "example": "Wir wollen ein Haus bauen und suchen ein gÃÂÃÂ¼nstiges GrundstÃÂÃÂ¼ck.",
+    "example": "Wir wollen ein Haus bauen und suchen ein günstiges Grundstück.",
     "gender": "das"
   },
   {
     "word": "die Gruppe",
     "translation": "group",
-    "example": "FÃÂÃÂ¼r Gruppen gibt es eine ErmÃÂÃÂ¤ÃÂÃÂigung.",
+    "example": "Für Gruppen gibt es eine Ermäßigung.",
     "gender": "die"
   },
   {
-    "word": "der GruÃÂÃÂ",
+    "word": "der Gruß",
     "translation": "greetings",
-    "example": "SchÃÂÃÂ¶nen GruÃÂÃÂ an Ihren Mann.",
+    "example": "Schönen Gruß an Ihren Mann.",
     "gender": "der"
   },
   {
@@ -3126,21 +3126,21 @@
     "gender": "der"
   },
   {
-    "word": "das HÃÂÃÂ¤hnchen/HÃÂÃÂ¼hnchen",
+    "word": "das Hähnchen/Hühnchen",
     "translation": "chicken",
-    "example": "Zum Mittagessen gibt es HÃÂÃÂ¼hnchen mit Reis.",
+    "example": "Zum Mittagessen gibt es Hühnchen mit Reis.",
     "gender": "das"
   },
   {
     "word": "die Halbpension",
     "translation": "half board",
-    "example": "Wir mÃÂÃÂ¶chten ein Hotel mit Halbpension.",
+    "example": "Wir möchten ein Hotel mit Halbpension.",
     "gender": "die"
   },
   {
-    "word": "die HÃÂÃÂ¤lfte",
+    "word": "die Hälfte",
     "translation": "half",
-    "example": "Bitte teilt euch die Schokolade. Jeder bekommt die HÃÂÃÂ¤lfte.",
+    "example": "Bitte teilt euch die Schokolade. Jeder bekommt die Hälfte.",
     "gender": "die"
   },
   {
@@ -3164,31 +3164,31 @@
   {
     "word": "die Halskette",
     "translation": "necklace",
-    "example": "Sie trÃÂÃÂ¤gt eine schÃÂÃÂ¶ne Halskette.",
+    "example": "Sie trägt eine schöne Halskette.",
     "gender": "die"
   },
   {
     "word": "der Halt",
     "translation": "stop",
-    "example": "NÃÂÃÂ¤chster Halt ist am SÃÂÃÂ¼dbahnhof.",
+    "example": "Nächster Halt ist am Südbahnhof.",
     "gender": "der"
   },
   {
     "word": "die Haltestelle",
     "translation": "stop",
-    "example": "An der nÃÂÃÂ¤chsten Haltestelle mÃÂÃÂ¼ssen wir aussteigen.",
+    "example": "An der nächsten Haltestelle müssen wir aussteigen.",
     "gender": "die"
   },
   {
     "word": "der Hammer",
     "translation": "hammer",
-    "example": "Ich mÃÂÃÂ¶chte ein Bild aufhÃÂÃÂ¤ngen. Hast du einen Hammer fÃÂÃÂ¼r mich?",
+    "example": "Ich möchte ein Bild aufhängen. Hast du einen Hammer für mich?",
     "gender": "der"
   },
   {
     "word": "die Hand",
     "translation": "hand",
-    "example": "Wasch dir bitte die HÃÂÃÂ¤nde vor dem Essen.",
+    "example": "Wasch dir bitte die Hände vor dem Essen.",
     "gender": "die"
   },
   {
@@ -3200,7 +3200,7 @@
   {
     "word": "der Handel (Sg.)",
     "translation": "trade",
-    "example": "Der Handel mit Computern ist ein gutes GeschÃÂÃÂ¤ft.",
+    "example": "Der Handel mit Computern ist ein gutes Geschäft.",
     "gender": "der"
   },
   {
@@ -3210,9 +3210,9 @@
     "gender": "der"
   },
   {
-    "word": "der HÃÂÃÂ¤ndler",
+    "word": "der Händler",
     "translation": "dealer, trader",
-    "example": "Ich gehe zum GemÃÂÃÂ¼sehÃÂÃÂ¤ndler, soll ich dir etwas mitbringen?",
+    "example": "Ich gehe zum Gemüsehändler, soll ich dir etwas mitbringen?",
     "gender": "der"
   },
   {
@@ -3248,13 +3248,13 @@
   {
     "word": "die Hausfrau",
     "translation": "housewife, househusband",
-    "example": "ne Frau ist Hausfrau und kÃÂÃÂ¼mmert sich um die Kinder.",
+    "example": "ne Frau ist Hausfrau und kümmert sich um die Kinder.",
     "gender": "der"
   },
   {
     "word": "der Haushalt",
     "translation": "household",
-    "example": "Ich kÃÂÃÂ¼mmere mich um den Haushalt, d. h. ich putze, wasche, koche etc.",
+    "example": "Ich kümmere mich um den Haushalt, d. h. ich putze, wasche, koche etc.",
     "gender": "der"
   },
   {
@@ -3266,13 +3266,13 @@
   {
     "word": "die Haut",
     "translation": "skin",
-    "example": "Haben Sie eine Creme fÃÂÃÂ¼r trockene Haut?",
+    "example": "Haben Sie eine Creme für trockene Haut?",
     "gender": "die"
   },
   {
     "word": "das Heft",
     "translation": "notebook",
-    "example": "Ich hÃÂÃÂ¤tte gern ein Schreibheft.",
+    "example": "Ich hätte gern ein Schreibheft.",
     "gender": "das"
   },
   {
@@ -3308,13 +3308,13 @@
   {
     "word": "die Hilfe",
     "translation": "help",
-    "example": "Vielen Dank fÃÂÃÂ¼r Ihre Hilfe.",
+    "example": "Vielen Dank für Ihre Hilfe.",
     "gender": "die"
   },
   {
     "word": "das Hemd",
     "translation": "shirt",
-    "example": "Nikos trÃÂÃÂ¤gt heute ein weiÃÂÃÂes Hemd.",
+    "example": "Nikos trägt heute ein weißes Hemd.",
     "gender": "das"
   },
   {
@@ -3332,7 +3332,7 @@
   {
     "word": "der Herd",
     "translation": "stove",
-    "example": "In der neuen KÃÂÃÂ¼che fehlt noch der Herd.",
+    "example": "In der neuen Küche fehlt noch der Herd.",
     "gender": "der"
   },
   {
@@ -3344,19 +3344,19 @@
   {
     "word": "der Herr",
     "translation": "Mr., gentleman",
-    "example": "Da ist ein Herr, der mÃÂÃÂ¶chte Sie sprechen.",
+    "example": "Da ist ein Herr, der möchte Sie sprechen.",
     "gender": "der"
   },
   {
     "word": "der Hersteller",
     "translation": "manufacturer",
-    "example": "Ihr Handy ist kaputt? Wir schicken es an den Hersteller zurÃÂÃÂ¼ck und lassen es reparieren.",
+    "example": "Ihr Handy ist kaputt? Wir schicken es an den Hersteller zurück und lassen es reparieren.",
     "gender": "der"
   },
   {
     "word": "das Herz",
     "translation": "heart",
-    "example": "Ich bin ganz nervÃÂÃÂ¶s. Mir klopft das Herz.",
+    "example": "Ich bin ganz nervös. Mir klopft das Herz.",
     "gender": "das"
   },
   {
@@ -3380,25 +3380,25 @@
   {
     "word": "das Hobby",
     "translation": "hobby",
-    "example": "Ich habe keine Zeit mehr fÃÂÃÂ¼r meine Hobbys.",
+    "example": "Ich habe keine Zeit mehr für meine Hobbys.",
     "gender": "das"
   },
   {
-    "word": "die HÃÂÃÂ¶he",
+    "word": "die Höhe",
     "translation": "height",
-    "example": "Mein Tisch hat folgende MaÃÂÃÂe: LÃÂÃÂ¤nge: 1,20 m, Breite: 0,60 m, HÃÂÃÂ¶he: 0,80 m.",
+    "example": "Mein Tisch hat folgende Maße: Länge: 1,20 m, Breite: 0,60 m, Höhe: 0,80 m.",
     "gender": "die"
   },
   {
     "word": "die Hochzeit",
     "translation": "wedding",
-    "example": "Claudia und Peter wollen ihre Hochzeit groÃÂÃÂ feiern.",
+    "example": "Claudia und Peter wollen ihre Hochzeit groß feiern.",
     "gender": "die"
   },
   {
     "word": "das Hochzeitspaar",
     "translation": "wedding couple",
-    "example": "Das Hochzeitspaar sieht sehr glÃÂÃÂ¼cklich aus.",
+    "example": "Das Hochzeitspaar sieht sehr glücklich aus.",
     "gender": "das"
   },
   {
@@ -3410,7 +3410,7 @@
   {
     "word": "der Bauernhof",
     "translation": "farm",
-    "example": "Meine GroÃÂÃÂeltern hatten einen Bauernhof.",
+    "example": "Meine Großeltern hatten einen Bauernhof.",
     "gender": "der"
   },
   {
@@ -3422,25 +3422,25 @@
   {
     "word": "das Holz",
     "translation": "wood",
-    "example": "MÃÂÃÂ¶chten Sie ein Regal aus Holz oder aus Metall?",
+    "example": "Möchten Sie ein Regal aus Holz oder aus Metall?",
     "gender": "das"
   },
   {
     "word": "der Honig (Sg.)",
     "translation": "honey",
-    "example": "Ich esse gern BrÃÂÃÂ¶tchen mit Honig und Butter zum FrÃÂÃÂ¼hstÃÂÃÂ¼ck.",
+    "example": "Ich esse gern Brötchen mit Honig und Butter zum Frühstück.",
     "gender": "der"
   },
   {
-    "word": "der HÃÂÃÂ¶rer",
+    "word": "der Hörer",
     "translation": "listener",
-    "example": "Die Sendung hat viele HÃÂÃÂ¶rer und HÃÂÃÂ¶rerinnen.",
+    "example": "Die Sendung hat viele Hörer und Hörerinnen.",
     "gender": "der"
   },
   {
     "word": "die Hose",
     "translation": "trousers, pants",
-    "example": "KÃÂÃÂ¶nnen Sie die Hose etwas kÃÂÃÂ¼rzer machen?",
+    "example": "Können Sie die Hose etwas kürzer machen?",
     "gender": "die"
   },
   {
@@ -3450,21 +3450,21 @@
     "gender": "das"
   },
   {
-    "word": "der HÃÂÃÂ¼gel",
+    "word": "der Hügel",
     "translation": "hill",
-    "example": "Auf diesem HÃÂÃÂ¼gel machen wir eine Pause.",
+    "example": "Auf diesem Hügel machen wir eine Pause.",
     "gender": "der"
   },
   {
     "word": "der Humor",
     "translation": "humor",
-    "example": "Wir mÃÂÃÂ¶gen Paul, weil er so viel Humor hat.",
+    "example": "Wir mögen Paul, weil er so viel Humor hat.",
     "gender": "der"
   },
   {
     "word": "der Hunger (Sg.)",
     "translation": "hunger",
-    "example": "MÃÂÃÂ¶chtest du Suppe? ÃÂ¢ÃÂÃÂ Nein danke, ich habe keinen Hunger.",
+    "example": "Möchtest du Suppe? ÃÂ¢ÃÂÃÂ Nein danke, ich habe keinen Hunger.",
     "gender": "der"
   },
   {
@@ -3480,9 +3480,9 @@
     "gender": "der"
   },
   {
-    "word": "die HÃÂÃÂ¼tte",
+    "word": "die Hütte",
     "translation": "cabin",
-    "example": "Wir ÃÂÃÂ¼bernachten in der HÃÂÃÂ¼tte auf dem Berg.",
+    "example": "Wir übernachten in der Hütte auf dem Berg.",
     "gender": "die"
   },
   {
@@ -3494,7 +3494,7 @@
   {
     "word": "der Imbiss",
     "translation": "snack",
-    "example": "Es ist Zeit fÃÂÃÂ¼r einen kleinen Imbiss.",
+    "example": "Es ist Zeit für einen kleinen Imbiss.",
     "gender": "der"
   },
   {
@@ -3512,7 +3512,7 @@
   {
     "word": "die Infektion",
     "translation": "infection",
-    "example": "Sie haben eine Infektion. Sie mÃÂÃÂ¼ssen Tabletten nehmen.",
+    "example": "Sie haben eine Infektion. Sie müssen Tabletten nehmen.",
     "gender": "die"
   },
   {
@@ -3536,7 +3536,7 @@
   {
     "word": "die Insel",
     "translation": "island",
-    "example": "Ich wÃÂÃÂ¼rde dieses Mal gern auf einer Insel Ferien machen.",
+    "example": "Ich würde dieses Mal gern auf einer Insel Ferien machen.",
     "gender": "die"
   },
   {
@@ -3572,7 +3572,7 @@
   {
     "word": "der Intensivkurs",
     "translation": "intensive course",
-    "example": "Der Intensivkurs findet tÃÂÃÂ¤glich von 9 bis 12 Uhr statt.",
+    "example": "Der Intensivkurs findet täglich von 9 bis 12 Uhr statt.",
     "gender": "der"
   },
   {
@@ -3596,7 +3596,7 @@
   {
     "word": "die Jause",
     "translation": "snack",
-    "example": "Es ist Zeit fÃÂÃÂ¼r eine kleine Jause.",
+    "example": "Es ist Zeit für eine kleine Jause.",
     "gender": "die"
   },
   {
@@ -3608,13 +3608,13 @@
   {
     "word": "der Journalist",
     "translation": "journalist",
-    "example": "Meine Tochter mÃÂÃÂ¶chte Journalistin werden.",
+    "example": "Meine Tochter möchte Journalistin werden.",
     "gender": "der"
   },
   {
     "word": "die Jugend (Sg.)",
     "translation": "youth",
-    "example": "In meiner Jugend habe ich mich sehr fÃÂÃÂ¼r Musik interessiert.",
+    "example": "In meiner Jugend habe ich mich sehr für Musik interessiert.",
     "gender": "die"
   },
   {
@@ -3626,25 +3626,25 @@
   {
     "word": "die Jugendherberge",
     "translation": "youth hostel",
-    "example": "Wo habt ihr ÃÂÃÂ¼bernachtet? ÃÂ¢ÃÂÃÂ In einer Jugendherberge.",
+    "example": "Wo habt ihr übernachtet? ÃÂ¢ÃÂÃÂ In einer Jugendherberge.",
     "gender": "die"
   },
   {
     "word": "der Junge",
     "translation": "boy",
-    "example": "In der Schulklasse sind 15 Jungen und 10 MÃÂÃÂ¤dchen.",
+    "example": "In der Schulklasse sind 15 Jungen und 10 Mädchen.",
     "gender": "der"
   },
   {
     "word": "das Kabel",
     "translation": "cable, cord",
-    "example": "Wo ist das Kabel fÃÂÃÂ¼r das AufnahmegerÃÂÃÂ¤t?",
+    "example": "Wo ist das Kabel für das Aufnahmegerät?",
     "gender": "das"
   },
   {
     "word": "die Kabine",
     "translation": "cabin, booth",
-    "example": "Um zu wÃÂÃÂ¤hlen, gehen Sie bitte in diese Kabine.",
+    "example": "Um zu wählen, gehen Sie bitte in diese Kabine.",
     "gender": "die"
   },
   {
@@ -3656,13 +3656,13 @@
   {
     "word": "das Kaffeehaus",
     "translation": "coffee house",
-    "example": "Hier in der NÃÂÃÂ¤he ist ein Kaffeehaus. Lass uns einen Kaffee trinken.",
+    "example": "Hier in der Nähe ist ein Kaffeehaus. Lass uns einen Kaffee trinken.",
     "gender": "das"
   },
   {
     "word": "der Kakao",
     "translation": "cocoa",
-    "example": "Zum FrÃÂÃÂ¼hstÃÂÃÂ¼ck trinke ich immer einen Kakao.",
+    "example": "Zum Frühstück trinke ich immer einen Kakao.",
     "gender": "der"
   },
   {
@@ -3672,9 +3672,9 @@
     "gender": "der"
   },
   {
-    "word": "die KÃÂÃÂ¤lte (Sg.)",
+    "word": "die Kälte (Sg.)",
     "translation": "cold",
-    "example": "Bei dieser KÃÂÃÂ¤lte fahre ich nicht mit dem Fahrrad.",
+    "example": "Bei dieser Kälte fahre ich nicht mit dem Fahrrad.",
     "gender": "die"
   },
   {
@@ -3686,31 +3686,31 @@
   {
     "word": "der Kampf",
     "translation": "fight",
-    "example": "Im Schulbus gibt es immer einen Kampf um die SitzplÃÂÃÂ¤tze.",
+    "example": "Im Schulbus gibt es immer einen Kampf um die Sitzplätze.",
     "gender": "der"
   },
   {
     "word": "der Kanal",
     "translation": "channel",
-    "example": "Mit Kabel bekommen Sie ÃÂÃÂ¼ber 30 FernsehkanÃÂÃÂ¤le.",
+    "example": "Mit Kabel bekommen Sie über 30 Fernsehkanäle.",
     "gender": "der"
   },
   {
     "word": "der Kandidat",
     "translation": "candidate",
-    "example": "Wie viele Kandidaten kommen zur PrÃÂÃÂ¼fung?",
+    "example": "Wie viele Kandidaten kommen zur Prüfung?",
     "gender": "der"
   },
   {
     "word": "die Kanne",
     "translation": "pot, jug",
-    "example": "Das ist aber eine schÃÂÃÂ¶ne Teekanne. ÃÂ¢ÃÂÃÂ Ja, die ist aus China.",
+    "example": "Das ist aber eine schöne Teekanne. ÃÂ¢ÃÂÃÂ Ja, die ist aus China.",
     "gender": "die"
   },
   {
     "word": "die Kantine",
     "translation": "canteen",
-    "example": "In unserer Kantine kann man gÃÂÃÂ¼nstig essen.",
+    "example": "In unserer Kantine kann man günstig essen.",
     "gender": "die"
   },
   {
@@ -3722,7 +3722,7 @@
   {
     "word": "der Karneval",
     "translation": "carnival",
-    "example": "Dort hÃÂÃÂ¤ngt mein KostÃÂÃÂ¼m fÃÂÃÂ¼r den Karnevals(um)zug.",
+    "example": "Dort hängt mein Kostüm für den Karnevals(um)zug.",
     "gender": "der"
   },
   {
@@ -3734,7 +3734,7 @@
   {
     "word": "die Karriere",
     "translation": "career",
-    "example": "Mein Bruder hat groÃÂÃÂe PlÃÂÃÂ¤ne. Er will Karriere machen.",
+    "example": "Mein Bruder hat große Pläne. Er will Karriere machen.",
     "gender": "die"
   },
   {
@@ -3746,13 +3746,13 @@
   {
     "word": "die Chipkarte",
     "translation": "chip card",
-    "example": "Ich habe eine Chipkarte fÃÂÃÂ¼r diesen Automaten.",
+    "example": "Ich habe eine Chipkarte für diesen Automaten.",
     "gender": "die"
   },
   {
     "word": "die Fahrkarte",
     "translation": "ticket",
-    "example": "Fahrkarten kÃÂÃÂ¶nnen Sie am Schalter kaufen.",
+    "example": "Fahrkarten können Sie am Schalter kaufen.",
     "gender": "die"
   },
   {
@@ -3762,9 +3762,9 @@
     "gender": "die"
   },
   {
-    "word": "der KÃÂÃÂ¤se",
+    "word": "der Käse",
     "translation": "cheese",
-    "example": "MÃÂÃÂ¶chtest du KÃÂÃÂ¤se aufs Brot?",
+    "example": "Möchtest du Käse aufs Brot?",
     "gender": "der"
   },
   {
@@ -3782,13 +3782,13 @@
   {
     "word": "der Kasten",
     "translation": "box",
-    "example": "Ich habe zwei KÃÂÃÂ¤sten Bier gekauft.",
+    "example": "Ich habe zwei Kästen Bier gekauft.",
     "gender": "der"
   },
   {
     "word": "der Kasten",
     "translation": "cabinet, wardrobe",
-    "example": "Die HandtÃÂÃÂ¼cher liegen im Kasten.",
+    "example": "Die Handtücher liegen im Kasten.",
     "gender": "der"
   },
   {
@@ -3810,15 +3810,15 @@
     "gender": "der"
   },
   {
-    "word": "der KÃÂÃÂ¤ufer",
+    "word": "der Käufer",
     "translation": "buyer",
-    "example": "Ich habe schon einen KÃÂÃÂ¤ufer fÃÂÃÂ¼r den alten Tisch.",
+    "example": "Ich habe schon einen Käufer für den alten Tisch.",
     "gender": "der"
   },
   {
     "word": "der Keller",
     "translation": "cellar",
-    "example": "Unser Keller ist nicht besonders groÃÂÃÂ.",
+    "example": "Unser Keller ist nicht besonders groß.",
     "gender": "der"
   },
   {
@@ -3842,7 +3842,7 @@
   {
     "word": "die Kerze",
     "translation": "candle",
-    "example": "FÃÂÃÂ¼r den Geburtstagstisch brauchen wir viele Blumen und Kerzen.",
+    "example": "Für den Geburtstagstisch brauchen wir viele Blumen und Kerzen.",
     "gender": "die"
   },
   {
@@ -3866,7 +3866,7 @@
   {
     "word": "die Kindheit",
     "translation": "childhood",
-    "example": "In meiner Kindheit war ich oft auf dem Land bei meinen GroÃÂÃÂeltern.",
+    "example": "In meiner Kindheit war ich oft auf dem Land bei meinen Großeltern.",
     "gender": "die"
   },
   {
@@ -3902,7 +3902,7 @@
   {
     "word": "die Klasse",
     "translation": "class",
-    "example": "In der Klasse sind 24 SchÃÂÃÂ¼lerinnen und SchÃÂÃÂ¼ler.",
+    "example": "In der Klasse sind 24 Schülerinnen und Schüler.",
     "gender": "die"
   },
   {
@@ -3914,7 +3914,7 @@
   {
     "word": "das Klavier",
     "translation": "piano",
-    "example": "Meine Tochter mÃÂÃÂ¶chte Klavier spielen lernen.",
+    "example": "Meine Tochter möchte Klavier spielen lernen.",
     "gender": "das"
   },
   {
@@ -3932,13 +3932,13 @@
   {
     "word": "der Klick",
     "translation": "click",
-    "example": "Um das Wort zu markieren, genÃÂÃÂ¼gt ein Doppelklick mit der linken Maustaste.",
+    "example": "Um das Wort zu markieren, genügt ein Doppelklick mit der linken Maustaste.",
     "gender": "der"
   },
   {
     "word": "das Klima",
     "translation": "climate",
-    "example": "Alle sagen, dass sich das Klima ÃÂÃÂ¤ndert.",
+    "example": "Alle sagen, dass sich das Klima ändert.",
     "gender": "das"
   },
   {
@@ -3950,7 +3950,7 @@
   {
     "word": "die Klingel",
     "translation": "(door)bell",
-    "example": "DrÃÂÃÂ¼ck bitte auf die Klingel!",
+    "example": "Drück bitte auf die Klingel!",
     "gender": "die"
   },
   {
@@ -3960,9 +3960,9 @@
     "gender": "die"
   },
   {
-    "word": "der KloÃÂÃÂ",
+    "word": "der Kloß",
     "translation": "dumpling",
-    "example": "MÃÂÃÂ¶chten Sie zum Fleisch Kartoffeln oder KlÃÂÃÂ¶ÃÂÃÂe? ÃÂ¢ÃÂÃÂ KlÃÂÃÂ¶ÃÂÃÂe, bitte.",
+    "example": "Möchten Sie zum Fleisch Kartoffeln oder Klöße? ÃÂ¢ÃÂÃÂ Klöße, bitte.",
     "gender": "der"
   },
   {
@@ -3984,9 +3984,9 @@
     "gender": "der"
   },
   {
-    "word": "der KnÃÂÃÂ¶del",
+    "word": "der Knödel",
     "translation": "dumpling",
-    "example": "MÃÂÃÂ¶chten Sie zum Fleisch ErdÃÂÃÂ¤pfel oder KnÃÂÃÂ¶del? ÃÂ¢ÃÂÃÂ KnÃÂÃÂ¶del bitte.",
+    "example": "Möchten Sie zum Fleisch Erdäpfel oder Knödel? ÃÂ¢ÃÂÃÂ Knödel bitte.",
     "gender": "der"
   },
   {
@@ -4022,7 +4022,7 @@
   {
     "word": "der Kompromiss",
     "translation": "compromise",
-    "example": "Alle wollen etwas anderes. Wir mÃÂÃÂ¼ssen einen Kompromiss finden.",
+    "example": "Alle wollen etwas anderes. Wir müssen einen Kompromiss finden.",
     "gender": "der"
   },
   {
@@ -4032,9 +4032,9 @@
     "gender": "die"
   },
   {
-    "word": "die KonfitÃÂÃÂ¼re",
+    "word": "die Konfitüre",
     "translation": "jam",
-    "example": "Bring bitte noch ein Glas KonfitÃÂÃÂ¼re mit.",
+    "example": "Bring bitte noch ein Glas Konfitüre mit.",
     "gender": "die"
   },
   {
@@ -4044,15 +4044,15 @@
     "gender": "der"
   },
   {
-    "word": "der KÃÂÃÂ¶nig",
+    "word": "der König",
     "translation": "king",
-    "example": "Der spanische KÃÂÃÂ¶nig ist in Deutschland zu Besuch.",
+    "example": "Der spanische König ist in Deutschland zu Besuch.",
     "gender": "der"
   },
   {
     "word": "die Konkurrenz",
     "translation": "competition",
-    "example": "Die Reparatur ist mir hier zu teuer. Bei der Konkurrenz bekomme ich sie fÃÂÃÂ¼r die HÃÂÃÂ¤lfte.",
+    "example": "Die Reparatur ist mir hier zu teuer. Bei der Konkurrenz bekomme ich sie für die Hälfte.",
     "gender": "die"
   },
   {
@@ -4076,7 +4076,7 @@
   {
     "word": "das Konto",
     "translation": "account",
-    "example": "Ich mÃÂÃÂ¶chte ein Konto erÃÂÃÂ¶ffnen.",
+    "example": "Ich möchte ein Konto eröffnen.",
     "gender": "das"
   },
   {
@@ -4094,7 +4094,7 @@
   {
     "word": "das Konzert",
     "translation": "concert",
-    "example": "FÃÂÃÂ¼r das Konzert am Sonntag gibt es noch Karten.",
+    "example": "Für das Konzert am Sonntag gibt es noch Karten.",
     "gender": "das"
   },
   {
@@ -4116,39 +4116,39 @@
     "gender": "der"
   },
   {
-    "word": "der KÃÂÃÂ¶rper",
+    "word": "der Körper",
     "translation": "body",
-    "example": "Der Arzt sagt, ich muss etwas fÃÂÃÂ¼r meinen KÃÂÃÂ¶rper tun, z. B. schwimmen oder Fahrrad fahren.",
+    "example": "Der Arzt sagt, ich muss etwas für meinen Körper tun, z. B. schwimmen oder Fahrrad fahren.",
     "gender": "der"
   },
   {
     "word": "der Korridor",
     "translation": "corridor",
-    "example": "Wir warten drauÃÂÃÂen im Korridor.",
+    "example": "Wir warten draußen im Korridor.",
     "gender": "der"
   },
   {
     "word": "die Kosten (Pl.)",
     "translation": "costs",
-    "example": "Die Kosten fÃÂÃÂ¼r die Reise bekomme ich von der Firma.",
+    "example": "Die Kosten für die Reise bekomme ich von der Firma.",
     "gender": "die"
   },
   {
-    "word": "das KostÃÂÃÂ¼m",
+    "word": "das Kostüm",
     "translation": "costume",
-    "example": "In dem Film tragen die Leute bunte KostÃÂÃÂ¼me.",
+    "example": "In dem Film tragen die Leute bunte Kostüme.",
     "gender": "das"
   },
   {
     "word": "die Kraft",
     "translation": "force, strength",
-    "example": "FÃÂÃÂ¼r diese Arbeit braucht man viel Kraft.",
+    "example": "Für diese Arbeit braucht man viel Kraft.",
     "gender": "die"
   },
   {
     "word": "das Kraftfahrzeug",
     "translation": "motor vehicle",
-    "example": "Auf dieser StraÃÂÃÂe sind Kraftfahrzeuge nicht erlaubt.",
+    "example": "Auf dieser Straße sind Kraftfahrzeuge nicht erlaubt.",
     "gender": "das"
   },
   {
@@ -4184,7 +4184,7 @@
   {
     "word": "die Krankenschwester",
     "translation": "nurse (female)",
-    "example": "Meine Cousine mÃÂÃÂ¶chte gern Krankenschwester werden.",
+    "example": "Meine Cousine möchte gern Krankenschwester werden.",
     "gender": "die"
   },
   {
@@ -4226,7 +4226,7 @@
   {
     "word": "die Kreuzung",
     "translation": "crossing, intersection",
-    "example": "Fahren Sie an der nÃÂÃÂ¤chsten Kreuzung rechts.",
+    "example": "Fahren Sie an der nächsten Kreuzung rechts.",
     "gender": "die"
   },
   {
@@ -4254,9 +4254,9 @@
     "gender": "die"
   },
   {
-    "word": "die KÃÂÃÂ¼che",
+    "word": "die Küche",
     "translation": "kitchen",
-    "example": "Ich suche eine Wohnung mit drei Zimmern, KÃÂÃÂ¼che und Bad.",
+    "example": "Ich suche eine Wohnung mit drei Zimmern, Küche und Bad.",
     "gender": "die"
   },
   {
@@ -4274,19 +4274,19 @@
   {
     "word": "der Kuli",
     "translation": "pen",
-    "example": "Hast du einen Kuli fÃÂÃÂ¼r mich?",
+    "example": "Hast du einen Kuli für mich?",
     "gender": "der"
   },
   {
-    "word": "der KÃÂÃÂ¼hlschrank",
+    "word": "der Kühlschrank",
     "translation": "refrigerator",
-    "example": "Stell die Milch in den KÃÂÃÂ¼hlschrank!",
+    "example": "Stell die Milch in den Kühlschrank!",
     "gender": "der"
   },
   {
     "word": "die Kultur",
     "translation": "culture",
-    "example": "Ich interessiere mich fÃÂÃÂ¼r andere LÃÂÃÂ¤nder und Kulturen.",
+    "example": "Ich interessiere mich für andere Länder und Kulturen.",
     "gender": "die"
   },
   {
@@ -4296,9 +4296,9 @@
     "gender": "der"
   },
   {
-    "word": "die KÃÂÃÂ¼ndigung",
+    "word": "die Kündigung",
     "translation": "termination, notice",
-    "example": "Ich habe die KÃÂÃÂ¼ndigung bekommen. Jetzt bin ich arbeitslos.",
+    "example": "Ich habe die Kündigung bekommen. Jetzt bin ich arbeitslos.",
     "gender": "die"
   },
   {
@@ -4308,9 +4308,9 @@
     "gender": "die"
   },
   {
-    "word": "der KÃÂÃÂ¼nstler",
+    "word": "der Künstler",
     "translation": "artist",
-    "example": "In diesem Stadtteil wohnen viele KÃÂÃÂ¼nstlerinnen. Neben uns wohnt eine Musikerin.",
+    "example": "In diesem Stadtteil wohnen viele Künstlerinnen. Neben uns wohnt eine Musikerin.",
     "gender": "der"
   },
   {
@@ -4322,7 +4322,7 @@
   {
     "word": "der Kurs",
     "translation": "course",
-    "example": "Ich besuche regelmÃÂÃÂ¤ÃÂÃÂig einen Deutschkurs.",
+    "example": "Ich besuche regelmäßig einen Deutschkurs.",
     "gender": "der"
   },
   {
@@ -4344,15 +4344,15 @@
     "gender": "der"
   },
   {
-    "word": "die KÃÂÃÂ¼ste",
+    "word": "die Küste",
     "translation": "coast",
-    "example": "Unser Dorf liegt direkt an der KÃÂÃÂ¼ste.",
+    "example": "Unser Dorf liegt direkt an der Küste.",
     "gender": "die"
   },
   {
     "word": "das Kuvert",
     "translation": "envelope",
-    "example": "Ich hÃÂÃÂ¤tte gern 50 Kuverts und Briefmarken dazu.",
+    "example": "Ich hätte gern 50 Kuverts und Briefmarken dazu.",
     "gender": "der"
   },
   {
@@ -4370,7 +4370,7 @@
   {
     "word": "das Lager",
     "translation": "warehouse, camp",
-    "example": "Ich weiÃÂÃÂ nicht, ob wir diesen Schuh in Ihrer GrÃÂÃÂ¶ÃÂÃÂe haben. Ich sehe mal im Lager nach.",
+    "example": "Ich weiß nicht, ob wir diesen Schuh in Ihrer Größe haben. Ich sehe mal im Lager nach.",
     "gender": "das"
   },
   {
@@ -4382,7 +4382,7 @@
   {
     "word": "das Land",
     "translation": "country, countryside, land, state",
-    "example": "Deutschland ist ein schÃÂÃÂ¶nes Land.",
+    "example": "Deutschland ist ein schönes Land.",
     "gender": "das"
   },
   {
@@ -4394,19 +4394,19 @@
   {
     "word": "die Landschaft",
     "translation": "landscape",
-    "example": "Die Landschaft ist sehr hÃÂÃÂ¼gelig.",
+    "example": "Die Landschaft ist sehr hügelig.",
     "gender": "die"
   },
   {
     "word": "die Landung",
     "translation": "landing",
-    "example": "Bei der Landung mÃÂÃÂ¼ssen Sie sich anschnallen.",
+    "example": "Bei der Landung müssen Sie sich anschnallen.",
     "gender": "die"
   },
   {
-    "word": "die LÃÂÃÂ¤nge",
+    "word": "die Länge",
     "translation": "length",
-    "example": "Mein Schreibtisch hat folgende MaÃÂÃÂe: LÃÂÃÂ¤nge 1.20 m, Breite: 0,85 m, HÃÂÃÂ¶he: 0,75 m.",
+    "example": "Mein Schreibtisch hat folgende Maße: Länge 1.20 m, Breite: 0,85 m, Höhe: 0,75 m.",
     "gender": "die"
   },
   {
@@ -4416,9 +4416,9 @@
     "gender": "die"
   },
   {
-    "word": "der LÃÂÃÂ¤rm (Sg.)",
+    "word": "der Lärm (Sg.)",
     "translation": "noise",
-    "example": "Die Flugzeuge machen einen schrecklichen LÃÂÃÂ¤rm.",
+    "example": "Die Flugzeuge machen einen schrecklichen Lärm.",
     "gender": "der"
   },
   {
@@ -4430,7 +4430,7 @@
   {
     "word": "das Laufwerk",
     "translation": "(computer) drive",
-    "example": "FÃÂÃÂ¼r meinen Computer habe ich mir ein neues Laufwerk gekauft.",
+    "example": "Für meinen Computer habe ich mir ein neues Laufwerk gekauft.",
     "gender": "das"
   },
   {
@@ -4448,13 +4448,13 @@
   {
     "word": "das Leben",
     "translation": "life",
-    "example": "Ich habe mich an das Leben auf dem Land gewÃÂÃÂ¶hnt.",
+    "example": "Ich habe mich an das Leben auf dem Land gewöhnt.",
     "gender": "das"
   },
   {
     "word": "der Lebenslauf",
     "translation": "curriculum vitae",
-    "example": "Hast du den Lebenslauf fÃÂÃÂ¼r die Bewerbung schon geschrieben?",
+    "example": "Hast du den Lebenslauf für die Bewerbung schon geschrieben?",
     "gender": "der"
   },
   {
@@ -4472,7 +4472,7 @@
   {
     "word": "die Lehre",
     "translation": "teaching, apprenticeship",
-    "example": "Mein Cousin will eine dreijÃÂÃÂ¤hrige Lehre machen.",
+    "example": "Mein Cousin will eine dreijährige Lehre machen.",
     "gender": "die"
   },
   {
@@ -4502,25 +4502,25 @@
   {
     "word": "der Leiter",
     "translation": "manager",
-    "example": "Wie heiÃÂÃÂt die Leiterin der Schule?",
+    "example": "Wie heißt die Leiterin der Schule?",
     "gender": "der"
   },
   {
     "word": "die Leitung",
     "translation": "management",
-    "example": "Ab 1. Juli ÃÂÃÂ¼bernimmt Herr Meier die Leitung der Abteilung.",
+    "example": "Ab 1. Juli übernimmt Herr Meier die Leitung der Abteilung.",
     "gender": "die"
   },
   {
     "word": "die Leiter",
     "translation": "ladder, manager",
-    "example": "Haben Sie eine Leiter fÃÂÃÂ¼r mich? Ich will die Fenster putzen.",
+    "example": "Haben Sie eine Leiter für mich? Ich will die Fenster putzen.",
     "gender": "die"
   },
   {
     "word": "der Lerner",
     "translation": "learner",
-    "example": "Sie ist eine fleiÃÂÃÂige Lernerin.",
+    "example": "Sie ist eine fleißige Lernerin.",
     "gender": "der"
   },
   {
@@ -4538,7 +4538,7 @@
   {
     "word": "das Lexikon",
     "translation": "dictionary, lexicon",
-    "example": "Wir kÃÂÃÂ¶nnten im Lexikon nachsehen.",
+    "example": "Wir könnten im Lexikon nachsehen.",
     "gender": "das"
   },
   {
@@ -4568,19 +4568,19 @@
   {
     "word": "der Lift",
     "translation": "elevator",
-    "example": "Im BÃÂÃÂ¼ro ist leider der Lift kaputt.",
+    "example": "Im Büro ist leider der Lift kaputt.",
     "gender": "der"
   },
   {
     "word": "die Limonade",
     "translation": "lemonade",
-    "example": "Die Limonade ist sehr sÃÂÃÂ¼ÃÂÃÂ.",
+    "example": "Die Limonade ist sehr süß.",
     "gender": "die"
   },
   {
     "word": "die Linie",
     "translation": "line",
-    "example": "Zum Hauptbahnhof kÃÂÃÂ¶nnen Sie mit der Linie 8 fahren.",
+    "example": "Zum Hauptbahnhof können Sie mit der Linie 8 fahren.",
     "gender": "die"
   },
   {
@@ -4592,13 +4592,13 @@
   {
     "word": "die Liste",
     "translation": "list",
-    "example": "Was brauchen wir fÃÂÃÂ¼r die Party? ÃÂ¢ÃÂÃÂ Mach doch eine Einkaufsliste.",
+    "example": "Was brauchen wir für die Party? ÃÂ¢ÃÂÃÂ Mach doch eine Einkaufsliste.",
     "gender": "die"
   },
   {
     "word": "die Literatur",
     "translation": "literature",
-    "example": "Ich interessiere mich fÃÂÃÂ¼r Literatur.",
+    "example": "Ich interessiere mich für Literatur.",
     "gender": "die"
   },
   {
@@ -4608,9 +4608,9 @@
     "gender": "das"
   },
   {
-    "word": "der LÃÂÃÂ¶ffel",
+    "word": "der Löffel",
     "translation": "spoon",
-    "example": "Bitte, bringen Sie mir einen LÃÂÃÂ¶ffel.",
+    "example": "Bitte, bringen Sie mir einen Löffel.",
     "gender": "der"
   },
   {
@@ -4622,13 +4622,13 @@
   {
     "word": "das Lokal",
     "translation": "restaurant, bar",
-    "example": "Gibt es hier in der NÃÂÃÂ¤he ein gemÃÂÃÂ¼tliches Lokal?",
+    "example": "Gibt es hier in der Nähe ein gemütliches Lokal?",
     "gender": "das"
   },
   {
-    "word": "die LÃÂÃÂ¶sung",
+    "word": "die Lösung",
     "translation": "solution",
-    "example": "Wir fahren alle zusammen mit dem Zug. Das ist die beste LÃÂÃÂ¶sung.",
+    "example": "Wir fahren alle zusammen mit dem Zug. Das ist die beste Lösung.",
     "gender": "die"
   },
   {
@@ -4638,9 +4638,9 @@
     "gender": "die"
   },
   {
-    "word": "die LÃÂÃÂ¼ge",
+    "word": "die Lüge",
     "translation": "lie",
-    "example": "Das ist eine LÃÂÃÂ¼ge!",
+    "example": "Das ist eine Lüge!",
     "gender": "die"
   },
   {
@@ -4650,9 +4650,9 @@
     "gender": "die"
   },
   {
-    "word": "das MÃÂÃÂ¤dchen",
+    "word": "das Mädchen",
     "translation": "girl",
-    "example": "Familie Kurz hat zwei MÃÂÃÂ¤dchen und einen Jungen.",
+    "example": "Familie Kurz hat zwei Mädchen und einen Jungen.",
     "gender": "das"
   },
   {
@@ -4676,31 +4676,31 @@
   {
     "word": "die Mahnung",
     "translation": "reminder",
-    "example": "Wenn du die Rechnung nicht pÃÂÃÂ¼nktlich bezahlst, bekommst du eine Mahnung.",
+    "example": "Wenn du die Rechnung nicht pünktlich bezahlst, bekommst du eine Mahnung.",
     "gender": "die"
   },
   {
     "word": "das Mal",
     "translation": "time",
-    "example": "Das machen wir nÃÂÃÂ¤chstes Mal.",
+    "example": "Das machen wir nächstes Mal.",
     "gender": "das"
   },
   {
     "word": "der Maler",
     "translation": "painter",
-    "example": "Wir haben die Maler im Haus. Wir lassen die WÃÂÃÂ¤nde neu streichen.",
+    "example": "Wir haben die Maler im Haus. Wir lassen die Wände neu streichen.",
     "gender": "der"
   },
   {
     "word": "der Mangel",
     "translation": "defect, shortage",
-    "example": "In dieser Stadt gibt es einen groÃÂÃÂen Mangel an Wohnungen.",
+    "example": "In dieser Stadt gibt es einen großen Mangel an Wohnungen.",
     "gender": "der"
   },
   {
     "word": "der Mann",
     "translation": "man, husband",
-    "example": "In unserer Firma arbeiten fast nur MÃÂÃÂ¤nner.",
+    "example": "In unserer Firma arbeiten fast nur Männer.",
     "gender": "der"
   },
   {
@@ -4722,9 +4722,9 @@
     "gender": "die"
   },
   {
-    "word": "das MÃÂÃÂ¤rchen",
+    "word": "das Märchen",
     "translation": "fairy tale",
-    "example": "Meine GroÃÂÃÂmutter hat uns viele MÃÂÃÂ¤rchen erzÃÂÃÂ¤hlt.",
+    "example": "Meine Großmutter hat uns viele Märchen erzählt.",
     "gender": "das"
   },
   {
@@ -4742,7 +4742,7 @@
   {
     "word": "die Marke",
     "translation": "brand, mark",
-    "example": "Ich brauche bitte fÃÂÃÂ¼nf Briefmarken zu 1 Euro.",
+    "example": "Ich brauche bitte fünf Briefmarken zu 1 Euro.",
     "gender": "die"
   },
   {
@@ -4778,7 +4778,7 @@
   {
     "word": "die Mauer",
     "translation": "wall",
-    "example": "Die Kinder sind ÃÂÃÂ¼ber die Mauer geklettert.",
+    "example": "Die Kinder sind über die Mauer geklettert.",
     "gender": "die"
   },
   {
@@ -4790,7 +4790,7 @@
   {
     "word": "die Medien (Pl.)",
     "translation": "media",
-    "example": "Umweltschutz ist in den Medien ein groÃÂÃÂes Thema.",
+    "example": "Umweltschutz ist in den Medien ein großes Thema.",
     "gender": "die"
   },
   {
@@ -4814,7 +4814,7 @@
   {
     "word": "das Mehl",
     "translation": "flour",
-    "example": "Ich mÃÂÃÂ¶chte einen Kuchen backen. Ist noch genug Mehl da?",
+    "example": "Ich möchte einen Kuchen backen. Ist noch genug Mehl da?",
     "gender": "das"
   },
   {
@@ -4826,7 +4826,7 @@
   {
     "word": "die Mehrwertsteuer",
     "translation": "value added tax (VAT)",
-    "example": "Die Mehrwertsteuer bei diesem Produkt betrÃÂÃÂ¤gt 20 %.",
+    "example": "Die Mehrwertsteuer bei diesem Produkt beträgt 20 %.",
     "gender": "die"
   },
   {
@@ -4838,19 +4838,19 @@
   {
     "word": "der Meister",
     "translation": "master, champion",
-    "example": "Ich weiÃÂÃÂ nicht, wie man das macht. ÃÂ¢ÃÂÃÂ Dann frag doch den Meister.",
+    "example": "Ich weiß nicht, wie man das macht. ÃÂ¢ÃÂÃÂ Dann frag doch den Meister.",
     "gender": "der"
   },
   {
     "word": "die Meldung",
     "translation": "report, message",
-    "example": "Hast du die Meldung im Radio gehÃÂÃÂ¶rt? Es wird starken Sturm geben.",
+    "example": "Hast du die Meldung im Radio gehört? Es wird starken Sturm geben.",
     "gender": "die"
   },
   {
     "word": "die Menge",
     "translation": "quantity, a lot",
-    "example": "Diesen Preis gibt es nur, wenn Sie groÃÂÃÂe Mengen kaufen.",
+    "example": "Diesen Preis gibt es nur, wenn Sie große Mengen kaufen.",
     "gender": "die"
   },
   {
@@ -4862,13 +4862,13 @@
   {
     "word": "der Mensch",
     "translation": "human, person",
-    "example": "Die Menschen sind hier ein bisschen anders als im SÃÂÃÂ¼den.",
+    "example": "Die Menschen sind hier ein bisschen anders als im Süden.",
     "gender": "der"
   },
   {
-    "word": "das MenÃÂÃÂ¼",
+    "word": "das Menü",
     "translation": "menu",
-    "example": "Nimm doch das MenÃÂÃÂ¼, das sieht gut aus.",
+    "example": "Nimm doch das Menü, das sieht gut aus.",
     "gender": "das"
   },
   {
@@ -4892,7 +4892,7 @@
   {
     "word": "die Methode",
     "translation": "method",
-    "example": "WeiÃÂÃÂt du eine gute Methode, um schnell gut Deutsch zu lernen?",
+    "example": "Weißt du eine gute Methode, um schnell gut Deutsch zu lernen?",
     "gender": "die"
   },
   {
@@ -4916,7 +4916,7 @@
   {
     "word": "der Mieter",
     "translation": "tenant",
-    "example": "Sie hat heute neue Mieter fÃÂÃÂ¼r die Wohnung gefunden.",
+    "example": "Sie hat heute neue Mieter für die Wohnung gefunden.",
     "gender": "der"
   },
   {
@@ -4934,7 +4934,7 @@
   {
     "word": "die Milch (Sg.)",
     "translation": "milk",
-    "example": "Stellst du bitte die Milch in den KÃÂÃÂ¼hlschrank?",
+    "example": "Stellst du bitte die Milch in den Kühlschrank?",
     "gender": "die"
   },
   {
@@ -4958,13 +4958,13 @@
   {
     "word": "das Mitglied",
     "translation": "member",
-    "example": "FÃÂÃÂ¼r Mitglieder ist der Eintritt zum Konzert gratis.",
+    "example": "Für Mitglieder ist der Eintritt zum Konzert gratis.",
     "gender": "das"
   },
   {
     "word": "die Mitte",
     "translation": "middle, center",
-    "example": "Wo mÃÂÃÂ¶chten Sie sitzen? ÃÂ¢ÃÂÃÂ In der Mitte.",
+    "example": "Wo möchten Sie sitzen? ÃÂ¢ÃÂÃÂ In der Mitte.",
     "gender": "die"
   },
   {
@@ -4974,9 +4974,9 @@
     "gender": "das"
   },
   {
-    "word": "das MÃÂÃÂ¶bel",
+    "word": "das Möbel",
     "translation": "furniture",
-    "example": "Wir haben uns neue MÃÂÃÂ¶bel gekauft.",
+    "example": "Wir haben uns neue Möbel gekauft.",
     "gender": "das"
   },
   {
@@ -4986,9 +4986,9 @@
     "gender": "die"
   },
   {
-    "word": "die MobilitÃÂÃÂ¤t",
+    "word": "die Mobilität",
     "translation": "mobility",
-    "example": "Sprachen zu lernen fÃÂÃÂ¶rdert die MobilitÃÂÃÂ¤t.",
+    "example": "Sprachen zu lernen fördert die Mobilität.",
     "gender": "die"
   },
   {
@@ -5006,19 +5006,19 @@
   {
     "word": "das Modell",
     "translation": "model",
-    "example": "Wie findest du dieses Auto? ÃÂ¢ÃÂÃÂ Dieses Modell gefÃÂÃÂ¤llt mir nicht.",
+    "example": "Wie findest du dieses Auto? ÃÂ¢ÃÂÃÂ Dieses Modell gefällt mir nicht.",
     "gender": "das"
   },
   {
-    "word": "die MÃÂÃÂ¶glichkeit",
+    "word": "die Möglichkeit",
     "translation": "possibility, option",
-    "example": "Sie wollen ans Meer? Da gibt es mehrere MÃÂÃÂ¶glichkeiten.",
+    "example": "Sie wollen ans Meer? Da gibt es mehrere Möglichkeiten.",
     "gender": "die"
   },
   {
-    "word": "die MÃÂÃÂ¶hre",
+    "word": "die Möhre",
     "translation": "carrot",
-    "example": "Hasen fressen gern MÃÂÃÂ¶hren.",
+    "example": "Hasen fressen gern Möhren.",
     "gender": "die"
   },
   {
@@ -5036,43 +5036,43 @@
   {
     "word": "der Monitor",
     "translation": "monitor",
-    "example": "Ich habe mir einen grÃÂÃÂ¶ÃÂÃÂeren Monitor gekauft. Das ist besser fÃÂÃÂ¼r meine Augen.",
+    "example": "Ich habe mir einen größeren Monitor gekauft. Das ist besser für meine Augen.",
     "gender": "der"
   },
   {
     "word": "der Motor",
     "translation": "motor",
-    "example": "Der Motor ist kaputt. Das Auto fÃÂÃÂ¤hrt nicht mehr.",
+    "example": "Der Motor ist kaputt. Das Auto fährt nicht mehr.",
     "gender": "der"
   },
   {
     "word": "das Motorrad",
     "translation": "motorcycle",
-    "example": "Oskar fÃÂÃÂ¤hrt jeden Tag mit dem Motorrad zur Arbeit.",
+    "example": "Oskar fährt jeden Tag mit dem Motorrad zur Arbeit.",
     "gender": "das"
   },
   {
-    "word": "die MÃÂÃÂ¼he",
+    "word": "die Mühe",
     "translation": "effort",
-    "example": "Vielen Dank fÃÂÃÂ¼r Ihre MÃÂÃÂ¼he.",
+    "example": "Vielen Dank für Ihre Mühe.",
     "gender": "die"
   },
   {
-    "word": "der MÃÂÃÂ¼ll (Sg.)",
+    "word": "der Müll (Sg.)",
     "translation": "garbage",
-    "example": "Bringst du bitte noch den MÃÂÃÂ¼llsack raus?",
+    "example": "Bringst du bitte noch den Müllsack raus?",
     "gender": "der"
   },
   {
-    "word": "die MÃÂÃÂ¼llabfuhr",
+    "word": "die Müllabfuhr",
     "translation": "garbage collection",
-    "example": "Die MÃÂÃÂ¼llabfuhr kommt zweimal pro Woche.",
+    "example": "Die Müllabfuhr kommt zweimal pro Woche.",
     "gender": "die"
   },
   {
-    "word": "die MÃÂÃÂ¼lltonne",
+    "word": "die Mülltonne",
     "translation": "trash can",
-    "example": "Die MÃÂÃÂ¼lltonne ist voll.",
+    "example": "Die Mülltonne ist voll.",
     "gender": "die"
   },
   {
@@ -5082,9 +5082,9 @@
     "gender": "der"
   },
   {
-    "word": "die MÃÂÃÂ¼nze",
+    "word": "die Münze",
     "translation": "coin",
-    "example": "Der Automat nimmt nur MÃÂÃÂ¼nzen.",
+    "example": "Der Automat nimmt nur Münzen.",
     "gender": "die"
   },
   {
@@ -5102,7 +5102,7 @@
   {
     "word": "der Musiker",
     "translation": "musician",
-    "example": "Mein Bruder mÃÂÃÂ¶chte Musiker werden.",
+    "example": "Mein Bruder möchte Musiker werden.",
     "gender": "der"
   },
   {
@@ -5112,9 +5112,9 @@
     "gender": "der"
   },
   {
-    "word": "das MÃÂÃÂ¼esli/MÃÂÃÂ¼sli",
+    "word": "das Müesli/Müsli",
     "translation": "muesli",
-    "example": "Zum FrÃÂÃÂ¼hstÃÂÃÂ¼ck gibt es MÃÂÃÂ¼sli mit Obst.",
+    "example": "Zum Frühstück gibt es Müsli mit Obst.",
     "gender": "das"
   },
   {
@@ -5126,7 +5126,7 @@
   {
     "word": "die Mutter",
     "translation": "mother",
-    "example": "Meine Mutter heiÃÂÃÂt Klara.",
+    "example": "Meine Mutter heißt Klara.",
     "gender": "die"
   },
   {
@@ -5138,19 +5138,19 @@
   {
     "word": "die Nachfrage",
     "translation": "demand",
-    "example": "Die Nachfrage fÃÂÃÂ¼r dieses Produkt ist groÃÂÃÂ.",
+    "example": "Die Nachfrage für dieses Produkt ist groß.",
     "gender": "die"
   },
   {
     "word": "die Nachhilfe",
     "translation": "tutoring",
-    "example": "Der SchÃÂÃÂ¼ler braucht Nachhilfe in Mathematik.",
+    "example": "Der Schüler braucht Nachhilfe in Mathematik.",
     "gender": "die"
   },
   {
     "word": "die Nachricht",
     "translation": "message, news",
-    "example": "Ich habe eine gute Nachricht fÃÂÃÂ¼r Sie. Sie haben die PrÃÂÃÂ¼fung bestanden.",
+    "example": "Ich habe eine gute Nachricht für Sie. Sie haben die Prüfung bestanden.",
     "gender": "die"
   },
   {
@@ -5168,13 +5168,13 @@
   {
     "word": "der Nachwuchs (Sg.)",
     "translation": "young people, offspring",
-    "example": "Der Nachwuchs bei Forschern soll gefÃÂÃÂ¶rdert werden.",
+    "example": "Der Nachwuchs bei Forschern soll gefördert werden.",
     "gender": "der"
   },
   {
     "word": "die Nadel",
     "translation": "needle",
-    "example": "Hast du eine Nadel fÃÂÃÂ¼r mich? Ich muss einen Knopf annÃÂÃÂ¤hen.",
+    "example": "Hast du eine Nadel für mich? Ich muss einen Knopf annähen.",
     "gender": "die"
   },
   {
@@ -5184,15 +5184,15 @@
     "gender": "der"
   },
   {
-    "word": "die NÃÂÃÂ¤he (Sg.)",
+    "word": "die Nähe (Sg.)",
     "translation": "proximity, closeness",
-    "example": "Die Post ist ganz in der NÃÂÃÂ¤he vom Bahnhof.",
+    "example": "Die Post ist ganz in der Nähe vom Bahnhof.",
     "gender": "die"
   },
   {
     "word": "das Nahrungsmittel",
     "translation": "food(stuff)",
-    "example": "In diesen LÃÂÃÂ¤ndern fehlen vor allem Nahrungsmittel.",
+    "example": "In diesen Ländern fehlen vor allem Nahrungsmittel.",
     "gender": "das"
   },
   {
@@ -5216,13 +5216,13 @@
   {
     "word": "die Nase",
     "translation": "nose",
-    "example": "Haben Sie Nasentropfen? Ich bin stark erkÃÂÃÂ¤ltet.",
+    "example": "Haben Sie Nasentropfen? Ich bin stark erkältet.",
     "gender": "die"
   },
   {
     "word": "die Natur",
     "translation": "nature",
-    "example": "Ich bin gern drauÃÂÃÂen in der Natur.",
+    "example": "Ich bin gern draußen in der Natur.",
     "gender": "die"
   },
   {
@@ -5234,7 +5234,7 @@
   {
     "word": "der Neffe",
     "translation": "nephew",
-    "example": "Meine Schwester hat zwei Kinder. Meine Neffen sind drei und fÃÂÃÂ¼nf Jahre alt.",
+    "example": "Meine Schwester hat zwei Kinder. Meine Neffen sind drei und fünf Jahre alt.",
     "gender": "der"
   },
   {
@@ -5312,7 +5312,7 @@
   {
     "word": "die Nudel",
     "translation": "noodle, pasta",
-    "example": "MÃÂÃÂ¶chten Sie Nudeln oder Reis? ÃÂ¢ÃÂÃÂ Lieber Nudeln.",
+    "example": "Möchten Sie Nudeln oder Reis? ÃÂ¢ÃÂÃÂ Lieber Nudeln.",
     "gender": "die"
   },
   {
@@ -5342,7 +5342,7 @@
   {
     "word": "die ÃÂÃÂffentlichkeit (Sg.)",
     "translation": "public",
-    "example": "Von solchen Dingen erfÃÂÃÂ¤hrt die ÃÂÃÂffentlichkeit nur selten.",
+    "example": "Von solchen Dingen erfährt die ÃÂÃÂffentlichkeit nur selten.",
     "gender": "die"
   },
   {
@@ -5366,13 +5366,13 @@
   {
     "word": "der Onkel",
     "translation": "uncle",
-    "example": "NÃÂÃÂ¤chste Woche fahre ich zu meinem Onkel nach Berlin.",
+    "example": "Nächste Woche fahre ich zu meinem Onkel nach Berlin.",
     "gender": "der"
   },
   {
     "word": "der Opa",
     "translation": "grandpa",
-    "example": "Mein Opa heiÃÂÃÂt Hans.",
+    "example": "Mein Opa heißt Hans.",
     "gender": "der"
   },
   {
@@ -5408,7 +5408,7 @@
   {
     "word": "die Ordination",
     "translation": "consultation (hour)",
-    "example": "Die Ordination bleibt bis zum 7. JÃÂÃÂ¤nner geschlossen.",
+    "example": "Die Ordination bleibt bis zum 7. Jänner geschlossen.",
     "gender": "die"
   },
   {
@@ -5420,7 +5420,7 @@
   {
     "word": "der Ordner",
     "translation": "folder",
-    "example": "FÃÂÃÂ¼r meine ÃÂÃÂbungen im Deutschkurs habe ich mir einen Ordner gekauft.",
+    "example": "Für meine ÃÂÃÂbungen im Deutschkurs habe ich mir einen Ordner gekauft.",
     "gender": "der"
   },
   {
@@ -5438,7 +5438,7 @@
   {
     "word": "das Original",
     "translation": "original",
-    "example": "Das Original ist fÃÂÃÂ¼r Sie. Wir bekommen die Kopie.",
+    "example": "Das Original ist für Sie. Wir bekommen die Kopie.",
     "gender": "das"
   },
   {
@@ -5456,7 +5456,7 @@
   {
     "word": "der Ozean",
     "translation": "ocean",
-    "example": "Dieses Schiff fÃÂÃÂ¤hrt ÃÂÃÂ¼ber den Atlantischen Ozean.",
+    "example": "Dieses Schiff fährt über den Atlantischen Ozean.",
     "gender": "der"
   },
   {
@@ -5474,13 +5474,13 @@
   {
     "word": "die Panne",
     "translation": "breakdown",
-    "example": "Kurz vor MÃÂÃÂ¼nchen hatten wir eine Panne mit dem Auto.",
+    "example": "Kurz vor München hatten wir eine Panne mit dem Auto.",
     "gender": "die"
   },
   {
     "word": "das Papier",
     "translation": "paper",
-    "example": "Hast du ein Blatt Papier fÃÂÃÂ¼r mich?",
+    "example": "Hast du ein Blatt Papier für mich?",
     "gender": "das"
   },
   {
@@ -5490,9 +5490,9 @@
     "gender": "der"
   },
   {
-    "word": "das ParfÃÂÃÂ¼m",
+    "word": "das Parfüm",
     "translation": "perfume",
-    "example": "Zum Geburtstag habe ich von meinem Mann ein ParfÃÂÃÂ¼m bekommen.",
+    "example": "Zum Geburtstag habe ich von meinem Mann ein Parfüm bekommen.",
     "gender": "das"
   },
   {
@@ -5504,7 +5504,7 @@
   {
     "word": "der Partner",
     "translation": "partner",
-    "example": "Wir haben das GeschÃÂÃÂ¤ft zusammen. Wir sind Partner.",
+    "example": "Wir haben das Geschäft zusammen. Wir sind Partner.",
     "gender": "der"
   },
   {
@@ -5516,7 +5516,7 @@
   {
     "word": "der Pass",
     "translation": "passport",
-    "example": "Ich muss meinen Pass verlÃÂÃÂ¤ngern lassen.",
+    "example": "Ich muss meinen Pass verlängern lassen.",
     "gender": "der"
   },
   {
@@ -5528,7 +5528,7 @@
   {
     "word": "der Patient",
     "translation": "patient",
-    "example": "Ich bin Patientin bei Dr. Hausner. Ich mÃÂÃÂ¶chte bitte einen Termin.",
+    "example": "Ich bin Patientin bei Dr. Hausner. Ich möchte bitte einen Termin.",
     "gender": "der"
   },
   {
@@ -5540,7 +5540,7 @@
   {
     "word": "das Pech (Sg.)",
     "translation": "bad luck",
-    "example": "Es regnet. Unser Picknick fÃÂÃÂ¤llt leider aus. ÃÂ¢ÃÂÃÂ So ein Pech!",
+    "example": "Es regnet. Unser Picknick fällt leider aus. ÃÂ¢ÃÂÃÂ So ein Pech!",
     "gender": "das"
   },
   {
@@ -5558,13 +5558,13 @@
   {
     "word": "der Pensionist",
     "translation": "pensioner",
-    "example": "Meine GroÃÂÃÂmutter arbeitet nicht mehr. Sie ist Pensionistin.",
+    "example": "Meine Großmutter arbeitet nicht mehr. Sie ist Pensionistin.",
     "gender": "der"
   },
   {
     "word": "der Perron",
     "translation": "platform, track",
-    "example": "Auf HauptbahnhÃÂÃÂ¶fen gibt es meist viele Perrons.",
+    "example": "Auf Hauptbahnhöfen gibt es meist viele Perrons.",
     "gender": "der"
   },
   {
@@ -5588,13 +5588,13 @@
   {
     "word": "das Personal (Sg.)",
     "translation": "personnel, staff",
-    "example": "Dieser Eingang ist nur fÃÂÃÂ¼r das Personal.",
+    "example": "Dieser Eingang ist nur für das Personal.",
     "gender": "das"
   },
   {
     "word": "die Pfanne",
     "translation": "pan",
-    "example": "Hast du keine grÃÂÃÂ¶ÃÂÃÂere Pfanne? Ich mÃÂÃÂ¶chte Kartoffeln kochen.",
+    "example": "Hast du keine größere Pfanne? Ich möchte Kartoffeln kochen.",
     "gender": "die"
   },
   {
@@ -5606,7 +5606,7 @@
   {
     "word": "die Pflanze",
     "translation": "plant",
-    "example": "Wenn wir im Urlaub sind, gieÃÂÃÂt die Nachbarin unsere Pflanzen.",
+    "example": "Wenn wir im Urlaub sind, gießt die Nachbarin unsere Pflanzen.",
     "gender": "die"
   },
   {
@@ -5630,7 +5630,7 @@
   {
     "word": "die Pflicht",
     "translation": "obligation, duty",
-    "example": "Als Autofahrer mÃÂÃÂ¼ssen Sie eine Versicherung haben. Das ist Pflicht.",
+    "example": "Als Autofahrer müssen Sie eine Versicherung haben. Das ist Pflicht.",
     "gender": "die"
   },
   {
@@ -5666,19 +5666,19 @@
   {
     "word": "der Plan",
     "translation": "plan",
-    "example": "Was macht ihr im Sommer? ÃÂ¢ÃÂÃÂ Ich weiÃÂÃÂ noch nicht, wir haben noch keine PlÃÂÃÂ¤ne.",
+    "example": "Was macht ihr im Sommer? ÃÂ¢ÃÂÃÂ Ich weiß noch nicht, wir haben noch keine Pläne.",
     "gender": "der"
   },
   {
     "word": "die Planung",
     "translation": "planning",
-    "example": "Unsere Planung fÃÂÃÂ¼r das Sommerfest steht schon lange.",
+    "example": "Unsere Planung für das Sommerfest steht schon lange.",
     "gender": "die"
   },
   {
     "word": "das Plastik",
     "translation": "plastic",
-    "example": "Was fÃÂÃÂ¼r ein Spielzeug mÃÂÃÂ¶chten Sie? Aus Plastik oder aus Holz?",
+    "example": "Was für ein Spielzeug möchten Sie? Aus Plastik oder aus Holz?",
     "gender": "das"
   },
   {
@@ -5690,13 +5690,13 @@
   {
     "word": "die Politik",
     "translation": "politics, policy",
-    "example": "Ich interessiere mich nicht fÃÂÃÂ¼r Politik.",
+    "example": "Ich interessiere mich nicht für Politik.",
     "gender": "die"
   },
   {
     "word": "der Politiker",
     "translation": "politician",
-    "example": "WeiÃÂÃÂt du, wie dieser Politiker heiÃÂÃÂt?",
+    "example": "Weißt du, wie dieser Politiker heißt?",
     "gender": "der"
   },
   {
@@ -5714,7 +5714,7 @@
   {
     "word": "die Pommes frites (Pl.)",
     "translation": "french fries",
-    "example": "Die Kinder essen gern WÃÂÃÂ¼rstchen mit Pommes frites.",
+    "example": "Die Kinder essen gern Würstchen mit Pommes frites.",
     "gender": "die"
   },
   {
@@ -5726,7 +5726,7 @@
   {
     "word": "die Portion",
     "translation": "portion",
-    "example": "Bitte, eine groÃÂÃÂe Portion Sahne!",
+    "example": "Bitte, eine große Portion Sahne!",
     "gender": "die"
   },
   {
@@ -5738,13 +5738,13 @@
   {
     "word": "die Postleitzahl",
     "translation": "zip code",
-    "example": "WeiÃÂÃÂt du die Postleitzahl der KollwitzstraÃÂÃÂe in Berlin?",
+    "example": "Weißt du die Postleitzahl der Kollwitzstraße in Berlin?",
     "gender": "die"
   },
   {
-    "word": "der PÃÂÃÂ¶stler",
+    "word": "der Pöstler",
     "translation": "postman",
-    "example": "War die PÃÂÃÂ¶stlerin schon da?",
+    "example": "War die Pöstlerin schon da?",
     "gender": "der"
   },
   {
@@ -5766,9 +5766,9 @@
     "gender": "der"
   },
   {
-    "word": "die PrÃÂÃÂ¤sentation",
+    "word": "die Präsentation",
     "translation": "presentation",
-    "example": "Die SchÃÂÃÂ¼lerin hat fÃÂÃÂ¼r ihre PrÃÂÃÂ¤sentation eine gute Note bekommen.",
+    "example": "Die Schülerin hat für ihre Präsentation eine gute Note bekommen.",
     "gender": "die"
   },
   {
@@ -5792,31 +5792,31 @@
   {
     "word": "die Presse",
     "translation": "press",
-    "example": "DarÃÂÃÂ¼ber konnte sich jeder in der Presse informieren.",
+    "example": "Darüber konnte sich jeder in der Presse informieren.",
     "gender": "die"
   },
   {
     "word": "das Problem",
     "translation": "problem",
-    "example": "JosÃÂÃÂ© spricht nicht gern ÃÂÃÂ¼ber seine Probleme.",
+    "example": "JosÃÂÃÂ© spricht nicht gern über seine Probleme.",
     "gender": "das"
   },
   {
     "word": "das Produkt",
     "translation": "product",
-    "example": "Unsere Produkte haben eine hohe QualitÃÂÃÂ¤t.",
+    "example": "Unsere Produkte haben eine hohe Qualität.",
     "gender": "das"
   },
   {
     "word": "die Produktion",
     "translation": "production",
-    "example": "Die Produktion von KÃÂÃÂ¤se dauert oft viele Wochen.",
+    "example": "Die Produktion von Käse dauert oft viele Wochen.",
     "gender": "die"
   },
   {
     "word": "der Professor",
     "translation": "professor",
-    "example": "Unsere Nachbarin ist Professorin an der UniversitÃÂÃÂ¤t.",
+    "example": "Unsere Nachbarin ist Professorin an der Universität.",
     "gender": "der"
   },
   {
@@ -5828,19 +5828,19 @@
   {
     "word": "der Profisportler",
     "translation": "professional sportsman/sportswoman",
-    "example": "Mein Sohn mÃÂÃÂ¶chte Profisportler werden.",
+    "example": "Mein Sohn möchte Profisportler werden.",
     "gender": "der"
   },
   {
     "word": "das Programm",
     "translation": "program",
-    "example": "Hast du schon ins Programm geguckt? Gibt es heute im Fernsehen einen schÃÂÃÂ¶nen Film?",
+    "example": "Hast du schon ins Programm geguckt? Gibt es heute im Fernsehen einen schönen Film?",
     "gender": "das"
   },
   {
     "word": "das Projekt",
     "translation": "project",
-    "example": "Der Staat fÃÂÃÂ¶rdert Projekte fÃÂÃÂ¼r Kinder und Jugendliche.",
+    "example": "Der Staat fördert Projekte für Kinder und Jugendliche.",
     "gender": "das"
   },
   {
@@ -5852,19 +5852,19 @@
   {
     "word": "der Protest",
     "translation": "protest",
-    "example": "Alle Proteste haben nichts genÃÂÃÂ¼tzt.",
+    "example": "Alle Proteste haben nichts genützt.",
     "gender": "der"
   },
   {
     "word": "der Prozess",
     "translation": "process, trial",
-    "example": "Der Prozess wird direkt aus dem Gerichtssaal im Fernsehen ÃÂÃÂ¼bertragen.",
+    "example": "Der Prozess wird direkt aus dem Gerichtssaal im Fernsehen übertragen.",
     "gender": "der"
   },
   {
-    "word": "die PrÃÂÃÂ¼fung",
+    "word": "die Prüfung",
     "translation": "examination, test",
-    "example": "Mein Freund hat die PrÃÂÃÂ¼fung bestanden.",
+    "example": "Mein Freund hat die Prüfung bestanden.",
     "gender": "die"
   },
   {
@@ -5894,19 +5894,19 @@
   {
     "word": "die Qualifikation",
     "translation": "qualification",
-    "example": "FÃÂÃÂ¼r diese Arbeit haben Sie gute Qualifikationen.",
+    "example": "Für diese Arbeit haben Sie gute Qualifikationen.",
     "gender": "die"
   },
   {
-    "word": "die QualitÃÂÃÂ¤t",
+    "word": "die Qualität",
     "translation": "quality",
-    "example": "FÃÂÃÂ¼r mich ist nicht nur der Preis wichtig, sondern auch die QualitÃÂÃÂ¤t.",
+    "example": "Für mich ist nicht nur der Preis wichtig, sondern auch die Qualität.",
     "gender": "die"
   },
   {
     "word": "das Quartier",
     "translation": "quarter, district",
-    "example": "Wir wohnen in einem schÃÂÃÂ¶nen Quartier.",
+    "example": "Wir wohnen in einem schönen Quartier.",
     "gender": "das"
   },
   {
@@ -5930,7 +5930,7 @@
   {
     "word": "das Rad",
     "translation": "bicycle, wheel",
-    "example": "Sie fÃÂÃÂ¤hrt jeden Morgen mit dem Rad zur Arbeit.",
+    "example": "Sie fährt jeden Morgen mit dem Rad zur Arbeit.",
     "gender": "das"
   },
   {
@@ -5942,19 +5942,19 @@
   {
     "word": "das Radio",
     "translation": "radio",
-    "example": "Ich mÃÂÃÂ¶chte mir ein neues Radio kaufen.",
+    "example": "Ich möchte mir ein neues Radio kaufen.",
     "gender": "das"
   },
   {
     "word": "der (Schlag-)Rahm (CH) \nÃÂ¢ÃÂÃÂ D: (Schlag-)Sahne",
     "translation": "(whipped) cream",
-    "example": "Ich hÃÂÃÂ¤tte gern ein StÃÂÃÂ¼ck Torte mit (Schlag-)Rahm.",
+    "example": "Ich hätte gern ein Stück Torte mit (Schlag-)Rahm.",
     "gender": "der"
   },
   {
     "word": "der/das (Schlag-)Obers (A)\nÃÂ¢ÃÂÃÂ D: (Schlag-)Sahne; CH: (Schlag-)Rahm",
     "translation": "(whipped) cream",
-    "example": "Ich hÃÂÃÂ¤tte gern ein StÃÂÃÂ¼ck Torte mit Schlagobers.",
+    "example": "Ich hätte gern ein Stück Torte mit Schlagobers.",
     "gender": "das"
   },
   {
@@ -5972,13 +5972,13 @@
   {
     "word": "der Rat (Sg.)",
     "translation": "advice, council",
-    "example": "Was soll ich machen? KÃÂÃÂ¶nnen Sie mir einen Rat geben?",
+    "example": "Was soll ich machen? Können Sie mir einen Rat geben?",
     "gender": "der"
   },
   {
-    "word": "das RÃÂÃÂ¤tsel",
+    "word": "das Rätsel",
     "translation": "puzzle, riddle",
-    "example": "Ich kann dieses RÃÂÃÂ¤tsel nicht lÃÂÃÂ¶sen.",
+    "example": "Ich kann dieses Rätsel nicht lösen.",
     "gender": "das"
   },
   {
@@ -5990,31 +5990,31 @@
   {
     "word": "der Raucher",
     "translation": "smoker",
-    "example": "Gibt es hier ein Zimmer fÃÂÃÂ¼r Raucher?",
+    "example": "Gibt es hier ein Zimmer für Raucher?",
     "gender": "der"
   },
   {
     "word": "der Raum",
     "translation": "room",
-    "example": "GetrÃÂÃÂ¤nke gibt es im Raum nebenan.",
+    "example": "Getränke gibt es im Raum nebenan.",
     "gender": "der"
   },
   {
     "word": "die Reaktion",
     "translation": "reaction",
-    "example": "Diese Reaktion ist typisch fÃÂÃÂ¼r ihn.",
+    "example": "Diese Reaktion ist typisch für ihn.",
     "gender": "die"
   },
   {
-    "word": "die RealitÃÂÃÂ¤t",
+    "word": "die Realität",
     "translation": "reality",
-    "example": "Das gefÃÂÃÂ¤llt dir nicht? Aber das ist die RealitÃÂÃÂ¤t.",
+    "example": "Das gefällt dir nicht? Aber das ist die Realität.",
     "gender": "die"
   },
   {
     "word": "die Recherche",
     "translation": "research",
-    "example": "FÃÂÃÂ¼r diesen Bericht waren viele Recherchen nÃÂÃÂ¶tig.",
+    "example": "Für diesen Bericht waren viele Recherchen nötig.",
     "gender": "die"
   },
   {
@@ -6032,25 +6032,25 @@
   {
     "word": "das Recht",
     "translation": "right, law",
-    "example": "Nach deutschem Recht kann er dafÃÂÃÂ¼r nicht bestraft werden.",
+    "example": "Nach deutschem Recht kann er dafür nicht bestraft werden.",
     "gender": "das"
   },
   {
     "word": "die Rede",
     "translation": "speech",
-    "example": "Der PrÃÂÃÂ¤sident hat eine Rede gehalten.",
+    "example": "Der Präsident hat eine Rede gehalten.",
     "gender": "die"
   },
   {
     "word": "das Referat",
     "translation": "unit, presentation",
-    "example": "Vielen Dank fÃÂÃÂ¼r dieses interessante Referat.",
+    "example": "Vielen Dank für dieses interessante Referat.",
     "gender": "das"
   },
   {
     "word": "die Reform",
     "translation": "reform",
-    "example": "Die Regierung plant fÃÂÃÂ¼r nÃÂÃÂ¤chstes Jahr eine Reform. Die Steuern sollen steigen.",
+    "example": "Die Regierung plant für nächstes Jahr eine Reform. Die Steuern sollen steigen.",
     "gender": "die"
   },
   {
@@ -6062,13 +6062,13 @@
   {
     "word": "die Regel",
     "translation": "rule",
-    "example": "Im StraÃÂÃÂenverkehr sind viele Regeln zu beachten.",
+    "example": "Im Straßenverkehr sind viele Regeln zu beachten.",
     "gender": "die"
   },
   {
     "word": "der Regen",
     "translation": "rain",
-    "example": "Bei Regen fÃÂÃÂ¤llt das Konzert aus.",
+    "example": "Bei Regen fällt das Konzert aus.",
     "gender": "der"
   },
   {
@@ -6086,7 +6086,7 @@
   {
     "word": "die Reihe",
     "translation": "row, turn, range",
-    "example": "Ich habe Karten fÃÂÃÂ¼r das Konzert. Wir sitzen in der dritten Reihe.",
+    "example": "Ich habe Karten für das Konzert. Wir sitzen in der dritten Reihe.",
     "gender": "die"
   },
   {
@@ -6098,7 +6098,7 @@
   {
     "word": "die Reinigung",
     "translation": "cleaning",
-    "example": "Die Reinigung des BÃÂÃÂ¼ros ist nicht teuer.",
+    "example": "Die Reinigung des Büros ist nicht teuer.",
     "gender": "die"
   },
   {
@@ -6114,15 +6114,15 @@
     "gender": "die"
   },
   {
-    "word": "das ReisebÃÂÃÂ¼ro",
+    "word": "das Reisebüro",
     "translation": "travel agency",
-    "example": "Wir haben die Reise im ReisebÃÂÃÂ¼ro gebucht.",
+    "example": "Wir haben die Reise im Reisebüro gebucht.",
     "gender": "das"
   },
   {
     "word": "die Reklame",
     "translation": "advertising",
-    "example": "Ich mÃÂÃÂ¶chte keine Reklame im Briefkasten.",
+    "example": "Ich möchte keine Reklame im Briefkasten.",
     "gender": "die"
   },
   {
@@ -6134,7 +6134,7 @@
   {
     "word": "die Religion",
     "translation": "religion",
-    "example": "Religion ist fÃÂÃÂ¼r manche Menschen sehr wichtig.",
+    "example": "Religion ist für manche Menschen sehr wichtig.",
     "gender": "die"
   },
   {
@@ -6146,19 +6146,19 @@
   {
     "word": "der Rentner",
     "translation": "pensioner",
-    "example": "Meine GroÃÂÃÂmutter arbeitet nicht mehr. Sie ist Rentnerin.",
+    "example": "Meine Großmutter arbeitet nicht mehr. Sie ist Rentnerin.",
     "gender": "der"
   },
   {
     "word": "die Reparatur",
     "translation": "repair",
-    "example": "Eine Reparatur wÃÂÃÂ¤re zu teuer.",
+    "example": "Eine Reparatur wäre zu teuer.",
     "gender": "die"
   },
   {
     "word": "die Reportage",
     "translation": "report",
-    "example": "Hast du die Reportage ÃÂÃÂ¼ber Afrika gesehen?",
+    "example": "Hast du die Reportage über Afrika gesehen?",
     "gender": "die"
   },
   {
@@ -6176,13 +6176,13 @@
   {
     "word": "der Respekt (Sg.)",
     "translation": "respect",
-    "example": "Ich habe groÃÂÃÂen Respekt vor meinem Lehrer.",
+    "example": "Ich habe großen Respekt vor meinem Lehrer.",
     "gender": "der"
   },
   {
     "word": "der Rest",
     "translation": "rest",
-    "example": "Hier sind 100 Euro. Den Rest gebe ich dir spÃÂÃÂ¤ter.",
+    "example": "Hier sind 100 Euro. Den Rest gebe ich dir später.",
     "gender": "der"
   },
   {
@@ -6200,7 +6200,7 @@
   {
     "word": "die Rezeption/Reception",
     "translation": "reception",
-    "example": "Geben Sie bitte den SchlÃÂÃÂ¼ssel an der Rezeption ab.",
+    "example": "Geben Sie bitte den Schlüssel an der Rezeption ab.",
     "gender": "die"
   },
   {
@@ -6212,7 +6212,7 @@
   {
     "word": "die Richtung",
     "translation": "direction",
-    "example": "Der Zug in Richtung KÃÂÃÂ¶ln hat VerspÃÂÃÂ¤tung.",
+    "example": "Der Zug in Richtung Köln hat Verspätung.",
     "gender": "die"
   },
   {
@@ -6260,7 +6260,7 @@
   {
     "word": "die Rose",
     "translation": "rose",
-    "example": "Rote Rosen sind ein schÃÂÃÂ¶nes Geschenk.",
+    "example": "Rote Rosen sind ein schönes Geschenk.",
     "gender": "die"
   },
   {
@@ -6270,39 +6270,39 @@
     "gender": "der"
   },
   {
-    "word": "die RÃÂÃÂ¼ckfahrt",
+    "word": "die Rückfahrt",
     "translation": "return (journey)",
-    "example": "Auf der RÃÂÃÂ¼ckfahrt besuche ich meine Eltern.",
+    "example": "Auf der Rückfahrt besuche ich meine Eltern.",
     "gender": "die"
   },
   {
-    "word": "die RÃÂÃÂ¼ckkehr (Sg.)",
+    "word": "die Rückkehr (Sg.)",
     "translation": "return",
-    "example": "Nach meiner RÃÂÃÂ¼ckkehr haben wir ein groÃÂÃÂes Fest gefeiert.",
+    "example": "Nach meiner Rückkehr haben wir ein großes Fest gefeiert.",
     "gender": "die"
   },
   {
-    "word": "der RÃÂÃÂ¼cken",
+    "word": "der Rücken",
     "translation": "back",
-    "example": "Mir tut der RÃÂÃÂ¼cken weh.",
+    "example": "Mir tut der Rücken weh.",
     "gender": "der"
   },
   {
-    "word": "die RÃÂÃÂ¼cksicht",
+    "word": "die Rücksicht",
     "translation": "consideration",
-    "example": "Nehmen Sie bitte RÃÂÃÂ¼cksicht auf die anderen GÃÂÃÂ¤ste.",
+    "example": "Nehmen Sie bitte Rücksicht auf die anderen Gäste.",
     "gender": "die"
   },
   {
-    "word": "das RÃÂÃÂ¼ebli",
+    "word": "das Rüebli",
     "translation": "carrot",
-    "example": "Hasen fressen gern RÃÂÃÂ¼ebli.",
+    "example": "Hasen fressen gern Rüebli.",
     "gender": "das"
   },
   {
     "word": "die Rufnummer",
     "translation": "phone number",
-    "example": "Wir mÃÂÃÂ¶chten Sie gerne anrufen. Wie ist Ihre Rufnummer?",
+    "example": "Wir möchten Sie gerne anrufen. Wie ist Ihre Rufnummer?",
     "gender": "die"
   },
   {
@@ -6314,7 +6314,7 @@
   {
     "word": "die Runde",
     "translation": "round, lap",
-    "example": "Ich laufe jeden Tag fÃÂÃÂ¼nf Runden im Park.",
+    "example": "Ich laufe jeden Tag fünf Runden im Park.",
     "gender": "die"
   },
   {
@@ -6326,7 +6326,7 @@
   {
     "word": "der Saal",
     "translation": "hall",
-    "example": "FÃÂÃÂ¼r unsere Familienfeier haben wir einen kleinen Saal gemietet.",
+    "example": "Für unsere Familienfeier haben wir einen kleinen Saal gemietet.",
     "gender": "der"
   },
   {
@@ -6338,7 +6338,7 @@
   {
     "word": "der Sack",
     "translation": "sack",
-    "example": "Ich hÃÂÃÂ¤tte gern einen Sack Kartoffeln.",
+    "example": "Ich hätte gern einen Sack Kartoffeln.",
     "gender": "der"
   },
   {
@@ -6350,19 +6350,19 @@
   {
     "word": "die (Schlag-)Sahne (D) \nÃÂ¢ÃÂÃÂ A: (Schlag-)Obers; CH: (Schlag-)Rahm",
     "translation": "(whipped) cream",
-    "example": "Ich hÃÂÃÂ¤tte gern ein StÃÂÃÂ¼ck Torte mit Sahne.",
+    "example": "Ich hätte gern ein Stück Torte mit Sahne.",
     "gender": "die"
   },
   {
     "word": "die Saison",
     "translation": "season",
-    "example": "Urlaub in den Schulferien ist immer teurer. Das ist die Saison mit den hÃÂÃÂ¶chsten Preisen.",
+    "example": "Urlaub in den Schulferien ist immer teurer. Das ist die Saison mit den höchsten Preisen.",
     "gender": "die"
   },
   {
     "word": "der Salat",
     "translation": "salad",
-    "example": "MÃÂÃÂ¶chten Sie zum Fisch einen Salat?",
+    "example": "Möchten Sie zum Fisch einen Salat?",
     "gender": "der"
   },
   {
@@ -6390,9 +6390,9 @@
     "gender": "der"
   },
   {
-    "word": "der SÃÂÃÂ¤nger",
+    "word": "der Sänger",
     "translation": "singer",
-    "example": "Wie findest du diesen SÃÂÃÂ¤nger? ? Ich finde seine Stimme toll.",
+    "example": "Wie findest du diesen Sänger? ? Ich finde seine Stimme toll.",
     "gender": "der"
   },
   {
@@ -6404,7 +6404,7 @@
   {
     "word": "die Schachtel",
     "translation": "box, package",
-    "example": "Ich hÃÂÃÂ¤tte gern eine Schachtel Zigaretten.",
+    "example": "Ich hätte gern eine Schachtel Zigaretten.",
     "gender": "die"
   },
   {
@@ -6416,7 +6416,7 @@
   {
     "word": "der Schalter",
     "translation": "switch, counter",
-    "example": "Der Lichtschalter ist rechts neben der TÃÂÃÂ¼r.",
+    "example": "Der Lichtschalter ist rechts neben der Tür.",
     "gender": "der"
   },
   {
@@ -6440,7 +6440,7 @@
   {
     "word": "die Scheibe",
     "translation": "slice, pane",
-    "example": "FÃÂÃÂ¼nf Scheiben KÃÂÃÂ¤se, bitte.",
+    "example": "Fünf Scheiben Käse, bitte.",
     "gender": "die"
   },
   {
@@ -6476,7 +6476,7 @@
   {
     "word": "der Schinken",
     "translation": "ham",
-    "example": "Bitte, ein BrÃÂÃÂ¶tchen mit Schinken.",
+    "example": "Bitte, ein Brötchen mit Schinken.",
     "gender": "der"
   },
   {
@@ -6500,19 +6500,19 @@
   {
     "word": "das Schloss",
     "translation": "lock, castle",
-    "example": "An unserer WohnungstÃÂÃÂ¼r ist das Schloss kaputt.",
+    "example": "An unserer Wohnungstür ist das Schloss kaputt.",
     "gender": "das"
   },
   {
     "word": "der Schluss (Sg.)",
     "translation": "end, conclusion",
-    "example": "Ich muss jetzt Schluss machen. Es klingelt an der TÃÂÃÂ¼r.",
+    "example": "Ich muss jetzt Schluss machen. Es klingelt an der Tür.",
     "gender": "der"
   },
   {
-    "word": "der SchlÃÂÃÂ¼ssel",
+    "word": "der Schlüssel",
     "translation": "key",
-    "example": "Ich kann meine SchlÃÂÃÂ¼ssel nicht finden.",
+    "example": "Ich kann meine Schlüssel nicht finden.",
     "gender": "der"
   },
   {
@@ -6530,7 +6530,7 @@
   {
     "word": "der Schmuck",
     "translation": "jewelry",
-    "example": "Dieser Schmuck ist von meiner GroÃÂÃÂmutter.",
+    "example": "Dieser Schmuck ist von meiner Großmutter.",
     "gender": "der"
   },
   {
@@ -6566,19 +6566,19 @@
   {
     "word": "der Schrank",
     "translation": "cupboard, cabinet",
-    "example": "Die HandtÃÂÃÂ¼cher liegen im Schrank.",
+    "example": "Die Handtücher liegen im Schrank.",
     "gender": "der"
   },
   {
     "word": "der Schreck(en)",
     "translation": "fright",
-    "example": "Ich habe einen groÃÂÃÂen Schreck bekommen.",
+    "example": "Ich habe einen großen Schreck bekommen.",
     "gender": "der"
   },
   {
     "word": "das Schreiben",
     "translation": "letter",
-    "example": "Haben Sie mein Schreiben vom 3. MÃÂÃÂ¤rz erhalten?",
+    "example": "Haben Sie mein Schreiben vom 3. März erhalten?",
     "gender": "das"
   },
   {
@@ -6590,7 +6590,7 @@
   {
     "word": "der Schriftsteller",
     "translation": "writer, author",
-    "example": "Kennst du diese Schriftstellerin? Ich liebe ihre BÃÂÃÂ¼cher.",
+    "example": "Kennst du diese Schriftstellerin? Ich liebe ihre Bücher.",
     "gender": "der"
   },
   {
@@ -6630,9 +6630,9 @@
     "gender": "die"
   },
   {
-    "word": "der SchÃÂÃÂ¼ler",
+    "word": "der Schüler",
     "translation": "pupil, student",
-    "example": "In der Klasse sind 25 SchÃÂÃÂ¼lerinnen.",
+    "example": "In der Klasse sind 25 Schülerinnen.",
     "gender": "der"
   },
   {
@@ -6642,15 +6642,15 @@
     "gender": "die"
   },
   {
-    "word": "die SchÃÂÃÂ¼ssel",
+    "word": "die Schüssel",
     "translation": "bowl",
-    "example": "Gibst du mir bitte eine SchÃÂÃÂ¼ssel fÃÂÃÂ¼r den Salat?",
+    "example": "Gibst du mir bitte eine Schüssel für den Salat?",
     "gender": "die"
   },
   {
     "word": "der Schutz (Sg.)",
     "translation": "protection",
-    "example": "Das ist ein guter Schutz gegen KÃÂÃÂ¤lte.",
+    "example": "Das ist ein guter Schutz gegen Kälte.",
     "gender": "der"
   },
   {
@@ -6662,19 +6662,19 @@
   {
     "word": "die Schwangerschaft",
     "translation": "pregnancy",
-    "example": "Sie dÃÂÃÂ¼rfen wÃÂÃÂ¤hrend der Schwangerschaft nicht rauchen.",
+    "example": "Sie dürfen während der Schwangerschaft nicht rauchen.",
     "gender": "die"
   },
   {
     "word": "die Schwester",
     "translation": "sister",
-    "example": "Ich habe eine ÃÂÃÂ¤ltere Schwester und einen jÃÂÃÂ¼ngeren Bruder.",
+    "example": "Ich habe eine ältere Schwester und einen jüngeren Bruder.",
     "gender": "die"
   },
   {
     "word": "die Schwierigkeit",
     "translation": "difficulty",
-    "example": "Ich hatte groÃÂÃÂe Schwierigkeiten einen Parkplatz zu bekommen.",
+    "example": "Ich hatte große Schwierigkeiten einen Parkplatz zu bekommen.",
     "gender": "die"
   },
   {
@@ -6702,9 +6702,9 @@
     "gender": "die"
   },
   {
-    "word": "die SehenswÃÂÃÂ¼rdigkeit",
+    "word": "die Sehenswürdigkeit",
     "translation": "place of interest, sight",
-    "example": "Welche SehenswÃÂÃÂ¼rdigkeiten gibt es hier?",
+    "example": "Welche Sehenswürdigkeiten gibt es hier?",
     "gender": "die"
   },
   {
@@ -6716,13 +6716,13 @@
   {
     "word": "die Seite",
     "translation": "side, page",
-    "example": "Das hier ist die GoethestraÃÂÃÂe. Ich wohne auf der linken Seite.",
+    "example": "Das hier ist die Goethestraße. Ich wohne auf der linken Seite.",
     "gender": "die"
   },
   {
-    "word": "der SekretÃÂÃÂ¤r",
+    "word": "der Sekretär",
     "translation": "secretary",
-    "example": "Der neue SekretÃÂÃÂ¤r hat sich gestern vorgestellt.",
+    "example": "Der neue Sekretär hat sich gestern vorgestellt.",
     "gender": "der"
   },
   {
@@ -6734,13 +6734,13 @@
   {
     "word": "das Seminar",
     "translation": "seminar",
-    "example": "Ich mÃÂÃÂ¶chte dieses Seminar unbedingt besuchen.",
+    "example": "Ich möchte dieses Seminar unbedingt besuchen.",
     "gender": "das"
   },
   {
     "word": "die Semmel",
     "translation": "(bread etc.) roll",
-    "example": "Ich hole schnell ein paar Semmeln zum FrÃÂÃÂ¼hstÃÂÃÂ¼ck.",
+    "example": "Ich hole schnell ein paar Semmeln zum Frühstück.",
     "gender": "die"
   },
   {
@@ -6758,7 +6758,7 @@
   {
     "word": "die Senioren (Pl.)",
     "translation": "seniors",
-    "example": "Dieser Computerkurs ist fÃÂÃÂ¼r Senioren.",
+    "example": "Dieser Computerkurs ist für Senioren.",
     "gender": "die"
   },
   {
@@ -6782,7 +6782,7 @@
   {
     "word": "der Sessel",
     "translation": "armchair",
-    "example": "Ich hÃÂÃÂ¤tte gern einen bequemen Sessel.",
+    "example": "Ich hätte gern einen bequemen Sessel.",
     "gender": "der"
   },
   {
@@ -6794,25 +6794,25 @@
   {
     "word": "die Sicherheit",
     "translation": "safety, security",
-    "example": "Sicherheit ist fÃÂÃÂ¼r mich sehr wichtig.",
+    "example": "Sicherheit ist für mich sehr wichtig.",
     "gender": "die"
   },
   {
     "word": "der Sieg",
     "translation": "victory",
-    "example": "Unsere Mannschaft hat gewonnen. Wir freuen uns ÃÂÃÂ¼ber den Sieg.",
+    "example": "Unsere Mannschaft hat gewonnen. Wir freuen uns über den Sieg.",
     "gender": "der"
   },
   {
     "word": "der Sieger",
     "translation": "winner",
-    "example": "Wer hat gewonnen? Wie heiÃÂÃÂt die Siegerin?",
+    "example": "Wer hat gewonnen? Wie heißt die Siegerin?",
     "gender": "der"
   },
   {
     "word": "der Sinn",
     "translation": "sense, meaning, purpose",
-    "example": "Es hat keinen Sinn, noch ein Spiel zu beginnen. Es ist schon spÃÂÃÂ¤t.",
+    "example": "Es hat keinen Sinn, noch ein Spiel zu beginnen. Es ist schon spät.",
     "gender": "der"
   },
   {
@@ -6824,7 +6824,7 @@
   {
     "word": "der Sitz",
     "translation": "seat",
-    "example": "Ich suche fÃÂÃÂ¼r meinen Sohn einen Sitz fÃÂÃÂ¼rs Auto. Erst ist erst drei Jahre alt.",
+    "example": "Ich suche für meinen Sohn einen Sitz fürs Auto. Erst ist erst drei Jahre alt.",
     "gender": "der"
   },
   {
@@ -6842,13 +6842,13 @@
   {
     "word": "das Sofa",
     "translation": "sofa",
-    "example": "Wir hÃÂÃÂ¤tten gern ein modernes Sofa.",
+    "example": "Wir hätten gern ein modernes Sofa.",
     "gender": "das"
   },
   {
     "word": "der Sohn",
     "translation": "son",
-    "example": "Mein jÃÂÃÂ¼ngster Sohn ist vier.",
+    "example": "Mein jüngster Sohn ist vier.",
     "gender": "der"
   },
   {
@@ -6860,7 +6860,7 @@
   {
     "word": "die Sonne",
     "translation": "sun",
-    "example": "Das Wetter ist schÃÂÃÂ¶n. Die Sonne scheint.",
+    "example": "Das Wetter ist schön. Die Sonne scheint.",
     "gender": "die"
   },
   {
@@ -6870,9 +6870,9 @@
     "gender": "die"
   },
   {
-    "word": "die SoÃÂÃÂe/Sauce",
+    "word": "die Soße/Sauce",
     "translation": "sauce",
-    "example": "Gibst du mir bitte mal die SoÃÂÃÂe?",
+    "example": "Gibst du mir bitte mal die Soße?",
     "gender": "die"
   },
   {
@@ -6888,9 +6888,9 @@
     "gender": "der"
   },
   {
-    "word": "der SpaÃÂÃÂ (Sg.)",
+    "word": "der Spaß (Sg.)",
     "translation": "fun",
-    "example": "Meine Arbeit macht mir viel SpaÃÂÃÂ.",
+    "example": "Meine Arbeit macht mir viel Spaß.",
     "gender": "der"
   },
   {
@@ -6920,7 +6920,7 @@
   {
     "word": "der Spiegel",
     "translation": "mirror",
-    "example": "Ich mÃÂÃÂ¶chte gerne sehen, wie mein Kleid sitzt. Hast du einen Spiegel?",
+    "example": "Ich möchte gerne sehen, wie mein Kleid sitzt. Hast du einen Spiegel?",
     "gender": "der"
   },
   {
@@ -6932,7 +6932,7 @@
   {
     "word": "der Spieler",
     "translation": "player",
-    "example": "FÃÂÃÂ¼r dieses Spiel braucht man zwei bis vier Spieler.",
+    "example": "Für dieses Spiel braucht man zwei bis vier Spieler.",
     "gender": "der"
   },
   {
@@ -6944,13 +6944,13 @@
   {
     "word": "das Spielzeug",
     "translation": "toy",
-    "example": "Zu Weihnachten wÃÂÃÂ¼nschen sich die Kinder vor allem Spielzeug.",
+    "example": "Zu Weihnachten wünschen sich die Kinder vor allem Spielzeug.",
     "gender": "das"
   },
   {
     "word": "der Sport",
     "translation": "sport",
-    "example": "FÃÂÃÂ¼r Sport interessiere ich mich sehr.",
+    "example": "Für Sport interessiere ich mich sehr.",
     "gender": "der"
   },
   {
@@ -7010,7 +7010,7 @@
   {
     "word": "das Stadion",
     "translation": "stadium",
-    "example": "Ich mÃÂÃÂ¶chte am Samstag ins Stadion gehen. Da spielt meine Mannschaft.",
+    "example": "Ich möchte am Samstag ins Stadion gehen. Da spielt meine Mannschaft.",
     "gender": "das"
   },
   {
@@ -7034,19 +7034,19 @@
   {
     "word": "der Star",
     "translation": "star",
-    "example": "Diese SÃÂÃÂ¤ngerin ist ein groÃÂÃÂer Star in Deutschland.",
+    "example": "Diese Sängerin ist ein großer Star in Deutschland.",
     "gender": "der"
   },
   {
     "word": "der Start",
     "translation": "start",
-    "example": "Bleiben Sie bitte wÃÂÃÂ¤hrend des Starts sitzen.",
+    "example": "Bleiben Sie bitte während des Starts sitzen.",
     "gender": "der"
   },
   {
     "word": "die Station",
     "translation": "station",
-    "example": "Sie mÃÂÃÂ¼ssen an der nÃÂÃÂ¤chsten Station aussteigen.",
+    "example": "Sie müssen an der nächsten Station aussteigen.",
     "gender": "die"
   },
   {
@@ -7064,7 +7064,7 @@
   {
     "word": "der Staub",
     "translation": "dust",
-    "example": "Ich habe ÃÂÃÂ¼berall Staub gewischt.",
+    "example": "Ich habe überall Staub gewischt.",
     "gender": "der"
   },
   {
@@ -7094,7 +7094,7 @@
   {
     "word": "der Stempel",
     "translation": "stamp, mark",
-    "example": "Der Poststempel trÃÂÃÂ¤gt das Datum von letzter Woche. Das Paket war lange unterwegs.",
+    "example": "Der Poststempel trägt das Datum von letzter Woche. Das Paket war lange unterwegs.",
     "gender": "der"
   },
   {
@@ -7106,7 +7106,7 @@
   {
     "word": "die Steuer",
     "translation": "tax",
-    "example": "Wir mÃÂÃÂ¼ssen immer mehr Steuern zahlen.",
+    "example": "Wir müssen immer mehr Steuern zahlen.",
     "gender": "die"
   },
   {
@@ -7130,7 +7130,7 @@
   {
     "word": "der Stiefel",
     "translation": "boot",
-    "example": "Ich habe mir fÃÂÃÂ¼r den Winter ein Paar warme Stiefel gekauft.",
+    "example": "Ich habe mir für den Winter ein Paar warme Stiefel gekauft.",
     "gender": "der"
   },
   {
@@ -7160,25 +7160,25 @@
   {
     "word": "der Stock",
     "translation": "floor",
-    "example": "Das BÃÂÃÂ¼ro ist im 3. Stock, Zimmer 305.",
+    "example": "Das Büro ist im 3. Stock, Zimmer 305.",
     "gender": "der"
   },
   {
     "word": "das Stockwerk",
     "translation": "floor",
-    "example": "Das GebÃÂÃÂ¤ude hat zwanzig Stockwerke.",
+    "example": "Das Gebäude hat zwanzig Stockwerke.",
     "gender": "das"
   },
   {
     "word": "der Stoff",
     "translation": "fabric, substance",
-    "example": "Was fÃÂÃÂ¼r ein Stoff ist das? ÃÂ¢ÃÂÃÂ Wolle.",
+    "example": "Was für ein Stoff ist das? ÃÂ¢ÃÂÃÂ Wolle.",
     "gender": "der"
   },
   {
-    "word": "die StÃÂÃÂ¶rung",
+    "word": "die Störung",
     "translation": "disturbance, malfunction",
-    "example": "Entschuldigen Sie bitte die StÃÂÃÂ¶rung.",
+    "example": "Entschuldigen Sie bitte die Störung.",
     "gender": "die"
   },
   {
@@ -7200,39 +7200,39 @@
     "gender": "der"
   },
   {
-    "word": "die StraÃÂÃÂe",
+    "word": "die Straße",
     "translation": "street",
-    "example": "Wir wohnen in einer sehr kleinen StraÃÂÃÂe.",
+    "example": "Wir wohnen in einer sehr kleinen Straße.",
     "gender": "die"
   },
   {
-    "word": "die StraÃÂÃÂenbahn",
+    "word": "die Straßenbahn",
     "translation": "tram",
-    "example": "Fahren wir mit der StraÃÂÃÂenbahn oder der U-Bahn?",
+    "example": "Fahren wir mit der Straßenbahn oder der U-Bahn?",
     "gender": "die"
   },
   {
     "word": "die Strecke",
     "translation": "route, distance, stretch",
-    "example": "Sind Sie die ganze Strecke zu FuÃÂÃÂ gegangen?",
+    "example": "Sind Sie die ganze Strecke zu Fuß gegangen?",
     "gender": "die"
   },
   {
     "word": "das Streichholz",
     "translation": "match",
-    "example": "Ich hÃÂÃÂ¤tte gern eine Schachtel StreichhÃÂÃÂ¶lzer.",
+    "example": "Ich hätte gern eine Schachtel Streichhölzer.",
     "gender": "das"
   },
   {
     "word": "der Streik",
     "translation": "strike",
-    "example": "Es gab einen Streik am Flughafen. Deshalb hatte unsere Maschine VerspÃÂÃÂ¤tung.",
+    "example": "Es gab einen Streik am Flughafen. Deshalb hatte unsere Maschine Verspätung.",
     "gender": "der"
   },
   {
     "word": "der Streit",
     "translation": "dispute, argument",
-    "example": "Ich mÃÂÃÂ¶chte keinen Streit mit den Nachbarn.",
+    "example": "Ich möchte keinen Streit mit den Nachbarn.",
     "gender": "der"
   },
   {
@@ -7250,25 +7250,25 @@
   {
     "word": "der Strumpf",
     "translation": "stocking",
-    "example": "Wo sind meine roten StrÃÂÃÂ¼mpfe?",
+    "example": "Wo sind meine roten Strümpfe?",
     "gender": "der"
   },
   {
-    "word": "das StÃÂÃÂ¼ck/-stÃÂÃÂ¼ck",
+    "word": "das Stück/-stück",
     "translation": "piece, play",
-    "example": "Ich nehme zwei StÃÂÃÂ¼ck Zucker in den Kaffee.",
+    "example": "Ich nehme zwei Stück Zucker in den Kaffee.",
     "gender": "das"
   },
   {
     "word": "die Studie",
     "translation": "study",
-    "example": "Wir fÃÂÃÂ¼hren eine Studie ÃÂÃÂ¼ber Arbeitslosigkeit durch.",
+    "example": "Wir führen eine Studie über Arbeitslosigkeit durch.",
     "gender": "die"
   },
   {
     "word": "der Student",
     "translation": "student",
-    "example": "SchÃÂÃÂ¼ler und Studenten zahlen die HÃÂÃÂ¤lfte.",
+    "example": "Schüler und Studenten zahlen die Hälfte.",
     "gender": "der"
   },
   {
@@ -7280,7 +7280,7 @@
   {
     "word": "das Studium",
     "translation": "study",
-    "example": "Sie brauchen fÃÂÃÂ¼r diese Stelle ein abgeschlossenes Studium.",
+    "example": "Sie brauchen für diese Stelle ein abgeschlossenes Studium.",
     "gender": "das"
   },
   {
@@ -7304,7 +7304,7 @@
   {
     "word": "die Stunde",
     "translation": "hour",
-    "example": "Ich bin in einer Stunde wieder zurÃÂÃÂ¼ck.",
+    "example": "Ich bin in einer Stunde wieder zurück.",
     "gender": "die"
   },
   {
@@ -7346,7 +7346,7 @@
   {
     "word": "das Symbol",
     "translation": "symbol, icon",
-    "example": "Das Herz ist ein Symbol fÃÂÃÂ¼r die Liebe.",
+    "example": "Das Herz ist ein Symbol für die Liebe.",
     "gender": "das"
   },
   {
@@ -7370,7 +7370,7 @@
   {
     "word": "die Tablette",
     "translation": "tablet, pill",
-    "example": "Nehmen Sie dreimal tÃÂÃÂ¤glich eine Tablette.",
+    "example": "Nehmen Sie dreimal täglich eine Tablette.",
     "gender": "die"
   },
   {
@@ -7394,31 +7394,31 @@
   {
     "word": "das Talent",
     "translation": "talent",
-    "example": "Sie hat groÃÂÃÂes Talent fÃÂÃÂ¼r Musik.",
+    "example": "Sie hat großes Talent für Musik.",
     "gender": "das"
   },
   {
     "word": "die Tankstelle",
     "translation": "gas station",
-    "example": "Wo ist die nÃÂÃÂ¤chste Tankstelle?",
+    "example": "Wo ist die nächste Tankstelle?",
     "gender": "die"
   },
   {
     "word": "die Tante",
     "translation": "aunt",
-    "example": "Die Familie meiner Mutter ist sehr groÃÂÃÂ, daher habe ich viele Tanten.",
+    "example": "Die Familie meiner Mutter ist sehr groß, daher habe ich viele Tanten.",
     "gender": "die"
   },
   {
     "word": "der Tanz",
     "translation": "dance",
-    "example": "Diese modernen TÃÂÃÂ¤nze kann ich nicht.",
+    "example": "Diese modernen Tänze kann ich nicht.",
     "gender": "der"
   },
   {
     "word": "die Tasche",
     "translation": "bag",
-    "example": "Ich habe nicht viel GepÃÂÃÂ¤ck, nur eine Tasche.",
+    "example": "Ich habe nicht viel Gepäck, nur eine Tasche.",
     "gender": "die"
   },
   {
@@ -7430,13 +7430,13 @@
   {
     "word": "das Taschentuch",
     "translation": "handkerchief",
-    "example": "Hast du ein Taschentuch fÃÂÃÂ¼r mich?",
+    "example": "Hast du ein Taschentuch für mich?",
     "gender": "das"
   },
   {
     "word": "die Tasse",
     "translation": "cup",
-    "example": "Die Tassen sind von meiner GroÃÂÃÂmutter.",
+    "example": "Die Tassen sind von meiner Großmutter.",
     "gender": "die"
   },
   {
@@ -7458,15 +7458,15 @@
     "gender": "die"
   },
   {
-    "word": "der TÃÂÃÂ¤ter",
+    "word": "der Täter",
     "translation": "perpetrator, criminal",
-    "example": "Die Polizei hat den TÃÂÃÂ¤ter endlich gefasst.",
+    "example": "Die Polizei hat den Täter endlich gefasst.",
     "gender": "der"
   },
   {
-    "word": "die TÃÂÃÂ¤tigkeit",
+    "word": "die Tätigkeit",
     "translation": "activity",
-    "example": "Welche TÃÂÃÂ¤tigkeit wÃÂÃÂ¼rde Ihnen SpaÃÂÃÂ machen?",
+    "example": "Welche Tätigkeit würde Ihnen Spaß machen?",
     "gender": "die"
   },
   {
@@ -7484,7 +7484,7 @@
   {
     "word": "die Technologie",
     "translation": "technology",
-    "example": "GroÃÂÃÂe Fortschritte gab es in der Technologie.",
+    "example": "Große Fortschritte gab es in der Technologie.",
     "gender": "die"
   },
   {
@@ -7514,7 +7514,7 @@
   {
     "word": "der Teilnehmer",
     "translation": "participant",
-    "example": "Die Teilnehmerinnen aus unserem Kurs kommen aus verschiedenen LÃÂÃÂ¤ndern.",
+    "example": "Die Teilnehmerinnen aus unserem Kurs kommen aus verschiedenen Ländern.",
     "gender": "der"
   },
   {
@@ -7586,13 +7586,13 @@
   {
     "word": "das Theater",
     "translation": "theater",
-    "example": "Wir gehen nÃÂÃÂ¤chste Woche ins Theater.",
+    "example": "Wir gehen nächste Woche ins Theater.",
     "gender": "das"
   },
   {
     "word": "das Thema",
     "translation": "topic",
-    "example": "Wir haben im Kurs viel ÃÂÃÂ¼ber das Thema Umwelt gesprochen.",
+    "example": "Wir haben im Kurs viel über das Thema Umwelt gesprochen.",
     "gender": "das"
   },
   {
@@ -7610,7 +7610,7 @@
   {
     "word": "das Ticket",
     "translation": "ticket",
-    "example": "Wir mÃÂÃÂ¼ssen die Tickets fÃÂÃÂ¼r unseren Flug ausdrucken.",
+    "example": "Wir müssen die Tickets für unseren Flug ausdrucken.",
     "gender": "das"
   },
   {
@@ -7634,7 +7634,7 @@
   {
     "word": "der Tipp",
     "translation": "tip",
-    "example": "Kannst du mir einen Tipp geben? Wo finde ich billige MÃÂÃÂ¶bel?",
+    "example": "Kannst du mir einen Tipp geben? Wo finde ich billige Möbel?",
     "gender": "der"
   },
   {
@@ -7646,13 +7646,13 @@
   {
     "word": "die Tischlerin",
     "translation": "carpenter (female)",
-    "example": "Die Tischlerin hat einen schÃÂÃÂ¶nen Tisch gebaut.",
+    "example": "Die Tischlerin hat einen schönen Tisch gebaut.",
     "gender": "die"
   },
   {
     "word": "der Titel",
     "translation": "title",
-    "example": "Wie heiÃÂÃÂt der Film? ÃÂ¢ÃÂÃÂ Ich weiÃÂÃÂ den Titel nicht mehr.",
+    "example": "Wie heißt der Film? ÃÂ¢ÃÂÃÂ Ich weiß den Titel nicht mehr.",
     "gender": "der"
   },
   {
@@ -7688,7 +7688,7 @@
   {
     "word": "der Topf",
     "translation": "pot",
-    "example": "Dieses Jahr haben wir keine TÃÂÃÂ¶pfe mit Blumen auf dem Balkon.",
+    "example": "Dieses Jahr haben wir keine Töpfe mit Blumen auf dem Balkon.",
     "gender": "der"
   },
   {
@@ -7724,7 +7724,7 @@
   {
     "word": "die Tradition",
     "translation": "tradition",
-    "example": "Eine groÃÂÃÂe Hochzeit mit vielen Leuten ist bei uns Tradition.",
+    "example": "Eine große Hochzeit mit vielen Leuten ist bei uns Tradition.",
     "gender": "die"
   },
   {
@@ -7746,9 +7746,9 @@
     "gender": "das"
   },
   {
-    "word": "die TrÃÂÃÂ¤ne",
+    "word": "die Träne",
     "translation": "tear",
-    "example": "Sie trocknet dem Kind die TrÃÂÃÂ¤nen. Wie willst du die MÃÂÃÂ¶bel denn transportieren?",
+    "example": "Sie trocknet dem Kind die Tränen. Wie willst du die Möbel denn transportieren?",
     "gender": "die"
   },
   {
@@ -7760,7 +7760,7 @@
   {
     "word": "der Traum",
     "translation": "dream",
-    "example": "Mein Traum ist ein eigenes GeschÃÂÃÂ¤ft.",
+    "example": "Mein Traum ist ein eigenes Geschäft.",
     "gender": "der"
   },
   {
@@ -7808,13 +7808,13 @@
   {
     "word": "das Tuch",
     "translation": "cloth, scarf",
-    "example": "Wo hast du dieses schÃÂÃÂ¶ne Tuch gekauft?",
+    "example": "Wo hast du dieses schöne Tuch gekauft?",
     "gender": "das"
   },
   {
-    "word": "die TÃÂÃÂ¼r",
+    "word": "die Tür",
     "translation": "door",
-    "example": "Machen Sie bitte die TÃÂÃÂ¼r zu! Es zieht.",
+    "example": "Machen Sie bitte die Tür zu! Es zieht.",
     "gender": "die"
   },
   {
@@ -7824,9 +7824,9 @@
     "gender": "der"
   },
   {
-    "word": "die TÃÂÃÂ¼te",
+    "word": "die Tüte",
     "translation": "bag",
-    "example": "Brauchen Sie eine TÃÂÃÂ¼te fÃÂÃÂ¼r den Salat?",
+    "example": "Brauchen Sie eine Tüte für den Salat?",
     "gender": "die"
   },
   {
@@ -7850,13 +7850,13 @@
   {
     "word": "die ÃÂÃÂbernachtung",
     "translation": "overnight stay",
-    "example": "In diesem Hotel kostet die ÃÂÃÂbernachtung mit FrÃÂÃÂ¼hstÃÂÃÂ¼ck 90 Euro.",
+    "example": "In diesem Hotel kostet die ÃÂÃÂbernachtung mit Frühstück 90 Euro.",
     "gender": "die"
   },
   {
     "word": "die ÃÂÃÂberraschung",
     "translation": "surprise",
-    "example": "Ich habe eine ÃÂÃÂberraschung fÃÂÃÂ¼r dich.",
+    "example": "Ich habe eine ÃÂÃÂberraschung für dich.",
     "gender": "die"
   },
   {
@@ -7868,7 +7868,7 @@
   {
     "word": "der ÃÂÃÂbersetzer",
     "translation": "translator",
-    "example": "Meine Tochter mÃÂÃÂ¶chte als ÃÂÃÂbersetzerin arbeiten.",
+    "example": "Meine Tochter möchte als ÃÂÃÂbersetzerin arbeiten.",
     "gender": "der"
   },
   {
@@ -7886,13 +7886,13 @@
   {
     "word": "die ÃÂÃÂberweisung",
     "translation": "transfer, referral",
-    "example": "Sie kÃÂÃÂ¶nnen bar oder per ÃÂÃÂberweisung bezahlen.",
+    "example": "Sie können bar oder per ÃÂÃÂberweisung bezahlen.",
     "gender": "die"
   },
   {
     "word": "das Ufer",
     "translation": "shore",
-    "example": "Er schwimmt ans Ufer zurÃÂÃÂ¼ck.",
+    "example": "Er schwimmt ans Ufer zurück.",
     "gender": "das"
   },
   {
@@ -7910,7 +7910,7 @@
   {
     "word": "die Umgebung",
     "translation": "surrounding",
-    "example": "In der Umgebung von Berlin kann man schÃÂÃÂ¶ne AusflÃÂÃÂ¼ge machen.",
+    "example": "In der Umgebung von Berlin kann man schöne Ausflüge machen.",
     "gender": "die"
   },
   {
@@ -7922,19 +7922,19 @@
   {
     "word": "der Umtausch",
     "translation": "exchange",
-    "example": "Ein Umtausch ist leider nicht mÃÂÃÂ¶glich.",
+    "example": "Ein Umtausch ist leider nicht möglich.",
     "gender": "der"
   },
   {
     "word": "die Umwelt (Sg.)",
     "translation": "environment",
-    "example": "Alte Autos sind ein Problem fÃÂÃÂ¼r die Umwelt.",
+    "example": "Alte Autos sind ein Problem für die Umwelt.",
     "gender": "die"
   },
   {
     "word": "der Umweltschutz (Sg.)",
     "translation": "environmental protection",
-    "example": "Das Land muss mehr Geld fÃÂÃÂ¼r Umweltschutz ausgeben.",
+    "example": "Das Land muss mehr Geld für Umweltschutz ausgeben.",
     "gender": "der"
   },
   {
@@ -7946,7 +7946,7 @@
   {
     "word": "der Umzug",
     "translation": "move, relocation",
-    "example": "Der Umzug ist nÃÂÃÂ¤chste Woche.",
+    "example": "Der Umzug ist nächste Woche.",
     "gender": "der"
   },
   {
@@ -7956,33 +7956,33 @@
     "gender": "der"
   },
   {
-    "word": "das UnglÃÂÃÂ¼ck",
+    "word": "das Unglück",
     "translation": "misfortune, accident",
-    "example": "Bei dem UnglÃÂÃÂ¼ck gab es viele Verletzte.",
+    "example": "Bei dem Unglück gab es viele Verletzte.",
     "gender": "das"
   },
   {
     "word": "die Uniform",
     "translation": "uniform",
-    "example": "In der Schule, die sie besucht, trÃÂÃÂ¤gt man Uniformen.",
+    "example": "In der Schule, die sie besucht, trägt man Uniformen.",
     "gender": "die"
   },
   {
-    "word": "die UniversitÃÂÃÂ¤t",
+    "word": "die Universität",
     "translation": "university",
-    "example": "Mein Sohn studiert an der UniversitÃÂÃÂ¤t.",
+    "example": "Mein Sohn studiert an der Universität.",
     "gender": "die"
   },
   {
     "word": "die Unterhaltung",
     "translation": "entertainment",
-    "example": "Wir wÃÂÃÂ¼nschen Ihnen gute Unterhaltung.",
+    "example": "Wir wünschen Ihnen gute Unterhaltung.",
     "gender": "die"
   },
   {
     "word": "die Unterkunft",
     "translation": "accommodation",
-    "example": "Ich komme drei Tage nach Hamburg und suche eine gÃÂÃÂ¼nstige Unterkunft.",
+    "example": "Ich komme drei Tage nach Hamburg und suche eine günstige Unterkunft.",
     "gender": "die"
   },
   {
@@ -8006,7 +8006,7 @@
   {
     "word": "der Unterschied",
     "translation": "difference",
-    "example": "KÃÂÃÂ¶nnen Sie mir sagen, was der Unterschied ist? Welche Fahrkarte ist gÃÂÃÂ¼nstiger?",
+    "example": "Können Sie mir sagen, was der Unterschied ist? Welche Fahrkarte ist günstiger?",
     "gender": "der"
   },
   {
@@ -8016,9 +8016,9 @@
     "gender": "die"
   },
   {
-    "word": "die UnterstÃÂÃÂ¼tzung",
+    "word": "die Unterstützung",
     "translation": "support",
-    "example": "Ich nehme Ihre UnterstÃÂÃÂ¼tzung gern an.",
+    "example": "Ich nehme Ihre Unterstützung gern an.",
     "gender": "die"
   },
   {
@@ -8048,13 +8048,13 @@
   {
     "word": "das Urteil",
     "translation": "judgement, sentence",
-    "example": "Dein Urteil ist fÃÂÃÂ¼r mich sehr wichtig.",
+    "example": "Dein Urteil ist für mich sehr wichtig.",
     "gender": "das"
   },
   {
     "word": "die Vase",
     "translation": "vase",
-    "example": "Hast du eine Vase fÃÂÃÂ¼r die Blumen?",
+    "example": "Hast du eine Vase für die Blumen?",
     "gender": "die"
   },
   {
@@ -8066,7 +8066,7 @@
   {
     "word": "das Velo",
     "translation": "bike",
-    "example": "Sie fÃÂÃÂ¤hrt jeden Morgen mit dem Velo zur Arbeit.",
+    "example": "Sie fährt jeden Morgen mit dem Velo zur Arbeit.",
     "gender": "das"
   },
   {
@@ -8090,13 +8090,13 @@
   {
     "word": "die Verantwortung",
     "translation": "responsibility",
-    "example": "Sie tragen die Verantwortung fÃÂÃÂ¼r Ihre Kinder.",
+    "example": "Sie tragen die Verantwortung für Ihre Kinder.",
     "gender": "die"
   },
   {
     "word": "das Verbot",
     "translation": "prohibition, ban",
-    "example": "Ich bin fÃÂÃÂ¼r das Verbot dieses neuen Videospiels.",
+    "example": "Ich bin für das Verbot dieses neuen Videospiels.",
     "gender": "das"
   },
   {
@@ -8114,7 +8114,7 @@
   {
     "word": "der Verdacht",
     "translation": "suspicion",
-    "example": "Wer hat das Geld aus der Kasse genommen? ÃÂ¢ÃÂÃÂ Ich weiÃÂÃÂ es nicht, aber ich habe einen Verdacht.",
+    "example": "Wer hat das Geld aus der Kasse genommen? ÃÂ¢ÃÂÃÂ Ich weiß es nicht, aber ich habe einen Verdacht.",
     "gender": "der"
   },
   {
@@ -8132,13 +8132,13 @@
   {
     "word": "der Vergleich",
     "translation": "comparison",
-    "example": "Ein Vergleich ist schwer mÃÂÃÂ¶glich.",
+    "example": "Ein Vergleich ist schwer möglich.",
     "gender": "der"
   },
   {
-    "word": "das VergnÃÂÃÂ¼gen",
+    "word": "das Vergnügen",
     "translation": "pleasure",
-    "example": "Es ist ein VergnÃÂÃÂ¼gen, den Kindern beim Spielen zuzusehen.",
+    "example": "Es ist ein Vergnügen, den Kindern beim Spielen zuzusehen.",
     "gender": "das"
   },
   {
@@ -8148,15 +8148,15 @@
     "gender": "das"
   },
   {
-    "word": "das VerhÃÂÃÂ¤ltnis",
+    "word": "das Verhältnis",
     "translation": "relationship, ratio",
-    "example": "Ich habe ein gutes VerhÃÂÃÂ¤ltnis zu meinen Eltern.",
+    "example": "Ich habe ein gutes Verhältnis zu meinen Eltern.",
     "gender": "das"
   },
   {
-    "word": "der VerkÃÂÃÂ¤ufer",
+    "word": "der Verkäufer",
     "translation": "salesman, saleswoman",
-    "example": "Die VerkÃÂÃÂ¤uferin wird Ihnen gleich helfen.",
+    "example": "Die Verkäuferin wird Ihnen gleich helfen.",
     "gender": "der"
   },
   {
@@ -8168,7 +8168,7 @@
   {
     "word": "das Verkehrsmittel",
     "translation": "means of transportation",
-    "example": "Es gibt kaum ParkplÃÂÃÂ¤tze. Sie sollten mit ÃÂÃÂ¶ffentlichen Verkehrsmitteln fahren.",
+    "example": "Es gibt kaum Parkplätze. Sie sollten mit öffentlichen Verkehrsmitteln fahren.",
     "gender": "das"
   },
   {
@@ -8192,13 +8192,13 @@
   {
     "word": "der Verlust",
     "translation": "loss",
-    "example": "Der Verlust meiner Uhr ÃÂÃÂ¤rgert mich sehr.",
+    "example": "Der Verlust meiner Uhr ärgert mich sehr.",
     "gender": "der"
   },
   {
     "word": "der Vermieter",
     "translation": "landlord, landlady",
-    "example": "Unsere Vermieterin ist eine sehr nette, ÃÂÃÂ¤ltere Frau.",
+    "example": "Unsere Vermieterin ist eine sehr nette, ältere Frau.",
     "gender": "der"
   },
   {
@@ -8228,19 +8228,19 @@
   {
     "word": "die Versicherung",
     "translation": "insurance",
-    "example": "Sie sollten eine Versicherung fÃÂÃÂ¼r Ihr GepÃÂÃÂ¤ck abschlieÃÂÃÂen.",
+    "example": "Sie sollten eine Versicherung für Ihr Gepäck abschließen.",
     "gender": "die"
   },
   {
-    "word": "die VerspÃÂÃÂ¤tung",
+    "word": "die Verspätung",
     "translation": "delay",
-    "example": "Unser Zug hatte 10 Minuten VerspÃÂÃÂ¤tung.",
+    "example": "Unser Zug hatte 10 Minuten Verspätung.",
     "gender": "die"
   },
   {
-    "word": "das VerstÃÂÃÂ¤ndnis (Sg.)",
+    "word": "das Verständnis (Sg.)",
     "translation": "understanding",
-    "example": "Wir bitten um Ihr VerstÃÂÃÂ¤ndnis.",
+    "example": "Wir bitten um Ihr Verständnis.",
     "gender": "das"
   },
   {
@@ -8252,7 +8252,7 @@
   {
     "word": "der Vertrag",
     "translation": "contract",
-    "example": "Sie beide mÃÂÃÂ¼ssen den Vertrag unterschreiben.",
+    "example": "Sie beide müssen den Vertrag unterschreiben.",
     "gender": "der"
   },
   {
@@ -8264,19 +8264,19 @@
   {
     "word": "der Vertreter",
     "translation": "representative",
-    "example": "Als Herr Dr. MÃÂÃÂ¼ller in Urlaub war, bin ich zu seiner Vertreterin gegangen.",
+    "example": "Als Herr Dr. Müller in Urlaub war, bin ich zu seiner Vertreterin gegangen.",
     "gender": "der"
   },
   {
     "word": "die Vertretung",
     "translation": "representation",
-    "example": "Herr Dr. Meyer macht fÃÂÃÂ¼r mich die Vertretung.",
+    "example": "Herr Dr. Meyer macht für mich die Vertretung.",
     "gender": "die"
   },
   {
     "word": "die Verwaltung",
     "translation": "administration",
-    "example": "Sprechen Sie bitte mit der Verwaltung. Die kÃÂÃÂ¶nnen Ihnen helfen.",
+    "example": "Sprechen Sie bitte mit der Verwaltung. Die können Ihnen helfen.",
     "gender": "die"
   },
   {
@@ -8294,7 +8294,7 @@
   {
     "word": "das Viertel",
     "translation": "quarter, district",
-    "example": "Wir wohnen in einem schÃÂÃÂ¶nen Viertel.",
+    "example": "Wir wohnen in einem schönen Viertel.",
     "gender": "das"
   },
   {
@@ -8312,7 +8312,7 @@
   {
     "word": "das Visum",
     "translation": "visa",
-    "example": "Das Visum ist fÃÂÃÂ¼r drei Monate gÃÂÃÂ¼ltig.",
+    "example": "Das Visum ist für drei Monate gültig.",
     "gender": "das"
   },
   {
@@ -8324,19 +8324,19 @@
   {
     "word": "die Vollzeit",
     "translation": "full-time",
-    "example": "Ich mÃÂÃÂ¶chte gerne Vollzeit arbeiten.",
+    "example": "Ich möchte gerne Vollzeit arbeiten.",
     "gender": "die"
   },
   {
     "word": "die Voraussetzung",
     "translation": "prerequisite, condition",
-    "example": "Gesunde ErnÃÂÃÂ¤hrung ist die Voraussetzung fÃÂÃÂ¼r ein langes Leben.",
+    "example": "Gesunde Ernährung ist die Voraussetzung für ein langes Leben.",
     "gender": "die"
   },
   {
     "word": "die Vorbereitung",
     "translation": "preparation",
-    "example": "NÃÂÃÂ¤chste Woche beginnen wir mit der Vorbereitung fÃÂÃÂ¼r die PrÃÂÃÂ¼fung.",
+    "example": "Nächste Woche beginnen wir mit der Vorbereitung für die Prüfung.",
     "gender": "die"
   },
   {
@@ -8348,7 +8348,7 @@
   {
     "word": "der Vorort",
     "translation": "suburbs, outskirts",
-    "example": "Wir wohnen in einem Vorort von KÃÂÃÂ¶ln.",
+    "example": "Wir wohnen in einem Vorort von Köln.",
     "gender": "der"
   },
   {
@@ -8360,25 +8360,25 @@
   {
     "word": "die Vorschrift",
     "translation": "regulation, rule",
-    "example": "Beachten Sie bitte die Vorschriften fÃÂÃÂ¼r das Benutzen der Bibliothek.",
+    "example": "Beachten Sie bitte die Vorschriften für das Benutzen der Bibliothek.",
     "gender": "die"
   },
   {
     "word": "die Vorsicht (Sg.)",
     "translation": "caution",
-    "example": "Vorsicht! Der Teller ist heiÃÂÃÂ.",
+    "example": "Vorsicht! Der Teller ist heiß.",
     "gender": "die"
   },
   {
     "word": "die Vorstellung",
     "translation": "presentation",
-    "example": "Wann lÃÂÃÂ¤uft der Film? ÃÂ¢ÃÂÃÂ Die nÃÂÃÂ¤chste Vorstellung ist um 15 Uhr.",
+    "example": "Wann läuft der Film? ÃÂ¢ÃÂÃÂ Die nächste Vorstellung ist um 15 Uhr.",
     "gender": "die"
   },
   {
-    "word": "das VorstellungsgesprÃÂÃÂ¤ch",
+    "word": "das Vorstellungsgespräch",
     "translation": "job interview",
-    "example": "Wann hast du dein VorstellungsgesprÃÂÃÂ¤ch?",
+    "example": "Wann hast du dein Vorstellungsgespräch?",
     "gender": "das"
   },
   {
@@ -8402,7 +8402,7 @@
   {
     "word": "der Vorwurf",
     "translation": "reproach, accusation",
-    "example": "Eva kann nichts dafÃÂÃÂ¼r. Mach ihr keine VorwÃÂÃÂ¼rfe.",
+    "example": "Eva kann nichts dafür. Mach ihr keine Vorwürfe.",
     "gender": "der"
   },
   {
@@ -8426,7 +8426,7 @@
   {
     "word": "der Wald",
     "translation": "forest",
-    "example": "Hinter unserem Haus fÃÂÃÂ¤ngt der Wald an.",
+    "example": "Hinter unserem Haus fängt der Wald an.",
     "gender": "der"
   },
   {
@@ -8438,7 +8438,7 @@
   {
     "word": "die Wanderung",
     "translation": "hike",
-    "example": "Wir haben in den Ferien eine schÃÂÃÂ¶ne Wanderung gemacht.",
+    "example": "Wir haben in den Ferien eine schöne Wanderung gemacht.",
     "gender": "die"
   },
   {
@@ -8448,15 +8448,15 @@
     "gender": "die"
   },
   {
-    "word": "die WÃÂÃÂ¤rme",
+    "word": "die Wärme",
     "translation": "heat",
-    "example": "WÃÂÃÂ¤rme ist gut gegen meine Schmerzen.",
+    "example": "Wärme ist gut gegen meine Schmerzen.",
     "gender": "die"
   },
   {
-    "word": "die WÃÂÃÂ¤sche (Sg.)",
+    "word": "die Wäsche (Sg.)",
     "translation": "laundry",
-    "example": "Ich muss heute noch WÃÂÃÂ¤sche waschen.",
+    "example": "Ich muss heute noch Wäsche waschen.",
     "gender": "die"
   },
   {
@@ -8498,7 +8498,7 @@
   {
     "word": "die Weiterbildung",
     "translation": "further training",
-    "example": "Ich mÃÂÃÂ¶chte eine Weiterbildung machen.",
+    "example": "Ich möchte eine Weiterbildung machen.",
     "gender": "die"
   },
   {
@@ -8528,7 +8528,7 @@
   {
     "word": "das Werkzeug",
     "translation": "tool",
-    "example": "Wir hatten kein Werkzeug fÃÂÃÂ¼r die Reparatur dabei.",
+    "example": "Wir hatten kein Werkzeug für die Reparatur dabei.",
     "gender": "das"
   },
   {
@@ -8546,31 +8546,31 @@
   {
     "word": "das Wetter",
     "translation": "weather",
-    "example": "Ich habe Radio gehÃÂÃÂ¶rt. Das Wetter soll schÃÂÃÂ¶n werden.",
+    "example": "Ich habe Radio gehört. Das Wetter soll schön werden.",
     "gender": "das"
   },
   {
     "word": "der Wetterbericht",
     "translation": "weather forecast",
-    "example": "Hast du schon den Wetterbericht gehÃÂÃÂ¶rt?",
+    "example": "Hast du schon den Wetterbericht gehört?",
     "gender": "der"
   },
   {
     "word": "die Wettervorhersage",
     "translation": "weather forecast",
-    "example": "Die Wettervorhersage fÃÂÃÂ¼r morgen: trocken und sonnig.",
+    "example": "Die Wettervorhersage für morgen: trocken und sonnig.",
     "gender": "die"
   },
   {
     "word": "die Wiederholung",
     "translation": "repetition",
-    "example": "Eine Wiederholung der PrÃÂÃÂ¼fung ist mÃÂÃÂ¶glich.",
+    "example": "Eine Wiederholung der Prüfung ist möglich.",
     "gender": "die"
   },
   {
     "word": "die Wiese",
     "translation": "meadow",
-    "example": "Vor unserem Haus ist eine Wiese mit BÃÂÃÂ¤umen.",
+    "example": "Vor unserem Haus ist eine Wiese mit Bäumen.",
     "gender": "die"
   },
   {
@@ -8600,13 +8600,13 @@
   {
     "word": "die Wirtschaft",
     "translation": "economy",
-    "example": "In der Schule lernen die Kinder viel ÃÂÃÂ¼ber Wirtschaft und Politik.",
+    "example": "In der Schule lernen die Kinder viel über Wirtschaft und Politik.",
     "gender": "die"
   },
   {
     "word": "das Wissen (Sg.)",
     "translation": "knowledge",
-    "example": "Es hat ein groÃÂÃÂes Wissen ÃÂÃÂ¼ber Pflanzen.",
+    "example": "Es hat ein großes Wissen über Pflanzen.",
     "gender": "das"
   },
   {
@@ -8618,19 +8618,19 @@
   {
     "word": "der Wissenschaftler",
     "translation": "scientist",
-    "example": "Sie ist Wissenschaftlerin an der UniversitÃÂÃÂ¤t.",
+    "example": "Sie ist Wissenschaftlerin an der Universität.",
     "gender": "der"
   },
   {
     "word": "der Witz",
     "translation": "joke",
-    "example": "Wir haben Witze erzÃÂÃÂ¤hlt und viel gelacht.",
+    "example": "Wir haben Witze erzählt und viel gelacht.",
     "gender": "der"
   },
   {
     "word": "der Wohnort",
     "translation": "place of residence",
-    "example": "Tragen Sie bitte StraÃÂÃÂe und Wohnort ein.",
+    "example": "Tragen Sie bitte Straße und Wohnort ein.",
     "gender": "der"
   },
   {
@@ -8642,7 +8642,7 @@
   {
     "word": "die Wohnung",
     "translation": "apartment",
-    "example": "Wir suchen eine mÃÂÃÂ¶blierte Wohnung, mÃÂÃÂ¶glichst im Zentrum.",
+    "example": "Wir suchen eine möblierte Wohnung, möglichst im Zentrum.",
     "gender": "die"
   },
   {
@@ -8666,7 +8666,7 @@
   {
     "word": "das Wort",
     "translation": "word (the grammatical unit)",
-    "example": "Ich kenne diese beiden WÃÂÃÂ¶rter nicht.",
+    "example": "Ich kenne diese beiden Wörter nicht.",
     "gender": "das"
   },
   {
@@ -8676,21 +8676,21 @@
     "gender": "das"
   },
   {
-    "word": "das WÃÂÃÂ¶rterbuch",
+    "word": "das Wörterbuch",
     "translation": "dictionary",
-    "example": "Ich muss das Wort im WÃÂÃÂ¶rterbuch nachschlagen.",
+    "example": "Ich muss das Wort im Wörterbuch nachschlagen.",
     "gender": "das"
   },
   {
     "word": "die Wunde",
     "translation": "wound",
-    "example": "Die Wunde mÃÂÃÂ¼ssen wir sofort verbinden.",
+    "example": "Die Wunde müssen wir sofort verbinden.",
     "gender": "die"
   },
   {
     "word": "das Wunder",
     "translation": "miracle, wonder",
-    "example": "Ich bin mit dem Fahrrad gestÃÂÃÂ¼rzt. Es war ein Wunder, dass nichts Schlimmes passiert ist.",
+    "example": "Ich bin mit dem Fahrrad gestürzt. Es war ein Wunder, dass nichts Schlimmes passiert ist.",
     "gender": "das"
   },
   {
@@ -8708,13 +8708,13 @@
   {
     "word": "die Zahl",
     "translation": "number",
-    "example": "KÃÂÃÂ¶nnen Sie die Zahl bitte wiederholen?",
+    "example": "Können Sie die Zahl bitte wiederholen?",
     "gender": "die"
   },
   {
     "word": "die Anzahl",
     "translation": "number, quantity",
-    "example": "Die Anzahl der Teilnehmer war groÃÂÃÂ.",
+    "example": "Die Anzahl der Teilnehmer war groß.",
     "gender": "die"
   },
   {
@@ -8756,13 +8756,13 @@
   {
     "word": "die Zeichnung",
     "translation": "drawing",
-    "example": "Das ist eine schÃÂÃÂ¶ne Zeichnung.",
+    "example": "Das ist eine schöne Zeichnung.",
     "gender": "die"
   },
   {
     "word": "die Zeile",
     "translation": "line",
-    "example": "Das Wort steht in der fÃÂÃÂ¼nften Zeile von oben.",
+    "example": "Das Wort steht in der fünften Zeile von oben.",
     "gender": "die"
   },
   {
@@ -8774,7 +8774,7 @@
   {
     "word": "der Zeitpunkt",
     "translation": "time, moment",
-    "example": "Er ist krank. Das ist kein guter Zeitpunkt fÃÂÃÂ¼r einen Besuch.",
+    "example": "Er ist krank. Das ist kein guter Zeitpunkt für einen Besuch.",
     "gender": "der"
   },
   {
@@ -8798,19 +8798,19 @@
   {
     "word": "das Zentrum",
     "translation": "center",
-    "example": "Im Zentrum gibt es fast keine ParkplÃÂÃÂ¤tze.",
+    "example": "Im Zentrum gibt es fast keine Parkplätze.",
     "gender": "das"
   },
   {
     "word": "das Zertifikat",
     "translation": "certificate",
-    "example": "Wenn ich die PrÃÂÃÂ¼fung schaffe, bekomme ich ein Zertifikat.",
+    "example": "Wenn ich die Prüfung schaffe, bekomme ich ein Zertifikat.",
     "gender": "das"
   },
   {
     "word": "der Zettel",
     "translation": "note, piece of paper",
-    "example": "Hast du einen Zettel fÃÂÃÂ¼r mich? Ich muss etwas aufschreiben.",
+    "example": "Hast du einen Zettel für mich? Ich muss etwas aufschreiben.",
     "gender": "der"
   },
   {
@@ -8822,19 +8822,19 @@
   {
     "word": "der Zeuge",
     "translation": "witness",
-    "example": "Die Polizei sucht noch Zeugen fÃÂÃÂ¼r den Unfall.",
+    "example": "Die Polizei sucht noch Zeugen für den Unfall.",
     "gender": "der"
   },
   {
     "word": "das Zeugnis",
     "translation": "certificate",
-    "example": "Wenn Sie die PrÃÂÃÂ¼fung schaffen, bekommen Sie ein Zeugnis.",
+    "example": "Wenn Sie die Prüfung schaffen, bekommen Sie ein Zeugnis.",
     "gender": "das"
   },
   {
     "word": "das Ziel",
     "translation": "goal",
-    "example": "Ich will die PrÃÂÃÂ¼fung unbedingt schaffen. Das ist mein Ziel.",
+    "example": "Ich will die Prüfung unbedingt schaffen. Das ist mein Ziel.",
     "gender": "das"
   },
   {
@@ -8852,7 +8852,7 @@
   {
     "word": "die Zinsen (Pl.)",
     "translation": "interest",
-    "example": "Wie viele Zinsen bekomme ich fÃÂÃÂ¼r mein Sparkonto?",
+    "example": "Wie viele Zinsen bekomme ich für mein Sparkonto?",
     "gender": "die"
   },
   {
@@ -8864,7 +8864,7 @@
   {
     "word": "die Zitrone",
     "translation": "lemon",
-    "example": "Ich hÃÂÃÂ¤tte gern einen Tee mit Zitrone.",
+    "example": "Ich hätte gern einen Tee mit Zitrone.",
     "gender": "die"
   },
   {
@@ -8876,13 +8876,13 @@
   {
     "word": "der Zoll",
     "translation": "customs",
-    "example": "Das war die Passkontrolle. Wir mÃÂÃÂ¼ssen jetzt noch durch den Zoll.",
+    "example": "Das war die Passkontrolle. Wir müssen jetzt noch durch den Zoll.",
     "gender": "der"
   },
   {
     "word": "die Zone",
     "translation": "zone",
-    "example": "Hier kÃÂÃÂ¶nnen wir nicht fahren. Das ist eine FuÃÂÃÂgÃÂÃÂ¤ngerzone.",
+    "example": "Hier können wir nicht fahren. Das ist eine Fußgängerzone.",
     "gender": "die"
   },
   {
@@ -8912,37 +8912,37 @@
   {
     "word": "der Zug",
     "translation": "train",
-    "example": "Unser Zug hatte 40 Minuten VerspÃÂÃÂ¤tung.",
+    "example": "Unser Zug hatte 40 Minuten Verspätung.",
     "gender": "der"
   },
   {
     "word": "das Zuhause",
     "translation": "home",
-    "example": "Ich fÃÂÃÂ¼hle mich hier wohl. Das ist mein Zuhause.",
+    "example": "Ich fühle mich hier wohl. Das ist mein Zuhause.",
     "gender": "das"
   },
   {
-    "word": "der ZuhÃÂÃÂ¶rer",
+    "word": "der Zuhörer",
     "translation": "listener",
-    "example": "Liebe ZuhÃÂÃÂ¶rerinnen und ZuhÃÂÃÂ¶rer, Ihre Meinung interessiert uns. Bitte rufen Sie an!",
+    "example": "Liebe Zuhörerinnen und Zuhörer, Ihre Meinung interessiert uns. Bitte rufen Sie an!",
     "gender": "der"
   },
   {
     "word": "die Zukunft (Sg.)",
     "translation": "future",
-    "example": "Du musst mehr fÃÂÃÂ¼r die Schule lernen. Denk an die Zukunft.",
+    "example": "Du musst mehr für die Schule lernen. Denk an die Zukunft.",
     "gender": "die"
   },
   {
-    "word": "die ZÃÂÃÂ¼nder (A) (Pl.) \nÃÂ¢ÃÂÃÂ Streichholz; ZÃÂÃÂ¼ndholz",
+    "word": "die Zünder (A) (Pl.) \nÃÂ¢ÃÂÃÂ Streichholz; Zündholz",
     "translation": "matches",
-    "example": "Ich hÃÂÃÂ¤tte gern eine Schachtel ZÃÂÃÂ¼nder.",
+    "example": "Ich hätte gern eine Schachtel Zünder.",
     "gender": "der"
   },
   {
-    "word": "das ZÃÂÃÂ¼ndholz",
+    "word": "das Zündholz",
     "translation": "match",
-    "example": "Ich hÃÂÃÂ¤tte gern eine Schachtel ZÃÂÃÂ¼ndhÃÂÃÂ¶lzer.",
+    "example": "Ich hätte gern eine Schachtel Zündhölzer.",
     "gender": "das"
   },
   {
@@ -8954,19 +8954,19 @@
   {
     "word": "der Zusammenhang",
     "translation": "context, connection",
-    "example": "In diesem Zusammenhang mÃÂÃÂ¶chte ich Sie auf zwei BÃÂÃÂ¼cher aufmerksam machen.",
+    "example": "In diesem Zusammenhang möchte ich Sie auf zwei Bücher aufmerksam machen.",
     "gender": "der"
   },
   {
     "word": "der Zuschauer",
     "translation": "viewer, spectator",
-    "example": "Liebe Zuschauer, wir wÃÂÃÂ¼nschen Ihnen gute Unterhaltung.",
+    "example": "Liebe Zuschauer, wir wünschen Ihnen gute Unterhaltung.",
     "gender": "der"
   },
   {
     "word": "der Zuschlag",
     "translation": "surcharge",
-    "example": "FÃÂÃÂ¼r diesen Zug mÃÂÃÂ¼ssen Sie einen Zuschlag zahlen.",
+    "example": "Für diesen Zug müssen Sie einen Zuschlag zahlen.",
     "gender": "der"
   },
   {
@@ -8984,7 +8984,7 @@
   {
     "word": "die Zutaten (Pl.)",
     "translation": "ingredients",
-    "example": "Welche Zutaten braucht man fÃÂÃÂ¼r diesen Kuchen?",
+    "example": "Welche Zutaten braucht man für diesen Kuchen?",
     "gender": "die"
   },
   {
@@ -8996,13 +8996,13 @@
   {
     "word": "der Zweifel",
     "translation": "doubt sth.",
-    "example": "Da ist ohne Zweifel die beste LÃÂÃÂ¶sung.",
+    "example": "Da ist ohne Zweifel die beste Lösung.",
     "gender": "der"
   },
   {
     "word": "die Zwiebel",
     "translation": "onion",
-    "example": "Eine Zwiebel in kleine StÃÂÃÂ¼cke schneiden und zusammen mit dem Fleisch braten.",
+    "example": "Eine Zwiebel in kleine Stücke schneiden und zusammen mit dem Fleisch braten.",
     "gender": "die"
   },
   {
@@ -9014,7 +9014,7 @@
   {
     "word": "die S-Bahn",
     "translation": "suburban train",
-    "example": "Die S-Bahn ist schneller als die StraÃÂÃÂenbahn.",
+    "example": "Die S-Bahn ist schneller als die Straßenbahn.",
     "gender": "die"
   },
   {
@@ -9026,13 +9026,13 @@
   {
     "word": "der Ratschlag",
     "translation": "advice",
-    "example": "Meine Tochter nimmt meine RatschlÃÂÃÂ¤ge nicht an.",
+    "example": "Meine Tochter nimmt meine Ratschläge nicht an.",
     "gender": "der"
   },
   {
     "word": "die Verzeihung",
     "translation": "forgiveness, pardon",
-    "example": "Verzeihung! Ich habe die falsche Nummer gewÃÂÃÂ¤hlt.",
+    "example": "Verzeihung! Ich habe die falsche Nummer gewählt.",
     "gender": "die"
   },
   {
@@ -9042,9 +9042,9 @@
     "gender": "der"
   },
   {
-    "word": "das/der Zvieri/ZnÃÂÃÂ¼ni",
+    "word": "das/der Zvieri/Znüni",
     "translation": "snack",
-    "example": "Es ist Zeit fÃÂÃÂ¼r ein kleines Zvieri.",
+    "example": "Es ist Zeit für ein kleines Zvieri.",
     "gender": "der"
   },
   {
@@ -9062,7 +9062,7 @@
   {
     "word": "die ÃÂÃÂberzeugung",
     "translation": "conviction",
-    "example": "Ich bin fest davon ÃÂÃÂ¼berzeugt, dass meine Entscheidung richtig ist. Wie bist du zu dieser ÃÂÃÂberzeugung gekommen?",
+    "example": "Ich bin fest davon überzeugt, dass meine Entscheidung richtig ist. Wie bist du zu dieser ÃÂÃÂberzeugung gekommen?",
     "gender": "die"
   },
   {
