@@ -129,8 +129,8 @@
             - "example": a natural B1-level German sentence using this word
             - "gender": one of ["der", "die", "das", "verb", "other"] based on whether it is a masculine noun, feminine noun, neuter noun, verb, or other part of speech.`;
 
-            // Updated endpoint to use gemini-2.5-flash
-            const endpoint = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${apiKey}`;
+            // Updated endpoint to use gemini-3.8-flash
+            const endpoint = `https://generativelanguage.googleapis.com/v1beta/models/gemini-3.8-flash:generateContent?key=${apiKey}`;
 
             try {
                 const response = await fetch(endpoint, {
