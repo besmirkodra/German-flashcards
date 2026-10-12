@@ -176,7 +176,7 @@
   {
     "word": "der Anfang",
     "translation": "beginning",
-    "example": "Wie war der Film? ÃÂ¢ÃÂÃÂ Ich habe nur den Anfang gesehen.",
+    "example": "Wie war der Film? - Ich habe nur den Anfang gesehen.",
     "gender": "der"
   },
   {
@@ -440,7 +440,7 @@
   {
     "word": "die Aufnahme",
     "translation": "recording",
-    "example": "Bitte seid leise! ÃÂ¢ÃÂÃÂ Ich starte die Aufnahme.",
+    "example": "Bitte seid leise! - Ich starte die Aufnahme.",
     "gender": "die"
   },
   {
@@ -1124,7 +1124,7 @@
   {
     "word": "die Breite",
     "translation": "width",
-    "example": "Welche Maße hat der Tisch? ÃÂ¢ÃÂÃÂ Länge: 1 m, Breite: 80 cm, Höhe: 1,20 m.",
+    "example": "Welche Maße hat der Tisch? - Länge: 1 m, Breite: 80 cm, Höhe: 1,20 m.",
     "gender": "die"
   },
   {
@@ -1844,7 +1844,7 @@
   {
     "word": "die Entschuldigung",
     "translation": "excuse (me), sorry, apology",
-    "example": "Oh, Entschuldigung! ÃÂ¢ÃÂÃÂ Macht nichts. Kein Problem.",
+    "example": "Oh, Entschuldigung! - Macht nichts. Kein Problem.",
     "gender": "die"
   },
   {
@@ -2954,7 +2954,7 @@
   {
     "word": "das Gewicht",
     "translation": "weight",
-    "example": "Wie teuer ist das Päckchen? ÃÂ¢ÃÂÃÂ Das hängt vom Gewicht ab.",
+    "example": "Wie teuer ist das Päckchen? - Das hängt vom Gewicht ab.",
     "gender": "das"
   },
   {
@@ -3464,7 +3464,7 @@
   {
     "word": "der Hunger (Sg.)",
     "translation": "hunger",
-    "example": "Möchtest du Suppe? ÃÂ¢ÃÂÃÂ Nein danke, ich habe keinen Hunger.",
+    "example": "Möchtest du Suppe? - Nein danke, ich habe keinen Hunger.",
     "gender": "der"
   },
   {
@@ -3626,7 +3626,7 @@
   {
     "word": "die Jugendherberge",
     "translation": "youth hostel",
-    "example": "Wo habt ihr übernachtet? ÃÂ¢ÃÂÃÂ In einer Jugendherberge.",
+    "example": "Wo habt ihr übernachtet? - In einer Jugendherberge.",
     "gender": "die"
   },
   {
@@ -3704,7 +3704,7 @@
   {
     "word": "die Kanne",
     "translation": "pot, jug",
-    "example": "Das ist aber eine schöne Teekanne. ÃÂ¢ÃÂÃÂ Ja, die ist aus China.",
+    "example": "Das ist aber eine schöne Teekanne. - Ja, die ist aus China.",
     "gender": "die"
   },
   {
@@ -3962,7 +3962,7 @@
   {
     "word": "der Kloß",
     "translation": "dumpling",
-    "example": "Möchten Sie zum Fleisch Kartoffeln oder Klöße? ÃÂ¢ÃÂÃÂ Klöße, bitte.",
+    "example": "Möchten Sie zum Fleisch Kartoffeln oder Klöße? - Klöße, bitte.",
     "gender": "der"
   },
   {
@@ -3986,7 +3986,7 @@
   {
     "word": "der Knödel",
     "translation": "dumpling",
-    "example": "Möchten Sie zum Fleisch Erdäpfel oder Knödel? ÃÂ¢ÃÂÃÂ Knödel bitte.",
+    "example": "Möchten Sie zum Fleisch Erdäpfel oder Knödel? - Knödel bitte.",
     "gender": "der"
   },
   {
@@ -4592,7 +4592,7 @@
   {
     "word": "die Liste",
     "translation": "list",
-    "example": "Was brauchen wir für die Party? ÃÂ¢ÃÂÃÂ Mach doch eine Einkaufsliste.",
+    "example": "Was brauchen wir für die Party? - Mach doch eine Einkaufsliste.",
     "gender": "die"
   },
   {
@@ -4766,7 +4766,7 @@
   {
     "word": "das Material",
     "translation": "material",
-    "example": "Aus welchem Material ist der Schrank? ÃÂ¢ÃÂÃÂ Aus Holz.",
+    "example": "Aus welchem Material ist der Schrank? - Aus Holz.",
     "gender": "das"
   },
   {
@@ -4838,7 +4838,7 @@
   {
     "word": "der Meister",
     "translation": "master, champion",
-    "example": "Ich weiß nicht, wie man das macht. ÃÂ¢ÃÂÃÂ Dann frag doch den Meister.",
+    "example": "Ich weiß nicht, wie man das macht. - Dann frag doch den Meister.",
     "gender": "der"
   },
   {
@@ -4964,7 +4964,7 @@
   {
     "word": "die Mitte",
     "translation": "middle, center",
-    "example": "Wo möchten Sie sitzen? ÃÂ¢ÃÂÃÂ In der Mitte.",
+    "example": "Wo möchten Sie sitzen? - In der Mitte.",
     "gender": "die"
   },
   {
@@ -5006,7 +5006,7 @@
   {
     "word": "das Modell",
     "translation": "model",
-    "example": "Wie findest du dieses Auto? ÃÂ¢ÃÂÃÂ Dieses Modell gefällt mir nicht.",
+    "example": "Wie findest du dieses Auto? - Dieses Modell gefällt mir nicht.",
     "gender": "das"
   },
   {
@@ -5312,7 +5312,7 @@
   {
     "word": "die Nudel",
     "translation": "noodle, pasta",
-    "example": "Möchten Sie Nudeln oder Reis? ÃÂ¢ÃÂÃÂ Lieber Nudeln.",
+    "example": "Möchten Sie Nudeln oder Reis? - Lieber Nudeln.",
     "gender": "die"
   },
   {
@@ -5540,7 +5540,7 @@
   {
     "word": "das Pech (Sg.)",
     "translation": "bad luck",
-    "example": "Es regnet. Unser Picknick fällt leider aus. ÃÂ¢ÃÂÃÂ So ein Pech!",
+    "example": "Es regnet. Unser Picknick fällt leider aus. - So ein Pech!",
     "gender": "das"
   },
   {
@@ -5666,7 +5666,7 @@
   {
     "word": "der Plan",
     "translation": "plan",
-    "example": "Was macht ihr im Sommer? ÃÂ¢ÃÂÃÂ Ich weiß noch nicht, wir haben noch keine Pläne.",
+    "example": "Was macht ihr im Sommer? - Ich weiß noch nicht, wir haben noch keine Pläne.",
     "gender": "der"
   },
   {
@@ -7136,7 +7136,7 @@
   {
     "word": "die Stiege",
     "translation": "stairs",
-    "example": "Wo ist die Toilette? ÃÂ¢ÃÂÃÂ Die Stiege hoch und dann links.",
+    "example": "Wo ist die Toilette? - Die Stiege hoch und dann links.",
     "gender": "die"
   },
   {
@@ -7172,7 +7172,7 @@
   {
     "word": "der Stoff",
     "translation": "fabric, substance",
-    "example": "Was für ein Stoff ist das? ÃÂ¢ÃÂÃÂ Wolle.",
+    "example": "Was für ein Stoff ist das? - Wolle.",
     "gender": "der"
   },
   {
@@ -7652,7 +7652,7 @@
   {
     "word": "der Titel",
     "translation": "title",
-    "example": "Wie heißt der Film? ÃÂ¢ÃÂÃÂ Ich weiß den Titel nicht mehr.",
+    "example": "Wie heißt der Film? - Ich weiß den Titel nicht mehr.",
     "gender": "der"
   },
   {
@@ -7778,7 +7778,7 @@
   {
     "word": "die Treppe",
     "translation": "stairs",
-    "example": "Wo ist die Toilette? ÃÂ¢ÃÂÃÂ Die Treppe hoch und dann links.",
+    "example": "Wo ist die Toilette? - Die Treppe hoch und dann links.",
     "gender": "die"
   },
   {
@@ -8114,7 +8114,7 @@
   {
     "word": "der Verdacht",
     "translation": "suspicion",
-    "example": "Wer hat das Geld aus der Kasse genommen? ÃÂ¢ÃÂÃÂ Ich weiß es nicht, aber ich habe einen Verdacht.",
+    "example": "Wer hat das Geld aus der Kasse genommen? - Ich weiß es nicht, aber ich habe einen Verdacht.",
     "gender": "der"
   },
   {
@@ -8372,7 +8372,7 @@
   {
     "word": "die Vorstellung",
     "translation": "presentation",
-    "example": "Wann läuft der Film? ÃÂ¢ÃÂÃÂ Die nächste Vorstellung ist um 15 Uhr.",
+    "example": "Wann läuft der Film? - Die nächste Vorstellung ist um 15 Uhr.",
     "gender": "die"
   },
   {
@@ -8816,7 +8816,7 @@
   {
     "word": "das Zeug/-zeug",
     "translation": "stuff",
-    "example": "Was hast du mit meinen Sachen gemacht? ÃÂ¢ÃÂÃÂ Ich habe dein ganzes Zeug in dein Zimmer getan.",
+    "example": "Was hast du mit meinen Sachen gemacht? - Ich habe dein ganzes Zeug in dein Zimmer getan.",
     "gender": "das"
   },
   {
