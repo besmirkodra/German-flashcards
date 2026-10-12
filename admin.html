@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Besi's Flashcard Admin & AI Generator</title>
+    <style>
+        :root {
+            --bg: #121212; --card-bg: #1e1e1e; --text: #fff;
+            --primary: #3498db; --success: #2ecc71; --accent: #e94560;
+        }
+        body { font-family: 'Segoe UI', sans-serif; background: var(--bg); color: var(--text); display: flex; flex-direction: column; align-items: center; min-height: 100vh; margin: 0; padding: 20px; }
+        
+        .container { width: 100%; max-width: 600px; background: var(--card-bg); padding: 30px; border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.5); }
+        h1 { margin-top: 0; font-size: 1.5rem; color: var(--primary); text-align: center; }
+        
+        .section { margin-bottom: 20px; }
+        label { display: block; margin-bottom: 8px; font-weight: bold; font-size: 0.9rem; color: #aaa; }
+        input, select, textarea { width: 100%; padding: 12px; border-radius: 8px; border: none; background: #2c2c2c; color: white; font-size: 1rem; box-sizing: border-box; margin-bottom: 10px; }
+        textarea { resize: vertical; height: 80px; }
+        
+        .row { display: flex; gap: 10px; }
+        .row > div { flex: 1; }
+        
+        .btn { width: 100%; padding: 12px; border: none; border-radius: 8px; font-weight: bold; cursor: pointer; font-size: 1rem; transition: 0.2s; margin-top: 10px; }
+        .btn-ai { background: var(--primary); color: white; }
+        .btn-ai:hover { background: #2980b9; }
+        .btn-save { background: var(--success); color: white; }
+        .btn-save:hover { background: #27ae60; }
+        
+        .credentials { background: #181818; padding: 15px; border-radius: 10px; margin-bottom: 20px; border: 1px dashed #444; }
+        #status { text-align: center; margin-top: 15px; font-weight: bold; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>B1 Flashcard AI Generator & Admin</h1>
+        
+        <!-- Credentials Configuration -->
+        <div class="credentials">
+            <details>
+                <summary style="cursor: pointer; font-weight: bold; color: var(--primary);">⚙️ API Settings (Click to expand)</summary>
+                <p style="font-size: 0.85rem; color: #888; margin-top: 8px;">Your keys are kept strictly in your browser's local storage.</p>
+                <label>Gemini API Key</label>
+                <input type="password" id="geminiKey" placeholder="AIzaSy..." onchange="saveCreds()">
+                
+                <label>GitHub Personal Access Token (repo scope)</label>
+                <input type="password" id="githubToken" placeholder="ghp_..." onchange="saveCreds()">
+                
+                <div class="row">
+                    <div>
+                        <label>GitHub Username</label>
+                        <input type="text" id="ghUser" placeholder="your-username" onchange="saveCreds()">
+                    </div>
+                    <div>
+                        <label>Repo Name</label>
+                        <input type="text" id="ghRepo" value="German-flashcards" onchange="saveCreds()">
+                    </div>
+                </div>
+            </details>
+        </div>
+
+        <!-- Word Input Form -->
+        <div class="section">
+            <label>Category (Target JSON File)</label>
+            <select id="category">
+                <option value="nouns.json">Nouns (nouns.json)</option>
+                <option value="verbs.json">Verbs (verbs.json)</option>
+                <option value="others.json">Others (others.json)</option>
+            </select>
+            
+            <label>German Word</label>
+            <div class="row">
+                <div style="flex: 3;"><input type="text" id="wordInput" placeholder="e.g. Entscheidung"></div>
+                <div style="flex: 1;"><button class="btn btn-ai" style="margin-top:0; height:45px;" onclick="generateWithAI()">✨ AI Fill</button></div>
+            </div>
+            
+            <label>Gender / Type Class</label>
+            <select id="genderInput">
+                <option value="der">Der (Masculine)</option>
+                <option value="die">Die (Feminine)</option>
+                <option value="das">Das (Neuter)</option>
+                <option value="verb">Verb</option>
+                <option value="other">Other</option>
+            </select>
+            
+            <label>English Translation</label>
+            <input type="text" id="translationInput" placeholder="e.g. decision">
+            
+            <label>B1 German Example Sentence</label>
+            <textarea id="exampleInput" placeholder="e.g. Ich habe eine wichtige Entscheidung getroffen."></textarea>
+            
+            <button class="btn btn-save" onclick="saveToGitHub()">💾 Commit & Save to GitHub</button>
+        </div>
+        
+        <div id="status"></div>
+    </div>
+
+    <script>
+        // Load saved credentials on start
+        window.onload = () => {
+            document.getElementById('geminiKey').value = localStorage.getItem('geminiKey') || '';
+            document.getElementById('githubToken').value = localStorage.getItem('githubToken') || '';
+            document.getElementById('ghUser').value = localStorage.getItem('ghUser') || '';
+            document.getElementById('ghRepo').value = localStorage.getItem('ghRepo') || 'German-flashcards';
+        };
+
+        function saveCreds() {
+            localStorage.setItem('geminiKey', document.getElementById('geminiKey').value);
+            localStorage.setItem('githubToken', document.getElementById('githubToken').value);
+            localStorage.setItem('ghUser', document.getElementById('ghUser').value);
+            localStorage.setItem('ghRepo', document.getElementById('ghRepo').value);
+        }
+
+        async function generateWithAI() {
+            const word = document.getElementById('wordInput').value.trim();
+            const apiKey = document.getElementById('geminiKey').value.trim();
+            const status = document.getElementById('status');
+
+            if (!word) { alert('Please enter a German word first!'); return; }
+            if (!apiKey) { alert('Please enter your Gemini API key in settings!'); return; }
+
+            status.innerText = "🤖 AI is generating properties...";
+            status.style.color = "#3498db";
+
+            const prompt = `Analyze the German word "${word}". Return ONLY a valid JSON object (no markdown formatting, no backticks) with these exact keys:
+            - "word": exact word with proper capitalization and article if noun (e.g., "die Entscheidung" or "gehen")
+            - "translation": English translation
+            - "example": a natural B1-level German sentence using this word
+            - "gender": one of ["der", "die", "das", "verb", "other"] based on whether it is a masculine noun, feminine noun, neuter noun, verb, or other part of speech.`;
+
+            try {
+                const response = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${apiKey}`, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ contents: [{ parts: [{ text: prompt }] }] })
+                });
+
+                const data = await response.json();
+                let text = data.candidates[0].content.parts[0].text;
+                // Clean markdown code blocks if present
+                text = text.replace(/```json/g, '').replace(/```/g, '').trim();
+                
+                const result = JSON.parse(text);
+
+                document.getElementById('wordInput').value = result.word || word;
+                document.getElementById('translationInput').value = result.translation || '';
+                document.getElementById('exampleInput').value = result.example || '';
+                if (result.gender) {
+                    document.getElementById('genderInput').value = result.gender;
+                }
+
+                status.innerText = "✨ AI generated successfully!";
+                status.style.color = "#2ecc71";
+            } catch (err) {
+                console.error(err);
+                status.innerText = "❌ Error generating with AI. Check API key.";
+                status.style.color = "#e94560";
+            }
+        }
+
+        async function saveToGitHub() {
+            const token = document.getElementById('githubToken').value.trim();
+            const user = document.getElementById('ghUser').value.trim();
+            const repo = document.getElementById('ghRepo').value.trim();
+            const filename = document.getElementById('category').value;
+            const status = document.getElementById('status');
+
+            if (!token || !user || !repo) {
+                alert('Please fill out your GitHub credentials in settings!');
+                return;
+            }
+
+            const newCard = {
+                word: document.getElementById('wordInput').value.trim(),
+                example: document.getElementById('exampleInput').value.trim(),
+                translation: document.getElementById('translationInput').value.trim(),
+                gender: document.getElementById('genderInput').value.trim()
+            };
+
+            if (!newCard.word || !newCard.translation) {
+                alert('Word and translation cannot be empty!');
+                return;
+            }
+
+            status.innerText = "⏳ Committing to GitHub...";
+            status.style.color = "#3498db";
+
+            const url = `https://api.github.com/repos/${user}/${repo}/contents/${filename}`;
+
+            try {
+                // 1. Fetch current file to get SHA and existing content
+                const getRes = await fetch(url, {
+                    headers: { 'Authorization': `token ${token}` }
+                });
+                
+                if (!getRes.ok) throw new Error('Failed to fetch file from GitHub. Check repo name/token.');
+                
+                const fileData = await getRes.json();
+                const sha = fileData.sha;
+                
+                // Decode existing JSON content
+                const decodedContent = JSON.parse(atob(fileData.content));
+                
+                // Push new card
+                decodedContent.push(newCard);
+
+                // Encode back to Base64
+                const updatedContentBase64 = btoa(unescape(encodeURIComponent(JSON.stringify(decodedContent, null, 2))));
+
+                // 2. Push update back to GitHub
+                const putRes = await fetch(url, {
+                    method: 'PUT',
+                    headers: {
+                        'Authorization': `token ${token}`,
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({
+                        message: `Add new flashcard: ${newCard.word}`,
+                        content: updatedContentBase64,
+                        sha: sha
+                    })
+                });
+
+                if (putRes.ok) {
+                    status.innerText = `✅ Successfully added "${newCard.word}" to ${filename}!`;
+                    status.style.color = "#2ecc71";
+                    // Clear inputs
+                    document.getElementById('wordInput').value = '';
+                    document.getElementById('translationInput').value = '';
+                    document.getElementById('exampleInput').value = '';
+                } else {
+                    const errJson = await putRes.json();
+                    throw new Error(errJson.message || 'Commit failed');
+                }
+            } catch (err) {
+                console.error(err);
+                status.innerText = `❌ Error: ${err.message}`;
+                status.style.color = "#e94560";
+            }
+        }
+    </script>
+</body>
+</html>
