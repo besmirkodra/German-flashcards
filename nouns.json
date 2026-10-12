@@ -168,7 +168,7 @@
     "gender": "das"
   },
   {
-    "word": "die änderung",
+    "word": "die Änderung",
     "translation": "change, modification",
     "example": "Es gibt eine Programmänderung.",
     "gender": "die"
@@ -212,7 +212,7 @@
   {
     "word": "die Anleitung",
     "translation": "instructions",
-    "example": "In der Anleitung steht, dass bei diesem Spiel der älteste beginnt.",
+    "example": "In der Anleitung steht, dass bei diesem Spiel der Älteste beginnt.",
     "gender": "die"
   },
   {
@@ -378,9 +378,9 @@
     "gender": "der"
   },
   {
-    "word": "der ärger (Sg.)",
+    "word": "der Ärger (Sg.)",
     "translation": "anger, trouble",
-    "example": "Ich hatte heute ärger im Büro. Ich habe mich mit einem Kollegen gestritten.",
+    "example": "Ich hatte heute Ärger im Büro. Ich habe mich mit einem Kollegen gestritten.",
     "gender": "der"
   },
   {
@@ -5340,9 +5340,9 @@
     "gender": "der"
   },
   {
-    "word": "die ÃÂÃÂffentlichkeit (Sg.)",
+    "word": "die Öffentlichkeit (Sg.)",
     "translation": "public",
-    "example": "Von solchen Dingen erfährt die ÃÂÃÂffentlichkeit nur selten.",
+    "example": "Von solchen Dingen erfährt die Öffentlichkeit nur selten.",
     "gender": "die"
   },
   {
@@ -5352,9 +5352,9 @@
     "gender": "das"
   },
   {
-    "word": "das ÃÂÃÂl",
+    "word": "das Öl",
     "translation": "oil",
-    "example": "Es fehlt ÃÂÃÂl am Salat.",
+    "example": "Es fehlt Öl am Salat.",
     "gender": "das"
   },
   {
@@ -6110,7 +6110,7 @@
   {
     "word": "die Reise",
     "translation": "journey",
-    "example": "Wir haben eine Reise nach ÃÂÃÂsterreich gebucht.",
+    "example": "Wir haben eine Reise nach Österreich gebucht.",
     "gender": "die"
   },
   {
